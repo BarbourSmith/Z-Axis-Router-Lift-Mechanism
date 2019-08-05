@@ -541,11 +541,11 @@
                         },
                         {
                             "name": "yDist",
-                            "ioValue": 0
+                            "ioValue": 90
                         },
                         {
                             "name": "zDist",
-                            "ioValue": 0
+                            "ioValue": 33
                         }
                     ]
                 },
@@ -632,6 +632,23 @@
                     "ioValues": []
                 },
                 {
+                    "atomType": "Assembly",
+                    "name": "Assembly",
+                    "x": 761,
+                    "y": 106,
+                    "uniqueID": 624382,
+                    "ioValues": [
+                        {
+                            "name": "3D shape 381592",
+                            "ioValue": 10
+                        },
+                        {
+                            "name": "3D shape 423102",
+                            "ioValue": 10
+                        }
+                    ]
+                },
+                {
                     "atomType": "Output",
                     "name": "Output",
                     "x": 1316,
@@ -639,7 +656,19 @@
                     "ioValues": []
                 }
             ],
-            "allConnectors": [],
+            "allConnectors": [
+                {
+                    "ap1Name": "Geometry",
+                    "ap2Name": "3D shape 381592",
+                    "ap1ID": 976267,
+                    "ap2ID": 624382
+                },
+                {
+                    "ap1Name": "geometry",
+                    "ap2Name": "number or geometry",
+                    "ap1ID": 624382
+                }
+            ],
             "fileTypeVersion": 1
         },
         {
