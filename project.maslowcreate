@@ -568,8 +568,8 @@
                 {
                     "atomType": "Circle",
                     "name": "Circle",
-                    "x": 185,
-                    "y": 155,
+                    "x": 93,
+                    "y": 143,
                     "uniqueID": 477866,
                     "ioValues": [
                         {
@@ -581,13 +581,49 @@
                 {
                     "atomType": "Extrude",
                     "name": "Extrude",
-                    "x": 368,
-                    "y": 135,
+                    "x": 246,
+                    "y": 116,
                     "uniqueID": 103625,
                     "ioValues": [
                         {
                             "name": "height",
-                            "ioValue": 10
+                            "ioValue": 250
+                        }
+                    ]
+                },
+                {
+                    "atomType": "Add BOM Tag",
+                    "name": "Add BOM Tag",
+                    "x": 423,
+                    "y": 149,
+                    "uniqueID": 927925,
+                    "ioValues": [],
+                    "BOMitem": {
+                        "BOMitemName": "10mm Lead Screw",
+                        "numberNeeded": 1,
+                        "costUSD": 11.83,
+                        "source": "https://www.mcmaster.com/7549k71",
+                        "totalNeeded": 0
+                    }
+                },
+                {
+                    "atomType": "Translate",
+                    "name": "Translate",
+                    "x": 775,
+                    "y": 142,
+                    "uniqueID": 917399,
+                    "ioValues": [
+                        {
+                            "name": "xDist",
+                            "ioValue": 0
+                        },
+                        {
+                            "name": "yDist",
+                            "ioValue": 0
+                        },
+                        {
+                            "name": "zDist",
+                            "ioValue": 0
                         }
                     ]
                 },
@@ -600,7 +636,18 @@
                 }
             ],
             "allConnectors": [
-                null
+                {
+                    "ap1Name": "geometry",
+                    "ap2Name": "geometry",
+                    "ap1ID": 477866,
+                    "ap2ID": 103625
+                },
+                {
+                    "ap1Name": "geometry",
+                    "ap2Name": "geometry",
+                    "ap1ID": 103625,
+                    "ap2ID": 927925
+                }
             ],
             "fileTypeVersion": 1
         },
