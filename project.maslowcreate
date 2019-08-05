@@ -654,11 +654,11 @@
                     "ioValues": [
                         {
                             "name": "xDist",
-                            "ioValue": 0
+                            "ioValue": 70
                         },
                         {
                             "name": "yDist",
-                            "ioValue": 70
+                            "ioValue": 0
                         },
                         {
                             "name": "zDist",
@@ -675,11 +675,11 @@
                     "ioValues": [
                         {
                             "name": "xDist",
-                            "ioValue": 0
+                            "ioValue": -70
                         },
                         {
                             "name": "yDist",
-                            "ioValue": -70
+                            "ioValue": 0
                         },
                         {
                             "name": "zDist",
@@ -784,8 +784,8 @@
         {
             "atomType": "Molecule",
             "name": "Risers",
-            "x": 232,
-            "y": 93,
+            "x": 231,
+            "y": 84,
             "uniqueID": 826098,
             "ioValues": [],
             "topLevel": false,
@@ -1895,8 +1895,8 @@
                 {
                     "atomType": "Molecule",
                     "name": "Risers",
-                    "x": 232,
-                    "y": 93,
+                    "x": 231,
+                    "y": 84,
                     "uniqueID": 826098,
                     "ioValues": []
                 },
@@ -1928,6 +1928,27 @@
                     "y": 268,
                     "uniqueID": 827096,
                     "ioValues": []
+                },
+                {
+                    "atomType": "Assembly",
+                    "name": "Assembly",
+                    "x": 392,
+                    "y": 44,
+                    "uniqueID": 923865,
+                    "ioValues": [
+                        {
+                            "name": "3D shape 126899",
+                            "ioValue": 10
+                        },
+                        {
+                            "name": "3D shape 365809",
+                            "ioValue": 10
+                        },
+                        {
+                            "name": "3D shape 984043",
+                            "ioValue": 10
+                        }
+                    ]
                 },
                 {
                     "atomType": "Assembly",
@@ -1964,6 +1985,18 @@
                     "ap2Name": "Bit Depth",
                     "ap1ID": 649665,
                     "ap2ID": 201738
+                },
+                {
+                    "ap1Name": "Geometry",
+                    "ap2Name": "3D shape 365809",
+                    "ap1ID": 517888,
+                    "ap2ID": 923865
+                },
+                {
+                    "ap1Name": "Geometry",
+                    "ap2Name": "3D shape 126899",
+                    "ap1ID": 826098,
+                    "ap2ID": 923865
                 },
                 {
                     "ap1Name": "Geometry",
