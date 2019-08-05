@@ -477,13 +477,97 @@
         },
         {
             "atomType": "Molecule",
+            "name": "Threaded Rod",
+            "x": 125,
+            "y": 77,
+            "uniqueID": 783887,
+            "ioValues": [],
+            "topLevel": false,
+            "allAtoms": [
+                {
+                    "atomType": "Output",
+                    "name": "Output",
+                    "x": 1316,
+                    "y": 164,
+                    "ioValues": []
+                }
+            ],
+            "allConnectors": [],
+            "fileTypeVersion": 1
+        },
+        {
+            "atomType": "Molecule",
+            "name": "Motor",
+            "x": 130,
+            "y": 134,
+            "uniqueID": 976267,
+            "ioValues": [],
+            "topLevel": false,
+            "allAtoms": [
+                {
+                    "atomType": "Output",
+                    "name": "Output",
+                    "x": 1316,
+                    "y": 164,
+                    "ioValues": []
+                }
+            ],
+            "allConnectors": [],
+            "fileTypeVersion": 1
+        },
+        {
+            "atomType": "Molecule",
+            "name": "Molecule",
+            "x": 134,
+            "y": 199,
+            "uniqueID": 574138,
+            "ioValues": [],
+            "topLevel": false,
+            "allAtoms": [
+                {
+                    "atomType": "Output",
+                    "name": "Output",
+                    "x": 1316,
+                    "y": 164,
+                    "ioValues": []
+                }
+            ],
+            "allConnectors": [],
+            "fileTypeVersion": 1
+        },
+        {
+            "atomType": "Molecule",
             "name": "Ball Screw Assembly",
-            "x": 140,
-            "y": 211,
+            "x": 95,
+            "y": 215,
             "uniqueID": 315914,
             "ioValues": [],
             "topLevel": false,
             "allAtoms": [
+                {
+                    "atomType": "Molecule",
+                    "name": "Threaded Rod",
+                    "x": 125,
+                    "y": 77,
+                    "uniqueID": 783887,
+                    "ioValues": []
+                },
+                {
+                    "atomType": "Molecule",
+                    "name": "Motor",
+                    "x": 130,
+                    "y": 134,
+                    "uniqueID": 976267,
+                    "ioValues": []
+                },
+                {
+                    "atomType": "Molecule",
+                    "name": "Molecule",
+                    "x": 134,
+                    "y": 199,
+                    "uniqueID": 574138,
+                    "ioValues": []
+                },
                 {
                     "atomType": "Output",
                     "name": "Output",
@@ -523,8 +607,8 @@
                 {
                     "atomType": "Molecule",
                     "name": "Ball Screw Assembly",
-                    "x": 140,
-                    "y": 211,
+                    "x": 95,
+                    "y": 215,
                     "uniqueID": 315914,
                     "ioValues": []
                 },
