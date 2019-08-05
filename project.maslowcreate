@@ -1260,13 +1260,13 @@
                 {
                     "atomType": "Extrude",
                     "name": "Extrude",
-                    "x": 402,
-                    "y": 81,
+                    "x": 404,
+                    "y": 76,
                     "uniqueID": 223682,
                     "ioValues": [
                         {
                             "name": "height",
-                            "ioValue": 81
+                            "ioValue": 70
                         }
                     ]
                 },
@@ -1424,10 +1424,25 @@
                 {
                     "atomType": "Difference",
                     "name": "Difference",
-                    "x": 1151,
-                    "y": 70,
+                    "x": 1051,
+                    "y": 49,
                     "uniqueID": 858181,
                     "ioValues": []
+                },
+                {
+                    "atomType": "Add BOM Tag",
+                    "name": "Add BOM Tag",
+                    "x": 1175,
+                    "y": 160,
+                    "uniqueID": 326732,
+                    "ioValues": [],
+                    "BOMitem": {
+                        "BOMitemName": "Linear Slide",
+                        "numberNeeded": 1,
+                        "costUSD": 0,
+                        "source": "www.example.com",
+                        "totalNeeded": 0
+                    }
                 },
                 {
                     "atomType": "Output",
@@ -1536,8 +1551,14 @@
                 },
                 {
                     "ap1Name": "geometry",
+                    "ap2Name": "geometry",
+                    "ap1ID": 858181,
+                    "ap2ID": 326732
+                },
+                {
+                    "ap1Name": "geometry",
                     "ap2Name": "number or geometry",
-                    "ap1ID": 858181
+                    "ap1ID": 326732
                 }
             ],
             "fileTypeVersion": 1
