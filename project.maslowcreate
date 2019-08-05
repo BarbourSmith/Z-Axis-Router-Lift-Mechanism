@@ -1186,8 +1186,8 @@
         {
             "atomType": "Molecule",
             "name": "Slides",
-            "x": 132,
-            "y": 229,
+            "x": 136,
+            "y": 239,
             "uniqueID": 424897,
             "ioValues": [],
             "topLevel": false,
@@ -1411,8 +1411,8 @@
                 {
                     "atomType": "Extrude",
                     "name": "Extrude",
-                    "x": 1013,
-                    "y": 123,
+                    "x": 972,
+                    "y": 125,
                     "uniqueID": 768664,
                     "ioValues": [
                         {
@@ -1439,8 +1439,8 @@
                     "BOMitem": {
                         "BOMitemName": "Linear Slide",
                         "numberNeeded": 1,
-                        "costUSD": 0,
-                        "source": "www.example.com",
+                        "costUSD": 1.8,
+                        "source": "https://tocomotion.en.made-in-china.com/product/dNKmHZRYAIWa/China-Lme20uu-Linear-Slide-Bearing-20mm-Linear-Bushing.html",
                         "totalNeeded": 0
                     }
                 },
@@ -1591,10 +1591,31 @@
                 {
                     "atomType": "Molecule",
                     "name": "Slides",
-                    "x": 132,
-                    "y": 229,
+                    "x": 136,
+                    "y": 239,
                     "uniqueID": 424897,
                     "ioValues": []
+                },
+                {
+                    "atomType": "Translate",
+                    "name": "Translate",
+                    "x": 372,
+                    "y": 213,
+                    "uniqueID": 249923,
+                    "ioValues": [
+                        {
+                            "name": "xDist",
+                            "ioValue": 0
+                        },
+                        {
+                            "name": "yDist",
+                            "ioValue": 0
+                        },
+                        {
+                            "name": "zDist",
+                            "ioValue": 0
+                        }
+                    ]
                 },
                 {
                     "atomType": "Assembly",
@@ -1608,7 +1629,11 @@
                             "ioValue": 10
                         },
                         {
-                            "name": "3D shape 979290",
+                            "name": "3D shape 284558",
+                            "ioValue": 10
+                        },
+                        {
+                            "name": "3D shape 549554",
                             "ioValue": 10
                         }
                     ]
@@ -1689,6 +1714,18 @@
                     "ap1Name": "Geometry",
                     "ap2Name": "3D shape 557681",
                     "ap1ID": 817028,
+                    "ap2ID": 363734
+                },
+                {
+                    "ap1Name": "Geometry",
+                    "ap2Name": "geometry",
+                    "ap1ID": 424897,
+                    "ap2ID": 249923
+                },
+                {
+                    "ap1Name": "geometry",
+                    "ap2Name": "3D shape 284558",
+                    "ap1ID": 249923,
                     "ap2ID": 363734
                 },
                 {
