@@ -3,8 +3,8 @@
         {
             "atomType": "Molecule",
             "name": "Plates",
-            "x": 217,
-            "y": 35,
+            "x": 214,
+            "y": 29,
             "uniqueID": 517888,
             "ioValues": [
                 {
@@ -2788,8 +2788,8 @@
                 {
                     "atomType": "Molecule",
                     "name": "Plates",
-                    "x": 217,
-                    "y": 35,
+                    "x": 214,
+                    "y": 29,
                     "uniqueID": 517888,
                     "ioValues": [
                         {
@@ -2838,27 +2838,6 @@
                 {
                     "atomType": "Assembly",
                     "name": "Assembly",
-                    "x": 407,
-                    "y": 58,
-                    "uniqueID": 976791,
-                    "ioValues": [
-                        {
-                            "name": "3D shape 420361",
-                            "ioValue": 10
-                        },
-                        {
-                            "name": "3D shape 488055",
-                            "ioValue": 10
-                        },
-                        {
-                            "name": "3D shape 591105",
-                            "ioValue": 10
-                        }
-                    ]
-                },
-                {
-                    "atomType": "Assembly",
-                    "name": "Assembly",
                     "x": 892,
                     "y": 133,
                     "uniqueID": 851874,
@@ -2873,6 +2852,10 @@
                         },
                         {
                             "name": "3D shape 721340",
+                            "ioValue": 10
+                        },
+                        {
+                            "name": "3D shape 697861",
                             "ioValue": 10
                         }
                     ]
@@ -2906,9 +2889,9 @@
                 },
                 {
                     "ap1Name": "Geometry",
-                    "ap2Name": "3D shape 420361",
+                    "ap2Name": "3D shape 721340",
                     "ap1ID": 826098,
-                    "ap2ID": 976791
+                    "ap2ID": 851874
                 },
                 {
                     "ap1Name": "Geometry",
