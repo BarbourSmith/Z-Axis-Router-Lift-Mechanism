@@ -2609,7 +2609,7 @@
         {
             "atomType": "Molecule",
             "name": "Router",
-            "x": 235,
+            "x": 230,
             "y": 232,
             "uniqueID": 201738,
             "ioValues": [
@@ -2817,7 +2817,7 @@
                 {
                     "atomType": "Molecule",
                     "name": "Router",
-                    "x": 235,
+                    "x": 230,
                     "y": 232,
                     "uniqueID": 201738,
                     "ioValues": [
