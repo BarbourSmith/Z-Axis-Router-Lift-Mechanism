@@ -577,6 +577,66 @@
         },
         {
             "atomType": "Molecule",
+            "name": "Molecule",
+            "x": 135,
+            "y": 63,
+            "uniqueID": 895349,
+            "ioValues": [],
+            "topLevel": false,
+            "allAtoms": [
+                {
+                    "atomType": "Output",
+                    "name": "Output",
+                    "x": 1316,
+                    "y": 164,
+                    "ioValues": []
+                }
+            ],
+            "allConnectors": [],
+            "fileTypeVersion": 1
+        },
+        {
+            "atomType": "Molecule",
+            "name": "Molecule",
+            "x": 141,
+            "y": 148,
+            "uniqueID": 817028,
+            "ioValues": [],
+            "topLevel": false,
+            "allAtoms": [
+                {
+                    "atomType": "Output",
+                    "name": "Output",
+                    "x": 1316,
+                    "y": 164,
+                    "ioValues": []
+                }
+            ],
+            "allConnectors": [],
+            "fileTypeVersion": 1
+        },
+        {
+            "atomType": "Molecule",
+            "name": "Molecule",
+            "x": 142,
+            "y": 224,
+            "uniqueID": 424897,
+            "ioValues": [],
+            "topLevel": false,
+            "allAtoms": [
+                {
+                    "atomType": "Output",
+                    "name": "Output",
+                    "x": 1316,
+                    "y": 164,
+                    "ioValues": []
+                }
+            ],
+            "allConnectors": [],
+            "fileTypeVersion": 1
+        },
+        {
+            "atomType": "Molecule",
             "name": "Risers",
             "x": 232,
             "y": 93,
@@ -584,6 +644,30 @@
             "ioValues": [],
             "topLevel": false,
             "allAtoms": [
+                {
+                    "atomType": "Molecule",
+                    "name": "Molecule",
+                    "x": 135,
+                    "y": 63,
+                    "uniqueID": 895349,
+                    "ioValues": []
+                },
+                {
+                    "atomType": "Molecule",
+                    "name": "Molecule",
+                    "x": 141,
+                    "y": 148,
+                    "uniqueID": 817028,
+                    "ioValues": []
+                },
+                {
+                    "atomType": "Molecule",
+                    "name": "Molecule",
+                    "x": 142,
+                    "y": 224,
+                    "uniqueID": 424897,
+                    "ioValues": []
+                },
                 {
                     "atomType": "Output",
                     "name": "Output",
