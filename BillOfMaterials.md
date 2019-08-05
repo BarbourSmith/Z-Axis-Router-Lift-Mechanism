@@ -3,7 +3,7 @@
  |Part|Number Needed|Price|Source| 
  |----|----------|-----|-----|
 |10mm Lead Screw|1|$11.83|https://www.mcmaster.com/7549k71|
-|name|0|$0.00|www.example.com|
+|Shaft Coupler|0|$0.00|www.example.com|
 |Linear Motion Shaft|2|$23.82|https://www.mcmaster.com/6112k109|
 |Total: |3|$35.65| |
 

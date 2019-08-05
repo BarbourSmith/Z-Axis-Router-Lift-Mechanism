@@ -1967,13 +1967,13 @@
                 {
                     "atomType": "Circle",
                     "name": "Circle",
-                    "x": 96,
-                    "y": 117,
+                    "x": 97,
+                    "y": 113,
                     "uniqueID": 572160,
                     "ioValues": [
                         {
                             "name": "diameter",
-                            "ioValue": 25
+                            "ioValue": 19
                         }
                     ]
                 },
@@ -1986,7 +1986,7 @@
                     "ioValues": [
                         {
                             "name": "height",
-                            "ioValue": 30
+                            "ioValue": 25
                         }
                     ]
                 },
@@ -2019,10 +2019,10 @@
                     "uniqueID": 873275,
                     "ioValues": [],
                     "BOMitem": {
-                        "BOMitemName": "name",
-                        "numberNeeded": 0,
-                        "costUSD": 0,
-                        "source": "www.example.com",
+                        "BOMitemName": "Shaft Coupler",
+                        "numberNeeded": 1,
+                        "costUSD": 1.87,
+                        "source": "https://www.banggood.com/8mm-x-10mm-Aluminum-Flexible-Shaft-Coupling-OD19mm-x-L25mm-CNC-Stepper-Motor-Coupler-Connector-p-993595.html",
                         "totalNeeded": 0
                     }
                 },
