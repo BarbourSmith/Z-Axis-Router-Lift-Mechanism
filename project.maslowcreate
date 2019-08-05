@@ -1294,8 +1294,8 @@
                 {
                     "atomType": "Rotate",
                     "name": "Rotate",
-                    "x": 582,
-                    "y": 185,
+                    "x": 626,
+                    "y": 166,
                     "uniqueID": 343533,
                     "ioValues": [
                         {
@@ -1308,15 +1308,15 @@
                         },
                         {
                             "name": "z-axis degrees",
-                            "ioValue": 0
+                            "ioValue": 90
                         }
                     ]
                 },
                 {
                     "atomType": "Rotate",
                     "name": "Rotate",
-                    "x": 721,
-                    "y": 168,
+                    "x": 719,
+                    "y": 194,
                     "uniqueID": 744301,
                     "ioValues": [
                         {
@@ -1329,7 +1329,7 @@
                         },
                         {
                             "name": "z-axis degrees",
-                            "ioValue": 0
+                            "ioValue": -90
                         }
                     ]
                 },
@@ -1357,8 +1357,8 @@
                 {
                     "atomType": "Assembly",
                     "name": "Assembly",
-                    "x": 814,
-                    "y": 91,
+                    "x": 823,
+                    "y": 97,
                     "uniqueID": 193422,
                     "ioValues": [
                         {
@@ -1372,14 +1372,26 @@
                         {
                             "name": "3D shape 112694",
                             "ioValue": 10
+                        },
+                        {
+                            "name": "3D shape 497639",
+                            "ioValue": 10
+                        },
+                        {
+                            "name": "3D shape 975951",
+                            "ioValue": 10
+                        },
+                        {
+                            "name": "3D shape 583582",
+                            "ioValue": 10
                         }
                     ]
                 },
                 {
                     "atomType": "Rotate",
                     "name": "Rotate",
-                    "x": 849,
-                    "y": 189,
+                    "x": 813,
+                    "y": 223,
                     "uniqueID": 812197,
                     "ioValues": [
                         {
@@ -1392,7 +1404,7 @@
                         },
                         {
                             "name": "z-axis degrees",
-                            "ioValue": 0
+                            "ioValue": 180
                         }
                     ]
                 },
@@ -1488,6 +1500,18 @@
                 },
                 {
                     "ap1Name": "geometry",
+                    "ap2Name": "3D shape 112694",
+                    "ap1ID": 343533,
+                    "ap2ID": 193422
+                },
+                {
+                    "ap1Name": "geometry",
+                    "ap2Name": "3D shape 497639",
+                    "ap1ID": 744301,
+                    "ap2ID": 193422
+                },
+                {
+                    "ap1Name": "geometry",
                     "ap2Name": "geometry1",
                     "ap1ID": 806222,
                     "ap2ID": 858181
@@ -1497,6 +1521,12 @@
                     "ap2Name": "geometry",
                     "ap1ID": 193422,
                     "ap2ID": 768664
+                },
+                {
+                    "ap1Name": "geometry",
+                    "ap2Name": "3D shape 975951",
+                    "ap1ID": 812197,
+                    "ap2ID": 193422
                 },
                 {
                     "ap1Name": "geometry",
