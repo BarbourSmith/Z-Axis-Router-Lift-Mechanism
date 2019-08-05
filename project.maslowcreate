@@ -1193,6 +1193,32 @@
             "topLevel": false,
             "allAtoms": [
                 {
+                    "atomType": "Circle",
+                    "name": "Circle",
+                    "x": 104,
+                    "y": 45,
+                    "uniqueID": 548207,
+                    "ioValues": [
+                        {
+                            "name": "diameter",
+                            "ioValue": 40
+                        }
+                    ]
+                },
+                {
+                    "atomType": "Extrude",
+                    "name": "Extrude",
+                    "x": 255,
+                    "y": 63,
+                    "uniqueID": 423308,
+                    "ioValues": [
+                        {
+                            "name": "height",
+                            "ioValue": 10
+                        }
+                    ]
+                },
+                {
                     "atomType": "Output",
                     "name": "Output",
                     "x": 1316,
@@ -1200,7 +1226,14 @@
                     "ioValues": []
                 }
             ],
-            "allConnectors": [],
+            "allConnectors": [
+                {
+                    "ap1Name": "geometry",
+                    "ap2Name": "geometry",
+                    "ap1ID": 548207,
+                    "ap2ID": 423308
+                }
+            ],
             "fileTypeVersion": 1
         },
         {
