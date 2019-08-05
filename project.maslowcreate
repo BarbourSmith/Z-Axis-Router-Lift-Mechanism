@@ -578,12 +578,84 @@
         {
             "atomType": "Molecule",
             "name": "Base",
-            "x": 203,
-            "y": 111,
+            "x": 145,
+            "y": 110,
             "uniqueID": 634303,
             "ioValues": [],
             "topLevel": false,
             "allAtoms": [
+                {
+                    "atomType": "Rectangle",
+                    "name": "Rectangle",
+                    "x": 93,
+                    "y": 109,
+                    "uniqueID": 705517,
+                    "ioValues": [
+                        {
+                            "name": "x length",
+                            "ioValue": 10
+                        },
+                        {
+                            "name": "y length",
+                            "ioValue": 10
+                        }
+                    ]
+                },
+                {
+                    "atomType": "Circle",
+                    "name": "Circle",
+                    "x": 242,
+                    "y": 121,
+                    "uniqueID": 183580,
+                    "ioValues": [
+                        {
+                            "name": "diameter",
+                            "ioValue": 10
+                        }
+                    ]
+                },
+                {
+                    "atomType": "Translate",
+                    "name": "Translate",
+                    "x": 299,
+                    "y": 71,
+                    "uniqueID": 560470,
+                    "ioValues": [
+                        {
+                            "name": "xDist",
+                            "ioValue": 0
+                        },
+                        {
+                            "name": "yDist",
+                            "ioValue": 0
+                        },
+                        {
+                            "name": "zDist",
+                            "ioValue": 0
+                        }
+                    ]
+                },
+                {
+                    "atomType": "Translate",
+                    "name": "Translate",
+                    "x": 261,
+                    "y": 208,
+                    "uniqueID": 232110,
+                    "ioValues": [
+                        {
+                            "name": "xDist",
+                            "ioValue": 0
+                        },
+                        {
+                            "name": "yDist",
+                            "ioValue": 0
+                        },
+                        {
+                            "name": "zDist",
+                            "ioValue": 0
+                        }
+                    ]
+                },
                 {
                     "atomType": "Output",
                     "name": "Output",
@@ -607,8 +679,8 @@
                 {
                     "atomType": "Molecule",
                     "name": "Base",
-                    "x": 203,
-                    "y": 111,
+                    "x": 145,
+                    "y": 110,
                     "uniqueID": 634303,
                     "ioValues": []
                 },
