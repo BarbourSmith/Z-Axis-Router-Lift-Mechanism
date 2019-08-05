@@ -316,7 +316,7 @@
                         },
                         {
                             "name": "zDist",
-                            "ioValue": 70
+                            "ioValue": 150
                         }
                     ]
                 },
@@ -357,8 +357,8 @@
                 {
                     "atomType": "Assembly",
                     "name": "Assembly",
-                    "x": 1219,
-                    "y": 171,
+                    "x": 1195,
+                    "y": 163,
                     "uniqueID": 423382,
                     "ioValues": [
                         {
@@ -539,8 +539,8 @@
         {
             "atomType": "Molecule",
             "name": "Risers",
-            "x": 96,
-            "y": 114,
+            "x": 102,
+            "y": 105,
             "uniqueID": 826098,
             "ioValues": [],
             "topLevel": false,
@@ -1404,6 +1404,35 @@
         },
         {
             "atomType": "Molecule",
+            "name": "Router",
+            "x": 102,
+            "y": 255,
+            "uniqueID": 201738,
+            "ioValues": [],
+            "topLevel": false,
+            "allAtoms": [
+                {
+                    "atomType": "GitHubMolecule",
+                    "name": "Bosch 1617",
+                    "x": 182,
+                    "y": 155,
+                    "uniqueID": 818423,
+                    "projectID": "200636288",
+                    "ioValues": []
+                },
+                {
+                    "atomType": "Output",
+                    "name": "Output",
+                    "x": 1316,
+                    "y": 164,
+                    "ioValues": []
+                }
+            ],
+            "allConnectors": [],
+            "fileTypeVersion": 1
+        },
+        {
+            "atomType": "Molecule",
             "name": "Z-Axis Router Lift Mechanism",
             "x": 0,
             "y": 0,
@@ -1422,8 +1451,8 @@
                 {
                     "atomType": "Molecule",
                     "name": "Risers",
-                    "x": 96,
-                    "y": 114,
+                    "x": 102,
+                    "y": 105,
                     "uniqueID": 826098,
                     "ioValues": []
                 },
@@ -1433,6 +1462,14 @@
                     "x": 102,
                     "y": 184,
                     "uniqueID": 315914,
+                    "ioValues": []
+                },
+                {
+                    "atomType": "Molecule",
+                    "name": "Router",
+                    "x": 102,
+                    "y": 255,
+                    "uniqueID": 201738,
                     "ioValues": []
                 },
                 {
