@@ -3,8 +3,8 @@
         {
             "atomType": "Molecule",
             "name": "Plates",
-            "x": 234,
-            "y": 24,
+            "x": 231,
+            "y": 47,
             "uniqueID": 517888,
             "ioValues": [
                 {
@@ -1566,8 +1566,8 @@
         {
             "atomType": "Molecule",
             "name": "Risers",
-            "x": 231,
-            "y": 84,
+            "x": 232,
+            "y": 111,
             "uniqueID": 826098,
             "ioValues": [],
             "topLevel": false,
@@ -1613,7 +1613,7 @@
                         },
                         {
                             "name": "zDist",
-                            "ioValue": 0
+                            "ioValue": 100
                         }
                     ]
                 },
@@ -1633,7 +1633,7 @@
                             "ioValue": 10
                         },
                         {
-                            "name": "3D shape 549554",
+                            "name": "3D shape 673552",
                             "ioValue": 10
                         }
                     ]
@@ -2444,8 +2444,8 @@
         {
             "atomType": "Molecule",
             "name": "Ball Screw Assembly",
-            "x": 233,
-            "y": 143,
+            "x": 234,
+            "y": 173,
             "uniqueID": 315914,
             "ioValues": [],
             "topLevel": false,
@@ -2609,8 +2609,8 @@
         {
             "atomType": "Molecule",
             "name": "Router",
-            "x": 234,
-            "y": 204,
+            "x": 233,
+            "y": 235,
             "uniqueID": 201738,
             "ioValues": [
                 {
@@ -2730,8 +2730,8 @@
         {
             "atomType": "Molecule",
             "name": "Latch",
-            "x": 237,
-            "y": 268,
+            "x": 235,
+            "y": 289,
             "uniqueID": 827096,
             "ioValues": [],
             "topLevel": false,
@@ -2788,8 +2788,8 @@
                 {
                     "atomType": "Molecule",
                     "name": "Plates",
-                    "x": 234,
-                    "y": 24,
+                    "x": 231,
+                    "y": 47,
                     "uniqueID": 517888,
                     "ioValues": [
                         {
@@ -2801,24 +2801,24 @@
                 {
                     "atomType": "Molecule",
                     "name": "Risers",
-                    "x": 231,
-                    "y": 84,
+                    "x": 232,
+                    "y": 111,
                     "uniqueID": 826098,
                     "ioValues": []
                 },
                 {
                     "atomType": "Molecule",
                     "name": "Ball Screw Assembly",
-                    "x": 233,
-                    "y": 143,
+                    "x": 234,
+                    "y": 173,
                     "uniqueID": 315914,
                     "ioValues": []
                 },
                 {
                     "atomType": "Molecule",
                     "name": "Router",
-                    "x": 234,
-                    "y": 204,
+                    "x": 233,
+                    "y": 235,
                     "uniqueID": 201738,
                     "ioValues": [
                         {
@@ -2830,31 +2830,10 @@
                 {
                     "atomType": "Molecule",
                     "name": "Latch",
-                    "x": 237,
-                    "y": 268,
+                    "x": 235,
+                    "y": 289,
                     "uniqueID": 827096,
                     "ioValues": []
-                },
-                {
-                    "atomType": "Assembly",
-                    "name": "Assembly",
-                    "x": 392,
-                    "y": 44,
-                    "uniqueID": 923865,
-                    "ioValues": [
-                        {
-                            "name": "3D shape 126899",
-                            "ioValue": 10
-                        },
-                        {
-                            "name": "3D shape 365809",
-                            "ioValue": 10
-                        },
-                        {
-                            "name": "3D shape 984043",
-                            "ioValue": 10
-                        }
-                    ]
                 },
                 {
                     "atomType": "Assembly",
@@ -2896,12 +2875,6 @@
                     "ap1Name": "Geometry",
                     "ap2Name": "3D shape 365809",
                     "ap1ID": 517888,
-                    "ap2ID": 923865
-                },
-                {
-                    "ap1Name": "Geometry",
-                    "ap2Name": "3D shape 126899",
-                    "ap1ID": 826098,
                     "ap2ID": 923865
                 },
                 {
