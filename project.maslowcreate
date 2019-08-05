@@ -698,13 +698,13 @@
                 {
                     "atomType": "Circle",
                     "name": "Circle",
-                    "x": 451,
-                    "y": 267,
-                    "uniqueID": 499661,
+                    "x": 460,
+                    "y": 253,
+                    "uniqueID": 837866,
                     "ioValues": [
                         {
                             "name": "diameter",
-                            "ioValue": 20
+                            "ioValue": 10
                         }
                     ]
                 },
@@ -718,6 +718,48 @@
                         {
                             "name": "height",
                             "ioValue": 8
+                        }
+                    ]
+                },
+                {
+                    "atomType": "Translate",
+                    "name": "Translate",
+                    "x": 625,
+                    "y": 156,
+                    "uniqueID": 461977,
+                    "ioValues": [
+                        {
+                            "name": "xDist",
+                            "ioValue": -30
+                        },
+                        {
+                            "name": "yDist",
+                            "ioValue": 0
+                        },
+                        {
+                            "name": "zDist",
+                            "ioValue": 0
+                        }
+                    ]
+                },
+                {
+                    "atomType": "Translate",
+                    "name": "Translate",
+                    "x": 624,
+                    "y": 244,
+                    "uniqueID": 618066,
+                    "ioValues": [
+                        {
+                            "name": "xDist",
+                            "ioValue": 0
+                        },
+                        {
+                            "name": "yDist",
+                            "ioValue": 0
+                        },
+                        {
+                            "name": "zDist",
+                            "ioValue": 0
                         }
                     ]
                 },
@@ -743,15 +785,36 @@
                     ]
                 },
                 {
-                    "atomType": "Extrude",
-                    "name": "Extrude",
-                    "x": 656,
-                    "y": 280,
-                    "uniqueID": 252860,
+                    "atomType": "Circle",
+                    "name": "Circle",
+                    "x": 792,
+                    "y": 131,
+                    "uniqueID": 499661,
                     "ioValues": [
                         {
-                            "name": "height",
-                            "ioValue": 100
+                            "name": "diameter",
+                            "ioValue": 20
+                        }
+                    ]
+                },
+                {
+                    "atomType": "Assembly",
+                    "name": "Assembly",
+                    "x": 853,
+                    "y": 195,
+                    "uniqueID": 377596,
+                    "ioValues": [
+                        {
+                            "name": "3D shape 669401",
+                            "ioValue": 10
+                        },
+                        {
+                            "name": "3D shape 267465",
+                            "ioValue": 10
+                        },
+                        {
+                            "name": "3D shape 945775",
+                            "ioValue": 10
                         }
                     ]
                 },
@@ -764,6 +827,19 @@
                     "ioValues": []
                 },
                 {
+                    "atomType": "Extrude",
+                    "name": "Extrude",
+                    "x": 980,
+                    "y": 215,
+                    "uniqueID": 252860,
+                    "ioValues": [
+                        {
+                            "name": "height",
+                            "ioValue": 100
+                        }
+                    ]
+                },
+                {
                     "atomType": "Add BOM Tag",
                     "name": "Add BOM Tag",
                     "x": 1083,
@@ -771,10 +847,10 @@
                     "uniqueID": 306284,
                     "ioValues": [],
                     "BOMitem": {
-                        "BOMitemName": "name",
+                        "BOMitemName": "Shaft Support",
                         "numberNeeded": 1,
-                        "costUSD": 0,
-                        "source": "www.example.com",
+                        "costUSD": 21.93,
+                        "source": "https://www.mcmaster.com/62645k42",
                         "totalNeeded": 0
                     }
                 },
@@ -838,8 +914,8 @@
                 {
                     "ap1Name": "geometry",
                     "ap2Name": "geometry",
-                    "ap1ID": 499661,
-                    "ap2ID": 252860
+                    "ap1ID": 837866,
+                    "ap2ID": 461977
                 },
                 {
                     "ap1Name": "geometry",
@@ -849,21 +925,39 @@
                 },
                 {
                     "ap1Name": "geometry",
+                    "ap2Name": "3D shape 669401",
+                    "ap1ID": 461977,
+                    "ap2ID": 377596
+                },
+                {
+                    "ap1Name": "geometry",
                     "ap2Name": "geometry1",
                     "ap1ID": 952175,
                     "ap2ID": 235277
                 },
                 {
                     "ap1Name": "geometry",
-                    "ap2Name": "geometry2",
-                    "ap1ID": 252860,
-                    "ap2ID": 235277
+                    "ap2Name": "3D shape 267465",
+                    "ap1ID": 499661,
+                    "ap2ID": 377596
+                },
+                {
+                    "ap1Name": "geometry",
+                    "ap2Name": "geometry",
+                    "ap1ID": 377596,
+                    "ap2ID": 252860
                 },
                 {
                     "ap1Name": "geometry",
                     "ap2Name": "geometry",
                     "ap1ID": 235277,
                     "ap2ID": 306284
+                },
+                {
+                    "ap1Name": "geometry",
+                    "ap2Name": "geometry2",
+                    "ap1ID": 252860,
+                    "ap2ID": 235277
                 },
                 {
                     "ap1Name": "geometry",
