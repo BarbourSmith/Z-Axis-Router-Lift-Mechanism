@@ -559,12 +559,38 @@
         {
             "atomType": "Molecule",
             "name": "Threaded Rod",
-            "x": 125,
-            "y": 77,
+            "x": 127,
+            "y": 56,
             "uniqueID": 783887,
             "ioValues": [],
             "topLevel": false,
             "allAtoms": [
+                {
+                    "atomType": "Circle",
+                    "name": "Circle",
+                    "x": 185,
+                    "y": 155,
+                    "uniqueID": 477866,
+                    "ioValues": [
+                        {
+                            "name": "diameter",
+                            "ioValue": 10
+                        }
+                    ]
+                },
+                {
+                    "atomType": "Extrude",
+                    "name": "Extrude",
+                    "x": 368,
+                    "y": 135,
+                    "uniqueID": 103625,
+                    "ioValues": [
+                        {
+                            "name": "height",
+                            "ioValue": 10
+                        }
+                    ]
+                },
                 {
                     "atomType": "Output",
                     "name": "Output",
@@ -573,14 +599,16 @@
                     "ioValues": []
                 }
             ],
-            "allConnectors": [],
+            "allConnectors": [
+                null
+            ],
             "fileTypeVersion": 1
         },
         {
             "atomType": "Molecule",
             "name": "Motor",
-            "x": 135,
-            "y": 141,
+            "x": 129,
+            "y": 129,
             "uniqueID": 976267,
             "ioValues": [],
             "topLevel": false,
@@ -687,9 +715,29 @@
         },
         {
             "atomType": "Molecule",
+            "name": "Shaft Coupler",
+            "x": 129,
+            "y": 280,
+            "uniqueID": 495279,
+            "ioValues": [],
+            "topLevel": false,
+            "allAtoms": [
+                {
+                    "atomType": "Output",
+                    "name": "Output",
+                    "x": 1316,
+                    "y": 164,
+                    "ioValues": []
+                }
+            ],
+            "allConnectors": [],
+            "fileTypeVersion": 1
+        },
+        {
+            "atomType": "Molecule",
             "name": "Ball Screw Assembly",
-            "x": 118,
-            "y": 212,
+            "x": 114,
+            "y": 209,
             "uniqueID": 315914,
             "ioValues": [],
             "topLevel": false,
@@ -697,16 +745,16 @@
                 {
                     "atomType": "Molecule",
                     "name": "Threaded Rod",
-                    "x": 125,
-                    "y": 77,
+                    "x": 127,
+                    "y": 56,
                     "uniqueID": 783887,
                     "ioValues": []
                 },
                 {
                     "atomType": "Molecule",
                     "name": "Motor",
-                    "x": 135,
-                    "y": 141,
+                    "x": 129,
+                    "y": 129,
                     "uniqueID": 976267,
                     "ioValues": []
                 },
@@ -716,6 +764,14 @@
                     "x": 134,
                     "y": 199,
                     "uniqueID": 574138,
+                    "ioValues": []
+                },
+                {
+                    "atomType": "Molecule",
+                    "name": "Shaft Coupler",
+                    "x": 129,
+                    "y": 280,
+                    "uniqueID": 495279,
                     "ioValues": []
                 },
                 {
@@ -786,8 +842,8 @@
                 {
                     "atomType": "Molecule",
                     "name": "Ball Screw Assembly",
-                    "x": 118,
-                    "y": 212,
+                    "x": 114,
+                    "y": 209,
                     "uniqueID": 315914,
                     "ioValues": []
                 },
