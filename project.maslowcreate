@@ -2730,8 +2730,8 @@
         {
             "atomType": "Molecule",
             "name": "Latch",
-            "x": 235,
-            "y": 289,
+            "x": 229,
+            "y": 290,
             "uniqueID": 827096,
             "ioValues": [],
             "topLevel": false,
@@ -2830,8 +2830,8 @@
                 {
                     "atomType": "Molecule",
                     "name": "Latch",
-                    "x": 235,
-                    "y": 289,
+                    "x": 229,
+                    "y": 290,
                     "uniqueID": 827096,
                     "ioValues": []
                 },
