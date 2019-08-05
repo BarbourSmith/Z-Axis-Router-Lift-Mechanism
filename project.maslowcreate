@@ -696,6 +696,19 @@
                     ]
                 },
                 {
+                    "atomType": "Circle",
+                    "name": "Circle",
+                    "x": 451,
+                    "y": 267,
+                    "uniqueID": 499661,
+                    "ioValues": [
+                        {
+                            "name": "diameter",
+                            "ioValue": 20
+                        }
+                    ]
+                },
+                {
                     "atomType": "Extrude",
                     "name": "Extrude",
                     "x": 520,
@@ -709,23 +722,10 @@
                     ]
                 },
                 {
-                    "atomType": "Circle",
-                    "name": "Circle",
-                    "x": 493,
-                    "y": 279,
-                    "uniqueID": 499661,
-                    "ioValues": [
-                        {
-                            "name": "diameter",
-                            "ioValue": 20
-                        }
-                    ]
-                },
-                {
                     "atomType": "Assembly",
                     "name": "Assembly",
-                    "x": 635,
-                    "y": 186,
+                    "x": 689,
+                    "y": 87,
                     "uniqueID": 952175,
                     "ioValues": [
                         {
@@ -758,10 +758,25 @@
                 {
                     "atomType": "Difference",
                     "name": "Difference",
-                    "x": 773,
-                    "y": 101,
+                    "x": 917,
+                    "y": 58,
                     "uniqueID": 235277,
                     "ioValues": []
+                },
+                {
+                    "atomType": "Add BOM Tag",
+                    "name": "Add BOM Tag",
+                    "x": 1083,
+                    "y": 136,
+                    "uniqueID": 306284,
+                    "ioValues": [],
+                    "BOMitem": {
+                        "BOMitemName": "name",
+                        "numberNeeded": 1,
+                        "costUSD": 0,
+                        "source": "www.example.com",
+                        "totalNeeded": 0
+                    }
                 },
                 {
                     "atomType": "Output",
@@ -822,22 +837,38 @@
                 },
                 {
                     "ap1Name": "geometry",
+                    "ap2Name": "geometry",
+                    "ap1ID": 499661,
+                    "ap2ID": 252860
+                },
+                {
+                    "ap1Name": "geometry",
                     "ap2Name": "3D shape 827357",
                     "ap1ID": 332504,
                     "ap2ID": 952175
                 },
                 {
                     "ap1Name": "geometry",
-                    "ap2Name": "geometry",
-                    "ap1ID": 499661,
-                    "ap2ID": 252860
+                    "ap2Name": "geometry1",
+                    "ap1ID": 952175,
+                    "ap2ID": 235277
                 },
-                null,
                 {
                     "ap1Name": "geometry",
                     "ap2Name": "geometry2",
                     "ap1ID": 252860,
                     "ap2ID": 235277
+                },
+                {
+                    "ap1Name": "geometry",
+                    "ap2Name": "geometry",
+                    "ap1ID": 235277,
+                    "ap2ID": 306284
+                },
+                {
+                    "ap1Name": "geometry",
+                    "ap2Name": "number or geometry",
+                    "ap1ID": 306284
                 }
             ],
             "fileTypeVersion": 1
