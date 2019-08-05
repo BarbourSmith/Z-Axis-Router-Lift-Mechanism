@@ -631,6 +631,21 @@
                     ]
                 },
                 {
+                    "atomType": "Add BOM Tag",
+                    "name": "Add BOM Tag",
+                    "x": 495,
+                    "y": 174,
+                    "uniqueID": 624565,
+                    "ioValues": [],
+                    "BOMitem": {
+                        "BOMitemName": "Linear Motion Shaft",
+                        "numberNeeded": 1,
+                        "costUSD": 0,
+                        "source": "www.example.com",
+                        "totalNeeded": 0
+                    }
+                },
+                {
                     "atomType": "Output",
                     "name": "Output",
                     "x": 1316,
@@ -644,6 +659,12 @@
                     "ap2Name": "geometry",
                     "ap1ID": 412557,
                     "ap2ID": 889053
+                },
+                {
+                    "ap1Name": "geometry",
+                    "ap2Name": "geometry",
+                    "ap1ID": 889053,
+                    "ap2ID": 624565
                 }
             ],
             "fileTypeVersion": 1
