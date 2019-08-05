@@ -2,7 +2,7 @@
     "molecules": [
         {
             "atomType": "Molecule",
-            "name": "Molecule",
+            "name": "Plates",
             "x": 79,
             "y": 196,
             "uniqueID": 363878,
@@ -23,8 +23,8 @@
         {
             "atomType": "Molecule",
             "name": "Spacers and Bolts",
-            "x": 133,
-            "y": 250,
+            "x": 88,
+            "y": 251,
             "uniqueID": 387913,
             "ioValues": [],
             "topLevel": false,
@@ -43,8 +43,8 @@
         {
             "atomType": "Molecule",
             "name": "Latch",
-            "x": 143,
-            "y": 308,
+            "x": 89,
+            "y": 307,
             "uniqueID": 800391,
             "ioValues": [],
             "topLevel": false,
@@ -119,17 +119,25 @@
                 },
                 {
                     "atomType": "Molecule",
-                    "name": "Molecule",
+                    "name": "Plates",
                     "x": 79,
                     "y": 196,
                     "uniqueID": 363878,
                     "ioValues": []
                 },
                 {
+                    "atomType": "Molecule",
+                    "name": "Spacers and Bolts",
+                    "x": 88,
+                    "y": 251,
+                    "uniqueID": 387913,
+                    "ioValues": []
+                },
+                {
                     "atomType": "Equation",
                     "name": "Equation",
-                    "x": 200,
-                    "y": 194,
+                    "x": 234,
+                    "y": 190,
                     "uniqueID": 524740,
                     "ioValues": [
                         {
@@ -145,17 +153,17 @@
                 },
                 {
                     "atomType": "Molecule",
-                    "name": "Spacers and Bolts",
-                    "x": 133,
-                    "y": 250,
-                    "uniqueID": 387913,
+                    "name": "Latch",
+                    "x": 89,
+                    "y": 307,
+                    "uniqueID": 800391,
                     "ioValues": []
                 },
                 {
                     "atomType": "Translate",
                     "name": "Translate",
-                    "x": 289,
-                    "y": 153,
+                    "x": 294,
+                    "y": 146,
                     "uniqueID": 532673,
                     "ioValues": [
                         {
@@ -192,14 +200,6 @@
                             "ioValue": 60
                         }
                     ]
-                },
-                {
-                    "atomType": "Molecule",
-                    "name": "Latch",
-                    "x": 143,
-                    "y": 308,
-                    "uniqueID": 800391,
-                    "ioValues": []
                 },
                 {
                     "atomType": "Circle",
