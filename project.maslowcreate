@@ -395,12 +395,6 @@
                 },
                 {
                     "ap1Name": "geometry",
-                    "ap2Name": "3D shape 201944",
-                    "ap1ID": 133738,
-                    "ap2ID": 853645
-                },
-                {
-                    "ap1Name": "geometry",
                     "ap2Name": "3D shape 425844",
                     "ap1ID": 133738,
                     "ap2ID": 166133
@@ -505,6 +499,57 @@
             "topLevel": false,
             "allAtoms": [
                 {
+                    "atomType": "GitHubMolecule",
+                    "name": "Maslow Motor",
+                    "x": 147,
+                    "y": 149,
+                    "uniqueID": 864374,
+                    "projectID": "188842909",
+                    "ioValues": []
+                },
+                {
+                    "atomType": "Rotate",
+                    "name": "Rotate",
+                    "x": 405,
+                    "y": 103,
+                    "uniqueID": 422916,
+                    "ioValues": [
+                        {
+                            "name": "x-axis degrees",
+                            "ioValue": 180
+                        },
+                        {
+                            "name": "y-axis degrees",
+                            "ioValue": 0
+                        },
+                        {
+                            "name": "z-axis degrees",
+                            "ioValue": 0
+                        }
+                    ]
+                },
+                {
+                    "atomType": "Translate",
+                    "name": "Translate",
+                    "x": 696,
+                    "y": 151,
+                    "uniqueID": 925154,
+                    "ioValues": [
+                        {
+                            "name": "xDist",
+                            "ioValue": 0
+                        },
+                        {
+                            "name": "yDist",
+                            "ioValue": 0
+                        },
+                        {
+                            "name": "zDist",
+                            "ioValue": 0
+                        }
+                    ]
+                },
+                {
                     "atomType": "Output",
                     "name": "Output",
                     "x": 1316,
@@ -512,7 +557,25 @@
                     "ioValues": []
                 }
             ],
-            "allConnectors": [],
+            "allConnectors": [
+                {
+                    "ap1Name": "Geometry",
+                    "ap2Name": "geometry",
+                    "ap1ID": 864374,
+                    "ap2ID": 422916
+                },
+                {
+                    "ap1Name": "geometry",
+                    "ap2Name": "geometry",
+                    "ap1ID": 422916,
+                    "ap2ID": 925154
+                },
+                {
+                    "ap1Name": "geometry",
+                    "ap2Name": "number or geometry",
+                    "ap1ID": 925154
+                }
+            ],
             "fileTypeVersion": 1
         },
         {
@@ -538,8 +601,8 @@
         {
             "atomType": "Molecule",
             "name": "Ball Screw Assembly",
-            "x": 95,
-            "y": 215,
+            "x": 118,
+            "y": 212,
             "uniqueID": 315914,
             "ioValues": [],
             "topLevel": false,
@@ -607,8 +670,8 @@
                 {
                     "atomType": "Molecule",
                     "name": "Ball Screw Assembly",
-                    "x": 95,
-                    "y": 215,
+                    "x": 118,
+                    "y": 212,
                     "uniqueID": 315914,
                     "ioValues": []
                 },
