@@ -3,8 +3,8 @@
         {
             "atomType": "Molecule",
             "name": "Plates",
-            "x": 119,
-            "y": 61,
+            "x": 108,
+            "y": 59,
             "uniqueID": 517888,
             "ioValues": [],
             "topLevel": false,
@@ -113,6 +113,19 @@
                     ]
                 },
                 {
+                    "atomType": "Circle",
+                    "name": "Circle",
+                    "x": 404,
+                    "y": 122,
+                    "uniqueID": 755140,
+                    "ioValues": [
+                        {
+                            "name": "diameter",
+                            "ioValue": 25
+                        }
+                    ]
+                },
+                {
                     "atomType": "Assembly",
                     "name": "Assembly",
                     "x": 424,
@@ -134,23 +147,10 @@
                     ]
                 },
                 {
-                    "atomType": "Circle",
-                    "name": "Circle",
-                    "x": 460,
-                    "y": 104,
-                    "uniqueID": 755140,
-                    "ioValues": [
-                        {
-                            "name": "diameter",
-                            "ioValue": 25
-                        }
-                    ]
-                },
-                {
                     "atomType": "Translate",
                     "name": "Translate",
-                    "x": 594,
-                    "y": 77,
+                    "x": 573,
+                    "y": 75,
                     "uniqueID": 524159,
                     "ioValues": [
                         {
@@ -365,12 +365,6 @@
                 },
                 {
                     "ap1Name": "geometry",
-                    "ap2Name": "geometry2",
-                    "ap1ID": 339953,
-                    "ap2ID": 491946
-                },
-                {
-                    "ap1Name": "geometry",
                     "ap2Name": "geometry",
                     "ap1ID": 755140,
                     "ap2ID": 133738
@@ -386,6 +380,12 @@
                     "ap2Name": "geometry",
                     "ap1ID": 755140,
                     "ap2ID": 239042
+                },
+                {
+                    "ap1Name": "geometry",
+                    "ap2Name": "geometry2",
+                    "ap1ID": 339953,
+                    "ap2ID": 491946
                 },
                 {
                     "ap1Name": "geometry",
@@ -458,9 +458,29 @@
         {
             "atomType": "Molecule",
             "name": "Risers",
-            "x": 122,
-            "y": 161,
+            "x": 107,
+            "y": 132,
             "uniqueID": 826098,
+            "ioValues": [],
+            "topLevel": false,
+            "allAtoms": [
+                {
+                    "atomType": "Output",
+                    "name": "Output",
+                    "x": 1316,
+                    "y": 164,
+                    "ioValues": []
+                }
+            ],
+            "allConnectors": [],
+            "fileTypeVersion": 1
+        },
+        {
+            "atomType": "Molecule",
+            "name": "Ball Screw Assembly",
+            "x": 140,
+            "y": 211,
+            "uniqueID": 315914,
             "ioValues": [],
             "topLevel": false,
             "allAtoms": [
@@ -487,18 +507,43 @@
                 {
                     "atomType": "Molecule",
                     "name": "Plates",
-                    "x": 119,
-                    "y": 61,
+                    "x": 108,
+                    "y": 59,
                     "uniqueID": 517888,
                     "ioValues": []
                 },
                 {
                     "atomType": "Molecule",
                     "name": "Risers",
-                    "x": 122,
-                    "y": 161,
+                    "x": 107,
+                    "y": 132,
                     "uniqueID": 826098,
                     "ioValues": []
+                },
+                {
+                    "atomType": "Molecule",
+                    "name": "Ball Screw Assembly",
+                    "x": 140,
+                    "y": 211,
+                    "uniqueID": 315914,
+                    "ioValues": []
+                },
+                {
+                    "atomType": "Assembly",
+                    "name": "Assembly",
+                    "x": 666,
+                    "y": 91,
+                    "uniqueID": 917946,
+                    "ioValues": [
+                        {
+                            "name": "3D shape 807270",
+                            "ioValue": 10
+                        },
+                        {
+                            "name": "3D shape 906873",
+                            "ioValue": 10
+                        }
+                    ]
                 },
                 {
                     "atomType": "Output",
@@ -508,7 +553,19 @@
                     "ioValues": []
                 }
             ],
-            "allConnectors": [],
+            "allConnectors": [
+                {
+                    "ap1Name": "Geometry",
+                    "ap2Name": "3D shape 807270",
+                    "ap1ID": 517888,
+                    "ap2ID": 917946
+                },
+                {
+                    "ap1Name": "geometry",
+                    "ap2Name": "number or geometry",
+                    "ap1ID": 917946
+                }
+            ],
             "fileTypeVersion": 1
         }
     ],
