@@ -578,8 +578,8 @@
         {
             "atomType": "Molecule",
             "name": "Risers",
-            "x": 230,
-            "y": 88,
+            "x": 232,
+            "y": 93,
             "uniqueID": 826098,
             "ioValues": [],
             "topLevel": false,
@@ -1279,8 +1279,8 @@
         {
             "atomType": "Molecule",
             "name": "Ball Screw Assembly",
-            "x": 236,
-            "y": 154,
+            "x": 233,
+            "y": 143,
             "uniqueID": 315914,
             "ioValues": [],
             "topLevel": false,
@@ -1580,16 +1580,16 @@
                 {
                     "atomType": "Molecule",
                     "name": "Risers",
-                    "x": 230,
-                    "y": 88,
+                    "x": 232,
+                    "y": 93,
                     "uniqueID": 826098,
                     "ioValues": []
                 },
                 {
                     "atomType": "Molecule",
                     "name": "Ball Screw Assembly",
-                    "x": 236,
-                    "y": 154,
+                    "x": 233,
+                    "y": 143,
                     "uniqueID": 315914,
                     "ioValues": []
                 },
@@ -1652,18 +1652,6 @@
                 },
                 {
                     "ap1Name": "Geometry",
-                    "ap2Name": "3D shape 910096",
-                    "ap1ID": 517888,
-                    "ap2ID": 186277
-                },
-                {
-                    "ap1Name": "Geometry",
-                    "ap2Name": "3D shape 906873",
-                    "ap1ID": 315914,
-                    "ap2ID": 917946
-                },
-                {
-                    "ap1Name": "Geometry",
                     "ap2Name": "3D shape 892653",
                     "ap1ID": 315914,
                     "ap2ID": 851874
@@ -1673,12 +1661,6 @@
                     "ap2Name": "3D shape 811674",
                     "ap1ID": 201738,
                     "ap2ID": 851874
-                },
-                {
-                    "ap1Name": "Geometry",
-                    "ap2Name": "3D shape 397220",
-                    "ap1ID": 201738,
-                    "ap2ID": 374294
                 },
                 {
                     "ap1Name": "geometry",
