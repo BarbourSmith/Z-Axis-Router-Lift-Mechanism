@@ -577,7 +577,7 @@
         },
         {
             "atomType": "Molecule",
-            "name": "Molecule",
+            "name": "Base",
             "x": 135,
             "y": 63,
             "uniqueID": 895349,
@@ -597,7 +597,7 @@
         },
         {
             "atomType": "Molecule",
-            "name": "Molecule",
+            "name": "Post",
             "x": 141,
             "y": 148,
             "uniqueID": 817028,
@@ -617,7 +617,7 @@
         },
         {
             "atomType": "Molecule",
-            "name": "Molecule",
+            "name": "Slides",
             "x": 142,
             "y": 224,
             "uniqueID": 424897,
@@ -646,7 +646,7 @@
             "allAtoms": [
                 {
                     "atomType": "Molecule",
-                    "name": "Molecule",
+                    "name": "Base",
                     "x": 135,
                     "y": 63,
                     "uniqueID": 895349,
@@ -654,7 +654,7 @@
                 },
                 {
                     "atomType": "Molecule",
-                    "name": "Molecule",
+                    "name": "Post",
                     "x": 141,
                     "y": 148,
                     "uniqueID": 817028,
@@ -662,7 +662,7 @@
                 },
                 {
                     "atomType": "Molecule",
-                    "name": "Molecule",
+                    "name": "Slides",
                     "x": 142,
                     "y": 224,
                     "uniqueID": 424897,
@@ -1608,13 +1608,69 @@
         },
         {
             "atomType": "Molecule",
-            "name": "Hardware",
+            "name": "Latch",
+            "x": 88,
+            "y": 57,
+            "uniqueID": 307044,
+            "ioValues": [],
+            "topLevel": false,
+            "allAtoms": [
+                {
+                    "atomType": "Output",
+                    "name": "Output",
+                    "x": 1316,
+                    "y": 164,
+                    "ioValues": []
+                }
+            ],
+            "allConnectors": [],
+            "fileTypeVersion": 1
+        },
+        {
+            "atomType": "Molecule",
+            "name": "Spacers",
+            "x": 104,
+            "y": 170,
+            "uniqueID": 219585,
+            "ioValues": [],
+            "topLevel": false,
+            "allAtoms": [
+                {
+                    "atomType": "Output",
+                    "name": "Output",
+                    "x": 1316,
+                    "y": 164,
+                    "ioValues": []
+                }
+            ],
+            "allConnectors": [],
+            "fileTypeVersion": 1
+        },
+        {
+            "atomType": "Molecule",
+            "name": "Latch",
             "x": 237,
             "y": 268,
             "uniqueID": 827096,
             "ioValues": [],
             "topLevel": false,
             "allAtoms": [
+                {
+                    "atomType": "Molecule",
+                    "name": "Latch",
+                    "x": 88,
+                    "y": 57,
+                    "uniqueID": 307044,
+                    "ioValues": []
+                },
+                {
+                    "atomType": "Molecule",
+                    "name": "Spacers",
+                    "x": 104,
+                    "y": 170,
+                    "uniqueID": 219585,
+                    "ioValues": []
+                },
                 {
                     "atomType": "Output",
                     "name": "Output",
@@ -1692,7 +1748,7 @@
                 },
                 {
                     "atomType": "Molecule",
-                    "name": "Hardware",
+                    "name": "Latch",
                     "x": 237,
                     "y": 268,
                     "uniqueID": 827096,
