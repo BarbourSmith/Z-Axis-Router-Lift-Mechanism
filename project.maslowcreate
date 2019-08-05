@@ -25,8 +25,8 @@
                 {
                     "atomType": "Circle",
                     "name": "Circle",
-                    "x": 214,
-                    "y": 33,
+                    "x": 201,
+                    "y": 43,
                     "uniqueID": 243787,
                     "ioValues": [
                         {
@@ -36,10 +36,27 @@
                     ]
                 },
                 {
+                    "atomType": "Rectangle",
+                    "name": "Rectangle",
+                    "x": 200,
+                    "y": 105,
+                    "uniqueID": 611218,
+                    "ioValues": [
+                        {
+                            "name": "x length",
+                            "ioValue": 2
+                        },
+                        {
+                            "name": "y length",
+                            "ioValue": 40
+                        }
+                    ]
+                },
+                {
                     "atomType": "Equation",
                     "name": "Equation",
-                    "x": 167,
-                    "y": 161,
+                    "x": 189,
+                    "y": 232,
                     "uniqueID": 524740,
                     "ioValues": [
                         {
@@ -54,10 +71,73 @@
                     "currentEquation": "x + y"
                 },
                 {
+                    "atomType": "Translate",
+                    "name": "Translate",
+                    "x": 298,
+                    "y": 151,
+                    "uniqueID": 532673,
+                    "ioValues": [
+                        {
+                            "name": "xDist",
+                            "ioValue": 0
+                        },
+                        {
+                            "name": "yDist",
+                            "ioValue": 0
+                        },
+                        {
+                            "name": "zDist",
+                            "ioValue": 0
+                        }
+                    ]
+                },
+                {
+                    "atomType": "Assembly",
+                    "name": "Assembly",
+                    "x": 334,
+                    "y": 81,
+                    "uniqueID": 339953,
+                    "ioValues": [
+                        {
+                            "name": "3D shape 781288",
+                            "ioValue": 10
+                        },
+                        {
+                            "name": "3D shape 380356",
+                            "ioValue": 10
+                        },
+                        {
+                            "name": "3D shape 779983",
+                            "ioValue": 10
+                        }
+                    ]
+                },
+                {
+                    "atomType": "Rotate",
+                    "name": "Rotate",
+                    "x": 404,
+                    "y": 179,
+                    "uniqueID": 316995,
+                    "ioValues": [
+                        {
+                            "name": "x-axis degrees",
+                            "ioValue": 0
+                        },
+                        {
+                            "name": "y-axis degrees",
+                            "ioValue": 0
+                        },
+                        {
+                            "name": "z-axis degrees",
+                            "ioValue": 0
+                        }
+                    ]
+                },
+                {
                     "atomType": "Circle",
                     "name": "Circle",
-                    "x": 159,
-                    "y": 228,
+                    "x": 460,
+                    "y": 104,
                     "uniqueID": 755140,
                     "ioValues": [
                         {
@@ -69,8 +149,8 @@
                 {
                     "atomType": "Translate",
                     "name": "Translate",
-                    "x": 347,
-                    "y": 58,
+                    "x": 594,
+                    "y": 77,
                     "uniqueID": 524159,
                     "ioValues": [
                         {
@@ -90,8 +170,8 @@
                 {
                     "atomType": "Translate",
                     "name": "Translate",
-                    "x": 464,
-                    "y": 144,
+                    "x": 704,
+                    "y": 123,
                     "uniqueID": 133738,
                     "ioValues": [
                         {
@@ -258,6 +338,24 @@
                     "ap2Name": "geometry2",
                     "ap1ID": 243787,
                     "ap2ID": 491946
+                },
+                {
+                    "ap1Name": "geometry",
+                    "ap2Name": "3D shape 380356",
+                    "ap1ID": 243787,
+                    "ap2ID": 339953
+                },
+                {
+                    "ap1Name": "geometry",
+                    "ap2Name": "3D shape 781288",
+                    "ap1ID": 611218,
+                    "ap2ID": 339953
+                },
+                {
+                    "ap1Name": "geometry",
+                    "ap2Name": "geometry",
+                    "ap1ID": 611218,
+                    "ap2ID": 532673
                 },
                 {
                     "ap1Name": "result",
