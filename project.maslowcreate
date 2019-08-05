@@ -610,7 +610,7 @@
                     "ioValues": [
                         {
                             "name": "diameter",
-                            "ioValue": 10
+                            "ioValue": 30
                         }
                     ]
                 },
@@ -657,6 +657,32 @@
                     ]
                 },
                 {
+                    "atomType": "ShrinkWrap",
+                    "name": "Shrink Wrap",
+                    "x": 373,
+                    "y": 120,
+                    "uniqueID": 853364,
+                    "ioValues": [
+                        {
+                            "name": "3D shape 915214",
+                            "ioValue": 10
+                        },
+                        {
+                            "name": "3D shape 468551",
+                            "ioValue": 10
+                        },
+                        {
+                            "name": "3D shape 430989",
+                            "ioValue": 10
+                        },
+                        {
+                            "name": "3D shape 759069",
+                            "ioValue": 10
+                        }
+                    ],
+                    "closedSelection": 0
+                },
+                {
                     "atomType": "Output",
                     "name": "Output",
                     "x": 1316,
@@ -676,6 +702,24 @@
                     "ap2Name": "geometry",
                     "ap1ID": 705517,
                     "ap2ID": 232110
+                },
+                {
+                    "ap1Name": "geometry",
+                    "ap2Name": "3D shape 468551",
+                    "ap1ID": 183580,
+                    "ap2ID": 853364
+                },
+                {
+                    "ap1Name": "geometry",
+                    "ap2Name": "3D shape 430989",
+                    "ap1ID": 560470,
+                    "ap2ID": 853364
+                },
+                {
+                    "ap1Name": "geometry",
+                    "ap2Name": "3D shape 915214",
+                    "ap1ID": 232110,
+                    "ap2ID": 853364
                 }
             ],
             "fileTypeVersion": 1
