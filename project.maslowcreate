@@ -6,7 +6,12 @@
             "x": 259,
             "y": 35,
             "uniqueID": 517888,
-            "ioValues": [],
+            "ioValues": [
+                {
+                    "name": "Bit Depth",
+                    "ioValue": 10
+                }
+            ],
             "topLevel": false,
             "allAtoms": [
                 {
@@ -55,8 +60,8 @@
                 {
                     "atomType": "Equation",
                     "name": "Equation",
-                    "x": 189,
-                    "y": 232,
+                    "x": 200,
+                    "y": 194,
                     "uniqueID": 524740,
                     "ioValues": [
                         {
@@ -69,6 +74,14 @@
                         }
                     ],
                     "currentEquation": "x + y"
+                },
+                {
+                    "atomType": "Input",
+                    "name": "Bit Depth",
+                    "x": 55,
+                    "y": 277,
+                    "uniqueID": 761745,
+                    "ioValues": []
                 },
                 {
                     "atomType": "Translate",
@@ -111,6 +124,24 @@
                             "ioValue": 60
                         }
                     ]
+                },
+                {
+                    "atomType": "Equation",
+                    "name": "Equation",
+                    "x": 215,
+                    "y": 280,
+                    "uniqueID": 711907,
+                    "ioValues": [
+                        {
+                            "name": "x",
+                            "ioValue": 1
+                        },
+                        {
+                            "name": "y",
+                            "ioValue": 1
+                        }
+                    ],
+                    "currentEquation": "x + y"
                 },
                 {
                     "atomType": "Circle",
@@ -302,8 +333,8 @@
                 {
                     "atomType": "Translate",
                     "name": "Translate",
-                    "x": 1078,
-                    "y": 134,
+                    "x": 1073,
+                    "y": 119,
                     "uniqueID": 316437,
                     "ioValues": [
                         {
@@ -336,8 +367,8 @@
                 {
                     "atomType": "Translate",
                     "name": "Translate",
-                    "x": 1088,
-                    "y": 219,
+                    "x": 1189,
+                    "y": 158,
                     "uniqueID": 888917,
                     "ioValues": [
                         {
@@ -357,8 +388,8 @@
                 {
                     "atomType": "Assembly",
                     "name": "Assembly",
-                    "x": 1195,
-                    "y": 163,
+                    "x": 1258,
+                    "y": 66,
                     "uniqueID": 423382,
                     "ioValues": [
                         {
@@ -1410,8 +1441,8 @@
             "uniqueID": 201738,
             "ioValues": [
                 {
-                    "name": "Input873656",
-                    "ioValue": 10
+                    "name": "Bit Depth",
+                    "ioValue": 0
                 }
             ],
             "topLevel": false,
@@ -1427,7 +1458,7 @@
                 },
                 {
                     "atomType": "Input",
-                    "name": "Input873656",
+                    "name": "Bit Depth",
                     "x": 72,
                     "y": 208,
                     "uniqueID": 506256,
@@ -1470,6 +1501,12 @@
                     "ap2ID": 327033
                 },
                 {
+                    "ap1Name": "number or geometry",
+                    "ap2Name": "zDist",
+                    "ap1ID": 506256,
+                    "ap2ID": 327033
+                },
+                {
                     "ap1Name": "geometry",
                     "ap2Name": "number or geometry",
                     "ap1ID": 327033
@@ -1505,7 +1542,12 @@
                     "x": 259,
                     "y": 35,
                     "uniqueID": 517888,
-                    "ioValues": []
+                    "ioValues": [
+                        {
+                            "name": "Bit Depth",
+                            "ioValue": 10
+                        }
+                    ]
                 },
                 {
                     "atomType": "Molecule",
@@ -1531,8 +1573,8 @@
                     "uniqueID": 201738,
                     "ioValues": [
                         {
-                            "name": "Input873656",
-                            "ioValue": 10
+                            "name": "Bit Depth",
+                            "ioValue": 0
                         }
                     ]
                 },
@@ -1570,6 +1612,12 @@
                 }
             ],
             "allConnectors": [
+                {
+                    "ap1Name": "number",
+                    "ap2Name": "Bit Depth",
+                    "ap1ID": 649665,
+                    "ap2ID": 201738
+                },
                 {
                     "ap1Name": "Geometry",
                     "ap2Name": "3D shape 294875",
