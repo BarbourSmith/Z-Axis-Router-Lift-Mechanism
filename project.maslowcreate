@@ -2,6 +2,66 @@
     "molecules": [
         {
             "atomType": "Molecule",
+            "name": "Molecule",
+            "x": 79,
+            "y": 196,
+            "uniqueID": 363878,
+            "ioValues": [],
+            "topLevel": false,
+            "allAtoms": [
+                {
+                    "atomType": "Output",
+                    "name": "Output",
+                    "x": 1316,
+                    "y": 164,
+                    "ioValues": []
+                }
+            ],
+            "allConnectors": [],
+            "fileTypeVersion": 1
+        },
+        {
+            "atomType": "Molecule",
+            "name": "Spacers and Bolts",
+            "x": 133,
+            "y": 250,
+            "uniqueID": 387913,
+            "ioValues": [],
+            "topLevel": false,
+            "allAtoms": [
+                {
+                    "atomType": "Output",
+                    "name": "Output",
+                    "x": 1316,
+                    "y": 164,
+                    "ioValues": []
+                }
+            ],
+            "allConnectors": [],
+            "fileTypeVersion": 1
+        },
+        {
+            "atomType": "Molecule",
+            "name": "Latch",
+            "x": 143,
+            "y": 308,
+            "uniqueID": 800391,
+            "ioValues": [],
+            "topLevel": false,
+            "allAtoms": [
+                {
+                    "atomType": "Output",
+                    "name": "Output",
+                    "x": 1316,
+                    "y": 164,
+                    "ioValues": []
+                }
+            ],
+            "allConnectors": [],
+            "fileTypeVersion": 1
+        },
+        {
+            "atomType": "Molecule",
             "name": "Plates",
             "x": 235,
             "y": 44,
@@ -58,6 +118,14 @@
                     ]
                 },
                 {
+                    "atomType": "Molecule",
+                    "name": "Molecule",
+                    "x": 79,
+                    "y": 196,
+                    "uniqueID": 363878,
+                    "ioValues": []
+                },
+                {
                     "atomType": "Equation",
                     "name": "Equation",
                     "x": 200,
@@ -74,6 +142,14 @@
                         }
                     ],
                     "currentEquation": "x + y"
+                },
+                {
+                    "atomType": "Molecule",
+                    "name": "Spacers and Bolts",
+                    "x": 133,
+                    "y": 250,
+                    "uniqueID": 387913,
+                    "ioValues": []
                 },
                 {
                     "atomType": "Translate",
@@ -116,6 +192,14 @@
                             "ioValue": 60
                         }
                     ]
+                },
+                {
+                    "atomType": "Molecule",
+                    "name": "Latch",
+                    "x": 143,
+                    "y": 308,
+                    "uniqueID": 800391,
+                    "ioValues": []
                 },
                 {
                     "atomType": "Circle",
