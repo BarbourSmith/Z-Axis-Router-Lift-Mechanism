@@ -3,12 +3,38 @@
         {
             "atomType": "Molecule",
             "name": "Plates",
-            "x": 117,
-            "y": 67,
+            "x": 119,
+            "y": 61,
             "uniqueID": 517888,
             "ioValues": [],
             "topLevel": false,
             "allAtoms": [
+                {
+                    "atomType": "Constant",
+                    "name": "Router Diamter",
+                    "x": 51,
+                    "y": 47,
+                    "uniqueID": 964767,
+                    "ioValues": [
+                        {
+                            "name": "number",
+                            "ioValue": 89
+                        }
+                    ]
+                },
+                {
+                    "atomType": "Circle",
+                    "name": "Circle",
+                    "x": 185,
+                    "y": 74,
+                    "uniqueID": 243787,
+                    "ioValues": [
+                        {
+                            "name": "diameter",
+                            "ioValue": 89
+                        }
+                    ]
+                },
                 {
                     "atomType": "Output",
                     "name": "Output",
@@ -17,7 +43,14 @@
                     "ioValues": []
                 }
             ],
-            "allConnectors": [],
+            "allConnectors": [
+                {
+                    "ap1Name": "number",
+                    "ap2Name": "diameter",
+                    "ap1ID": 964767,
+                    "ap2ID": 243787
+                }
+            ],
             "fileTypeVersion": 1
         },
         {
@@ -52,8 +85,8 @@
                 {
                     "atomType": "Molecule",
                     "name": "Plates",
-                    "x": 117,
-                    "y": 67,
+                    "x": 119,
+                    "y": 61,
                     "uniqueID": 517888,
                     "ioValues": []
                 },
