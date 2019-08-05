@@ -2,10 +2,30 @@
     "molecules": [
         {
             "atomType": "Molecule",
-            "name": "Molecule",
+            "name": "Plates",
             "x": 122,
             "y": 72,
             "uniqueID": 517888,
+            "ioValues": [],
+            "topLevel": false,
+            "allAtoms": [
+                {
+                    "atomType": "Output",
+                    "name": "Output",
+                    "x": 1316,
+                    "y": 164,
+                    "ioValues": []
+                }
+            ],
+            "allConnectors": [],
+            "fileTypeVersion": 1
+        },
+        {
+            "atomType": "Molecule",
+            "name": "Risers",
+            "x": 122,
+            "y": 161,
+            "uniqueID": 826098,
             "ioValues": [],
             "topLevel": false,
             "allAtoms": [
@@ -31,10 +51,18 @@
             "allAtoms": [
                 {
                     "atomType": "Molecule",
-                    "name": "Molecule",
+                    "name": "Plates",
                     "x": 122,
                     "y": 72,
                     "uniqueID": 517888,
+                    "ioValues": []
+                },
+                {
+                    "atomType": "Molecule",
+                    "name": "Risers",
+                    "x": 122,
+                    "y": 161,
+                    "uniqueID": 826098,
                     "ioValues": []
                 },
                 {
