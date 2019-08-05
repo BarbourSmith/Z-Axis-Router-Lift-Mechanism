@@ -46,13 +46,13 @@ The radius of this is not displayed on the diagram, and is estimated. It should 
 undefined
 
 
-## Threaded Nut
+## Shaft Coupler
 
 
 undefined
 
 
-## Shaft Coupler
+## Threaded Nut
 
 
 undefined

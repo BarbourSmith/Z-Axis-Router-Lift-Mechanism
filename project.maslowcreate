@@ -753,9 +753,115 @@
         },
         {
             "atomType": "Molecule",
-            "name": "Threaded Nut",
+            "name": "Shaft Coupler",
             "x": 126,
-            "y": 204,
+            "y": 199,
+            "uniqueID": 495279,
+            "ioValues": [],
+            "topLevel": false,
+            "allAtoms": [
+                {
+                    "atomType": "Circle",
+                    "name": "Circle",
+                    "x": 96,
+                    "y": 117,
+                    "uniqueID": 572160,
+                    "ioValues": [
+                        {
+                            "name": "diameter",
+                            "ioValue": 25
+                        }
+                    ]
+                },
+                {
+                    "atomType": "Extrude",
+                    "name": "Extrude",
+                    "x": 267,
+                    "y": 75,
+                    "uniqueID": 732224,
+                    "ioValues": [
+                        {
+                            "name": "height",
+                            "ioValue": 30
+                        }
+                    ]
+                },
+                {
+                    "atomType": "Translate",
+                    "name": "Translate",
+                    "x": 464,
+                    "y": 133,
+                    "uniqueID": 361898,
+                    "ioValues": [
+                        {
+                            "name": "xDist",
+                            "ioValue": 0
+                        },
+                        {
+                            "name": "yDist",
+                            "ioValue": 0
+                        },
+                        {
+                            "name": "zDist",
+                            "ioValue": 40
+                        }
+                    ]
+                },
+                {
+                    "atomType": "Add BOM Tag",
+                    "name": "Add BOM Tag",
+                    "x": 689,
+                    "y": 77,
+                    "uniqueID": 873275,
+                    "ioValues": [],
+                    "BOMitem": {
+                        "BOMitemName": "name",
+                        "numberNeeded": 0,
+                        "costUSD": 0,
+                        "source": "www.example.com",
+                        "totalNeeded": 0
+                    }
+                },
+                {
+                    "atomType": "Output",
+                    "name": "Output",
+                    "x": 1316,
+                    "y": 164,
+                    "ioValues": []
+                }
+            ],
+            "allConnectors": [
+                {
+                    "ap1Name": "geometry",
+                    "ap2Name": "geometry",
+                    "ap1ID": 572160,
+                    "ap2ID": 732224
+                },
+                {
+                    "ap1Name": "geometry",
+                    "ap2Name": "geometry",
+                    "ap1ID": 732224,
+                    "ap2ID": 361898
+                },
+                {
+                    "ap1Name": "geometry",
+                    "ap2Name": "geometry",
+                    "ap1ID": 361898,
+                    "ap2ID": 873275
+                },
+                {
+                    "ap1Name": "geometry",
+                    "ap2Name": "number or geometry",
+                    "ap1ID": 873275
+                }
+            ],
+            "fileTypeVersion": 1
+        },
+        {
+            "atomType": "Molecule",
+            "name": "Threaded Nut",
+            "x": 122,
+            "y": 255,
             "uniqueID": 574138,
             "ioValues": [],
             "topLevel": false,
@@ -1133,112 +1239,6 @@
         },
         {
             "atomType": "Molecule",
-            "name": "Shaft Coupler",
-            "x": 120,
-            "y": 274,
-            "uniqueID": 495279,
-            "ioValues": [],
-            "topLevel": false,
-            "allAtoms": [
-                {
-                    "atomType": "Circle",
-                    "name": "Circle",
-                    "x": 137,
-                    "y": 118,
-                    "uniqueID": 572160,
-                    "ioValues": [
-                        {
-                            "name": "diameter",
-                            "ioValue": 10
-                        }
-                    ]
-                },
-                {
-                    "atomType": "Extrude",
-                    "name": "Extrude",
-                    "x": 271,
-                    "y": 74,
-                    "uniqueID": 732224,
-                    "ioValues": [
-                        {
-                            "name": "height",
-                            "ioValue": 10
-                        }
-                    ]
-                },
-                {
-                    "atomType": "Translate",
-                    "name": "Translate",
-                    "x": 464,
-                    "y": 133,
-                    "uniqueID": 361898,
-                    "ioValues": [
-                        {
-                            "name": "xDist",
-                            "ioValue": 0
-                        },
-                        {
-                            "name": "yDist",
-                            "ioValue": 0
-                        },
-                        {
-                            "name": "zDist",
-                            "ioValue": 0
-                        }
-                    ]
-                },
-                {
-                    "atomType": "Add BOM Tag",
-                    "name": "Add BOM Tag",
-                    "x": 689,
-                    "y": 77,
-                    "uniqueID": 873275,
-                    "ioValues": [],
-                    "BOMitem": {
-                        "BOMitemName": "name",
-                        "numberNeeded": 0,
-                        "costUSD": 0,
-                        "source": "www.example.com",
-                        "totalNeeded": 0
-                    }
-                },
-                {
-                    "atomType": "Output",
-                    "name": "Output",
-                    "x": 1316,
-                    "y": 164,
-                    "ioValues": []
-                }
-            ],
-            "allConnectors": [
-                {
-                    "ap1Name": "geometry",
-                    "ap2Name": "geometry",
-                    "ap1ID": 572160,
-                    "ap2ID": 732224
-                },
-                {
-                    "ap1Name": "geometry",
-                    "ap2Name": "geometry",
-                    "ap1ID": 732224,
-                    "ap2ID": 361898
-                },
-                {
-                    "ap1Name": "geometry",
-                    "ap2Name": "geometry",
-                    "ap1ID": 361898,
-                    "ap2ID": 873275
-                },
-                {
-                    "ap1Name": "geometry",
-                    "ap2Name": "number or geometry",
-                    "ap1ID": 873275
-                }
-            ],
-            "fileTypeVersion": 1
-        },
-        {
-            "atomType": "Molecule",
             "name": "Ball Screw Assembly",
             "x": 114,
             "y": 209,
@@ -1264,25 +1264,25 @@
                 },
                 {
                     "atomType": "Molecule",
-                    "name": "Threaded Nut",
+                    "name": "Shaft Coupler",
                     "x": 126,
-                    "y": 204,
-                    "uniqueID": 574138,
+                    "y": 199,
+                    "uniqueID": 495279,
                     "ioValues": []
                 },
                 {
                     "atomType": "Molecule",
-                    "name": "Shaft Coupler",
-                    "x": 120,
-                    "y": 274,
-                    "uniqueID": 495279,
+                    "name": "Threaded Nut",
+                    "x": 122,
+                    "y": 255,
+                    "uniqueID": 574138,
                     "ioValues": []
                 },
                 {
                     "atomType": "Translate",
                     "name": "Translate",
-                    "x": 448,
-                    "y": 151,
+                    "x": 435,
+                    "y": 172,
                     "uniqueID": 285083,
                     "ioValues": [
                         {
@@ -1320,6 +1320,10 @@
                         },
                         {
                             "name": "3D shape 187502",
+                            "ioValue": 10
+                        },
+                        {
+                            "name": "3D shape 111772",
                             "ioValue": 10
                         }
                     ]
@@ -1364,6 +1368,12 @@
                     "ap1Name": "Geometry",
                     "ap2Name": "3D shape 381592",
                     "ap1ID": 976267,
+                    "ap2ID": 624382
+                },
+                {
+                    "ap1Name": "Geometry",
+                    "ap2Name": "3D shape 187502",
+                    "ap1ID": 495279,
                     "ap2ID": 624382
                 },
                 {
