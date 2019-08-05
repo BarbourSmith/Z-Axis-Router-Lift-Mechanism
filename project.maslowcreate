@@ -3,8 +3,8 @@
         {
             "atomType": "Molecule",
             "name": "Plates",
-            "x": 214,
-            "y": 29,
+            "x": 235,
+            "y": 44,
             "uniqueID": 517888,
             "ioValues": [
                 {
@@ -2788,8 +2788,8 @@
                 {
                     "atomType": "Molecule",
                     "name": "Plates",
-                    "x": 214,
-                    "y": 29,
+                    "x": 235,
+                    "y": 44,
                     "uniqueID": 517888,
                     "ioValues": [
                         {
@@ -2834,6 +2834,23 @@
                     "y": 289,
                     "uniqueID": 827096,
                     "ioValues": []
+                },
+                {
+                    "atomType": "Assembly",
+                    "name": "Assembly",
+                    "x": 543,
+                    "y": 48,
+                    "uniqueID": 357621,
+                    "ioValues": [
+                        {
+                            "name": "3D shape 500304",
+                            "ioValue": 10
+                        },
+                        {
+                            "name": "3D shape 167277",
+                            "ioValue": 10
+                        }
+                    ]
                 },
                 {
                     "atomType": "Assembly",
@@ -2886,6 +2903,18 @@
                     "ap2Name": "3D shape 488055",
                     "ap1ID": 517888,
                     "ap2ID": 976791
+                },
+                {
+                    "ap1Name": "Geometry",
+                    "ap2Name": "3D shape 386736",
+                    "ap1ID": 517888,
+                    "ap2ID": 456165
+                },
+                {
+                    "ap1Name": "Geometry",
+                    "ap2Name": "3D shape 500304",
+                    "ap1ID": 517888,
+                    "ap2ID": 357621
                 },
                 {
                     "ap1Name": "Geometry",
