@@ -1279,7 +1279,7 @@
                     "ioValues": [
                         {
                             "name": "xDist",
-                            "ioValue": 15
+                            "ioValue": 20
                         },
                         {
                             "name": "yDist",
@@ -1292,31 +1292,52 @@
                     ]
                 },
                 {
-                    "atomType": "Assembly",
-                    "name": "Assembly",
-                    "x": 656,
-                    "y": 88,
-                    "uniqueID": 193422,
+                    "atomType": "Rotate",
+                    "name": "Rotate",
+                    "x": 582,
+                    "y": 185,
+                    "uniqueID": 343533,
                     "ioValues": [
                         {
-                            "name": "3D shape 172661",
-                            "ioValue": 10
+                            "name": "x-axis degrees",
+                            "ioValue": 0
                         },
                         {
-                            "name": "3D shape 856916",
-                            "ioValue": 10
+                            "name": "y-axis degrees",
+                            "ioValue": 0
                         },
                         {
-                            "name": "3D shape 112694",
-                            "ioValue": 10
+                            "name": "z-axis degrees",
+                            "ioValue": 0
+                        }
+                    ]
+                },
+                {
+                    "atomType": "Rotate",
+                    "name": "Rotate",
+                    "x": 721,
+                    "y": 168,
+                    "uniqueID": 744301,
+                    "ioValues": [
+                        {
+                            "name": "x-axis degrees",
+                            "ioValue": 0
+                        },
+                        {
+                            "name": "y-axis degrees",
+                            "ioValue": 0
+                        },
+                        {
+                            "name": "z-axis degrees",
+                            "ioValue": 0
                         }
                     ]
                 },
                 {
                     "atomType": "Assembly",
                     "name": "Assembly",
-                    "x": 753,
-                    "y": 34,
+                    "x": 811,
+                    "y": 25,
                     "uniqueID": 806222,
                     "ioValues": [
                         {
@@ -1334,10 +1355,52 @@
                     ]
                 },
                 {
+                    "atomType": "Assembly",
+                    "name": "Assembly",
+                    "x": 814,
+                    "y": 91,
+                    "uniqueID": 193422,
+                    "ioValues": [
+                        {
+                            "name": "3D shape 172661",
+                            "ioValue": 10
+                        },
+                        {
+                            "name": "3D shape 856916",
+                            "ioValue": 10
+                        },
+                        {
+                            "name": "3D shape 112694",
+                            "ioValue": 10
+                        }
+                    ]
+                },
+                {
+                    "atomType": "Rotate",
+                    "name": "Rotate",
+                    "x": 849,
+                    "y": 189,
+                    "uniqueID": 812197,
+                    "ioValues": [
+                        {
+                            "name": "x-axis degrees",
+                            "ioValue": 0
+                        },
+                        {
+                            "name": "y-axis degrees",
+                            "ioValue": 0
+                        },
+                        {
+                            "name": "z-axis degrees",
+                            "ioValue": 0
+                        }
+                    ]
+                },
+                {
                     "atomType": "Extrude",
                     "name": "Extrude",
-                    "x": 783,
-                    "y": 108,
+                    "x": 1013,
+                    "y": 123,
                     "uniqueID": 768664,
                     "ioValues": [
                         {
@@ -1349,8 +1412,8 @@
                 {
                     "atomType": "Difference",
                     "name": "Difference",
-                    "x": 985,
-                    "y": 76,
+                    "x": 1151,
+                    "y": 70,
                     "uniqueID": 858181,
                     "ioValues": []
                 },
@@ -1408,14 +1471,32 @@
                 {
                     "ap1Name": "geometry",
                     "ap2Name": "geometry",
-                    "ap1ID": 193422,
-                    "ap2ID": 768664
+                    "ap1ID": 984314,
+                    "ap2ID": 343533
+                },
+                {
+                    "ap1Name": "geometry",
+                    "ap2Name": "geometry",
+                    "ap1ID": 984314,
+                    "ap2ID": 744301
+                },
+                {
+                    "ap1Name": "geometry",
+                    "ap2Name": "geometry",
+                    "ap1ID": 984314,
+                    "ap2ID": 812197
                 },
                 {
                     "ap1Name": "geometry",
                     "ap2Name": "geometry1",
                     "ap1ID": 806222,
                     "ap2ID": 858181
+                },
+                {
+                    "ap1Name": "geometry",
+                    "ap2Name": "geometry",
+                    "ap1ID": 193422,
+                    "ap2ID": 768664
                 },
                 {
                     "ap1Name": "geometry",
