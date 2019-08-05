@@ -25,8 +25,8 @@
                 {
                     "atomType": "Circle",
                     "name": "Circle",
-                    "x": 203,
-                    "y": 68,
+                    "x": 193,
+                    "y": 63,
                     "uniqueID": 243787,
                     "ioValues": [
                         {
@@ -69,23 +69,78 @@
                 {
                     "atomType": "Circle",
                     "name": "Circle",
-                    "x": 276,
-                    "y": 240,
+                    "x": 251,
+                    "y": 244,
                     "uniqueID": 755140,
                     "ioValues": [
                         {
                             "name": "diameter",
-                            "ioValue": 10
+                            "ioValue": 25
                         }
                     ]
                 },
                 {
                     "atomType": "Difference",
                     "name": "Difference",
-                    "x": 417,
-                    "y": 97,
+                    "x": 393,
+                    "y": 63,
                     "uniqueID": 491946,
                     "ioValues": []
+                },
+                {
+                    "atomType": "Translate",
+                    "name": "Translate",
+                    "x": 388,
+                    "y": 212,
+                    "uniqueID": 133738,
+                    "ioValues": [
+                        {
+                            "name": "xDist",
+                            "ioValue": 50
+                        },
+                        {
+                            "name": "yDist",
+                            "ioValue": 0
+                        },
+                        {
+                            "name": "zDist",
+                            "ioValue": 0
+                        }
+                    ]
+                },
+                {
+                    "atomType": "Translate",
+                    "name": "Translate",
+                    "x": 390,
+                    "y": 292,
+                    "uniqueID": 524159,
+                    "ioValues": [
+                        {
+                            "name": "xDist",
+                            "ioValue": 0
+                        },
+                        {
+                            "name": "yDist",
+                            "ioValue": 0
+                        },
+                        {
+                            "name": "zDist",
+                            "ioValue": 0
+                        }
+                    ]
+                },
+                {
+                    "atomType": "Assembly",
+                    "name": "Assembly",
+                    "x": 556,
+                    "y": 177,
+                    "uniqueID": 853645,
+                    "ioValues": [
+                        {
+                            "name": "3D shape 979053",
+                            "ioValue": 10
+                        }
+                    ]
                 },
                 {
                     "atomType": "Extrude",
@@ -138,6 +193,18 @@
                     "ap2Name": "geometry1",
                     "ap1ID": 762946,
                     "ap2ID": 491946
+                },
+                {
+                    "ap1Name": "geometry",
+                    "ap2Name": "geometry",
+                    "ap1ID": 755140,
+                    "ap2ID": 133738
+                },
+                {
+                    "ap1Name": "geometry",
+                    "ap2Name": "geometry",
+                    "ap1ID": 755140,
+                    "ap2ID": 524159
                 },
                 {
                     "ap1Name": "geometry",
