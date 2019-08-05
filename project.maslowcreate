@@ -1195,21 +1195,21 @@
                 {
                     "atomType": "Circle",
                     "name": "Circle",
-                    "x": 101,
-                    "y": 55,
+                    "x": 73,
+                    "y": 27,
                     "uniqueID": 548207,
                     "ioValues": [
                         {
                             "name": "diameter",
-                            "ioValue": 40
+                            "ioValue": 46
                         }
                     ]
                 },
                 {
                     "atomType": "Circle",
                     "name": "Circle",
-                    "x": 115,
-                    "y": 122,
+                    "x": 171,
+                    "y": 63,
                     "uniqueID": 912595,
                     "ioValues": [
                         {
@@ -1219,10 +1219,23 @@
                     ]
                 },
                 {
+                    "atomType": "Circle",
+                    "name": "Circle",
+                    "x": 171,
+                    "y": 174,
+                    "uniqueID": 382542,
+                    "ioValues": [
+                        {
+                            "name": "diameter",
+                            "ioValue": 20
+                        }
+                    ]
+                },
+                {
                     "atomType": "Extrude",
                     "name": "Extrude",
-                    "x": 261,
-                    "y": 42,
+                    "x": 303,
+                    "y": 30,
                     "uniqueID": 423308,
                     "ioValues": [
                         {
@@ -1234,8 +1247,8 @@
                 {
                     "atomType": "Extrude",
                     "name": "Extrude",
-                    "x": 272,
-                    "y": 123,
+                    "x": 401,
+                    "y": 68,
                     "uniqueID": 223682,
                     "ioValues": [
                         {
@@ -1247,8 +1260,8 @@
                 {
                     "atomType": "Assembly",
                     "name": "Assembly",
-                    "x": 380,
-                    "y": 48,
+                    "x": 751,
+                    "y": 30,
                     "uniqueID": 806222,
                     "ioValues": [
                         {
