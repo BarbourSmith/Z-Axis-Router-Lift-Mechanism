@@ -578,12 +578,40 @@
         {
             "atomType": "Molecule",
             "name": "Base",
+            "x": 203,
+            "y": 111,
+            "uniqueID": 634303,
+            "ioValues": [],
+            "topLevel": false,
+            "allAtoms": [
+                {
+                    "atomType": "Output",
+                    "name": "Output",
+                    "x": 1316,
+                    "y": 164,
+                    "ioValues": []
+                }
+            ],
+            "allConnectors": [],
+            "fileTypeVersion": 1
+        },
+        {
+            "atomType": "Molecule",
+            "name": "Base",
             "x": 135,
             "y": 63,
             "uniqueID": 895349,
             "ioValues": [],
             "topLevel": false,
             "allAtoms": [
+                {
+                    "atomType": "Molecule",
+                    "name": "Base",
+                    "x": 203,
+                    "y": 111,
+                    "uniqueID": 634303,
+                    "ioValues": []
+                },
                 {
                     "atomType": "Output",
                     "name": "Output",
