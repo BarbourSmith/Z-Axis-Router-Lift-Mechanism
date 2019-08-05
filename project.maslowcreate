@@ -1214,7 +1214,7 @@
                     "ioValues": [
                         {
                             "name": "diameter",
-                            "ioValue": 10
+                            "ioValue": 30
                         }
                     ]
                 },
@@ -1234,12 +1234,29 @@
                 {
                     "atomType": "Extrude",
                     "name": "Extrude",
-                    "x": 278,
-                    "y": 122,
+                    "x": 272,
+                    "y": 123,
                     "uniqueID": 223682,
                     "ioValues": [
                         {
                             "name": "height",
+                            "ioValue": 106
+                        }
+                    ]
+                },
+                {
+                    "atomType": "Assembly",
+                    "name": "Assembly",
+                    "x": 401,
+                    "y": 74,
+                    "uniqueID": 806222,
+                    "ioValues": [
+                        {
+                            "name": "3D shape 698509",
+                            "ioValue": 10
+                        },
+                        {
+                            "name": "3D shape 611478",
                             "ioValue": 10
                         }
                     ]
@@ -1264,6 +1281,13 @@
                     "ap2Name": "geometry",
                     "ap1ID": 912595,
                     "ap2ID": 223682
+                },
+                null,
+                {
+                    "ap1Name": "geometry",
+                    "ap2Name": "3D shape 698509",
+                    "ap1ID": 223682,
+                    "ap2ID": 806222
                 }
             ],
             "fileTypeVersion": 1
