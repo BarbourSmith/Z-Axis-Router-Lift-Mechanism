@@ -25,8 +25,8 @@
                 {
                     "atomType": "Circle",
                     "name": "Circle",
-                    "x": 193,
-                    "y": 63,
+                    "x": 214,
+                    "y": 33,
                     "uniqueID": 243787,
                     "ioValues": [
                         {
@@ -145,8 +145,8 @@
                 {
                     "atomType": "ShrinkWrap",
                     "name": "Shrink Wrap",
-                    "x": 595,
-                    "y": 142,
+                    "x": 749,
+                    "y": 89,
                     "uniqueID": 166133,
                     "ioValues": [
                         {
@@ -171,8 +171,8 @@
                 {
                     "atomType": "ShrinkWrap",
                     "name": "Shrink Wrap",
-                    "x": 594,
-                    "y": 207,
+                    "x": 819,
+                    "y": 165,
                     "uniqueID": 488355,
                     "ioValues": [
                         {
@@ -191,18 +191,39 @@
                     "closedSelection": 0
                 },
                 {
+                    "atomType": "Assembly",
+                    "name": "Assembly",
+                    "x": 1012,
+                    "y": 131,
+                    "uniqueID": 822972,
+                    "ioValues": [
+                        {
+                            "name": "3D shape 472470",
+                            "ioValue": 10
+                        },
+                        {
+                            "name": "3D shape 770561",
+                            "ioValue": 10
+                        },
+                        {
+                            "name": "3D shape 202322",
+                            "ioValue": 10
+                        }
+                    ]
+                },
+                {
                     "atomType": "Difference",
                     "name": "Difference",
-                    "x": 740,
-                    "y": 54,
+                    "x": 1037,
+                    "y": 42,
                     "uniqueID": 491946,
                     "ioValues": []
                 },
                 {
                     "atomType": "Extrude",
                     "name": "Extrude",
-                    "x": 887,
-                    "y": 66,
+                    "x": 1183,
+                    "y": 56,
                     "uniqueID": 269056,
                     "ioValues": [
                         {
@@ -300,8 +321,20 @@
                 },
                 {
                     "ap1Name": "geometry",
-                    "ap2Name": "geometry1",
+                    "ap2Name": "3D shape 770561",
                     "ap1ID": 166133,
+                    "ap2ID": 822972
+                },
+                {
+                    "ap1Name": "geometry",
+                    "ap2Name": "3D shape 472470",
+                    "ap1ID": 488355,
+                    "ap2ID": 822972
+                },
+                {
+                    "ap1Name": "geometry",
+                    "ap2Name": "geometry1",
+                    "ap1ID": 822972,
                     "ap2ID": 491946
                 },
                 {
@@ -309,6 +342,11 @@
                     "ap2Name": "geometry",
                     "ap1ID": 491946,
                     "ap2ID": 269056
+                },
+                {
+                    "ap1Name": "geometry",
+                    "ap2Name": "number or geometry",
+                    "ap1ID": 269056
                 }
             ],
             "fileTypeVersion": 1
