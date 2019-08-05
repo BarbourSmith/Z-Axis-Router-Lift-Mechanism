@@ -498,8 +498,8 @@
         {
             "atomType": "Molecule",
             "name": "Motor",
-            "x": 130,
-            "y": 134,
+            "x": 135,
+            "y": 141,
             "uniqueID": 976267,
             "ioValues": [],
             "topLevel": false,
@@ -517,7 +517,7 @@
         },
         {
             "atomType": "Molecule",
-            "name": "Molecule",
+            "name": "Threaded Nut",
             "x": 134,
             "y": 199,
             "uniqueID": 574138,
@@ -555,14 +555,14 @@
                 {
                     "atomType": "Molecule",
                     "name": "Motor",
-                    "x": 130,
-                    "y": 134,
+                    "x": 135,
+                    "y": 141,
                     "uniqueID": 976267,
                     "ioValues": []
                 },
                 {
                     "atomType": "Molecule",
-                    "name": "Molecule",
+                    "name": "Threaded Nut",
                     "x": 134,
                     "y": 199,
                     "uniqueID": 574138,
