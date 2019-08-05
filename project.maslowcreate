@@ -3,8 +3,8 @@
         {
             "atomType": "Molecule",
             "name": "Plates",
-            "x": 108,
-            "y": 59,
+            "x": 109,
+            "y": 56,
             "uniqueID": 517888,
             "ioValues": [],
             "topLevel": false,
@@ -591,8 +591,8 @@
                 {
                     "atomType": "Molecule",
                     "name": "Plates",
-                    "x": 108,
-                    "y": 59,
+                    "x": 109,
+                    "y": 56,
                     "uniqueID": 517888,
                     "ioValues": []
                 },
