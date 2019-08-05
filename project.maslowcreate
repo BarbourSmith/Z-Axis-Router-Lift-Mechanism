@@ -3,8 +3,8 @@
         {
             "atomType": "Molecule",
             "name": "Plates",
-            "x": 229,
-            "y": 47,
+            "x": 228,
+            "y": 46,
             "uniqueID": 517888,
             "ioValues": [
                 {
@@ -1613,7 +1613,7 @@
                         },
                         {
                             "name": "zDist",
-                            "ioValue": 100
+                            "ioValue": 75
                         }
                     ]
                 },
@@ -2788,8 +2788,8 @@
                 {
                     "atomType": "Molecule",
                     "name": "Plates",
-                    "x": 229,
-                    "y": 47,
+                    "x": 228,
+                    "y": 46,
                     "uniqueID": 517888,
                     "ioValues": [
                         {
@@ -2838,6 +2838,27 @@
                 {
                     "atomType": "Assembly",
                     "name": "Assembly",
+                    "x": 407,
+                    "y": 58,
+                    "uniqueID": 976791,
+                    "ioValues": [
+                        {
+                            "name": "3D shape 420361",
+                            "ioValue": 10
+                        },
+                        {
+                            "name": "3D shape 488055",
+                            "ioValue": 10
+                        },
+                        {
+                            "name": "3D shape 591105",
+                            "ioValue": 10
+                        }
+                    ]
+                },
+                {
+                    "atomType": "Assembly",
+                    "name": "Assembly",
                     "x": 892,
                     "y": 133,
                     "uniqueID": 851874,
@@ -2876,6 +2897,18 @@
                     "ap2Name": "Bit Depth",
                     "ap1ID": 649665,
                     "ap2ID": 517888
+                },
+                {
+                    "ap1Name": "Geometry",
+                    "ap2Name": "3D shape 488055",
+                    "ap1ID": 517888,
+                    "ap2ID": 976791
+                },
+                {
+                    "ap1Name": "Geometry",
+                    "ap2Name": "3D shape 420361",
+                    "ap1ID": 826098,
+                    "ap2ID": 976791
                 },
                 {
                     "ap1Name": "Geometry",
