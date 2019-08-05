@@ -67,44 +67,10 @@
                     ]
                 },
                 {
-                    "atomType": "Circle",
-                    "name": "Circle",
-                    "x": 342,
-                    "y": 110,
-                    "uniqueID": 762946,
-                    "ioValues": [
-                        {
-                            "name": "diameter",
-                            "ioValue": 129
-                        }
-                    ]
-                },
-                {
                     "atomType": "Translate",
                     "name": "Translate",
-                    "x": 322,
-                    "y": 170,
-                    "uniqueID": 133738,
-                    "ioValues": [
-                        {
-                            "name": "xDist",
-                            "ioValue": 70
-                        },
-                        {
-                            "name": "yDist",
-                            "ioValue": 0
-                        },
-                        {
-                            "name": "zDist",
-                            "ioValue": 0
-                        }
-                    ]
-                },
-                {
-                    "atomType": "Translate",
-                    "name": "Translate",
-                    "x": 375,
-                    "y": 207,
+                    "x": 347,
+                    "y": 58,
                     "uniqueID": 524159,
                     "ioValues": [
                         {
@@ -124,8 +90,29 @@
                 {
                     "atomType": "Translate",
                     "name": "Translate",
-                    "x": 413,
-                    "y": 257,
+                    "x": 464,
+                    "y": 144,
+                    "uniqueID": 133738,
+                    "ioValues": [
+                        {
+                            "name": "xDist",
+                            "ioValue": 70
+                        },
+                        {
+                            "name": "yDist",
+                            "ioValue": 0
+                        },
+                        {
+                            "name": "zDist",
+                            "ioValue": 0
+                        }
+                    ]
+                },
+                {
+                    "atomType": "Translate",
+                    "name": "Translate",
+                    "x": 692,
+                    "y": 281,
                     "uniqueID": 239042,
                     "ioValues": [
                         {
@@ -143,10 +130,23 @@
                     ]
                 },
                 {
+                    "atomType": "Circle",
+                    "name": "Circle",
+                    "x": 783,
+                    "y": 198,
+                    "uniqueID": 762946,
+                    "ioValues": [
+                        {
+                            "name": "diameter",
+                            "ioValue": 129
+                        }
+                    ]
+                },
+                {
                     "atomType": "ShrinkWrap",
                     "name": "Shrink Wrap",
-                    "x": 749,
-                    "y": 89,
+                    "x": 911,
+                    "y": 90,
                     "uniqueID": 166133,
                     "ioValues": [
                         {
@@ -171,8 +171,8 @@
                 {
                     "atomType": "ShrinkWrap",
                     "name": "Shrink Wrap",
-                    "x": 819,
-                    "y": 165,
+                    "x": 977,
+                    "y": 242,
                     "uniqueID": 488355,
                     "ioValues": [
                         {
@@ -285,15 +285,9 @@
                 },
                 {
                     "ap1Name": "geometry",
-                    "ap2Name": "3D shape 692514",
-                    "ap1ID": 762946,
+                    "ap2Name": "3D shape 969137",
+                    "ap1ID": 524159,
                     "ap2ID": 166133
-                },
-                {
-                    "ap1Name": "geometry",
-                    "ap2Name": "3D shape 993479",
-                    "ap1ID": 762946,
-                    "ap2ID": 488355
                 },
                 {
                     "ap1Name": "geometry",
@@ -309,14 +303,20 @@
                 },
                 {
                     "ap1Name": "geometry",
-                    "ap2Name": "3D shape 969137",
-                    "ap1ID": 524159,
+                    "ap2Name": "3D shape 216154",
+                    "ap1ID": 239042,
+                    "ap2ID": 488355
+                },
+                {
+                    "ap1Name": "geometry",
+                    "ap2Name": "3D shape 692514",
+                    "ap1ID": 762946,
                     "ap2ID": 166133
                 },
                 {
                     "ap1Name": "geometry",
-                    "ap2Name": "3D shape 216154",
-                    "ap1ID": 239042,
+                    "ap2Name": "3D shape 993479",
+                    "ap1ID": 762946,
                     "ap2ID": 488355
                 },
                 {
