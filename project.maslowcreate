@@ -76,14 +76,6 @@
                     "currentEquation": "x + y"
                 },
                 {
-                    "atomType": "Input",
-                    "name": "Bit Depth",
-                    "x": 55,
-                    "y": 277,
-                    "uniqueID": 761745,
-                    "ioValues": []
-                },
-                {
                     "atomType": "Translate",
                     "name": "Translate",
                     "x": 289,
@@ -124,24 +116,6 @@
                             "ioValue": 60
                         }
                     ]
-                },
-                {
-                    "atomType": "Equation",
-                    "name": "Equation",
-                    "x": 215,
-                    "y": 280,
-                    "uniqueID": 711907,
-                    "ioValues": [
-                        {
-                            "name": "x",
-                            "ioValue": 1
-                        },
-                        {
-                            "name": "y",
-                            "ioValue": 1
-                        }
-                    ],
-                    "currentEquation": ""
                 },
                 {
                     "atomType": "Circle",
@@ -280,6 +254,14 @@
                     "closedSelection": 0
                 },
                 {
+                    "atomType": "Input",
+                    "name": "Bit Depth",
+                    "x": 818,
+                    "y": 304,
+                    "uniqueID": 761745,
+                    "ioValues": []
+                },
+                {
                     "atomType": "ShrinkWrap",
                     "name": "Shrink Wrap",
                     "x": 875,
@@ -350,6 +332,20 @@
                             "ioValue": 150
                         }
                     ]
+                },
+                {
+                    "atomType": "Equation",
+                    "name": "Equation",
+                    "x": 1051,
+                    "y": 249,
+                    "uniqueID": 241868,
+                    "ioValues": [
+                        {
+                            "name": "x",
+                            "ioValue": 10
+                        }
+                    ],
+                    "currentEquation": "40+x"
                 },
                 {
                     "atomType": "Extrude",
@@ -516,6 +512,12 @@
                     "ap2Name": "3D shape 770561",
                     "ap1ID": 166133,
                     "ap2ID": 822972
+                },
+                {
+                    "ap1Name": "number or geometry",
+                    "ap2Name": "x",
+                    "ap1ID": 761745,
+                    "ap2ID": 241868
                 },
                 {
                     "ap1Name": "geometry",
