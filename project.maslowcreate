@@ -3,8 +3,8 @@
         {
             "atomType": "Molecule",
             "name": "Plates",
-            "x": 228,
-            "y": 46,
+            "x": 225,
+            "y": 39,
             "uniqueID": 517888,
             "ioValues": [
                 {
@@ -2788,8 +2788,8 @@
                 {
                     "atomType": "Molecule",
                     "name": "Plates",
-                    "x": 228,
-                    "y": 46,
+                    "x": 225,
+                    "y": 39,
                     "uniqueID": 517888,
                     "ioValues": [
                         {
@@ -2872,7 +2872,7 @@
                             "ioValue": 10
                         },
                         {
-                            "name": "3D shape 488314",
+                            "name": "3D shape 721340",
                             "ioValue": 10
                         }
                     ]
