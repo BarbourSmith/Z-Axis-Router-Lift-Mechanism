@@ -1208,8 +1208,8 @@
                 {
                     "atomType": "Circle",
                     "name": "Circle",
-                    "x": 171,
-                    "y": 63,
+                    "x": 148,
+                    "y": 82,
                     "uniqueID": 912595,
                     "ioValues": [
                         {
@@ -1221,8 +1221,8 @@
                 {
                     "atomType": "Circle",
                     "name": "Circle",
-                    "x": 203,
-                    "y": 142,
+                    "x": 180,
+                    "y": 143,
                     "uniqueID": 382542,
                     "ioValues": [
                         {
@@ -1260,8 +1260,8 @@
                 {
                     "atomType": "Assembly",
                     "name": "Assembly",
-                    "x": 751,
-                    "y": 30,
+                    "x": 752,
+                    "y": 32,
                     "uniqueID": 806222,
                     "ioValues": [
                         {
@@ -1310,6 +1310,11 @@
                     "ap2Name": "3D shape 698509",
                     "ap1ID": 223682,
                     "ap2ID": 806222
+                },
+                {
+                    "ap1Name": "geometry",
+                    "ap2Name": "number or geometry",
+                    "ap1ID": 806222
                 }
             ],
             "fileTypeVersion": 1
