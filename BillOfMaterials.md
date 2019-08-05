@@ -2,6 +2,7 @@
 # Bill Of Materials 
  |Part|Number Needed|Price|Source| 
  |----|----------|-----|-----|
-|Total: |0|$0.00| |
+|10mm Lead Screw|1|$11.83|https://www.mcmaster.com/7549k71|
+|Total: |1|$11.83| |
 
- 3xCOG MSRP: $0.00
+ 3xCOG MSRP: $35.49
