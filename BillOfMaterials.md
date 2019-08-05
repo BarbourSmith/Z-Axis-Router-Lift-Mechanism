@@ -3,8 +3,8 @@
  |Part|Number Needed|Price|Source| 
  |----|----------|-----|-----|
 |10mm Lead Screw|1|$11.83|https://www.mcmaster.com/7549k71|
-|Shaft Coupler|0|$0.00|www.example.com|
+|Shaft Coupler|1|$1.87|https://www.banggood.com/8mm-x-10mm-Aluminum-Flexible-Shaft-Coupling-OD19mm-x-L25mm-CNC-Stepper-Motor-Coupler-Connector-p-993595.html|
 |Linear Motion Shaft|2|$23.82|https://www.mcmaster.com/6112k109|
-|Total: |3|$35.65| |
+|Total: |4|$37.52| |
 
- 3xCOG MSRP: $106.95
+ 3xCOG MSRP: $112.56
