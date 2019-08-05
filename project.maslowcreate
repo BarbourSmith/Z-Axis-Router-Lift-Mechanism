@@ -3,8 +3,8 @@
         {
             "atomType": "Molecule",
             "name": "Plates",
-            "x": 257,
-            "y": 39,
+            "x": 230,
+            "y": 32,
             "uniqueID": 517888,
             "ioValues": [
                 {
@@ -578,8 +578,8 @@
         {
             "atomType": "Molecule",
             "name": "Risers",
-            "x": 264,
-            "y": 94,
+            "x": 230,
+            "y": 88,
             "uniqueID": 826098,
             "ioValues": [],
             "topLevel": false,
@@ -1279,8 +1279,8 @@
         {
             "atomType": "Molecule",
             "name": "Ball Screw Assembly",
-            "x": 267,
-            "y": 154,
+            "x": 229,
+            "y": 148,
             "uniqueID": 315914,
             "ioValues": [],
             "topLevel": false,
@@ -1444,8 +1444,8 @@
         {
             "atomType": "Molecule",
             "name": "Router",
-            "x": 269,
-            "y": 237,
+            "x": 234,
+            "y": 204,
             "uniqueID": 201738,
             "ioValues": [
                 {
@@ -1524,6 +1524,26 @@
         },
         {
             "atomType": "Molecule",
+            "name": "Hardware",
+            "x": 237,
+            "y": 268,
+            "uniqueID": 827096,
+            "ioValues": [],
+            "topLevel": false,
+            "allAtoms": [
+                {
+                    "atomType": "Output",
+                    "name": "Output",
+                    "x": 1316,
+                    "y": 164,
+                    "ioValues": []
+                }
+            ],
+            "allConnectors": [],
+            "fileTypeVersion": 1
+        },
+        {
+            "atomType": "Molecule",
             "name": "Z-Axis Router Lift Mechanism",
             "x": 0,
             "y": 0,
@@ -1547,8 +1567,8 @@
                 {
                     "atomType": "Molecule",
                     "name": "Plates",
-                    "x": 257,
-                    "y": 39,
+                    "x": 230,
+                    "y": 32,
                     "uniqueID": 517888,
                     "ioValues": [
                         {
@@ -1560,24 +1580,24 @@
                 {
                     "atomType": "Molecule",
                     "name": "Risers",
-                    "x": 264,
-                    "y": 94,
+                    "x": 230,
+                    "y": 88,
                     "uniqueID": 826098,
                     "ioValues": []
                 },
                 {
                     "atomType": "Molecule",
                     "name": "Ball Screw Assembly",
-                    "x": 267,
-                    "y": 154,
+                    "x": 229,
+                    "y": 148,
                     "uniqueID": 315914,
                     "ioValues": []
                 },
                 {
                     "atomType": "Molecule",
                     "name": "Router",
-                    "x": 269,
-                    "y": 237,
+                    "x": 234,
+                    "y": 204,
                     "uniqueID": 201738,
                     "ioValues": [
                         {
@@ -1585,6 +1605,14 @@
                             "ioValue": 0
                         }
                     ]
+                },
+                {
+                    "atomType": "Molecule",
+                    "name": "Hardware",
+                    "x": 237,
+                    "y": 268,
+                    "uniqueID": 827096,
+                    "ioValues": []
                 },
                 {
                     "atomType": "Assembly",
