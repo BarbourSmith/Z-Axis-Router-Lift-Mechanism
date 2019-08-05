@@ -1633,10 +1633,6 @@
                             "ioValue": 10
                         },
                         {
-                            "name": "3D shape 601183",
-                            "ioValue": 10
-                        },
-                        {
                             "name": "3D shape 120183",
                             "ioValue": 10
                         }
@@ -1714,12 +1710,6 @@
                 }
             ],
             "allConnectors": [
-                {
-                    "ap1Name": "Geometry",
-                    "ap2Name": "3D shape 601183",
-                    "ap1ID": 895349,
-                    "ap2ID": 363734
-                },
                 {
                     "ap1Name": "Geometry",
                     "ap2Name": "3D shape 557681",
