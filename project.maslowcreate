@@ -3,13 +3,13 @@
         {
             "atomType": "Molecule",
             "name": "Plates",
-            "x": 231,
+            "x": 229,
             "y": 47,
             "uniqueID": 517888,
             "ioValues": [
                 {
                     "name": "Bit Depth",
-                    "ioValue": 10
+                    "ioValue": 0
                 }
             ],
             "topLevel": false,
@@ -313,27 +313,6 @@
                     "ioValues": []
                 },
                 {
-                    "atomType": "Translate",
-                    "name": "Translate",
-                    "x": 1071,
-                    "y": 127,
-                    "uniqueID": 316437,
-                    "ioValues": [
-                        {
-                            "name": "xDist",
-                            "ioValue": 0
-                        },
-                        {
-                            "name": "yDist",
-                            "ioValue": 0
-                        },
-                        {
-                            "name": "zDist",
-                            "ioValue": 90
-                        }
-                    ]
-                },
-                {
                     "atomType": "Equation",
                     "name": "Equation",
                     "x": 1051,
@@ -342,7 +321,7 @@
                     "ioValues": [
                         {
                             "name": "x",
-                            "ioValue": 10
+                            "ioValue": 0
                         }
                     ],
                     "currentEquation": "80+x"
@@ -357,6 +336,27 @@
                         {
                             "name": "height",
                             "ioValue": 10
+                        }
+                    ]
+                },
+                {
+                    "atomType": "Translate",
+                    "name": "Translate",
+                    "x": 1105,
+                    "y": 129,
+                    "uniqueID": 316437,
+                    "ioValues": [
+                        {
+                            "name": "xDist",
+                            "ioValue": 0
+                        },
+                        {
+                            "name": "yDist",
+                            "ioValue": 0
+                        },
+                        {
+                            "name": "zDist",
+                            "ioValue": 80
                         }
                     ]
                 },
@@ -538,18 +538,6 @@
                     "ap2ID": 269056
                 },
                 {
-                    "ap1Name": "geometry",
-                    "ap2Name": "geometry",
-                    "ap1ID": 316437,
-                    "ap2ID": 888917
-                },
-                {
-                    "ap1Name": "geometry",
-                    "ap2Name": "3D shape 644389",
-                    "ap1ID": 316437,
-                    "ap2ID": 423382
-                },
-                {
                     "ap1Name": "result",
                     "ap2Name": "zDist",
                     "ap1ID": 241868,
@@ -560,6 +548,18 @@
                     "ap2Name": "geometry",
                     "ap1ID": 269056,
                     "ap2ID": 316437
+                },
+                {
+                    "ap1Name": "geometry",
+                    "ap2Name": "geometry",
+                    "ap1ID": 316437,
+                    "ap2ID": 888917
+                },
+                {
+                    "ap1Name": "geometry",
+                    "ap2Name": "3D shape 644389",
+                    "ap1ID": 316437,
+                    "ap2ID": 423382
                 },
                 {
                     "ap1Name": "geometry",
@@ -2788,13 +2788,13 @@
                 {
                     "atomType": "Molecule",
                     "name": "Plates",
-                    "x": 231,
+                    "x": 229,
                     "y": 47,
                     "uniqueID": 517888,
                     "ioValues": [
                         {
                             "name": "Bit Depth",
-                            "ioValue": 10
+                            "ioValue": 0
                         }
                     ]
                 },
@@ -2872,10 +2872,10 @@
                     "ap2ID": 201738
                 },
                 {
-                    "ap1Name": "Geometry",
-                    "ap2Name": "3D shape 365809",
-                    "ap1ID": 517888,
-                    "ap2ID": 923865
+                    "ap1Name": "number",
+                    "ap2Name": "Bit Depth",
+                    "ap1ID": 649665,
+                    "ap2ID": 517888
                 },
                 {
                     "ap1Name": "Geometry",
