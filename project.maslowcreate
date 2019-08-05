@@ -3,8 +3,8 @@
         {
             "atomType": "Molecule",
             "name": "Plates",
-            "x": 103,
-            "y": 46,
+            "x": 259,
+            "y": 35,
             "uniqueID": 517888,
             "ioValues": [],
             "topLevel": false,
@@ -539,8 +539,8 @@
         {
             "atomType": "Molecule",
             "name": "Risers",
-            "x": 102,
-            "y": 105,
+            "x": 264,
+            "y": 94,
             "uniqueID": 826098,
             "ioValues": [],
             "topLevel": false,
@@ -1240,8 +1240,8 @@
         {
             "atomType": "Molecule",
             "name": "Ball Screw Assembly",
-            "x": 102,
-            "y": 184,
+            "x": 267,
+            "y": 154,
             "uniqueID": 315914,
             "ioValues": [],
             "topLevel": false,
@@ -1405,20 +1405,54 @@
         {
             "atomType": "Molecule",
             "name": "Router",
-            "x": 102,
-            "y": 255,
+            "x": 269,
+            "y": 237,
             "uniqueID": 201738,
-            "ioValues": [],
+            "ioValues": [
+                {
+                    "name": "Input873656",
+                    "ioValue": 10
+                }
+            ],
             "topLevel": false,
             "allAtoms": [
                 {
                     "atomType": "GitHubMolecule",
                     "name": "Bosch 1617",
-                    "x": 182,
-                    "y": 155,
+                    "x": 99,
+                    "y": 102,
                     "uniqueID": 818423,
                     "projectID": "200636288",
                     "ioValues": []
+                },
+                {
+                    "atomType": "Input",
+                    "name": "Input873656",
+                    "x": 72,
+                    "y": 208,
+                    "uniqueID": 506256,
+                    "ioValues": []
+                },
+                {
+                    "atomType": "Translate",
+                    "name": "Translate",
+                    "x": 420,
+                    "y": 123,
+                    "uniqueID": 327033,
+                    "ioValues": [
+                        {
+                            "name": "xDist",
+                            "ioValue": 0
+                        },
+                        {
+                            "name": "yDist",
+                            "ioValue": 0
+                        },
+                        {
+                            "name": "zDist",
+                            "ioValue": 0
+                        }
+                    ]
                 },
                 {
                     "atomType": "Output",
@@ -1428,7 +1462,19 @@
                     "ioValues": []
                 }
             ],
-            "allConnectors": [],
+            "allConnectors": [
+                {
+                    "ap1Name": "Geometry",
+                    "ap2Name": "geometry",
+                    "ap1ID": 818423,
+                    "ap2ID": 327033
+                },
+                {
+                    "ap1Name": "geometry",
+                    "ap2Name": "number or geometry",
+                    "ap1ID": 327033
+                }
+            ],
             "fileTypeVersion": 1
         },
         {
@@ -1441,42 +1487,60 @@
             "topLevel": true,
             "allAtoms": [
                 {
+                    "atomType": "Constant",
+                    "name": "Bit Depth",
+                    "x": 52,
+                    "y": 139,
+                    "uniqueID": 649665,
+                    "ioValues": [
+                        {
+                            "name": "number",
+                            "ioValue": 0
+                        }
+                    ]
+                },
+                {
                     "atomType": "Molecule",
                     "name": "Plates",
-                    "x": 103,
-                    "y": 46,
+                    "x": 259,
+                    "y": 35,
                     "uniqueID": 517888,
                     "ioValues": []
                 },
                 {
                     "atomType": "Molecule",
                     "name": "Risers",
-                    "x": 102,
-                    "y": 105,
+                    "x": 264,
+                    "y": 94,
                     "uniqueID": 826098,
                     "ioValues": []
                 },
                 {
                     "atomType": "Molecule",
                     "name": "Ball Screw Assembly",
-                    "x": 102,
-                    "y": 184,
+                    "x": 267,
+                    "y": 154,
                     "uniqueID": 315914,
                     "ioValues": []
                 },
                 {
                     "atomType": "Molecule",
                     "name": "Router",
-                    "x": 102,
-                    "y": 255,
+                    "x": 269,
+                    "y": 237,
                     "uniqueID": 201738,
-                    "ioValues": []
+                    "ioValues": [
+                        {
+                            "name": "Input873656",
+                            "ioValue": 10
+                        }
+                    ]
                 },
                 {
                     "atomType": "Assembly",
                     "name": "Assembly",
-                    "x": 739,
-                    "y": 78,
+                    "x": 892,
+                    "y": 133,
                     "uniqueID": 851874,
                     "ioValues": [
                         {
@@ -1489,6 +1553,10 @@
                         },
                         {
                             "name": "3D shape 811674",
+                            "ioValue": 10
+                        },
+                        {
+                            "name": "3D shape 892653",
                             "ioValue": 10
                         }
                     ]
@@ -1518,6 +1586,12 @@
                     "ap1Name": "Geometry",
                     "ap2Name": "3D shape 317833",
                     "ap1ID": 315914,
+                    "ap2ID": 851874
+                },
+                {
+                    "ap1Name": "Geometry",
+                    "ap2Name": "3D shape 811674",
+                    "ap1ID": 201738,
                     "ap2ID": 851874
                 },
                 {
