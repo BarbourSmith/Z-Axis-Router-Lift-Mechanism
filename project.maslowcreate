@@ -539,8 +539,8 @@
         {
             "atomType": "Molecule",
             "name": "Risers",
-            "x": 107,
-            "y": 132,
+            "x": 96,
+            "y": 114,
             "uniqueID": 826098,
             "ioValues": [],
             "topLevel": false,
@@ -1240,8 +1240,8 @@
         {
             "atomType": "Molecule",
             "name": "Ball Screw Assembly",
-            "x": 114,
-            "y": 209,
+            "x": 102,
+            "y": 184,
             "uniqueID": 315914,
             "ioValues": [],
             "topLevel": false,
@@ -1422,24 +1422,24 @@
                 {
                     "atomType": "Molecule",
                     "name": "Risers",
-                    "x": 107,
-                    "y": 132,
+                    "x": 96,
+                    "y": 114,
                     "uniqueID": 826098,
                     "ioValues": []
                 },
                 {
                     "atomType": "Molecule",
                     "name": "Ball Screw Assembly",
-                    "x": 114,
-                    "y": 209,
+                    "x": 102,
+                    "y": 184,
                     "uniqueID": 315914,
                     "ioValues": []
                 },
                 {
                     "atomType": "Assembly",
                     "name": "Assembly",
-                    "x": 500,
-                    "y": 200,
+                    "x": 739,
+                    "y": 78,
                     "uniqueID": 851874,
                     "ioValues": [
                         {
@@ -1457,27 +1457,6 @@
                     ]
                 },
                 {
-                    "atomType": "Assembly",
-                    "name": "Assembly",
-                    "x": 666,
-                    "y": 91,
-                    "uniqueID": 917946,
-                    "ioValues": [
-                        {
-                            "name": "3D shape 807270",
-                            "ioValue": 10
-                        },
-                        {
-                            "name": "3D shape 906873",
-                            "ioValue": 10
-                        },
-                        {
-                            "name": "3D shape 188398",
-                            "ioValue": 10
-                        }
-                    ]
-                },
-                {
                     "atomType": "Output",
                     "name": "Output",
                     "x": 1316,
@@ -1486,12 +1465,6 @@
                 }
             ],
             "allConnectors": [
-                {
-                    "ap1Name": "Geometry",
-                    "ap2Name": "3D shape 807270",
-                    "ap1ID": 517888,
-                    "ap2ID": 917946
-                },
                 {
                     "ap1Name": "Geometry",
                     "ap2Name": "3D shape 294875",
@@ -1513,7 +1486,7 @@
                 {
                     "ap1Name": "geometry",
                     "ap2Name": "number or geometry",
-                    "ap1ID": 917946
+                    "ap1ID": 851874
                 }
             ],
             "fileTypeVersion": 1

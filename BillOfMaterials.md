@@ -3,6 +3,7 @@
  |Part|Number Needed|Price|Source| 
  |----|----------|-----|-----|
 |10mm Lead Screw|1|$11.83|https://www.mcmaster.com/7549k71|
+|name|0|$0.00|www.example.com|
 |Total: |1|$11.83| |
 
  3xCOG MSRP: $35.49
