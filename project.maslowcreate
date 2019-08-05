@@ -1186,8 +1186,8 @@
         {
             "atomType": "Molecule",
             "name": "Slides",
-            "x": 140,
-            "y": 236,
+            "x": 132,
+            "y": 229,
             "uniqueID": 424897,
             "ioValues": [],
             "topLevel": false,
@@ -1231,8 +1231,8 @@
                 {
                     "atomType": "Molecule",
                     "name": "Slides",
-                    "x": 140,
-                    "y": 236,
+                    "x": 132,
+                    "y": 229,
                     "uniqueID": 424897,
                     "ioValues": []
                 },
