@@ -2565,7 +2565,7 @@
         {
             "atomType": "Molecule",
             "name": "Ball Screw Assembly",
-            "x": 224,
+            "x": 226,
             "y": 169,
             "uniqueID": 315914,
             "ioValues": [],
@@ -2620,7 +2620,7 @@
                         },
                         {
                             "name": "zDist",
-                            "ioValue": 150
+                            "ioValue": 120
                         }
                     ]
                 },
@@ -2930,7 +2930,7 @@
                 {
                     "atomType": "Molecule",
                     "name": "Ball Screw Assembly",
-                    "x": 224,
+                    "x": 226,
                     "y": 169,
                     "uniqueID": 315914,
                     "ioValues": []
