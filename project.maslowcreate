@@ -63,8 +63,8 @@
         {
             "atomType": "Molecule",
             "name": "Plates",
-            "x": 235,
-            "y": 44,
+            "x": 238,
+            "y": 45,
             "uniqueID": 517888,
             "ioValues": [
                 {
@@ -1683,8 +1683,8 @@
                 {
                     "atomType": "Rotate",
                     "name": "Rotate",
-                    "x": 391,
-                    "y": 56,
+                    "x": 319,
+                    "y": 51,
                     "uniqueID": 691722,
                     "ioValues": [
                         {
@@ -1738,11 +1738,11 @@
                             "ioValue": 10
                         },
                         {
-                            "name": "3D shape 120183",
+                            "name": "3D shape 510443",
                             "ioValue": 10
                         },
                         {
-                            "name": "3D shape 510443",
+                            "name": "3D shape 567181",
                             "ioValue": 10
                         }
                     ]
@@ -1821,12 +1821,6 @@
             "allConnectors": [
                 {
                     "ap1Name": "Geometry",
-                    "ap2Name": "3D shape 120183",
-                    "ap1ID": 895349,
-                    "ap2ID": 363734
-                },
-                {
-                    "ap1Name": "Geometry",
                     "ap2Name": "geometry",
                     "ap1ID": 895349,
                     "ap2ID": 691722
@@ -1842,6 +1836,12 @@
                     "ap2Name": "geometry",
                     "ap1ID": 424897,
                     "ap2ID": 249923
+                },
+                {
+                    "ap1Name": "geometry",
+                    "ap2Name": "3D shape 510443",
+                    "ap1ID": 691722,
+                    "ap2ID": 363734
                 },
                 {
                     "ap1Name": "geometry",
@@ -2909,8 +2909,8 @@
                 {
                     "atomType": "Molecule",
                     "name": "Plates",
-                    "x": 235,
-                    "y": 44,
+                    "x": 238,
+                    "y": 45,
                     "uniqueID": 517888,
                     "ioValues": [
                         {
