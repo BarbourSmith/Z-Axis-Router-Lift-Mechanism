@@ -23,8 +23,8 @@
         {
             "atomType": "Molecule",
             "name": "Bolt",
-            "x": 55,
-            "y": 47,
+            "x": 52,
+            "y": 56,
             "uniqueID": 982563,
             "ioValues": [],
             "topLevel": false,
@@ -155,8 +155,8 @@
         {
             "atomType": "Molecule",
             "name": "Nut",
-            "x": 57,
-            "y": 236,
+            "x": 55,
+            "y": 234,
             "uniqueID": 324232,
             "ioValues": [],
             "topLevel": false,
@@ -175,8 +175,8 @@
         {
             "atomType": "Molecule",
             "name": "Bolt Nut Spacer Assembly",
-            "x": 104,
-            "y": 102,
+            "x": 97,
+            "y": 71,
             "uniqueID": 601479,
             "ioValues": [],
             "topLevel": false,
@@ -184,8 +184,8 @@
                 {
                     "atomType": "Molecule",
                     "name": "Bolt",
-                    "x": 55,
-                    "y": 47,
+                    "x": 52,
+                    "y": 56,
                     "uniqueID": 982563,
                     "ioValues": []
                 },
@@ -200,8 +200,8 @@
                 {
                     "atomType": "Molecule",
                     "name": "Nut",
-                    "x": 57,
-                    "y": 236,
+                    "x": 55,
+                    "y": 234,
                     "uniqueID": 324232,
                     "ioValues": []
                 },
@@ -219,8 +219,8 @@
         {
             "atomType": "Molecule",
             "name": "Spacers and Bolts",
-            "x": 78,
-            "y": 252,
+            "x": 74,
+            "y": 256,
             "uniqueID": 387913,
             "ioValues": [],
             "topLevel": false,
@@ -228,8 +228,8 @@
                 {
                     "atomType": "Molecule",
                     "name": "Bolt Nut Spacer Assembly",
-                    "x": 104,
-                    "y": 102,
+                    "x": 97,
+                    "y": 71,
                     "uniqueID": 601479,
                     "ioValues": []
                 },
@@ -267,8 +267,8 @@
         {
             "atomType": "Molecule",
             "name": "Plates",
-            "x": 238,
-            "y": 45,
+            "x": 235,
+            "y": 41,
             "uniqueID": 517888,
             "ioValues": [
                 {
@@ -332,8 +332,8 @@
                 {
                     "atomType": "Molecule",
                     "name": "Spacers and Bolts",
-                    "x": 78,
-                    "y": 252,
+                    "x": 74,
+                    "y": 256,
                     "uniqueID": 387913,
                     "ioValues": []
                 },
@@ -3692,8 +3692,8 @@
                 {
                     "atomType": "Molecule",
                     "name": "Plates",
-                    "x": 238,
-                    "y": 45,
+                    "x": 235,
+                    "y": 41,
                     "uniqueID": 517888,
                     "ioValues": [
                         {
