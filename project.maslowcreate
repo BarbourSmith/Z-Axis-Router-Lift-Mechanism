@@ -3403,7 +3403,7 @@
                         },
                         {
                             "name": "z-axis degrees",
-                            "ioValue": 70
+                            "ioValue": -23
                         }
                     ]
                 },
