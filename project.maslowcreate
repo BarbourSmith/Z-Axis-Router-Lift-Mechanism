@@ -2902,15 +2902,15 @@
                     "ioValues": [
                         {
                             "name": "diameter",
-                            "ioValue": 100
+                            "ioValue": 149
                         }
                     ]
                 },
                 {
                     "atomType": "Rectangle",
                     "name": "Rectangle",
-                    "x": 135,
-                    "y": 157,
+                    "x": 132,
+                    "y": 158,
                     "uniqueID": 376390,
                     "ioValues": [
                         {
@@ -2919,7 +2919,7 @@
                         },
                         {
                             "name": "y length",
-                            "ioValue": 50
+                            "ioValue": 35
                         }
                     ]
                 },
@@ -2932,7 +2932,7 @@
                     "ioValues": [
                         {
                             "name": "x length",
-                            "ioValue": 60
+                            "ioValue": 53
                         },
                         {
                             "name": "y length",
@@ -2970,7 +2970,7 @@
                     "ioValues": [
                         {
                             "name": "height",
-                            "ioValue": 60
+                            "ioValue": 53
                         }
                     ]
                 },
