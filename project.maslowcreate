@@ -2902,7 +2902,7 @@
                     "ioValues": [
                         {
                             "name": "number",
-                            "ioValue": 90
+                            "ioValue": 70
                         }
                     ]
                 },
@@ -2928,7 +2928,7 @@
                     "ioValues": [
                         {
                             "name": "x",
-                            "ioValue": 90
+                            "ioValue": 70
                         }
                     ],
                     "currentEquation": "-1*x"
@@ -2942,7 +2942,7 @@
                     "ioValues": [
                         {
                             "name": "xDist",
-                            "ioValue": 90
+                            "ioValue": 70
                         },
                         {
                             "name": "yDist",
@@ -2976,7 +2976,7 @@
                     "ioValues": [
                         {
                             "name": "xDist",
-                            "ioValue": -90
+                            "ioValue": -70
                         },
                         {
                             "name": "yDist",
@@ -3001,7 +3001,7 @@
                         },
                         {
                             "name": "yDist",
-                            "ioValue": 90
+                            "ioValue": 70
                         },
                         {
                             "name": "zDist",
@@ -3148,7 +3148,7 @@
                     "ioValues": [
                         {
                             "name": "diameter",
-                            "ioValue": 149
+                            "ioValue": 115
                         }
                     ]
                 },
