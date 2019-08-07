@@ -22,13 +22,97 @@
         },
         {
             "atomType": "Molecule",
-            "name": "Molecule",
-            "x": 113,
-            "y": 156,
+            "name": "Bolt",
+            "x": 101,
+            "y": 61,
+            "uniqueID": 982563,
+            "ioValues": [],
+            "topLevel": false,
+            "allAtoms": [
+                {
+                    "atomType": "Output",
+                    "name": "Output",
+                    "x": 1316,
+                    "y": 164,
+                    "ioValues": []
+                }
+            ],
+            "allConnectors": [],
+            "fileTypeVersion": 1
+        },
+        {
+            "atomType": "Molecule",
+            "name": "Spacer",
+            "x": 108,
+            "y": 138,
+            "uniqueID": 813124,
+            "ioValues": [],
+            "topLevel": false,
+            "allAtoms": [
+                {
+                    "atomType": "Output",
+                    "name": "Output",
+                    "x": 1316,
+                    "y": 164,
+                    "ioValues": []
+                }
+            ],
+            "allConnectors": [],
+            "fileTypeVersion": 1
+        },
+        {
+            "atomType": "Molecule",
+            "name": "Nut",
+            "x": 107,
+            "y": 220,
+            "uniqueID": 324232,
+            "ioValues": [],
+            "topLevel": false,
+            "allAtoms": [
+                {
+                    "atomType": "Output",
+                    "name": "Output",
+                    "x": 1316,
+                    "y": 164,
+                    "ioValues": []
+                }
+            ],
+            "allConnectors": [],
+            "fileTypeVersion": 1
+        },
+        {
+            "atomType": "Molecule",
+            "name": "Bolt Nut Spacer Assembly",
+            "x": 104,
+            "y": 102,
             "uniqueID": 601479,
             "ioValues": [],
             "topLevel": false,
             "allAtoms": [
+                {
+                    "atomType": "Molecule",
+                    "name": "Bolt",
+                    "x": 101,
+                    "y": 61,
+                    "uniqueID": 982563,
+                    "ioValues": []
+                },
+                {
+                    "atomType": "Molecule",
+                    "name": "Spacer",
+                    "x": 108,
+                    "y": 138,
+                    "uniqueID": 813124,
+                    "ioValues": []
+                },
+                {
+                    "atomType": "Molecule",
+                    "name": "Nut",
+                    "x": 107,
+                    "y": 220,
+                    "uniqueID": 324232,
+                    "ioValues": []
+                },
                 {
                     "atomType": "Output",
                     "name": "Output",
@@ -51,9 +135,9 @@
             "allAtoms": [
                 {
                     "atomType": "Molecule",
-                    "name": "Molecule",
-                    "x": 113,
-                    "y": 156,
+                    "name": "Bolt Nut Spacer Assembly",
+                    "x": 104,
+                    "y": 102,
                     "uniqueID": 601479,
                     "ioValues": []
                 },
