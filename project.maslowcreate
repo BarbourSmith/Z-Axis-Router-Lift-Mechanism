@@ -3119,7 +3119,7 @@
             "atomType": "Molecule",
             "name": "Fake Metal",
             "x": 488,
-            "y": 264,
+            "y": 270,
             "uniqueID": 186758,
             "ioValues": [],
             "topLevel": false,
@@ -3259,35 +3259,6 @@
                     ]
                 },
                 {
-                    "atomType": "Assembly",
-                    "name": "Assembly",
-                    "x": 874,
-                    "y": 74,
-                    "uniqueID": 603437,
-                    "ioValues": [
-                        {
-                            "name": "3D shape 225337",
-                            "ioValue": 10
-                        },
-                        {
-                            "name": "3D shape 340565",
-                            "ioValue": 10
-                        },
-                        {
-                            "name": "3D shape 698390",
-                            "ioValue": 10
-                        },
-                        {
-                            "name": "3D shape 742257",
-                            "ioValue": 10
-                        },
-                        {
-                            "name": "3D shape 384711",
-                            "ioValue": 10
-                        }
-                    ]
-                },
-                {
                     "atomType": "Translate",
                     "name": "Translate",
                     "x": 1063,
@@ -3330,6 +3301,12 @@
                     "ap2ID": 603437
                 },
                 {
+                    "ap1Name": "Geometry",
+                    "ap2Name": "geometry",
+                    "ap1ID": 949553,
+                    "ap2ID": 538327
+                },
+                {
                     "ap1Name": "geometry",
                     "ap2Name": "geometry",
                     "ap1ID": 654317,
@@ -3340,12 +3317,6 @@
                     "ap2Name": "geometry",
                     "ap1ID": 505037,
                     "ap2ID": 943927
-                },
-                {
-                    "ap1Name": "geometry",
-                    "ap2Name": "3D shape 698390",
-                    "ap1ID": 505037,
-                    "ap2ID": 603437
                 },
                 {
                     "ap1Name": "geometry",
@@ -3370,18 +3341,6 @@
                     "ap2Name": "geometry",
                     "ap1ID": 488041,
                     "ap2ID": 190973
-                },
-                {
-                    "ap1Name": "geometry",
-                    "ap2Name": "3D shape 225337",
-                    "ap1ID": 190973,
-                    "ap2ID": 603437
-                },
-                {
-                    "ap1Name": "geometry",
-                    "ap2Name": "geometry",
-                    "ap1ID": 603437,
-                    "ap2ID": 538327
                 },
                 {
                     "ap1Name": "geometry",
@@ -3467,7 +3426,7 @@
                     "atomType": "Molecule",
                     "name": "Fake Metal",
                     "x": 488,
-                    "y": 264,
+                    "y": 270,
                     "uniqueID": 186758,
                     "ioValues": []
                 },
