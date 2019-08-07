@@ -2887,12 +2887,80 @@
         {
             "atomType": "Molecule",
             "name": "Fake arm",
-            "x": 129,
-            "y": 91,
+            "x": 130,
+            "y": 90,
             "uniqueID": 949553,
             "ioValues": [],
             "topLevel": false,
             "allAtoms": [
+                {
+                    "atomType": "Circle",
+                    "name": "Circle",
+                    "x": 140,
+                    "y": 78,
+                    "uniqueID": 882888,
+                    "ioValues": [
+                        {
+                            "name": "diameter",
+                            "ioValue": 100
+                        }
+                    ]
+                },
+                {
+                    "atomType": "Rectangle",
+                    "name": "Rectangle",
+                    "x": 135,
+                    "y": 157,
+                    "uniqueID": 376390,
+                    "ioValues": [
+                        {
+                            "name": "x length",
+                            "ioValue": 200
+                        },
+                        {
+                            "name": "y length",
+                            "ioValue": 50
+                        }
+                    ]
+                },
+                {
+                    "atomType": "Rectangle",
+                    "name": "Rectangle",
+                    "x": 135,
+                    "y": 251,
+                    "uniqueID": 150295,
+                    "ioValues": [
+                        {
+                            "name": "x length",
+                            "ioValue": 10
+                        },
+                        {
+                            "name": "y length",
+                            "ioValue": 10
+                        }
+                    ]
+                },
+                {
+                    "atomType": "Translate",
+                    "name": "Translate",
+                    "x": 294,
+                    "y": 162,
+                    "uniqueID": 510152,
+                    "ioValues": [
+                        {
+                            "name": "xDist",
+                            "ioValue": 0
+                        },
+                        {
+                            "name": "yDist",
+                            "ioValue": 0
+                        },
+                        {
+                            "name": "zDist",
+                            "ioValue": 0
+                        }
+                    ]
+                },
                 {
                     "atomType": "Output",
                     "name": "Output",
@@ -2901,7 +2969,14 @@
                     "ioValues": []
                 }
             ],
-            "allConnectors": [],
+            "allConnectors": [
+                {
+                    "ap1Name": "geometry",
+                    "ap2Name": "geometry",
+                    "ap1ID": 376390,
+                    "ap2ID": 510152
+                }
+            ],
             "fileTypeVersion": 1
         },
         {
@@ -2916,8 +2991,8 @@
                 {
                     "atomType": "Molecule",
                     "name": "Fake arm",
-                    "x": 129,
-                    "y": 91,
+                    "x": 130,
+                    "y": 90,
                     "uniqueID": 949553,
                     "ioValues": []
                 },
