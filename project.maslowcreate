@@ -3495,10 +3495,6 @@
                             "ioValue": 10
                         },
                         {
-                            "name": "3D shape 569910",
-                            "ioValue": 10
-                        },
-                        {
                             "name": "3D shape 665732",
                             "ioValue": 10
                         }
@@ -3547,12 +3543,6 @@
                     "ap1Name": "Geometry",
                     "ap2Name": "3D shape 465347",
                     "ap1ID": 201738,
-                    "ap2ID": 851874
-                },
-                {
-                    "ap1Name": "Geometry",
-                    "ap2Name": "3D shape 569910",
-                    "ap1ID": 186758,
                     "ap2ID": 851874
                 },
                 {
