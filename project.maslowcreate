@@ -2886,6 +2886,54 @@
         },
         {
             "atomType": "Molecule",
+            "name": "Fake arm",
+            "x": 129,
+            "y": 91,
+            "uniqueID": 949553,
+            "ioValues": [],
+            "topLevel": false,
+            "allAtoms": [
+                {
+                    "atomType": "Output",
+                    "name": "Output",
+                    "x": 1316,
+                    "y": 164,
+                    "ioValues": []
+                }
+            ],
+            "allConnectors": [],
+            "fileTypeVersion": 1
+        },
+        {
+            "atomType": "Molecule",
+            "name": "Fake Metal",
+            "x": 488,
+            "y": 264,
+            "uniqueID": 186758,
+            "ioValues": [],
+            "topLevel": false,
+            "allAtoms": [
+                {
+                    "atomType": "Molecule",
+                    "name": "Fake arm",
+                    "x": 129,
+                    "y": 91,
+                    "uniqueID": 949553,
+                    "ioValues": []
+                },
+                {
+                    "atomType": "Output",
+                    "name": "Output",
+                    "x": 1316,
+                    "y": 164,
+                    "ioValues": []
+                }
+            ],
+            "allConnectors": [],
+            "fileTypeVersion": 1
+        },
+        {
+            "atomType": "Molecule",
             "name": "Z-Axis Router Lift Mechanism",
             "x": 0,
             "y": 0,
@@ -2954,6 +3002,14 @@
                     "x": 229,
                     "y": 290,
                     "uniqueID": 827096,
+                    "ioValues": []
+                },
+                {
+                    "atomType": "Molecule",
+                    "name": "Fake Metal",
+                    "x": 488,
+                    "y": 264,
+                    "uniqueID": 186758,
                     "ioValues": []
                 },
                 {
