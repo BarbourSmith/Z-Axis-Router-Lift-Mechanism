@@ -1650,8 +1650,8 @@
         {
             "atomType": "Molecule",
             "name": "Risers",
-            "x": 232,
-            "y": 111,
+            "x": 234,
+            "y": 107,
             "uniqueID": 826098,
             "ioValues": [],
             "topLevel": false,
@@ -3164,12 +3164,6 @@
             "allConnectors": [
                 {
                     "ap1Name": "Geometry",
-                    "ap2Name": "3D shape 742257",
-                    "ap1ID": 949553,
-                    "ap2ID": 603437
-                },
-                {
-                    "ap1Name": "Geometry",
                     "ap2Name": "geometry",
                     "ap1ID": 949553,
                     "ap2ID": 872256
@@ -3215,8 +3209,8 @@
                 {
                     "atomType": "Molecule",
                     "name": "Risers",
-                    "x": 232,
-                    "y": 111,
+                    "x": 234,
+                    "y": 107,
                     "uniqueID": 826098,
                     "ioValues": []
                 },
