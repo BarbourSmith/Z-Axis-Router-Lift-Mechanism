@@ -259,6 +259,27 @@
                 {
                     "atomType": "Translate",
                     "name": "Translate",
+                    "x": 577,
+                    "y": 253,
+                    "uniqueID": 239042,
+                    "ioValues": [
+                        {
+                            "name": "xDist",
+                            "ioValue": 0
+                        },
+                        {
+                            "name": "yDist",
+                            "ioValue": 70
+                        },
+                        {
+                            "name": "zDist",
+                            "ioValue": 0
+                        }
+                    ]
+                },
+                {
+                    "atomType": "Translate",
+                    "name": "Translate",
                     "x": 704,
                     "y": 123,
                     "uniqueID": 133738,
@@ -278,31 +299,10 @@
                     ]
                 },
                 {
-                    "atomType": "Translate",
-                    "name": "Translate",
-                    "x": 692,
-                    "y": 281,
-                    "uniqueID": 239042,
-                    "ioValues": [
-                        {
-                            "name": "xDist",
-                            "ioValue": 0
-                        },
-                        {
-                            "name": "yDist",
-                            "ioValue": 70
-                        },
-                        {
-                            "name": "zDist",
-                            "ioValue": 0
-                        }
-                    ]
-                },
-                {
                     "atomType": "Circle",
                     "name": "Circle",
-                    "x": 783,
-                    "y": 198,
+                    "x": 763,
+                    "y": 183,
                     "uniqueID": 762946,
                     "ioValues": [
                         {
@@ -569,15 +569,15 @@
                 },
                 {
                     "ap1Name": "geometry",
-                    "ap2Name": "3D shape 425844",
-                    "ap1ID": 133738,
-                    "ap2ID": 166133
-                },
-                {
-                    "ap1Name": "geometry",
                     "ap2Name": "3D shape 216154",
                     "ap1ID": 239042,
                     "ap2ID": 488355
+                },
+                {
+                    "ap1Name": "geometry",
+                    "ap2Name": "3D shape 425844",
+                    "ap1ID": 133738,
+                    "ap2ID": 166133
                 },
                 {
                     "ap1Name": "geometry",
