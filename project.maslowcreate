@@ -22,6 +22,26 @@
         },
         {
             "atomType": "Molecule",
+            "name": "Molecule",
+            "x": 113,
+            "y": 156,
+            "uniqueID": 601479,
+            "ioValues": [],
+            "topLevel": false,
+            "allAtoms": [
+                {
+                    "atomType": "Output",
+                    "name": "Output",
+                    "x": 1316,
+                    "y": 164,
+                    "ioValues": []
+                }
+            ],
+            "allConnectors": [],
+            "fileTypeVersion": 1
+        },
+        {
+            "atomType": "Molecule",
             "name": "Spacers and Bolts",
             "x": 78,
             "y": 252,
@@ -29,6 +49,14 @@
             "ioValues": [],
             "topLevel": false,
             "allAtoms": [
+                {
+                    "atomType": "Molecule",
+                    "name": "Molecule",
+                    "x": 113,
+                    "y": 156,
+                    "uniqueID": 601479,
+                    "ioValues": []
+                },
                 {
                     "atomType": "Output",
                     "name": "Output",
