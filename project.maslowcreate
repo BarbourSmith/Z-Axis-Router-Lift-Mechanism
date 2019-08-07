@@ -52,8 +52,8 @@
                 {
                     "atomType": "Circle",
                     "name": "Circle",
-                    "x": 201,
-                    "y": 129,
+                    "x": 123,
+                    "y": 66,
                     "uniqueID": 899981,
                     "ioValues": [
                         {
@@ -65,8 +65,8 @@
                 {
                     "atomType": "Circle",
                     "name": "Circle",
-                    "x": 199,
-                    "y": 192,
+                    "x": 108,
+                    "y": 189,
                     "uniqueID": 185994,
                     "ioValues": [
                         {
@@ -78,10 +78,38 @@
                 {
                     "atomType": "Difference",
                     "name": "Difference",
-                    "x": 407,
-                    "y": 125,
+                    "x": 288,
+                    "y": 144,
                     "uniqueID": 918907,
                     "ioValues": []
+                },
+                {
+                    "atomType": "Extrude",
+                    "name": "Extrude",
+                    "x": 491,
+                    "y": 106,
+                    "uniqueID": 418072,
+                    "ioValues": [
+                        {
+                            "name": "height",
+                            "ioValue": 10
+                        }
+                    ]
+                },
+                {
+                    "atomType": "Add BOM Tag",
+                    "name": "Add BOM Tag",
+                    "x": 706,
+                    "y": 80,
+                    "uniqueID": 250525,
+                    "ioValues": [],
+                    "BOMitem": {
+                        "BOMitemName": "14mm Spacer",
+                        "numberNeeded": 1,
+                        "costUSD": 1.37,
+                        "source": "https://www.mcmaster.com/94669a020",
+                        "totalNeeded": 0
+                    }
                 },
                 {
                     "atomType": "Output",
@@ -94,15 +122,32 @@
             "allConnectors": [
                 {
                     "ap1Name": "geometry",
-                    "ap2Name": "geometry1",
+                    "ap2Name": "geometry2",
                     "ap1ID": 899981,
                     "ap2ID": 918907
                 },
                 {
                     "ap1Name": "geometry",
-                    "ap2Name": "geometry2",
+                    "ap2Name": "geometry1",
                     "ap1ID": 185994,
                     "ap2ID": 918907
+                },
+                {
+                    "ap1Name": "geometry",
+                    "ap2Name": "geometry",
+                    "ap1ID": 918907,
+                    "ap2ID": 418072
+                },
+                {
+                    "ap1Name": "geometry",
+                    "ap2Name": "geometry",
+                    "ap1ID": 418072,
+                    "ap2ID": 250525
+                },
+                {
+                    "ap1Name": "geometry",
+                    "ap2Name": "number or geometry",
+                    "ap1ID": 250525
                 }
             ],
             "fileTypeVersion": 1
