@@ -23,8 +23,8 @@
         {
             "atomType": "Molecule",
             "name": "Bolt",
-            "x": 101,
-            "y": 61,
+            "x": 100,
+            "y": 56,
             "uniqueID": 982563,
             "ioValues": [],
             "topLevel": false,
@@ -184,8 +184,8 @@
                 {
                     "atomType": "Molecule",
                     "name": "Bolt",
-                    "x": 101,
-                    "y": 61,
+                    "x": 100,
+                    "y": 56,
                     "uniqueID": 982563,
                     "ioValues": []
                 },
