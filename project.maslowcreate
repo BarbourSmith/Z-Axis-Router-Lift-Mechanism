@@ -3389,8 +3389,8 @@
                 {
                     "atomType": "Rotate",
                     "name": "Rotate",
-                    "x": 346,
-                    "y": 186,
+                    "x": 328,
+                    "y": 165,
                     "uniqueID": 924957,
                     "ioValues": [
                         {
@@ -3410,8 +3410,8 @@
                 {
                     "atomType": "Assembly",
                     "name": "Assembly",
-                    "x": 462,
-                    "y": 120,
+                    "x": 509,
+                    "y": 87,
                     "uniqueID": 974581,
                     "ioValues": [
                         {
@@ -3423,7 +3423,7 @@
                             "ioValue": 10
                         },
                         {
-                            "name": "3D shape 293758",
+                            "name": "3D shape 668435",
                             "ioValue": 10
                         }
                     ]
