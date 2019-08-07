@@ -23,8 +23,8 @@
         {
             "atomType": "Molecule",
             "name": "Spacers and Bolts",
-            "x": 88,
-            "y": 251,
+            "x": 78,
+            "y": 252,
             "uniqueID": 387913,
             "ioValues": [],
             "topLevel": false,
@@ -43,8 +43,8 @@
         {
             "atomType": "Molecule",
             "name": "Latch",
-            "x": 89,
-            "y": 307,
+            "x": 84,
+            "y": 306,
             "uniqueID": 800391,
             "ioValues": [],
             "topLevel": false,
@@ -128,8 +128,8 @@
                 {
                     "atomType": "Molecule",
                     "name": "Spacers and Bolts",
-                    "x": 88,
-                    "y": 251,
+                    "x": 78,
+                    "y": 252,
                     "uniqueID": 387913,
                     "ioValues": []
                 },
@@ -154,8 +154,8 @@
                 {
                     "atomType": "Molecule",
                     "name": "Latch",
-                    "x": 89,
-                    "y": 307,
+                    "x": 84,
+                    "y": 306,
                     "uniqueID": 800391,
                     "ioValues": []
                 },
