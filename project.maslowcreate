@@ -23,8 +23,8 @@
         {
             "atomType": "Molecule",
             "name": "Bolt",
-            "x": 100,
-            "y": 56,
+            "x": 55,
+            "y": 47,
             "uniqueID": 982563,
             "ioValues": [],
             "topLevel": false,
@@ -43,8 +43,8 @@
         {
             "atomType": "Molecule",
             "name": "Spacer",
-            "x": 108,
-            "y": 138,
+            "x": 56,
+            "y": 136,
             "uniqueID": 813124,
             "ioValues": [],
             "topLevel": false,
@@ -155,8 +155,8 @@
         {
             "atomType": "Molecule",
             "name": "Nut",
-            "x": 107,
-            "y": 220,
+            "x": 57,
+            "y": 236,
             "uniqueID": 324232,
             "ioValues": [],
             "topLevel": false,
@@ -184,24 +184,24 @@
                 {
                     "atomType": "Molecule",
                     "name": "Bolt",
-                    "x": 100,
-                    "y": 56,
+                    "x": 55,
+                    "y": 47,
                     "uniqueID": 982563,
                     "ioValues": []
                 },
                 {
                     "atomType": "Molecule",
                     "name": "Spacer",
-                    "x": 108,
-                    "y": 138,
+                    "x": 56,
+                    "y": 136,
                     "uniqueID": 813124,
                     "ioValues": []
                 },
                 {
                     "atomType": "Molecule",
                     "name": "Nut",
-                    "x": 107,
-                    "y": 220,
+                    "x": 57,
+                    "y": 236,
                     "uniqueID": 324232,
                     "ioValues": []
                 },
