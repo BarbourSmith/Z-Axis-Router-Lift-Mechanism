@@ -2886,6 +2886,177 @@
         },
         {
             "atomType": "Molecule",
+            "name": "Posts",
+            "x": 187,
+            "y": 85,
+            "uniqueID": 575470,
+            "ioValues": [],
+            "topLevel": false,
+            "allAtoms": [
+                {
+                    "atomType": "Circle",
+                    "name": "Circle",
+                    "x": 226,
+                    "y": 129,
+                    "uniqueID": 562193,
+                    "ioValues": [
+                        {
+                            "name": "diameter",
+                            "ioValue": 20
+                        }
+                    ]
+                },
+                {
+                    "atomType": "Translate",
+                    "name": "Translate",
+                    "x": 340,
+                    "y": 45,
+                    "uniqueID": 565041,
+                    "ioValues": [
+                        {
+                            "name": "xDist",
+                            "ioValue": 0
+                        },
+                        {
+                            "name": "yDist",
+                            "ioValue": 0
+                        },
+                        {
+                            "name": "zDist",
+                            "ioValue": 0
+                        }
+                    ]
+                },
+                {
+                    "atomType": "Circle",
+                    "name": "Circle",
+                    "x": 228,
+                    "y": 273,
+                    "uniqueID": 298729,
+                    "ioValues": [
+                        {
+                            "name": "diameter",
+                            "ioValue": 10
+                        }
+                    ]
+                },
+                {
+                    "atomType": "Translate",
+                    "name": "Translate",
+                    "x": 351,
+                    "y": 148,
+                    "uniqueID": 736143,
+                    "ioValues": [
+                        {
+                            "name": "xDist",
+                            "ioValue": 0
+                        },
+                        {
+                            "name": "yDist",
+                            "ioValue": 0
+                        },
+                        {
+                            "name": "zDist",
+                            "ioValue": 0
+                        }
+                    ]
+                },
+                {
+                    "atomType": "Translate",
+                    "name": "Translate",
+                    "x": 373,
+                    "y": 283,
+                    "uniqueID": 768613,
+                    "ioValues": [
+                        {
+                            "name": "xDist",
+                            "ioValue": 0
+                        },
+                        {
+                            "name": "yDist",
+                            "ioValue": 0
+                        },
+                        {
+                            "name": "zDist",
+                            "ioValue": 0
+                        }
+                    ]
+                },
+                {
+                    "atomType": "Assembly",
+                    "name": "Assembly",
+                    "x": 510,
+                    "y": 128,
+                    "uniqueID": 153765,
+                    "ioValues": [
+                        {
+                            "name": "3D shape 885517",
+                            "ioValue": 10
+                        },
+                        {
+                            "name": "3D shape 889163",
+                            "ioValue": 10
+                        },
+                        {
+                            "name": "3D shape 474888",
+                            "ioValue": 10
+                        },
+                        {
+                            "name": "3D shape 985917",
+                            "ioValue": 10
+                        }
+                    ]
+                },
+                {
+                    "atomType": "Output",
+                    "name": "Output",
+                    "x": 1316,
+                    "y": 164,
+                    "ioValues": []
+                }
+            ],
+            "allConnectors": [
+                {
+                    "ap1Name": "geometry",
+                    "ap2Name": "geometry",
+                    "ap1ID": 562193,
+                    "ap2ID": 565041
+                },
+                {
+                    "ap1Name": "geometry",
+                    "ap2Name": "geometry",
+                    "ap1ID": 562193,
+                    "ap2ID": 736143
+                },
+                {
+                    "ap1Name": "geometry",
+                    "ap2Name": "3D shape 474888",
+                    "ap1ID": 565041,
+                    "ap2ID": 153765
+                },
+                {
+                    "ap1Name": "geometry",
+                    "ap2Name": "geometry",
+                    "ap1ID": 298729,
+                    "ap2ID": 768613
+                },
+                {
+                    "ap1Name": "geometry",
+                    "ap2Name": "3D shape 889163",
+                    "ap1ID": 736143,
+                    "ap2ID": 153765
+                },
+                {
+                    "ap1Name": "geometry",
+                    "ap2Name": "3D shape 885517",
+                    "ap1ID": 768613,
+                    "ap2ID": 153765
+                }
+            ],
+            "fileTypeVersion": 1
+        },
+        {
+            "atomType": "Molecule",
             "name": "Fake arm",
             "x": 129,
             "y": 200,
@@ -3126,32 +3297,19 @@
             "allAtoms": [
                 {
                     "atomType": "Molecule",
+                    "name": "Posts",
+                    "x": 187,
+                    "y": 85,
+                    "uniqueID": 575470,
+                    "ioValues": []
+                },
+                {
+                    "atomType": "Molecule",
                     "name": "Fake arm",
                     "x": 129,
                     "y": 200,
                     "uniqueID": 949553,
                     "ioValues": []
-                },
-                {
-                    "atomType": "Translate",
-                    "name": "Translate",
-                    "x": 508,
-                    "y": 178,
-                    "uniqueID": 872256,
-                    "ioValues": [
-                        {
-                            "name": "xDist",
-                            "ioValue": 0
-                        },
-                        {
-                            "name": "yDist",
-                            "ioValue": 0
-                        },
-                        {
-                            "name": "zDist",
-                            "ioValue": 100
-                        }
-                    ]
                 },
                 {
                     "atomType": "Output",
@@ -3161,14 +3319,7 @@
                     "ioValues": []
                 }
             ],
-            "allConnectors": [
-                {
-                    "ap1Name": "Geometry",
-                    "ap2Name": "geometry",
-                    "ap1ID": 949553,
-                    "ap2ID": 872256
-                }
-            ],
+            "allConnectors": [],
             "fileTypeVersion": 1
         },
         {
