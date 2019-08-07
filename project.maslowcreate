@@ -3290,8 +3290,8 @@
                 {
                     "atomType": "Translate",
                     "name": "Translate",
-                    "x": 1070,
-                    "y": 159,
+                    "x": 1063,
+                    "y": 199,
                     "uniqueID": 538327,
                     "ioValues": [
                         {
@@ -3304,7 +3304,7 @@
                         },
                         {
                             "name": "zDist",
-                            "ioValue": 0
+                            "ioValue": 100
                         }
                     ]
                 },
@@ -3379,14 +3379,14 @@
                 },
                 {
                     "ap1Name": "geometry",
-                    "ap2Name": "number or geometry",
-                    "ap1ID": 603437
-                },
-                {
-                    "ap1Name": "geometry",
                     "ap2Name": "geometry",
                     "ap1ID": 603437,
                     "ap2ID": 538327
+                },
+                {
+                    "ap1Name": "geometry",
+                    "ap2Name": "number or geometry",
+                    "ap1ID": 538327
                 }
             ],
             "fileTypeVersion": 1
@@ -3497,6 +3497,10 @@
                         {
                             "name": "3D shape 569910",
                             "ioValue": 10
+                        },
+                        {
+                            "name": "3D shape 665732",
+                            "ioValue": 10
                         }
                     ]
                 },
@@ -3543,6 +3547,12 @@
                     "ap1Name": "Geometry",
                     "ap2Name": "3D shape 465347",
                     "ap1ID": 201738,
+                    "ap2ID": 851874
+                },
+                {
+                    "ap1Name": "Geometry",
+                    "ap2Name": "3D shape 569910",
+                    "ap1ID": 186758,
                     "ap2ID": 851874
                 },
                 {
