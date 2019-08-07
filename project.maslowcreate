@@ -3004,11 +3004,11 @@
                     "ioValues": [
                         {
                             "name": "xDist",
-                            "ioValue": 0
+                            "ioValue": 40
                         },
                         {
                             "name": "yDist",
-                            "ioValue": 0
+                            "ioValue": 30
                         },
                         {
                             "name": "zDist",
