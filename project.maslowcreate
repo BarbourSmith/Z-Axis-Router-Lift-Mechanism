@@ -2896,8 +2896,8 @@
                 {
                     "atomType": "Constant",
                     "name": "Dist Out",
-                    "x": 42,
-                    "y": 106,
+                    "x": 50,
+                    "y": 168,
                     "uniqueID": 125422,
                     "ioValues": [
                         {
@@ -2920,6 +2920,20 @@
                     ]
                 },
                 {
+                    "atomType": "Equation",
+                    "name": "Equation",
+                    "x": 278,
+                    "y": 204,
+                    "uniqueID": 486513,
+                    "ioValues": [
+                        {
+                            "name": "x",
+                            "ioValue": 90
+                        }
+                    ],
+                    "currentEquation": "-1*x"
+                },
+                {
                     "atomType": "Translate",
                     "name": "Translate",
                     "x": 345,
@@ -2928,7 +2942,7 @@
                     "ioValues": [
                         {
                             "name": "xDist",
-                            "ioValue": -70
+                            "ioValue": 90
                         },
                         {
                             "name": "yDist",
@@ -2962,7 +2976,7 @@
                     "ioValues": [
                         {
                             "name": "xDist",
-                            "ioValue": 70
+                            "ioValue": -90
                         },
                         {
                             "name": "yDist",
@@ -2987,7 +3001,7 @@
                         },
                         {
                             "name": "yDist",
-                            "ioValue": 70
+                            "ioValue": 90
                         },
                         {
                             "name": "zDist",
@@ -3042,7 +3056,24 @@
                 }
             ],
             "allConnectors": [
-                null,
+                {
+                    "ap1Name": "number",
+                    "ap2Name": "xDist",
+                    "ap1ID": 125422,
+                    "ap2ID": 565041
+                },
+                {
+                    "ap1Name": "number",
+                    "ap2Name": "yDist",
+                    "ap1ID": 125422,
+                    "ap2ID": 768613
+                },
+                {
+                    "ap1Name": "number",
+                    "ap2Name": "x",
+                    "ap1ID": 125422,
+                    "ap2ID": 486513
+                },
                 {
                     "ap1Name": "geometry",
                     "ap2Name": "geometry",
@@ -3053,6 +3084,12 @@
                     "ap1Name": "geometry",
                     "ap2Name": "geometry",
                     "ap1ID": 562193,
+                    "ap2ID": 736143
+                },
+                {
+                    "ap1Name": "result",
+                    "ap2Name": "xDist",
+                    "ap1ID": 486513,
                     "ap2ID": 736143
                 },
                 {
@@ -3350,6 +3387,27 @@
                     "ioValues": []
                 },
                 {
+                    "atomType": "Rotate",
+                    "name": "Rotate",
+                    "x": 345,
+                    "y": 181,
+                    "uniqueID": 924957,
+                    "ioValues": [
+                        {
+                            "name": "x-axis degrees",
+                            "ioValue": 0
+                        },
+                        {
+                            "name": "y-axis degrees",
+                            "ioValue": 0
+                        },
+                        {
+                            "name": "z-axis degrees",
+                            "ioValue": 18
+                        }
+                    ]
+                },
+                {
                     "atomType": "Assembly",
                     "name": "Assembly",
                     "x": 462,
@@ -3357,15 +3415,15 @@
                     "uniqueID": 974581,
                     "ioValues": [
                         {
-                            "name": "3D shape 754614",
-                            "ioValue": 10
-                        },
-                        {
                             "name": "3D shape 376771",
                             "ioValue": 10
                         },
                         {
                             "name": "3D shape 822538",
+                            "ioValue": 10
+                        },
+                        {
+                            "name": "3D shape 293758",
                             "ioValue": 10
                         }
                     ]
@@ -3387,8 +3445,14 @@
                 },
                 {
                     "ap1Name": "Geometry",
-                    "ap2Name": "3D shape 754614",
+                    "ap2Name": "geometry",
                     "ap1ID": 949553,
+                    "ap2ID": 924957
+                },
+                {
+                    "ap1Name": "geometry",
+                    "ap2Name": "3D shape 822538",
+                    "ap1ID": 924957,
                     "ap2ID": 974581
                 },
                 {
