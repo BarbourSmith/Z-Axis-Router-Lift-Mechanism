@@ -1474,8 +1474,8 @@
         {
             "atomType": "Molecule",
             "name": "Molecule",
-            "x": 111,
-            "y": 108,
+            "x": 35,
+            "y": 61,
             "uniqueID": 612894,
             "ioValues": [],
             "topLevel": false,
@@ -1494,9 +1494,29 @@
         {
             "atomType": "Molecule",
             "name": "Molecule",
-            "x": 105,
-            "y": 174,
+            "x": 37,
+            "y": 164,
             "uniqueID": 992463,
+            "ioValues": [],
+            "topLevel": false,
+            "allAtoms": [
+                {
+                    "atomType": "Output",
+                    "name": "Output",
+                    "x": 1316,
+                    "y": 164,
+                    "ioValues": []
+                }
+            ],
+            "allConnectors": [],
+            "fileTypeVersion": 1
+        },
+        {
+            "atomType": "Molecule",
+            "name": "Molecule",
+            "x": 43,
+            "y": 274,
+            "uniqueID": 878418,
             "ioValues": [],
             "topLevel": false,
             "allAtoms": [
@@ -1523,17 +1543,25 @@
                 {
                     "atomType": "Molecule",
                     "name": "Molecule",
-                    "x": 111,
-                    "y": 108,
+                    "x": 35,
+                    "y": 61,
                     "uniqueID": 612894,
                     "ioValues": []
                 },
                 {
                     "atomType": "Molecule",
                     "name": "Molecule",
-                    "x": 105,
-                    "y": 174,
+                    "x": 37,
+                    "y": 164,
                     "uniqueID": 992463,
+                    "ioValues": []
+                },
+                {
+                    "atomType": "Molecule",
+                    "name": "Molecule",
+                    "x": 43,
+                    "y": 274,
+                    "uniqueID": 878418,
                     "ioValues": []
                 },
                 {
