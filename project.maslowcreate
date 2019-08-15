@@ -2132,11 +2132,11 @@
                     "ioValues": [
                         {
                             "name": "x length",
-                            "ioValue": 10
+                            "ioValue": 30
                         },
                         {
                             "name": "y length",
-                            "ioValue": 10
+                            "ioValue": 30
                         }
                     ]
                 },
@@ -2170,11 +2170,11 @@
                     "ioValues": [
                         {
                             "name": "xDist",
-                            "ioValue": 50
+                            "ioValue": 40
                         },
                         {
                             "name": "yDist",
-                            "ioValue": -50
+                            "ioValue": -40
                         },
                         {
                             "name": "zDist",
@@ -2341,28 +2341,6 @@
                     "closedSelection": 0
                 },
                 {
-                    "atomType": "ShrinkWrap",
-                    "name": "Shrink Wrap",
-                    "x": 941,
-                    "y": 260,
-                    "uniqueID": 685009,
-                    "ioValues": [
-                        {
-                            "name": "3D shape 755830",
-                            "ioValue": 10
-                        },
-                        {
-                            "name": "3D shape 554286",
-                            "ioValue": 10
-                        },
-                        {
-                            "name": "3D shape 288294",
-                            "ioValue": 10
-                        }
-                    ],
-                    "closedSelection": 0
-                },
-                {
                     "atomType": "Assembly",
                     "name": "Assembly",
                     "x": 1054,
@@ -2378,11 +2356,11 @@
                             "ioValue": 10
                         },
                         {
-                            "name": "3D shape 324423",
+                            "name": "3D shape 418869",
                             "ioValue": 10
                         },
                         {
-                            "name": "3D shape 418869",
+                            "name": "3D shape 214763",
                             "ioValue": 10
                         }
                     ]
@@ -2467,9 +2445,9 @@
                 },
                 {
                     "ap1Name": "geometry",
-                    "ap2Name": "3D shape 755830",
+                    "ap2Name": "3D shape 418869",
                     "ap1ID": 714375,
-                    "ap2ID": 685009
+                    "ap2ID": 265031
                 },
                 {
                     "ap1Name": "geometry",
@@ -2541,12 +2519,6 @@
                     "ap1Name": "geometry",
                     "ap2Name": "3D shape 344044",
                     "ap1ID": 166841,
-                    "ap2ID": 265031
-                },
-                {
-                    "ap1Name": "geometry",
-                    "ap2Name": "3D shape 324423",
-                    "ap1ID": 685009,
                     "ap2ID": 265031
                 },
                 {
