@@ -26,7 +26,13 @@
                     "ioValues": []
                 }
             ],
-            "allConnectors": [],
+            "allConnectors": [
+                {
+                    "ap1Name": "Geometry",
+                    "ap2Name": "number or geometry",
+                    "ap1ID": 514831
+                }
+            ],
             "fileTypeVersion": 1
         },
         {
@@ -160,6 +166,27 @@
                     "ioValues": []
                 },
                 {
+                    "atomType": "Rotate",
+                    "name": "Rotate",
+                    "x": 601,
+                    "y": 198,
+                    "uniqueID": 896360,
+                    "ioValues": [
+                        {
+                            "name": "x-axis degrees",
+                            "ioValue": 0
+                        },
+                        {
+                            "name": "y-axis degrees",
+                            "ioValue": 180
+                        },
+                        {
+                            "name": "z-axis degrees",
+                            "ioValue": 0
+                        }
+                    ]
+                },
+                {
                     "atomType": "Output",
                     "name": "Output",
                     "x": 1316,
@@ -170,8 +197,14 @@
             "allConnectors": [
                 {
                     "ap1Name": "Geometry",
+                    "ap2Name": "geometry",
+                    "ap1ID": 992832,
+                    "ap2ID": 896360
+                },
+                {
+                    "ap1Name": "geometry",
                     "ap2Name": "number or geometry",
-                    "ap1ID": 992832
+                    "ap1ID": 896360
                 }
             ],
             "fileTypeVersion": 1
@@ -233,8 +266,8 @@
                 {
                     "atomType": "Translate",
                     "name": "Translate",
-                    "x": 235,
-                    "y": 247,
+                    "x": 230,
+                    "y": 244,
                     "uniqueID": 552033,
                     "ioValues": [
                         {
