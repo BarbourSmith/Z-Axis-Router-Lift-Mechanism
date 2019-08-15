@@ -1538,7 +1538,7 @@
                     "y": 126,
                     "uniqueID": 960922,
                     "ioValues": [],
-                    "selectedColorIndex": "5"
+                    "selectedColorIndex": "3"
                 },
                 {
                     "atomType": "Add BOM Tag",
@@ -1779,8 +1779,8 @@
         {
             "atomType": "Molecule",
             "name": "T-nut",
-            "x": 50,
-            "y": 216,
+            "x": 45,
+            "y": 213,
             "uniqueID": 800391,
             "ioValues": [],
             "topLevel": false,
@@ -1804,8 +1804,8 @@
                 {
                     "atomType": "Rotate",
                     "name": "Rotate",
-                    "x": 217,
-                    "y": 78,
+                    "x": 211,
+                    "y": 79,
                     "uniqueID": 879340,
                     "ioValues": [
                         {
@@ -1875,8 +1875,8 @@
                 {
                     "atomType": "Translate",
                     "name": "Translate",
-                    "x": 422,
-                    "y": 50,
+                    "x": 429,
+                    "y": 58,
                     "uniqueID": 637153,
                     "ioValues": [
                         {
@@ -1885,7 +1885,7 @@
                         },
                         {
                             "name": "yDist",
-                            "ioValue": 30
+                            "ioValue": 25
                         },
                         {
                             "name": "zDist",
@@ -2781,8 +2781,8 @@
                 {
                     "atomType": "Molecule",
                     "name": "T-nut",
-                    "x": 50,
-                    "y": 216,
+                    "x": 45,
+                    "y": 213,
                     "uniqueID": 800391,
                     "ioValues": []
                 },
@@ -2810,8 +2810,8 @@
                 {
                     "atomType": "Translate",
                     "name": "Translate",
-                    "x": 393,
-                    "y": 201,
+                    "x": 391,
+                    "y": 205,
                     "uniqueID": 213669,
                     "ioValues": [
                         {
@@ -2873,8 +2873,8 @@
                 {
                     "atomType": "Assembly",
                     "name": "Assembly",
-                    "x": 747,
-                    "y": 161,
+                    "x": 740,
+                    "y": 170,
                     "uniqueID": 423382,
                     "ioValues": [
                         {
