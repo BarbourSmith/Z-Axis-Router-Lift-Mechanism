@@ -212,8 +212,8 @@
         {
             "atomType": "Molecule",
             "name": "Bolt Nut Spacer Assembly",
-            "x": 100,
-            "y": 66,
+            "x": 99,
+            "y": 67,
             "uniqueID": 601479,
             "ioValues": [],
             "topLevel": false,
@@ -387,7 +387,7 @@
             "atomType": "Molecule",
             "name": "Spacers and Bolts",
             "x": 52,
-            "y": 123,
+            "y": 124,
             "uniqueID": 387913,
             "ioValues": [],
             "topLevel": false,
@@ -395,8 +395,8 @@
                 {
                     "atomType": "Molecule",
                     "name": "Bolt Nut Spacer Assembly",
-                    "x": 100,
-                    "y": 66,
+                    "x": 99,
+                    "y": 67,
                     "uniqueID": 601479,
                     "ioValues": []
                 },
@@ -967,7 +967,7 @@
                     "atomType": "Molecule",
                     "name": "Spacers and Bolts",
                     "x": 52,
-                    "y": 123,
+                    "y": 124,
                     "uniqueID": 387913,
                     "ioValues": []
                 },
@@ -1041,10 +1041,24 @@
                 {
                     "atomType": "Input",
                     "name": "Bit Depth",
-                    "x": 924,
-                    "y": 49,
+                    "x": 802,
+                    "y": 40,
                     "uniqueID": 761745,
                     "ioValues": []
+                },
+                {
+                    "atomType": "Equation",
+                    "name": "Equation",
+                    "x": 929,
+                    "y": 101,
+                    "uniqueID": 241868,
+                    "ioValues": [
+                        {
+                            "name": "x",
+                            "ioValue": 0
+                        }
+                    ],
+                    "currentEquation": "80+x"
                 },
                 {
                     "atomType": "Translate",
@@ -1066,20 +1080,6 @@
                             "ioValue": 80
                         }
                     ]
-                },
-                {
-                    "atomType": "Equation",
-                    "name": "Equation",
-                    "x": 1080,
-                    "y": 64,
-                    "uniqueID": 241868,
-                    "ioValues": [
-                        {
-                            "name": "x",
-                            "ioValue": 0
-                        }
-                    ],
-                    "currentEquation": "80+x"
                 },
                 {
                     "atomType": "Output",
@@ -1133,15 +1133,15 @@
                     "ap2ID": 241868
                 },
                 {
-                    "ap1Name": "geometry",
-                    "ap2Name": "number or geometry",
-                    "ap1ID": 316437
-                },
-                {
                     "ap1Name": "result",
                     "ap2Name": "zDist",
                     "ap1ID": 241868,
                     "ap2ID": 316437
+                },
+                {
+                    "ap1Name": "geometry",
+                    "ap2Name": "number or geometry",
+                    "ap1ID": 316437
                 }
             ],
             "fileTypeVersion": 1
