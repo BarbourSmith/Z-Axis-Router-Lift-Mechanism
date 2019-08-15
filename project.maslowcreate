@@ -872,8 +872,8 @@
         {
             "atomType": "Molecule",
             "name": "Short Bolt Nut Assembly for Ball Nut",
-            "x": 38,
-            "y": 276,
+            "x": 54,
+            "y": 287,
             "uniqueID": 936369,
             "ioValues": [],
             "topLevel": false,
@@ -1053,6 +1053,10 @@
                         {
                             "name": "3D shape 635579",
                             "ioValue": 10
+                        },
+                        {
+                            "name": "3D shape 767265",
+                            "ioValue": 10
                         }
                     ]
                 },
@@ -1097,11 +1101,6 @@
                 },
                 {
                     "ap1Name": "geometry",
-                    "ap2Name": "number or geometry",
-                    "ap1ID": 740096
-                },
-                {
-                    "ap1Name": "geometry",
                     "ap2Name": "geometry",
                     "ap1ID": 740096,
                     "ap2ID": 262580
@@ -1117,6 +1116,17 @@
                     "ap2Name": "geometry",
                     "ap1ID": 740096,
                     "ap2ID": 257268
+                },
+                {
+                    "ap1Name": "geometry",
+                    "ap2Name": "3D shape 635579",
+                    "ap1ID": 257268,
+                    "ap2ID": 111087
+                },
+                {
+                    "ap1Name": "geometry",
+                    "ap2Name": "number or geometry",
+                    "ap1ID": 111087
                 }
             ],
             "fileTypeVersion": 1
@@ -1124,8 +1134,8 @@
         {
             "atomType": "Molecule",
             "name": "Spacers and Bolts",
-            "x": 52,
-            "y": 119,
+            "x": 48,
+            "y": 123,
             "uniqueID": 387913,
             "ioValues": [],
             "topLevel": false,
@@ -1157,8 +1167,8 @@
                 {
                     "atomType": "Molecule",
                     "name": "Short Bolt Nut Assembly for Ball Nut",
-                    "x": 38,
-                    "y": 276,
+                    "x": 54,
+                    "y": 287,
                     "uniqueID": 936369,
                     "ioValues": []
                 },
@@ -1877,7 +1887,7 @@
             "atomType": "Molecule",
             "name": "Plates",
             "x": 221,
-            "y": 43,
+            "y": 47,
             "uniqueID": 517888,
             "ioValues": [
                 {
@@ -1903,8 +1913,8 @@
                 {
                     "atomType": "Molecule",
                     "name": "Spacers and Bolts",
-                    "x": 52,
-                    "y": 119,
+                    "x": 48,
+                    "y": 123,
                     "uniqueID": 387913,
                     "ioValues": []
                 },
@@ -4837,7 +4847,7 @@
                     "atomType": "Molecule",
                     "name": "Plates",
                     "x": 221,
-                    "y": 43,
+                    "y": 47,
                     "uniqueID": 517888,
                     "ioValues": [
                         {
