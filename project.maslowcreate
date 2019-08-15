@@ -704,8 +704,8 @@
                 {
                     "atomType": "Translate",
                     "name": "Translate",
-                    "x": 265,
-                    "y": 77,
+                    "x": 262,
+                    "y": 83,
                     "uniqueID": 559539,
                     "ioValues": [
                         {
@@ -725,8 +725,8 @@
                 {
                     "atomType": "Translate",
                     "name": "Translate",
-                    "x": 250,
-                    "y": 158,
+                    "x": 256,
+                    "y": 166,
                     "uniqueID": 151996,
                     "ioValues": [
                         {
@@ -899,8 +899,8 @@
                 {
                     "atomType": "Translate",
                     "name": "Translate",
-                    "x": 261,
-                    "y": 96,
+                    "x": 259,
+                    "y": 91,
                     "uniqueID": 646030,
                     "ioValues": [
                         {
@@ -913,15 +913,15 @@
                         },
                         {
                             "name": "zDist",
-                            "ioValue": 55.875
+                            "ioValue": 16
                         }
                     ]
                 },
                 {
                     "atomType": "Rotate",
                     "name": "Rotate",
-                    "x": 269,
-                    "y": 230,
+                    "x": 261,
+                    "y": 226,
                     "uniqueID": 165539,
                     "ioValues": [
                         {
@@ -941,8 +941,8 @@
                 {
                     "atomType": "Translate",
                     "name": "Translate",
-                    "x": 455,
-                    "y": 242,
+                    "x": 451,
+                    "y": 240,
                     "uniqueID": 238601,
                     "ioValues": [
                         {
@@ -955,7 +955,7 @@
                         },
                         {
                             "name": "zDist",
-                            "ioValue": 32
+                            "ioValue": 2
                         }
                     ]
                 },
@@ -1279,8 +1279,8 @@
                 {
                     "atomType": "Translate",
                     "name": "Translate",
-                    "x": 721,
-                    "y": 223,
+                    "x": 723,
+                    "y": 228,
                     "uniqueID": 285916,
                     "ioValues": [
                         {
@@ -1321,8 +1321,8 @@
                 {
                     "atomType": "Translate",
                     "name": "Translate",
-                    "x": 768,
-                    "y": 270,
+                    "x": 770,
+                    "y": 272,
                     "uniqueID": 848398,
                     "ioValues": [
                         {
@@ -1331,7 +1331,7 @@
                         },
                         {
                             "name": "yDist",
-                            "ioValue": 0
+                            "ioValue": 70
                         },
                         {
                             "name": "zDist",
