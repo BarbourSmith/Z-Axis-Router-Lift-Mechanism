@@ -212,8 +212,8 @@
         {
             "atomType": "Molecule",
             "name": "Long Bolt Nut Spacer Assembly For Sliders",
-            "x": 60,
-            "y": 68,
+            "x": 58,
+            "y": 69,
             "uniqueID": 601479,
             "ioValues": [],
             "topLevel": false,
@@ -676,20 +676,20 @@
             "allAtoms": [
                 {
                     "atomType": "GitHubMolecule",
+                    "name": "M4 55mm Bolt",
+                    "x": 86,
+                    "y": 62,
+                    "uniqueID": 415978,
+                    "projectID": "202528433",
+                    "ioValues": []
+                },
+                {
+                    "atomType": "GitHubMolecule",
                     "name": "M4 20mm Spacer",
                     "x": 93,
                     "y": 153,
                     "uniqueID": 209624,
                     "projectID": "202529921",
-                    "ioValues": []
-                },
-                {
-                    "atomType": "GitHubMolecule",
-                    "name": "M4 55mm Bolt",
-                    "x": 225,
-                    "y": 48,
-                    "uniqueID": 415978,
-                    "projectID": "202528433",
                     "ioValues": []
                 },
                 {
@@ -700,6 +700,27 @@
                     "uniqueID": 100520,
                     "projectID": "201057537",
                     "ioValues": []
+                },
+                {
+                    "atomType": "Translate",
+                    "name": "Translate",
+                    "x": 265,
+                    "y": 77,
+                    "uniqueID": 559539,
+                    "ioValues": [
+                        {
+                            "name": "xDist",
+                            "ioValue": 0
+                        },
+                        {
+                            "name": "yDist",
+                            "ioValue": 0
+                        },
+                        {
+                            "name": "zDist",
+                            "ioValue": 45
+                        }
+                    ]
                 },
                 {
                     "atomType": "Translate",
@@ -765,6 +786,31 @@
                     ]
                 },
                 {
+                    "atomType": "Assembly",
+                    "name": "Assembly",
+                    "x": 600,
+                    "y": 110,
+                    "uniqueID": 700991,
+                    "ioValues": [
+                        {
+                            "name": "3D shape 468444",
+                            "ioValue": 10
+                        },
+                        {
+                            "name": "3D shape 688536",
+                            "ioValue": 10
+                        },
+                        {
+                            "name": "3D shape 561285",
+                            "ioValue": 10
+                        },
+                        {
+                            "name": "3D shape 724312",
+                            "ioValue": 10
+                        }
+                    ]
+                },
+                {
                     "atomType": "Output",
                     "name": "Output",
                     "x": 1316,
@@ -773,6 +819,12 @@
                 }
             ],
             "allConnectors": [
+                {
+                    "ap1Name": "Geometry",
+                    "ap2Name": "geometry",
+                    "ap1ID": 415978,
+                    "ap2ID": 559539
+                },
                 {
                     "ap1Name": "Geometry",
                     "ap2Name": "geometry",
@@ -787,9 +839,32 @@
                 },
                 {
                     "ap1Name": "geometry",
+                    "ap2Name": "3D shape 561285",
+                    "ap1ID": 559539,
+                    "ap2ID": 700991
+                },
+                {
+                    "ap1Name": "geometry",
+                    "ap2Name": "3D shape 688536",
+                    "ap1ID": 151996,
+                    "ap2ID": 700991
+                },
+                {
+                    "ap1Name": "geometry",
                     "ap2Name": "geometry",
                     "ap1ID": 172878,
                     "ap2ID": 309933
+                },
+                {
+                    "ap1Name": "geometry",
+                    "ap2Name": "3D shape 468444",
+                    "ap1ID": 309933,
+                    "ap2ID": 700991
+                },
+                {
+                    "ap1Name": "geometry",
+                    "ap2Name": "number or geometry",
+                    "ap1ID": 700991
                 }
             ],
             "fileTypeVersion": 1
@@ -826,8 +901,8 @@
                 {
                     "atomType": "Molecule",
                     "name": "Long Bolt Nut Spacer Assembly For Sliders",
-                    "x": 60,
-                    "y": 68,
+                    "x": 58,
+                    "y": 69,
                     "uniqueID": 601479,
                     "ioValues": []
                 },
