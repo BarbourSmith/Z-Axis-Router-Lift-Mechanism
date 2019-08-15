@@ -38,8 +38,8 @@
         {
             "atomType": "Molecule",
             "name": "M4 20MM Spacer",
-            "x": 45,
-            "y": 129,
+            "x": 62,
+            "y": 145,
             "uniqueID": 813124,
             "ioValues": [],
             "topLevel": false,
@@ -229,8 +229,8 @@
                 {
                     "atomType": "Molecule",
                     "name": "M4 20MM Spacer",
-                    "x": 45,
-                    "y": 129,
+                    "x": 62,
+                    "y": 145,
                     "uniqueID": 813124,
                     "ioValues": []
                 },
@@ -266,8 +266,8 @@
                 {
                     "atomType": "Translate",
                     "name": "Translate",
-                    "x": 228,
-                    "y": 152,
+                    "x": 242,
+                    "y": 145,
                     "uniqueID": 600947,
                     "ioValues": [
                         {
