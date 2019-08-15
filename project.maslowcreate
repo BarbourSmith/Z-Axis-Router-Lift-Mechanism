@@ -386,8 +386,8 @@
         {
             "atomType": "Molecule",
             "name": "Spacers and Bolts",
-            "x": 50,
-            "y": 127,
+            "x": 52,
+            "y": 123,
             "uniqueID": 387913,
             "ioValues": [],
             "topLevel": false,
@@ -401,6 +401,44 @@
                     "ioValues": []
                 },
                 {
+                    "atomType": "Translate",
+                    "name": "Translate",
+                    "x": 537,
+                    "y": 164,
+                    "uniqueID": 308525,
+                    "ioValues": [
+                        {
+                            "name": "xDist",
+                            "ioValue": -80
+                        },
+                        {
+                            "name": "yDist",
+                            "ioValue": 0
+                        },
+                        {
+                            "name": "zDist",
+                            "ioValue": 0
+                        }
+                    ]
+                },
+                {
+                    "atomType": "Assembly",
+                    "name": "Assembly",
+                    "x": 934,
+                    "y": 106,
+                    "uniqueID": 754621,
+                    "ioValues": [
+                        {
+                            "name": "3D shape 928096",
+                            "ioValue": 10
+                        },
+                        {
+                            "name": "3D shape 951088",
+                            "ioValue": 10
+                        }
+                    ]
+                },
+                {
                     "atomType": "Output",
                     "name": "Output",
                     "x": 1316,
@@ -411,8 +449,20 @@
             "allConnectors": [
                 {
                     "ap1Name": "Geometry",
+                    "ap2Name": "geometry",
+                    "ap1ID": 601479,
+                    "ap2ID": 308525
+                },
+                {
+                    "ap1Name": "geometry",
+                    "ap2Name": "3D shape 928096",
+                    "ap1ID": 308525,
+                    "ap2ID": 754621
+                },
+                {
+                    "ap1Name": "geometry",
                     "ap2Name": "number or geometry",
-                    "ap1ID": 601479
+                    "ap1ID": 754621
                 }
             ],
             "fileTypeVersion": 1
@@ -440,8 +490,8 @@
         {
             "atomType": "Molecule",
             "name": "Plates",
-            "x": 251,
-            "y": 45,
+            "x": 245,
+            "y": 48,
             "uniqueID": 363878,
             "ioValues": [
                 {
@@ -916,8 +966,8 @@
                 {
                     "atomType": "Molecule",
                     "name": "Spacers and Bolts",
-                    "x": 50,
-                    "y": 127,
+                    "x": 52,
+                    "y": 123,
                     "uniqueID": 387913,
                     "ioValues": []
                 },
@@ -932,8 +982,8 @@
                 {
                     "atomType": "Molecule",
                     "name": "Plates",
-                    "x": 251,
-                    "y": 45,
+                    "x": 245,
+                    "y": 48,
                     "uniqueID": 363878,
                     "ioValues": [
                         {
@@ -3908,10 +3958,6 @@
                             "ioValue": 10
                         },
                         {
-                            "name": "3D shape 697861",
-                            "ioValue": 10
-                        },
-                        {
                             "name": "3D shape 649486",
                             "ioValue": 10
                         },
@@ -3971,12 +4017,6 @@
                     "ap2Name": "Bit Depth",
                     "ap1ID": 649665,
                     "ap2ID": 517888
-                },
-                {
-                    "ap1Name": "Geometry",
-                    "ap2Name": "3D shape 697861",
-                    "ap1ID": 517888,
-                    "ap2ID": 851874
                 },
                 {
                     "ap1Name": "Geometry",
