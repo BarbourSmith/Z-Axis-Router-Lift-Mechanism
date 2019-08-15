@@ -2527,6 +2527,23 @@
                     ]
                 },
                 {
+                    "atomType": "Rectangle",
+                    "name": "Rectangle",
+                    "x": 147,
+                    "y": 242,
+                    "uniqueID": 946139,
+                    "ioValues": [
+                        {
+                            "name": "x length",
+                            "ioValue": 10
+                        },
+                        {
+                            "name": "y length",
+                            "ioValue": 10
+                        }
+                    ]
+                },
+                {
                     "atomType": "Translate",
                     "name": "Translate",
                     "x": 288,
@@ -2539,7 +2556,7 @@
                         },
                         {
                             "name": "yDist",
-                            "ioValue": 7
+                            "ioValue": 12
                         },
                         {
                             "name": "zDist",
@@ -2590,6 +2607,44 @@
                     ]
                 },
                 {
+                    "atomType": "Extrude",
+                    "name": "Extrude",
+                    "x": 569,
+                    "y": 82,
+                    "uniqueID": 972339,
+                    "ioValues": [
+                        {
+                            "name": "height",
+                            "ioValue": 10
+                        }
+                    ]
+                },
+                {
+                    "atomType": "Assembly",
+                    "name": "Assembly",
+                    "x": 874,
+                    "y": 89,
+                    "uniqueID": 373235,
+                    "ioValues": [
+                        {
+                            "name": "3D shape 312255",
+                            "ioValue": 10
+                        },
+                        {
+                            "name": "3D shape 422360",
+                            "ioValue": 10
+                        }
+                    ]
+                },
+                {
+                    "atomType": "CutAway",
+                    "name": "Cut Away",
+                    "x": 1039,
+                    "y": 132,
+                    "uniqueID": 452537,
+                    "ioValues": []
+                },
+                {
                     "atomType": "Output",
                     "name": "Output",
                     "x": 1316,
@@ -2621,6 +2676,29 @@
                     "ap2Name": "3D shape 553060",
                     "ap1ID": 870268,
                     "ap2ID": 247055
+                },
+                {
+                    "ap1Name": "geometry",
+                    "ap2Name": "geometry",
+                    "ap1ID": 247055,
+                    "ap2ID": 972339
+                },
+                {
+                    "ap1Name": "geometry",
+                    "ap2Name": "3D shape 312255",
+                    "ap1ID": 972339,
+                    "ap2ID": 373235
+                },
+                {
+                    "ap1Name": "geometry",
+                    "ap2Name": "geometry",
+                    "ap1ID": 373235,
+                    "ap2ID": 452537
+                },
+                {
+                    "ap1Name": "geometry",
+                    "ap2Name": "number or geometry",
+                    "ap1ID": 452537
                 }
             ],
             "fileTypeVersion": 1
