@@ -1473,9 +1473,9 @@
         },
         {
             "atomType": "Molecule",
-            "name": "Post With Tapped Hole",
-            "x": 35,
-            "y": 61,
+            "name": "Square Nut",
+            "x": 33,
+            "y": 54,
             "uniqueID": 612894,
             "ioValues": [],
             "topLevel": false,
@@ -1637,9 +1637,9 @@
         },
         {
             "atomType": "Molecule",
-            "name": "Post With Threaded Hole",
-            "x": 31,
-            "y": 163,
+            "name": "Washer",
+            "x": 24,
+            "y": 152,
             "uniqueID": 992463,
             "ioValues": [],
             "topLevel": false,
@@ -1647,8 +1647,8 @@
                 {
                     "atomType": "Circle",
                     "name": "Circle",
-                    "x": 126,
-                    "y": 83,
+                    "x": 127,
+                    "y": 81,
                     "uniqueID": 190578,
                     "ioValues": [
                         {
@@ -1673,7 +1673,7 @@
                 {
                     "atomType": "Extrude",
                     "name": "Extrude",
-                    "x": 279,
+                    "x": 285,
                     "y": 72,
                     "uniqueID": 938796,
                     "ioValues": [
@@ -1872,17 +1872,17 @@
             "allAtoms": [
                 {
                     "atomType": "Molecule",
-                    "name": "Post With Tapped Hole",
-                    "x": 35,
-                    "y": 61,
+                    "name": "Square Nut",
+                    "x": 33,
+                    "y": 54,
                     "uniqueID": 612894,
                     "ioValues": []
                 },
                 {
                     "atomType": "Molecule",
-                    "name": "Post With Threaded Hole",
-                    "x": 31,
-                    "y": 163,
+                    "name": "Washer",
+                    "x": 24,
+                    "y": 152,
                     "uniqueID": 992463,
                     "ioValues": []
                 },

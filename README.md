@@ -94,10 +94,10 @@ undefined
 ## T-nut
 
 
-## Post With Tapped Hole
+## Square Nut
 
 
-## Post With Threaded Hole
+## Washer
 
 
 ## Bolt
