@@ -1863,7 +1863,7 @@
         },
         {
             "atomType": "Molecule",
-            "name": "Latch",
+            "name": "T-nut",
             "x": 48,
             "y": 210,
             "uniqueID": 800391,
@@ -2493,12 +2493,29 @@
         {
             "atomType": "Molecule",
             "name": "T-nut Cutaway",
-            "x": 100,
-            "y": 300,
+            "x": 59,
+            "y": 292,
             "uniqueID": 408482,
             "ioValues": [],
             "topLevel": false,
             "allAtoms": [
+                {
+                    "atomType": "Rectangle",
+                    "name": "Rectangle",
+                    "x": 151,
+                    "y": 133,
+                    "uniqueID": 461643,
+                    "ioValues": [
+                        {
+                            "name": "x length",
+                            "ioValue": 7
+                        },
+                        {
+                            "name": "y length",
+                            "ioValue": 10
+                        }
+                    ]
+                },
                 {
                     "atomType": "Output",
                     "name": "Output",
@@ -2547,7 +2564,7 @@
                 },
                 {
                     "atomType": "Molecule",
-                    "name": "Latch",
+                    "name": "T-nut",
                     "x": 48,
                     "y": 210,
                     "uniqueID": 800391,
@@ -2565,6 +2582,14 @@
                             "ioValue": 89
                         }
                     ]
+                },
+                {
+                    "atomType": "Molecule",
+                    "name": "T-nut Cutaway",
+                    "x": 59,
+                    "y": 292,
+                    "uniqueID": 408482,
+                    "ioValues": []
                 },
                 {
                     "atomType": "Rotate",
@@ -2586,14 +2611,6 @@
                             "ioValue": -70
                         }
                     ]
-                },
-                {
-                    "atomType": "Molecule",
-                    "name": "T-nut Cutaway",
-                    "x": 100,
-                    "y": 300,
-                    "uniqueID": 408482,
-                    "ioValues": []
                 },
                 {
                     "atomType": "Translate",
