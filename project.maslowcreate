@@ -386,8 +386,8 @@
         {
             "atomType": "Molecule",
             "name": "Spacers and Bolts",
-            "x": 52,
-            "y": 116,
+            "x": 50,
+            "y": 113,
             "uniqueID": 387913,
             "ioValues": [],
             "topLevel": false,
@@ -966,8 +966,8 @@
                 {
                     "atomType": "Molecule",
                     "name": "Spacers and Bolts",
-                    "x": 52,
-                    "y": 116,
+                    "x": 50,
+                    "y": 113,
                     "uniqueID": 387913,
                     "ioValues": []
                 },
@@ -995,8 +995,8 @@
                 {
                     "atomType": "Translate",
                     "name": "Translate",
-                    "x": 616,
-                    "y": 49,
+                    "x": 621,
+                    "y": 55,
                     "uniqueID": 888917,
                     "ioValues": [
                         {
@@ -1016,8 +1016,8 @@
                 {
                     "atomType": "Assembly",
                     "name": "Assembly",
-                    "x": 768,
-                    "y": 171,
+                    "x": 758,
+                    "y": 184,
                     "uniqueID": 423382,
                     "ioValues": [
                         {
