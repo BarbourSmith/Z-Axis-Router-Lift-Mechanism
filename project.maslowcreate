@@ -1943,8 +1943,8 @@
         {
             "atomType": "Molecule",
             "name": "Plates",
-            "x": 221,
-            "y": 51,
+            "x": 216,
+            "y": 52,
             "uniqueID": 517888,
             "ioValues": [
                 {
@@ -4903,8 +4903,8 @@
                 {
                     "atomType": "Molecule",
                     "name": "Plates",
-                    "x": 221,
-                    "y": 51,
+                    "x": 216,
+                    "y": 52,
                     "uniqueID": 517888,
                     "ioValues": [
                         {
@@ -4953,7 +4953,7 @@
                 {
                     "atomType": "Assembly",
                     "name": "Assembly",
-                    "x": 617,
+                    "x": 616,
                     "y": 140,
                     "uniqueID": 851874,
                     "ioValues": [
@@ -4971,6 +4971,10 @@
                         },
                         {
                             "name": "3D shape 924545",
+                            "ioValue": 10
+                        },
+                        {
+                            "name": "3D shape 740895",
                             "ioValue": 10
                         }
                     ]
@@ -5021,6 +5025,12 @@
                     "ap2Name": "Bit Depth",
                     "ap1ID": 649665,
                     "ap2ID": 517888
+                },
+                {
+                    "ap1Name": "Geometry",
+                    "ap2Name": "3D shape 924545",
+                    "ap1ID": 517888,
+                    "ap2ID": 851874
                 },
                 {
                     "ap1Name": "Geometry",
