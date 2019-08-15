@@ -211,7 +211,7 @@
         },
         {
             "atomType": "Molecule",
-            "name": "Bolt Nut Spacer Assembly",
+            "name": "Long Bolt Nut Spacer Assembly",
             "x": 99,
             "y": 61,
             "uniqueID": 601479,
@@ -385,26 +385,54 @@
         },
         {
             "atomType": "Molecule",
+            "name": "Short Nut Bolt Assembly",
+            "x": 116,
+            "y": 175,
+            "uniqueID": 711005,
+            "ioValues": [],
+            "topLevel": false,
+            "allAtoms": [
+                {
+                    "atomType": "Output",
+                    "name": "Output",
+                    "x": 1316,
+                    "y": 164,
+                    "ioValues": []
+                }
+            ],
+            "allConnectors": [],
+            "fileTypeVersion": 1
+        },
+        {
+            "atomType": "Molecule",
             "name": "Spacers and Bolts",
-            "x": 34,
-            "y": 108,
+            "x": 57,
+            "y": 123,
             "uniqueID": 387913,
             "ioValues": [],
             "topLevel": false,
             "allAtoms": [
                 {
                     "atomType": "Molecule",
-                    "name": "Bolt Nut Spacer Assembly",
+                    "name": "Long Bolt Nut Spacer Assembly",
                     "x": 99,
                     "y": 61,
                     "uniqueID": 601479,
                     "ioValues": []
                 },
                 {
+                    "atomType": "Molecule",
+                    "name": "Short Nut Bolt Assembly",
+                    "x": 116,
+                    "y": 175,
+                    "uniqueID": 711005,
+                    "ioValues": []
+                },
+                {
                     "atomType": "Translate",
                     "name": "Translate",
-                    "x": 533,
-                    "y": 69,
+                    "x": 582,
+                    "y": 35,
                     "uniqueID": 308525,
                     "ioValues": [
                         {
@@ -424,8 +452,8 @@
                 {
                     "atomType": "Translate",
                     "name": "Translate",
-                    "x": 521,
-                    "y": 169,
+                    "x": 646,
+                    "y": 69,
                     "uniqueID": 525045,
                     "ioValues": [
                         {
@@ -445,8 +473,8 @@
                 {
                     "atomType": "Translate",
                     "name": "Translate",
-                    "x": 519,
-                    "y": 243,
+                    "x": 709,
+                    "y": 109,
                     "uniqueID": 108447,
                     "ioValues": [
                         {
@@ -1013,7 +1041,7 @@
         {
             "atomType": "Molecule",
             "name": "Plates",
-            "x": 224,
+            "x": 222,
             "y": 28,
             "uniqueID": 517888,
             "ioValues": [
@@ -1040,8 +1068,8 @@
                 {
                     "atomType": "Molecule",
                     "name": "Spacers and Bolts",
-                    "x": 34,
-                    "y": 108,
+                    "x": 57,
+                    "y": 123,
                     "uniqueID": 387913,
                     "ioValues": []
                 },
@@ -3973,7 +4001,7 @@
                 {
                     "atomType": "Molecule",
                     "name": "Plates",
-                    "x": 224,
+                    "x": 222,
                     "y": 28,
                     "uniqueID": 517888,
                     "ioValues": [
@@ -4040,10 +4068,6 @@
                             "ioValue": 10
                         },
                         {
-                            "name": "3D shape 994916",
-                            "ioValue": 10
-                        },
-                        {
                             "name": "3D shape 694392",
                             "ioValue": 10
                         }
@@ -4095,12 +4119,6 @@
                     "ap2Name": "Bit Depth",
                     "ap1ID": 649665,
                     "ap2ID": 517888
-                },
-                {
-                    "ap1Name": "Geometry",
-                    "ap2Name": "3D shape 694392",
-                    "ap1ID": 517888,
-                    "ap2ID": 851874
                 },
                 {
                     "ap1Name": "Geometry",

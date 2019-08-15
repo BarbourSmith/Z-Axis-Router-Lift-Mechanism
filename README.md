@@ -13,7 +13,7 @@
 ## Spacers and Bolts
 
 
-## Bolt Nut Spacer Assembly
+## Long Bolt Nut Spacer Assembly
 
 
 ## Bolt
@@ -38,6 +38,9 @@ undefined
 
 
 undefined
+
+
+## Short Nut Bolt Assembly
 
 
 ## Latch
