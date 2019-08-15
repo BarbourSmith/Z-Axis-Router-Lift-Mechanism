@@ -212,8 +212,8 @@
         {
             "atomType": "Molecule",
             "name": "Long Bolt Nut Spacer Assembly For Sliders",
-            "x": 59,
-            "y": 61,
+            "x": 56,
+            "y": 64,
             "uniqueID": 601479,
             "ioValues": [],
             "topLevel": false,
@@ -386,8 +386,8 @@
         {
             "atomType": "Molecule",
             "name": "Short Nut Bolt Assembly For Sliders",
-            "x": 51,
-            "y": 132,
+            "x": 49,
+            "y": 134,
             "uniqueID": 711005,
             "ioValues": [],
             "topLevel": false,
@@ -717,16 +717,16 @@
                 {
                     "atomType": "Molecule",
                     "name": "Long Bolt Nut Spacer Assembly For Sliders",
-                    "x": 59,
-                    "y": 61,
+                    "x": 56,
+                    "y": 64,
                     "uniqueID": 601479,
                     "ioValues": []
                 },
                 {
                     "atomType": "Molecule",
                     "name": "Short Nut Bolt Assembly For Sliders",
-                    "x": 51,
-                    "y": 132,
+                    "x": 49,
+                    "y": 134,
                     "uniqueID": 711005,
                     "ioValues": []
                 },
