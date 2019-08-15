@@ -1666,7 +1666,7 @@
                     "ioValues": [
                         {
                             "name": "diameter",
-                            "ioValue": 4.2
+                            "ioValue": 4.8
                         }
                     ]
                 },
@@ -1699,8 +1699,8 @@
                 {
                     "atomType": "Rotate",
                     "name": "Rotate",
-                    "x": 348,
-                    "y": 205,
+                    "x": 408,
+                    "y": 189,
                     "uniqueID": 988786,
                     "ioValues": [
                         {
@@ -1730,19 +1730,19 @@
                         },
                         {
                             "name": "yDist",
-                            "ioValue": 0
+                            "ioValue": 15
                         },
                         {
                             "name": "zDist",
-                            "ioValue": 0
+                            "ioValue": 20
                         }
                     ]
                 },
                 {
                     "atomType": "Difference",
                     "name": "Difference",
-                    "x": 655,
-                    "y": 121,
+                    "x": 626,
+                    "y": 92,
                     "uniqueID": 703587,
                     "ioValues": []
                 },
@@ -1784,6 +1784,17 @@
                     "ap2Name": "geometry",
                     "ap1ID": 988786,
                     "ap2ID": 138503
+                },
+                {
+                    "ap1Name": "geometry",
+                    "ap2Name": "geometry2",
+                    "ap1ID": 138503,
+                    "ap2ID": 703587
+                },
+                {
+                    "ap1Name": "geometry",
+                    "ap2Name": "number or geometry",
+                    "ap1ID": 703587
                 }
             ],
             "fileTypeVersion": 1
@@ -1791,8 +1802,8 @@
         {
             "atomType": "Molecule",
             "name": "Bolt",
-            "x": 42,
-            "y": 270,
+            "x": 44,
+            "y": 256,
             "uniqueID": 878418,
             "ioValues": [],
             "topLevel": false,
@@ -1836,8 +1847,8 @@
                 {
                     "atomType": "Molecule",
                     "name": "Bolt",
-                    "x": 42,
-                    "y": 270,
+                    "x": 44,
+                    "y": 256,
                     "uniqueID": 878418,
                     "ioValues": []
                 },
