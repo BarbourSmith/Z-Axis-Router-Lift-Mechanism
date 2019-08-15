@@ -2487,7 +2487,7 @@
             "atomType": "Molecule",
             "name": "T-nut Cutaway",
             "x": 50,
-            "y": 289,
+            "y": 286,
             "uniqueID": 408482,
             "ioValues": [],
             "topLevel": false,
@@ -2677,8 +2677,8 @@
                 {
                     "atomType": "CutAway",
                     "name": "Cut Away",
-                    "x": 1039,
-                    "y": 132,
+                    "x": 1066,
+                    "y": 126,
                     "uniqueID": 452537,
                     "ioValues": []
                 },
@@ -2819,7 +2819,7 @@
                     "atomType": "Molecule",
                     "name": "T-nut Cutaway",
                     "x": 50,
-                    "y": 289,
+                    "y": 286,
                     "uniqueID": 408482,
                     "ioValues": []
                 },
@@ -2889,8 +2889,8 @@
                 {
                     "atomType": "Assembly",
                     "name": "Assembly",
-                    "x": 733,
-                    "y": 155,
+                    "x": 729,
+                    "y": 156,
                     "uniqueID": 423382,
                     "ioValues": [
                         {
@@ -2907,6 +2907,10 @@
                         },
                         {
                             "name": "3D shape 855676",
+                            "ioValue": 10
+                        },
+                        {
+                            "name": "3D shape 140719",
                             "ioValue": 10
                         }
                     ]
@@ -2999,7 +3003,12 @@
                     "ap1ID": 408482,
                     "ap2ID": 986548
                 },
-                null,
+                {
+                    "ap1Name": "geometry",
+                    "ap2Name": "3D shape 855676",
+                    "ap1ID": 986548,
+                    "ap2ID": 423382
+                },
                 {
                     "ap1Name": "geometry",
                     "ap2Name": "3D shape 606503",
