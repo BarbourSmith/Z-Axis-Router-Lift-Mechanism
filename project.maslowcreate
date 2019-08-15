@@ -393,6 +393,24 @@
             "topLevel": false,
             "allAtoms": [
                 {
+                    "atomType": "GitHubMolecule",
+                    "name": "M4 Bolt",
+                    "x": 121,
+                    "y": 98,
+                    "uniqueID": 786495,
+                    "projectID": "197564175",
+                    "ioValues": []
+                },
+                {
+                    "atomType": "GitHubMolecule",
+                    "name": "M4 Bolt",
+                    "x": 121,
+                    "y": 98,
+                    "uniqueID": 614516,
+                    "projectID": "197564175",
+                    "ioValues": []
+                },
+                {
                     "atomType": "Output",
                     "name": "Output",
                     "x": 1316,
