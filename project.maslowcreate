@@ -3,8 +3,8 @@
         {
             "atomType": "Molecule",
             "name": "Bolt",
-            "x": 61,
-            "y": 48,
+            "x": 64,
+            "y": 46,
             "uniqueID": 982563,
             "ioValues": [],
             "topLevel": false,
@@ -221,8 +221,8 @@
                 {
                     "atomType": "Molecule",
                     "name": "Bolt",
-                    "x": 61,
-                    "y": 48,
+                    "x": 64,
+                    "y": 46,
                     "uniqueID": 982563,
                     "ioValues": []
                 },
@@ -233,6 +233,27 @@
                     "y": 131,
                     "uniqueID": 813124,
                     "ioValues": []
+                },
+                {
+                    "atomType": "Translate",
+                    "name": "Translate",
+                    "x": 233,
+                    "y": 59,
+                    "uniqueID": 601867,
+                    "ioValues": [
+                        {
+                            "name": "xDist",
+                            "ioValue": 0
+                        },
+                        {
+                            "name": "yDist",
+                            "ioValue": 0
+                        },
+                        {
+                            "name": "zDist",
+                            "ioValue": 30
+                        }
+                    ]
                 },
                 {
                     "atomType": "Molecule",
@@ -280,7 +301,7 @@
                         },
                         {
                             "name": "zDist",
-                            "ioValue": 40
+                            "ioValue": 0
                         }
                     ]
                 },
@@ -302,6 +323,10 @@
                         {
                             "name": "3D shape 102938",
                             "ioValue": 10
+                        },
+                        {
+                            "name": "3D shape 813707",
+                            "ioValue": 10
                         }
                     ]
                 },
@@ -317,8 +342,20 @@
                 {
                     "ap1Name": "Geometry",
                     "ap2Name": "geometry",
+                    "ap1ID": 982563,
+                    "ap2ID": 601867
+                },
+                {
+                    "ap1Name": "Geometry",
+                    "ap2Name": "geometry",
                     "ap1ID": 813124,
                     "ap2ID": 600947
+                },
+                {
+                    "ap1Name": "geometry",
+                    "ap2Name": "3D shape 102938",
+                    "ap1ID": 601867,
+                    "ap2ID": 901767
                 },
                 {
                     "ap1Name": "Geometry",
@@ -371,7 +408,13 @@
                     "ioValues": []
                 }
             ],
-            "allConnectors": [],
+            "allConnectors": [
+                {
+                    "ap1Name": "Geometry",
+                    "ap2Name": "number or geometry",
+                    "ap1ID": 601479
+                }
+            ],
             "fileTypeVersion": 1
         },
         {
