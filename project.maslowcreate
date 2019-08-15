@@ -150,8 +150,8 @@
         {
             "atomType": "Molecule",
             "name": "Nut",
-            "x": 65,
-            "y": 246,
+            "x": 63,
+            "y": 251,
             "uniqueID": 324232,
             "ioValues": [],
             "topLevel": false,
@@ -237,8 +237,8 @@
                 {
                     "atomType": "Molecule",
                     "name": "Nut",
-                    "x": 65,
-                    "y": 246,
+                    "x": 63,
+                    "y": 251,
                     "uniqueID": 324232,
                     "ioValues": []
                 },
@@ -301,7 +301,7 @@
                         },
                         {
                             "name": "zDist",
-                            "ioValue": 0
+                            "ioValue": -6
                         }
                     ]
                 },
@@ -386,8 +386,8 @@
         {
             "atomType": "Molecule",
             "name": "Short Nut Bolt Assembly For Sliders",
-            "x": 91,
-            "y": 150,
+            "x": 89,
+            "y": 148,
             "uniqueID": 711005,
             "ioValues": [],
             "topLevel": false,
@@ -478,7 +478,7 @@
                         },
                         {
                             "name": "zDist",
-                            "ioValue": -10
+                            "ioValue": -16
                         }
                     ]
                 },
@@ -694,8 +694,8 @@
                 {
                     "atomType": "Molecule",
                     "name": "Short Nut Bolt Assembly For Sliders",
-                    "x": 91,
-                    "y": 150,
+                    "x": 89,
+                    "y": 148,
                     "uniqueID": 711005,
                     "ioValues": []
                 },
