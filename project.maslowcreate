@@ -2108,13 +2108,13 @@
                 {
                     "atomType": "Translate",
                     "name": "Translate",
-                    "x": 339,
-                    "y": 132,
+                    "x": 331,
+                    "y": 133,
                     "uniqueID": 905496,
                     "ioValues": [
                         {
                             "name": "xDist",
-                            "ioValue": 0
+                            "ioValue": 30
                         },
                         {
                             "name": "yDist",
@@ -2142,8 +2142,8 @@
                 {
                     "atomType": "Rotate",
                     "name": "Rotate",
-                    "x": 549,
-                    "y": 90,
+                    "x": 543,
+                    "y": 92,
                     "uniqueID": 860895,
                     "ioValues": [
                         {
