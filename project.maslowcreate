@@ -386,8 +386,8 @@
         {
             "atomType": "Molecule",
             "name": "Short Nut Bolt Assembly For Sliders",
-            "x": 42,
-            "y": 127,
+            "x": 55,
+            "y": 131,
             "uniqueID": 711005,
             "ioValues": [],
             "topLevel": false,
@@ -725,8 +725,8 @@
                 {
                     "atomType": "Molecule",
                     "name": "Short Nut Bolt Assembly For Sliders",
-                    "x": 42,
-                    "y": 127,
+                    "x": 55,
+                    "y": 131,
                     "uniqueID": 711005,
                     "ioValues": []
                 },
@@ -770,8 +770,8 @@
                 {
                     "atomType": "Translate",
                     "name": "Translate",
-                    "x": 531,
-                    "y": 116,
+                    "x": 524,
+                    "y": 107,
                     "uniqueID": 457849,
                     "ioValues": [
                         {
