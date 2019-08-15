@@ -4459,10 +4459,6 @@
                             "ioValue": 10
                         },
                         {
-                            "name": "3D shape 694392",
-                            "ioValue": 10
-                        },
-                        {
                             "name": "3D shape 652645",
                             "ioValue": 10
                         }
@@ -4514,12 +4510,6 @@
                     "ap2Name": "Bit Depth",
                     "ap1ID": 649665,
                     "ap2ID": 517888
-                },
-                {
-                    "ap1Name": "Geometry",
-                    "ap2Name": "3D shape 694392",
-                    "ap1ID": 517888,
-                    "ap2ID": 851874
                 },
                 {
                     "ap1Name": "Geometry",
