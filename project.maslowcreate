@@ -2090,8 +2090,8 @@
                 {
                     "atomType": "Equation",
                     "name": "Equation",
-                    "x": 111,
-                    "y": 238,
+                    "x": 113,
+                    "y": 234,
                     "uniqueID": 146671,
                     "ioValues": [
                         {
@@ -2104,6 +2104,24 @@
                         }
                     ],
                     "currentEquation": "x + y"
+                },
+                {
+                    "atomType": "Equation",
+                    "name": "Equation",
+                    "x": 264,
+                    "y": 172,
+                    "uniqueID": 294784,
+                    "ioValues": [
+                        {
+                            "name": "y",
+                            "ioValue": 1
+                        },
+                        {
+                            "name": "D",
+                            "ioValue": 1
+                        }
+                    ],
+                    "currentEquation": "D+40"
                 },
                 {
                     "atomType": "Rectangle",
@@ -2146,8 +2164,8 @@
                 {
                     "atomType": "Translate",
                     "name": "Translate",
-                    "x": 499,
-                    "y": 219,
+                    "x": 331,
+                    "y": 284,
                     "uniqueID": 714375,
                     "ioValues": [
                         {
@@ -2402,6 +2420,12 @@
                     "ap2Name": "diameter",
                     "ap1ID": 146671,
                     "ap2ID": 618549
+                },
+                {
+                    "ap1Name": "geometry",
+                    "ap2Name": "geometry",
+                    "ap1ID": 953041,
+                    "ap2ID": 714375
                 },
                 {
                     "ap1Name": "geometry",
