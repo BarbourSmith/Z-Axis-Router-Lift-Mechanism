@@ -2746,8 +2746,8 @@
         {
             "atomType": "Molecule",
             "name": "Plates",
-            "x": 214,
-            "y": 38,
+            "x": 226,
+            "y": 43,
             "uniqueID": 517888,
             "ioValues": [
                 {
@@ -2831,8 +2831,8 @@
                 {
                     "atomType": "Translate",
                     "name": "Translate",
-                    "x": 354,
-                    "y": 287,
+                    "x": 350,
+                    "y": 281,
                     "uniqueID": 986548,
                     "ioValues": [
                         {
@@ -2841,7 +2841,7 @@
                         },
                         {
                             "name": "yDist",
-                            "ioValue": -45
+                            "ioValue": -30
                         },
                         {
                             "name": "zDist",
@@ -2873,8 +2873,8 @@
                 {
                     "atomType": "Assembly",
                     "name": "Assembly",
-                    "x": 732,
-                    "y": 159,
+                    "x": 747,
+                    "y": 158,
                     "uniqueID": 423382,
                     "ioValues": [
                         {
@@ -5773,8 +5773,8 @@
                 {
                     "atomType": "Molecule",
                     "name": "Plates",
-                    "x": 214,
-                    "y": 38,
+                    "x": 226,
+                    "y": 43,
                     "uniqueID": 517888,
                     "ioValues": [
                         {
