@@ -676,6 +676,46 @@
         },
         {
             "atomType": "Molecule",
+            "name": "Long Bolt Nut Spacer Assembly for Ball Nut",
+            "x": 115,
+            "y": 236,
+            "uniqueID": 817870,
+            "ioValues": [],
+            "topLevel": false,
+            "allAtoms": [
+                {
+                    "atomType": "Output",
+                    "name": "Output",
+                    "x": 1316,
+                    "y": 164,
+                    "ioValues": []
+                }
+            ],
+            "allConnectors": [],
+            "fileTypeVersion": 1
+        },
+        {
+            "atomType": "Molecule",
+            "name": "Molecule",
+            "x": 205,
+            "y": 269,
+            "uniqueID": 936369,
+            "ioValues": [],
+            "topLevel": false,
+            "allAtoms": [
+                {
+                    "atomType": "Output",
+                    "name": "Output",
+                    "x": 1316,
+                    "y": 164,
+                    "ioValues": []
+                }
+            ],
+            "allConnectors": [],
+            "fileTypeVersion": 1
+        },
+        {
+            "atomType": "Molecule",
             "name": "Spacers and Bolts",
             "x": 57,
             "y": 123,
@@ -697,6 +737,22 @@
                     "x": 50,
                     "y": 131,
                     "uniqueID": 711005,
+                    "ioValues": []
+                },
+                {
+                    "atomType": "Molecule",
+                    "name": "Long Bolt Nut Spacer Assembly for Ball Nut",
+                    "x": 115,
+                    "y": 236,
+                    "uniqueID": 817870,
+                    "ioValues": []
+                },
+                {
+                    "atomType": "Molecule",
+                    "name": "Molecule",
+                    "x": 205,
+                    "y": 269,
+                    "uniqueID": 936369,
                     "ioValues": []
                 },
                 {
@@ -744,8 +800,8 @@
                 {
                     "atomType": "Translate",
                     "name": "Translate",
-                    "x": 549,
-                    "y": 159,
+                    "x": 556,
+                    "y": 172,
                     "uniqueID": 656364,
                     "ioValues": [
                         {
