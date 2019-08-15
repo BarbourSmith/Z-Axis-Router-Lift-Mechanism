@@ -668,8 +668,8 @@
         {
             "atomType": "Molecule",
             "name": "Long Bolt Nut Spacer Assembly for Ball Nut",
-            "x": 54,
-            "y": 215,
+            "x": 49,
+            "y": 210,
             "uniqueID": 817870,
             "ioValues": [],
             "topLevel": false,
@@ -872,8 +872,8 @@
         {
             "atomType": "Molecule",
             "name": "Short Bolt Nut Assembly for Ball Nut",
-            "x": 54,
-            "y": 287,
+            "x": 55,
+            "y": 282,
             "uniqueID": 936369,
             "ioValues": [],
             "topLevel": false,
@@ -993,7 +993,7 @@
                         },
                         {
                             "name": "yDist",
-                            "ioValue": 14.2875
+                            "ioValue": -14.2875
                         },
                         {
                             "name": "zDist",
@@ -1179,16 +1179,16 @@
                 {
                     "atomType": "Molecule",
                     "name": "Long Bolt Nut Spacer Assembly for Ball Nut",
-                    "x": 54,
-                    "y": 215,
+                    "x": 49,
+                    "y": 210,
                     "uniqueID": 817870,
                     "ioValues": []
                 },
                 {
                     "atomType": "Molecule",
                     "name": "Short Bolt Nut Assembly for Ball Nut",
-                    "x": 54,
-                    "y": 287,
+                    "x": 55,
+                    "y": 282,
                     "uniqueID": 936369,
                     "ioValues": []
                 },
@@ -1258,27 +1258,6 @@
                 {
                     "atomType": "Translate",
                     "name": "Translate",
-                    "x": 641,
-                    "y": 193,
-                    "uniqueID": 285916,
-                    "ioValues": [
-                        {
-                            "name": "xDist",
-                            "ioValue": 0
-                        },
-                        {
-                            "name": "yDist",
-                            "ioValue": 84.2875
-                        },
-                        {
-                            "name": "zDist",
-                            "ioValue": 0
-                        }
-                    ]
-                },
-                {
-                    "atomType": "Translate",
-                    "name": "Translate",
                     "x": 680,
                     "y": 79,
                     "uniqueID": 525045,
@@ -1300,8 +1279,8 @@
                 {
                     "atomType": "Translate",
                     "name": "Translate",
-                    "x": 782,
-                    "y": 157,
+                    "x": 722,
+                    "y": 151,
                     "uniqueID": 656364,
                     "ioValues": [
                         {
@@ -1315,6 +1294,27 @@
                         {
                             "name": "zDist",
                             "ioValue": 10
+                        }
+                    ]
+                },
+                {
+                    "atomType": "Translate",
+                    "name": "Translate",
+                    "x": 725,
+                    "y": 216,
+                    "uniqueID": 285916,
+                    "ioValues": [
+                        {
+                            "name": "xDist",
+                            "ioValue": 0
+                        },
+                        {
+                            "name": "yDist",
+                            "ioValue": 84.2875
+                        },
+                        {
+                            "name": "zDist",
+                            "ioValue": 0
                         }
                     ]
                 },
@@ -1441,12 +1441,6 @@
                 },
                 {
                     "ap1Name": "geometry",
-                    "ap2Name": "3D shape 915247",
-                    "ap1ID": 285916,
-                    "ap2ID": 754621
-                },
-                {
-                    "ap1Name": "geometry",
                     "ap2Name": "3D shape 951088",
                     "ap1ID": 525045,
                     "ap2ID": 754621
@@ -1455,6 +1449,12 @@
                     "ap1Name": "geometry",
                     "ap2Name": "3D shape 377927",
                     "ap1ID": 656364,
+                    "ap2ID": 754621
+                },
+                {
+                    "ap1Name": "geometry",
+                    "ap2Name": "3D shape 915247",
+                    "ap1ID": 285916,
                     "ap2ID": 754621
                 },
                 {
@@ -1943,8 +1943,8 @@
         {
             "atomType": "Molecule",
             "name": "Plates",
-            "x": 220,
-            "y": 47,
+            "x": 221,
+            "y": 51,
             "uniqueID": 517888,
             "ioValues": [
                 {
@@ -4903,8 +4903,8 @@
                 {
                     "atomType": "Molecule",
                     "name": "Plates",
-                    "x": 220,
-                    "y": 47,
+                    "x": 221,
+                    "y": 51,
                     "uniqueID": 517888,
                     "ioValues": [
                         {
