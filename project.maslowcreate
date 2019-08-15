@@ -94,8 +94,8 @@
                 {
                     "atomType": "Add BOM Tag",
                     "name": "Add BOM Tag",
-                    "x": 705,
-                    "y": 77,
+                    "x": 706,
+                    "y": 72,
                     "uniqueID": 250525,
                     "ioValues": [],
                     "BOMitem": {
@@ -674,6 +674,24 @@
             "ioValues": [],
             "topLevel": false,
             "allAtoms": [
+                {
+                    "atomType": "GitHubMolecule",
+                    "name": "M4 20mm Spacer",
+                    "x": 85,
+                    "y": 89,
+                    "uniqueID": 209624,
+                    "projectID": "202529921",
+                    "ioValues": []
+                },
+                {
+                    "atomType": "GitHubMolecule",
+                    "name": "M4 55mm Bolt",
+                    "x": 95,
+                    "y": 156,
+                    "uniqueID": 415978,
+                    "projectID": "202528433",
+                    "ioValues": []
+                },
                 {
                     "atomType": "Output",
                     "name": "Output",
