@@ -2874,7 +2874,7 @@
                     "atomType": "Assembly",
                     "name": "Assembly",
                     "x": 747,
-                    "y": 158,
+                    "y": 161,
                     "uniqueID": 423382,
                     "ioValues": [
                         {
@@ -2895,6 +2895,10 @@
                         },
                         {
                             "name": "3D shape 140719",
+                            "ioValue": 10
+                        },
+                        {
+                            "name": "3D shape 377221",
                             "ioValue": 10
                         }
                     ]
@@ -2986,6 +2990,12 @@
                     "ap2Name": "geometry",
                     "ap1ID": 408482,
                     "ap2ID": 986548
+                },
+                {
+                    "ap1Name": "geometry",
+                    "ap2Name": "3D shape 140719",
+                    "ap1ID": 213669,
+                    "ap2ID": 423382
                 },
                 {
                     "ap1Name": "geometry",
