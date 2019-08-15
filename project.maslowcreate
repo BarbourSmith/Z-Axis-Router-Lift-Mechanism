@@ -1474,7 +1474,7 @@
         {
             "atomType": "Molecule",
             "name": "Square Nut",
-            "x": 33,
+            "x": 29,
             "y": 54,
             "uniqueID": 612894,
             "ioValues": [],
@@ -1520,61 +1520,6 @@
                     ]
                 },
                 {
-                    "atomType": "Extrude",
-                    "name": "Extrude",
-                    "x": 308,
-                    "y": 189,
-                    "uniqueID": 495280,
-                    "ioValues": [
-                        {
-                            "name": "height",
-                            "ioValue": 30
-                        }
-                    ]
-                },
-                {
-                    "atomType": "Rotate",
-                    "name": "Rotate",
-                    "x": 444,
-                    "y": 161,
-                    "uniqueID": 847583,
-                    "ioValues": [
-                        {
-                            "name": "x-axis degrees",
-                            "ioValue": 90
-                        },
-                        {
-                            "name": "y-axis degrees",
-                            "ioValue": 0
-                        },
-                        {
-                            "name": "z-axis degrees",
-                            "ioValue": 0
-                        }
-                    ]
-                },
-                {
-                    "atomType": "Translate",
-                    "name": "Translate",
-                    "x": 570,
-                    "y": 149,
-                    "uniqueID": 321618,
-                    "ioValues": [
-                        {
-                            "name": "xDist",
-                            "ioValue": 0
-                        },
-                        {
-                            "name": "yDist",
-                            "ioValue": 15
-                        },
-                        {
-                            "name": "zDist",
-                            "ioValue": 20
-                        }
-                    ]
-                },
-                {
                     "atomType": "Difference",
                     "name": "Difference",
                     "x": 691,
@@ -1599,32 +1544,8 @@
                 },
                 {
                     "ap1Name": "geometry",
-                    "ap2Name": "geometry",
-                    "ap1ID": 172548,
-                    "ap2ID": 495280
-                },
-                {
-                    "ap1Name": "geometry",
                     "ap2Name": "geometry1",
                     "ap1ID": 396647,
-                    "ap2ID": 984704
-                },
-                {
-                    "ap1Name": "geometry",
-                    "ap2Name": "geometry",
-                    "ap1ID": 495280,
-                    "ap2ID": 847583
-                },
-                {
-                    "ap1Name": "geometry",
-                    "ap2Name": "geometry",
-                    "ap1ID": 847583,
-                    "ap2ID": 321618
-                },
-                {
-                    "ap1Name": "geometry",
-                    "ap2Name": "geometry2",
-                    "ap1ID": 321618,
                     "ap2ID": 984704
                 },
                 {
@@ -1821,7 +1742,7 @@
                 {
                     "atomType": "Molecule",
                     "name": "Square Nut",
-                    "x": 33,
+                    "x": 29,
                     "y": 54,
                     "uniqueID": 612894,
                     "ioValues": []
@@ -1837,13 +1758,13 @@
                 {
                     "atomType": "Rotate",
                     "name": "Rotate",
-                    "x": 165,
-                    "y": 173,
+                    "x": 195,
+                    "y": 148,
                     "uniqueID": 463679,
                     "ioValues": [
                         {
                             "name": "x-axis degrees",
-                            "ioValue": 0
+                            "ioValue": 90
                         },
                         {
                             "name": "y-axis degrees",
@@ -1887,8 +1808,8 @@
                 {
                     "atomType": "Translate",
                     "name": "Translate",
-                    "x": 234,
-                    "y": 216,
+                    "x": 239,
+                    "y": 204,
                     "uniqueID": 953244,
                     "ioValues": [
                         {
@@ -1901,15 +1822,15 @@
                         },
                         {
                             "name": "zDist",
-                            "ioValue": 20
+                            "ioValue": 0
                         }
                     ]
                 },
                 {
                     "atomType": "Translate",
                     "name": "Translate",
-                    "x": 341,
-                    "y": 123,
+                    "x": 363,
+                    "y": 140,
                     "uniqueID": 126629,
                     "ioValues": [
                         {
@@ -1971,6 +1892,12 @@
                     "ap2Name": "geometry",
                     "ap1ID": 992463,
                     "ap2ID": 463679
+                },
+                {
+                    "ap1Name": "geometry",
+                    "ap2Name": "geometry",
+                    "ap1ID": 463679,
+                    "ap2ID": 126629
                 },
                 {
                     "ap1Name": "geometry",
