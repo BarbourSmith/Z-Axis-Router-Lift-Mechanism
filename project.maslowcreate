@@ -211,9 +211,9 @@
         },
         {
             "atomType": "Molecule",
-            "name": "Long Bolt Nut Spacer Assembly",
-            "x": 99,
-            "y": 61,
+            "name": "Long Bolt Nut Spacer Assembly For Sliders",
+            "x": 102,
+            "y": 64,
             "uniqueID": 601479,
             "ioValues": [],
             "topLevel": false,
@@ -685,9 +685,9 @@
             "allAtoms": [
                 {
                     "atomType": "Molecule",
-                    "name": "Long Bolt Nut Spacer Assembly",
-                    "x": 99,
-                    "y": 61,
+                    "name": "Long Bolt Nut Spacer Assembly For Sliders",
+                    "x": 102,
+                    "y": 64,
                     "uniqueID": 601479,
                     "ioValues": []
                 },
@@ -771,7 +771,7 @@
                     "ioValues": [
                         {
                             "name": "xDist",
-                            "ioValue": 0
+                            "ioValue": 70
                         },
                         {
                             "name": "yDist",
@@ -779,7 +779,7 @@
                         },
                         {
                             "name": "zDist",
-                            "ioValue": 0
+                            "ioValue": 10
                         }
                     ]
                 },
@@ -851,6 +851,10 @@
                         {
                             "name": "3D shape 654349",
                             "ioValue": 10
+                        },
+                        {
+                            "name": "3D shape 377927",
+                            "ioValue": 10
                         }
                     ]
                 },
@@ -909,6 +913,12 @@
                     "ap1Name": "geometry",
                     "ap2Name": "3D shape 928096",
                     "ap1ID": 308525,
+                    "ap2ID": 754621
+                },
+                {
+                    "ap1Name": "geometry",
+                    "ap2Name": "3D shape 654349",
+                    "ap1ID": 656364,
                     "ap2ID": 754621
                 },
                 {
