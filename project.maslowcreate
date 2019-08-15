@@ -1717,8 +1717,8 @@
         {
             "atomType": "Molecule",
             "name": "Bolt",
-            "x": 44,
-            "y": 256,
+            "x": 43,
+            "y": 250,
             "uniqueID": 878418,
             "ioValues": [],
             "topLevel": false,
@@ -1736,7 +1736,7 @@
                     "atomType": "Rotate",
                     "name": "Rotate",
                     "x": 516,
-                    "y": 152,
+                    "y": 157,
                     "uniqueID": 498284,
                     "ioValues": [
                         {
@@ -1846,15 +1846,15 @@
                 {
                     "atomType": "Molecule",
                     "name": "Bolt",
-                    "x": 44,
-                    "y": 256,
+                    "x": 43,
+                    "y": 250,
                     "uniqueID": 878418,
                     "ioValues": []
                 },
                 {
                     "atomType": "Translate",
                     "name": "Translate",
-                    "x": 239,
+                    "x": 235,
                     "y": 204,
                     "uniqueID": 953244,
                     "ioValues": [
@@ -1864,28 +1864,7 @@
                         },
                         {
                             "name": "yDist",
-                            "ioValue": -20
-                        },
-                        {
-                            "name": "zDist",
-                            "ioValue": 0
-                        }
-                    ]
-                },
-                {
-                    "atomType": "Translate",
-                    "name": "Translate",
-                    "x": 363,
-                    "y": 140,
-                    "uniqueID": 126629,
-                    "ioValues": [
-                        {
-                            "name": "xDist",
-                            "ioValue": 0
-                        },
-                        {
-                            "name": "yDist",
-                            "ioValue": -10
+                            "ioValue": -3
                         },
                         {
                             "name": "zDist",
@@ -1906,7 +1885,7 @@
                         },
                         {
                             "name": "yDist",
-                            "ioValue": 10
+                            "ioValue": 30
                         },
                         {
                             "name": "zDist",
@@ -1922,10 +1901,6 @@
                     "uniqueID": 413289,
                     "ioValues": [
                         {
-                            "name": "3D shape 198412",
-                            "ioValue": 10
-                        },
-                        {
                             "name": "3D shape 633193",
                             "ioValue": 10
                         },
@@ -1935,6 +1910,10 @@
                         },
                         {
                             "name": "3D shape 138406",
+                            "ioValue": 10
+                        },
+                        {
+                            "name": "3D shape 989667",
                             "ioValue": 10
                         }
                     ]
@@ -1968,9 +1947,9 @@
                 },
                 {
                     "ap1Name": "geometry",
-                    "ap2Name": "geometry",
+                    "ap2Name": "3D shape 138406",
                     "ap1ID": 463679,
-                    "ap2ID": 126629
+                    "ap2ID": 413289
                 },
                 {
                     "ap1Name": "Geometry",
@@ -1982,12 +1961,6 @@
                     "ap1Name": "geometry",
                     "ap2Name": "3D shape 671895",
                     "ap1ID": 953244,
-                    "ap2ID": 413289
-                },
-                {
-                    "ap1Name": "geometry",
-                    "ap2Name": "3D shape 198412",
-                    "ap1ID": 126629,
                     "ap2ID": 413289
                 },
                 {
@@ -2793,11 +2766,6 @@
                     "ap2Name": "zDist",
                     "ap1ID": 241868,
                     "ap2ID": 316437
-                },
-                {
-                    "ap1Name": "geometry",
-                    "ap2Name": "number or geometry",
-                    "ap1ID": 316437
                 }
             ],
             "fileTypeVersion": 1
