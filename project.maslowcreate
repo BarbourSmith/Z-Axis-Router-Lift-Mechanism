@@ -881,11 +881,104 @@
                 {
                     "atomType": "GitHubMolecule",
                     "name": "M4 Locknut",
-                    "x": 113,
-                    "y": 87,
+                    "x": 83,
+                    "y": 133,
                     "uniqueID": 290904,
                     "projectID": "201057537",
                     "ioValues": []
+                },
+                {
+                    "atomType": "GitHubMolecule",
+                    "name": "M4x20 Bolt",
+                    "x": 71,
+                    "y": 234,
+                    "uniqueID": 392482,
+                    "projectID": "198850770",
+                    "ioValues": []
+                },
+                {
+                    "atomType": "Translate",
+                    "name": "Translate",
+                    "x": 268,
+                    "y": 90,
+                    "uniqueID": 646030,
+                    "ioValues": [
+                        {
+                            "name": "xDist",
+                            "ioValue": 0
+                        },
+                        {
+                            "name": "yDist",
+                            "ioValue": 0
+                        },
+                        {
+                            "name": "zDist",
+                            "ioValue": 0
+                        }
+                    ]
+                },
+                {
+                    "atomType": "Rotate",
+                    "name": "Rotate",
+                    "x": 269,
+                    "y": 230,
+                    "uniqueID": 165539,
+                    "ioValues": [
+                        {
+                            "name": "x-axis degrees",
+                            "ioValue": 0
+                        },
+                        {
+                            "name": "y-axis degrees",
+                            "ioValue": 180
+                        },
+                        {
+                            "name": "z-axis degrees",
+                            "ioValue": 0
+                        }
+                    ]
+                },
+                {
+                    "atomType": "Translate",
+                    "name": "Translate",
+                    "x": 411,
+                    "y": 218,
+                    "uniqueID": 238601,
+                    "ioValues": [
+                        {
+                            "name": "xDist",
+                            "ioValue": 0
+                        },
+                        {
+                            "name": "yDist",
+                            "ioValue": 0
+                        },
+                        {
+                            "name": "zDist",
+                            "ioValue": 0
+                        }
+                    ]
+                },
+                {
+                    "atomType": "Assembly",
+                    "name": "Assembly",
+                    "x": 673,
+                    "y": 116,
+                    "uniqueID": 740096,
+                    "ioValues": [
+                        {
+                            "name": "3D shape 551002",
+                            "ioValue": 10
+                        },
+                        {
+                            "name": "3D shape 680348",
+                            "ioValue": 10
+                        },
+                        {
+                            "name": "3D shape 190358",
+                            "ioValue": 10
+                        }
+                    ]
                 },
                 {
                     "atomType": "Output",
@@ -895,7 +988,38 @@
                     "ioValues": []
                 }
             ],
-            "allConnectors": [],
+            "allConnectors": [
+                {
+                    "ap1Name": "Geometry",
+                    "ap2Name": "geometry",
+                    "ap1ID": 290904,
+                    "ap2ID": 646030
+                },
+                {
+                    "ap1Name": "Geometry",
+                    "ap2Name": "geometry",
+                    "ap1ID": 392482,
+                    "ap2ID": 165539
+                },
+                {
+                    "ap1Name": "geometry",
+                    "ap2Name": "3D shape 680348",
+                    "ap1ID": 646030,
+                    "ap2ID": 740096
+                },
+                {
+                    "ap1Name": "geometry",
+                    "ap2Name": "geometry",
+                    "ap1ID": 165539,
+                    "ap2ID": 238601
+                },
+                {
+                    "ap1Name": "geometry",
+                    "ap2Name": "3D shape 551002",
+                    "ap1ID": 238601,
+                    "ap2ID": 740096
+                }
+            ],
             "fileTypeVersion": 1
         },
         {
