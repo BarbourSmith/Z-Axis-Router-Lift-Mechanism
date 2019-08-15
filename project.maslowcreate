@@ -386,8 +386,8 @@
         {
             "atomType": "Molecule",
             "name": "Short Nut Bolt Assembly For Sliders",
-            "x": 55,
-            "y": 131,
+            "x": 53,
+            "y": 128,
             "uniqueID": 711005,
             "ioValues": [],
             "topLevel": false,
@@ -1154,8 +1154,8 @@
         {
             "atomType": "Molecule",
             "name": "Spacers and Bolts",
-            "x": 50,
-            "y": 124,
+            "x": 42,
+            "y": 135,
             "uniqueID": 387913,
             "ioValues": [],
             "topLevel": false,
@@ -1171,8 +1171,8 @@
                 {
                     "atomType": "Molecule",
                     "name": "Short Nut Bolt Assembly For Sliders",
-                    "x": 55,
-                    "y": 131,
+                    "x": 53,
+                    "y": 128,
                     "uniqueID": 711005,
                     "ioValues": []
                 },
@@ -1196,7 +1196,7 @@
                     "atomType": "Rotate",
                     "name": "Rotate",
                     "x": 414,
-                    "y": 155,
+                    "y": 159,
                     "uniqueID": 539921,
                     "ioValues": [
                         {
@@ -2055,10 +2055,6 @@
                     "uniqueID": 294784,
                     "ioValues": [
                         {
-                            "name": "y",
-                            "ioValue": 1
-                        },
-                        {
                             "name": "D",
                             "ioValue": 1
                         }
@@ -2375,12 +2371,6 @@
                 },
                 {
                     "ap1Name": "geometry",
-                    "ap2Name": "3D shape 278487",
-                    "ap1ID": 905496,
-                    "ap2ID": 539900
-                },
-                {
-                    "ap1Name": "geometry",
                     "ap2Name": "3D shape 739140",
                     "ap1ID": 905496,
                     "ap2ID": 251820
@@ -2438,12 +2428,6 @@
                     "ap2Name": "3D shape 977097",
                     "ap1ID": 618549,
                     "ap2ID": 867131
-                },
-                {
-                    "ap1Name": "geometry",
-                    "ap2Name": "3D shape 554286",
-                    "ap1ID": 618549,
-                    "ap2ID": 685009
                 },
                 {
                     "ap1Name": "geometry",
@@ -2762,8 +2746,8 @@
         {
             "atomType": "Molecule",
             "name": "Plates",
-            "x": 217,
-            "y": 43,
+            "x": 214,
+            "y": 38,
             "uniqueID": 517888,
             "ioValues": [
                 {
@@ -2789,8 +2773,8 @@
                 {
                     "atomType": "Molecule",
                     "name": "Spacers and Bolts",
-                    "x": 50,
-                    "y": 124,
+                    "x": 42,
+                    "y": 135,
                     "uniqueID": 387913,
                     "ioValues": []
                 },
@@ -2889,8 +2873,8 @@
                 {
                     "atomType": "Assembly",
                     "name": "Assembly",
-                    "x": 729,
-                    "y": 156,
+                    "x": 732,
+                    "y": 159,
                     "uniqueID": 423382,
                     "ioValues": [
                         {
@@ -5789,8 +5773,8 @@
                 {
                     "atomType": "Molecule",
                     "name": "Plates",
-                    "x": 217,
-                    "y": 43,
+                    "x": 214,
+                    "y": 38,
                     "uniqueID": 517888,
                     "ioValues": [
                         {
