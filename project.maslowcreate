@@ -2126,8 +2126,8 @@
                 {
                     "atomType": "Rectangle",
                     "name": "Rectangle",
-                    "x": 115,
-                    "y": 300,
+                    "x": 122,
+                    "y": 301,
                     "uniqueID": 953041,
                     "ioValues": [
                         {
@@ -2136,7 +2136,7 @@
                         },
                         {
                             "name": "y length",
-                            "ioValue": 30
+                            "ioValue": 15
                         }
                     ]
                 },
@@ -2164,13 +2164,13 @@
                 {
                     "atomType": "Translate",
                     "name": "Translate",
-                    "x": 331,
-                    "y": 284,
+                    "x": 325,
+                    "y": 287,
                     "uniqueID": 714375,
                     "ioValues": [
                         {
                             "name": "xDist",
-                            "ioValue": 40
+                            "ioValue": 55
                         },
                         {
                             "name": "yDist",
@@ -2376,8 +2376,8 @@
                 {
                     "atomType": "Extrude",
                     "name": "Extrude",
-                    "x": 1223,
-                    "y": 226,
+                    "x": 1210,
+                    "y": 220,
                     "uniqueID": 100672,
                     "ioValues": [
                         {
