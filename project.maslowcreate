@@ -1779,8 +1779,8 @@
         {
             "atomType": "Molecule",
             "name": "T-nut",
-            "x": 46,
-            "y": 209,
+            "x": 54,
+            "y": 217,
             "uniqueID": 800391,
             "ioValues": [],
             "topLevel": false,
@@ -2558,8 +2558,8 @@
                 {
                     "atomType": "Molecule",
                     "name": "T-nut",
-                    "x": 46,
-                    "y": 209,
+                    "x": 54,
+                    "y": 217,
                     "uniqueID": 800391,
                     "ioValues": []
                 },
@@ -2587,17 +2587,17 @@
                 {
                     "atomType": "Translate",
                     "name": "Translate",
-                    "x": 409,
-                    "y": 208,
+                    "x": 410,
+                    "y": 207,
                     "uniqueID": 213669,
                     "ioValues": [
                         {
                             "name": "xDist",
-                            "ioValue": 80
+                            "ioValue": 40
                         },
                         {
                             "name": "yDist",
-                            "ioValue": -80
+                            "ioValue": -40
                         },
                         {
                             "name": "zDist",
