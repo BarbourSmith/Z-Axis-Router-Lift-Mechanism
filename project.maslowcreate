@@ -411,6 +411,78 @@
                     "ioValues": []
                 },
                 {
+                    "atomType": "GitHubMolecule",
+                    "name": "M4 Locknut",
+                    "x": 103,
+                    "y": 214,
+                    "uniqueID": 927082,
+                    "projectID": "201057537",
+                    "ioValues": []
+                },
+                {
+                    "atomType": "Translate",
+                    "name": "Translate",
+                    "x": 283,
+                    "y": 106,
+                    "uniqueID": 661777,
+                    "ioValues": [
+                        {
+                            "name": "xDist",
+                            "ioValue": 0
+                        },
+                        {
+                            "name": "yDist",
+                            "ioValue": 0
+                        },
+                        {
+                            "name": "zDist",
+                            "ioValue": -2
+                        }
+                    ]
+                },
+                {
+                    "atomType": "Rotate",
+                    "name": "Rotate",
+                    "x": 310,
+                    "y": 235,
+                    "uniqueID": 369103,
+                    "ioValues": [
+                        {
+                            "name": "x-axis degrees",
+                            "ioValue": 0
+                        },
+                        {
+                            "name": "y-axis degrees",
+                            "ioValue": 180
+                        },
+                        {
+                            "name": "z-axis degrees",
+                            "ioValue": 0
+                        }
+                    ]
+                },
+                {
+                    "atomType": "Translate",
+                    "name": "Translate",
+                    "x": 486,
+                    "y": 147,
+                    "uniqueID": 804312,
+                    "ioValues": [
+                        {
+                            "name": "xDist",
+                            "ioValue": 0
+                        },
+                        {
+                            "name": "yDist",
+                            "ioValue": 0
+                        },
+                        {
+                            "name": "zDist",
+                            "ioValue": 0
+                        }
+                    ]
+                },
+                {
                     "atomType": "Output",
                     "name": "Output",
                     "x": 1316,
@@ -418,7 +490,26 @@
                     "ioValues": []
                 }
             ],
-            "allConnectors": [],
+            "allConnectors": [
+                {
+                    "ap1Name": "Geometry",
+                    "ap2Name": "geometry",
+                    "ap1ID": 786495,
+                    "ap2ID": 661777
+                },
+                {
+                    "ap1Name": "Geometry",
+                    "ap2Name": "geometry",
+                    "ap1ID": 927082,
+                    "ap2ID": 369103
+                },
+                {
+                    "ap1Name": "geometry",
+                    "ap2Name": "geometry",
+                    "ap1ID": 369103,
+                    "ap2ID": 804312
+                }
+            ],
             "fileTypeVersion": 1
         },
         {
