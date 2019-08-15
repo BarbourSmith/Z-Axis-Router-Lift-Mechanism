@@ -19,7 +19,7 @@
 ## Bolt
 
 
-## M4x20 Bolt
+## 45mm M4 Bolt
 
 
 undefined
