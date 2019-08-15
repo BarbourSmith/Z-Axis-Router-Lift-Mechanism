@@ -3073,82 +3073,6 @@
         },
         {
             "atomType": "Molecule",
-            "name": "Latch",
-            "x": 88,
-            "y": 57,
-            "uniqueID": 307044,
-            "ioValues": [],
-            "topLevel": false,
-            "allAtoms": [
-                {
-                    "atomType": "Output",
-                    "name": "Output",
-                    "x": 1316,
-                    "y": 164,
-                    "ioValues": []
-                }
-            ],
-            "allConnectors": [],
-            "fileTypeVersion": 1
-        },
-        {
-            "atomType": "Molecule",
-            "name": "Spacers",
-            "x": 104,
-            "y": 170,
-            "uniqueID": 219585,
-            "ioValues": [],
-            "topLevel": false,
-            "allAtoms": [
-                {
-                    "atomType": "Output",
-                    "name": "Output",
-                    "x": 1316,
-                    "y": 164,
-                    "ioValues": []
-                }
-            ],
-            "allConnectors": [],
-            "fileTypeVersion": 1
-        },
-        {
-            "atomType": "Molecule",
-            "name": "Latch",
-            "x": 229,
-            "y": 290,
-            "uniqueID": 827096,
-            "ioValues": [],
-            "topLevel": false,
-            "allAtoms": [
-                {
-                    "atomType": "Molecule",
-                    "name": "Latch",
-                    "x": 88,
-                    "y": 57,
-                    "uniqueID": 307044,
-                    "ioValues": []
-                },
-                {
-                    "atomType": "Molecule",
-                    "name": "Spacers",
-                    "x": 104,
-                    "y": 170,
-                    "uniqueID": 219585,
-                    "ioValues": []
-                },
-                {
-                    "atomType": "Output",
-                    "name": "Output",
-                    "x": 1316,
-                    "y": 164,
-                    "ioValues": []
-                }
-            ],
-            "allConnectors": [],
-            "fileTypeVersion": 1
-        },
-        {
-            "atomType": "Molecule",
             "name": "Posts",
             "x": 155,
             "y": 72,
@@ -3789,14 +3713,6 @@
                             "ioValue": 0
                         }
                     ]
-                },
-                {
-                    "atomType": "Molecule",
-                    "name": "Latch",
-                    "x": 229,
-                    "y": 290,
-                    "uniqueID": 827096,
-                    "ioValues": []
                 },
                 {
                     "atomType": "Molecule",
