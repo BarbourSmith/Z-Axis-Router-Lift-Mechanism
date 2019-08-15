@@ -668,7 +668,7 @@
         {
             "atomType": "Molecule",
             "name": "Long Bolt Nut Spacer Assembly for Ball Nut",
-            "x": 49,
+            "x": 39,
             "y": 210,
             "uniqueID": 817870,
             "ioValues": [],
@@ -718,7 +718,7 @@
                         },
                         {
                             "name": "zDist",
-                            "ioValue": 55.875
+                            "ioValue": 50.414
                         }
                     ]
                 },
@@ -1179,7 +1179,7 @@
                 {
                     "atomType": "Molecule",
                     "name": "Long Bolt Nut Spacer Assembly for Ball Nut",
-                    "x": 49,
+                    "x": 39,
                     "y": 210,
                     "uniqueID": 817870,
                     "ioValues": []
@@ -1335,7 +1335,7 @@
                         },
                         {
                             "name": "zDist",
-                            "ioValue": 0
+                            "ioValue": 40
                         }
                     ]
                 },
