@@ -38,8 +38,8 @@
         {
             "atomType": "Molecule",
             "name": "Spacer",
-            "x": 56,
-            "y": 131,
+            "x": 47,
+            "y": 129,
             "uniqueID": 813124,
             "ioValues": [],
             "topLevel": false,
@@ -87,19 +87,19 @@
                     "ioValues": [
                         {
                             "name": "height",
-                            "ioValue": 30
+                            "ioValue": 20
                         }
                     ]
                 },
                 {
                     "atomType": "Add BOM Tag",
                     "name": "Add BOM Tag",
-                    "x": 705,
-                    "y": 88,
+                    "x": 699,
+                    "y": 86,
                     "uniqueID": 250525,
                     "ioValues": [],
                     "BOMitem": {
-                        "BOMitemName": "40mm Spacer",
+                        "BOMitemName": "20mm Spacer",
                         "numberNeeded": 1,
                         "costUSD": 1.57,
                         "source": "https://www.mcmaster.com/94669a149",
@@ -229,8 +229,8 @@
                 {
                     "atomType": "Molecule",
                     "name": "Spacer",
-                    "x": 56,
-                    "y": 131,
+                    "x": 47,
+                    "y": 129,
                     "uniqueID": 813124,
                     "ioValues": []
                 },
@@ -386,8 +386,8 @@
         {
             "atomType": "Molecule",
             "name": "Spacers and Bolts",
-            "x": 50,
-            "y": 113,
+            "x": 40,
+            "y": 121,
             "uniqueID": 387913,
             "ioValues": [],
             "topLevel": false,
@@ -966,8 +966,8 @@
                 {
                     "atomType": "Molecule",
                     "name": "Spacers and Bolts",
-                    "x": 50,
-                    "y": 113,
+                    "x": 40,
+                    "y": 121,
                     "uniqueID": 387913,
                     "ioValues": []
                 },
@@ -1016,8 +1016,8 @@
                 {
                     "atomType": "Assembly",
                     "name": "Assembly",
-                    "x": 758,
-                    "y": 184,
+                    "x": 760,
+                    "y": 181,
                     "uniqueID": 423382,
                     "ioValues": [
                         {
