@@ -2125,7 +2125,7 @@
                 {
                     "atomType": "Rotate",
                     "name": "Rotate",
-                    "x": 324,
+                    "x": 334,
                     "y": 137,
                     "uniqueID": 860895,
                     "ioValues": [
@@ -2139,7 +2139,7 @@
                         },
                         {
                             "name": "z-axis degrees",
-                            "ioValue": 45
+                            "ioValue": 90
                         }
                     ]
                 },
@@ -2173,11 +2173,11 @@
                     "ioValues": [
                         {
                             "name": "xDist",
-                            "ioValue": 0
+                            "ioValue": 50
                         },
                         {
                             "name": "yDist",
-                            "ioValue": -50
+                            "ioValue": -30
                         },
                         {
                             "name": "zDist",
@@ -2396,8 +2396,8 @@
                 {
                     "atomType": "Extrude",
                     "name": "Extrude",
-                    "x": 1199,
-                    "y": 226,
+                    "x": 1191,
+                    "y": 229,
                     "uniqueID": 100672,
                     "ioValues": [
                         {
