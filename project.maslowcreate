@@ -1779,8 +1779,8 @@
         {
             "atomType": "Molecule",
             "name": "T-nut",
-            "x": 48,
-            "y": 210,
+            "x": 46,
+            "y": 209,
             "uniqueID": 800391,
             "ioValues": [],
             "topLevel": false,
@@ -2585,8 +2585,8 @@
                 {
                     "atomType": "Molecule",
                     "name": "T-nut",
-                    "x": 48,
-                    "y": 210,
+                    "x": 46,
+                    "y": 209,
                     "uniqueID": 800391,
                     "ioValues": []
                 },
@@ -2628,7 +2628,7 @@
                         },
                         {
                             "name": "zDist",
-                            "ioValue": 0
+                            "ioValue": 5
                         }
                     ]
                 },
