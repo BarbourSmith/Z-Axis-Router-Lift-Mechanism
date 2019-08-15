@@ -1489,7 +1489,7 @@
                     "ioValues": [
                         {
                             "name": "diameter",
-                            "ioValue": 15
+                            "ioValue": 12
                         }
                     ]
                 },
@@ -1570,9 +1570,17 @@
                         },
                         {
                             "name": "zDist",
-                            "ioValue": 0
+                            "ioValue": 20
                         }
                     ]
+                },
+                {
+                    "atomType": "Difference",
+                    "name": "Difference",
+                    "x": 691,
+                    "y": 75,
+                    "uniqueID": 984704,
+                    "ioValues": []
                 },
                 {
                     "atomType": "Output",
@@ -1597,6 +1605,12 @@
                 },
                 {
                     "ap1Name": "geometry",
+                    "ap2Name": "geometry1",
+                    "ap1ID": 396647,
+                    "ap2ID": 984704
+                },
+                {
+                    "ap1Name": "geometry",
                     "ap2Name": "geometry",
                     "ap1ID": 495280,
                     "ap2ID": 847583
@@ -1606,6 +1620,17 @@
                     "ap2Name": "geometry",
                     "ap1ID": 847583,
                     "ap2ID": 321618
+                },
+                {
+                    "ap1Name": "geometry",
+                    "ap2Name": "geometry2",
+                    "ap1ID": 321618,
+                    "ap2ID": 984704
+                },
+                {
+                    "ap1Name": "geometry",
+                    "ap2Name": "number or geometry",
+                    "ap1ID": 984704
                 }
             ],
             "fileTypeVersion": 1
@@ -1613,12 +1638,72 @@
         {
             "atomType": "Molecule",
             "name": "Post With Threaded Hole",
-            "x": 34,
-            "y": 172,
+            "x": 40,
+            "y": 168,
             "uniqueID": 992463,
             "ioValues": [],
             "topLevel": false,
             "allAtoms": [
+                {
+                    "atomType": "Circle",
+                    "name": "Circle",
+                    "x": 126,
+                    "y": 83,
+                    "uniqueID": 190578,
+                    "ioValues": [
+                        {
+                            "name": "diameter",
+                            "ioValue": 10
+                        }
+                    ]
+                },
+                {
+                    "atomType": "Circle",
+                    "name": "Circle",
+                    "x": 116,
+                    "y": 203,
+                    "uniqueID": 803729,
+                    "ioValues": [
+                        {
+                            "name": "diameter",
+                            "ioValue": 10
+                        }
+                    ]
+                },
+                {
+                    "atomType": "Extrude",
+                    "name": "Extrude",
+                    "x": 237,
+                    "y": 205,
+                    "uniqueID": 993358,
+                    "ioValues": [
+                        {
+                            "name": "height",
+                            "ioValue": 10
+                        }
+                    ]
+                },
+                {
+                    "atomType": "Rotate",
+                    "name": "Rotate",
+                    "x": 348,
+                    "y": 205,
+                    "uniqueID": 988786,
+                    "ioValues": [
+                        {
+                            "name": "x-axis degrees",
+                            "ioValue": 0
+                        },
+                        {
+                            "name": "y-axis degrees",
+                            "ioValue": 0
+                        },
+                        {
+                            "name": "z-axis degrees",
+                            "ioValue": 0
+                        }
+                    ]
+                },
                 {
                     "atomType": "Output",
                     "name": "Output",
@@ -1670,8 +1755,8 @@
                 {
                     "atomType": "Molecule",
                     "name": "Post With Threaded Hole",
-                    "x": 34,
-                    "y": 172,
+                    "x": 40,
+                    "y": 168,
                     "uniqueID": 992463,
                     "ioValues": []
                 },
