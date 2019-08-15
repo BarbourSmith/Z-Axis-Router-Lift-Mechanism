@@ -386,8 +386,8 @@
         {
             "atomType": "Molecule",
             "name": "Spacers and Bolts",
-            "x": 65,
-            "y": 214,
+            "x": 50,
+            "y": 127,
             "uniqueID": 387913,
             "ioValues": [],
             "topLevel": false,
@@ -419,9 +419,29 @@
         },
         {
             "atomType": "Molecule",
+            "name": "Latch",
+            "x": 49,
+            "y": 220,
+            "uniqueID": 800391,
+            "ioValues": [],
+            "topLevel": false,
+            "allAtoms": [
+                {
+                    "atomType": "Output",
+                    "name": "Output",
+                    "x": 1316,
+                    "y": 164,
+                    "ioValues": []
+                }
+            ],
+            "allConnectors": [],
+            "fileTypeVersion": 1
+        },
+        {
+            "atomType": "Molecule",
             "name": "Plates",
-            "x": 250,
-            "y": 57,
+            "x": 251,
+            "y": 45,
             "uniqueID": 363878,
             "ioValues": [
                 {
@@ -868,26 +888,6 @@
         },
         {
             "atomType": "Molecule",
-            "name": "Latch",
-            "x": 57,
-            "y": 287,
-            "uniqueID": 800391,
-            "ioValues": [],
-            "topLevel": false,
-            "allAtoms": [
-                {
-                    "atomType": "Output",
-                    "name": "Output",
-                    "x": 1316,
-                    "y": 164,
-                    "ioValues": []
-                }
-            ],
-            "allConnectors": [],
-            "fileTypeVersion": 1
-        },
-        {
-            "atomType": "Molecule",
             "name": "Plates",
             "x": 234,
             "y": 41,
@@ -914,26 +914,26 @@
                     ]
                 },
                 {
-                    "atomType": "Input",
-                    "name": "Bit Depth",
-                    "x": 50,
-                    "y": 132,
-                    "uniqueID": 761745,
-                    "ioValues": []
-                },
-                {
                     "atomType": "Molecule",
                     "name": "Spacers and Bolts",
-                    "x": 65,
-                    "y": 214,
+                    "x": 50,
+                    "y": 127,
                     "uniqueID": 387913,
                     "ioValues": []
                 },
                 {
                     "atomType": "Molecule",
+                    "name": "Latch",
+                    "x": 49,
+                    "y": 220,
+                    "uniqueID": 800391,
+                    "ioValues": []
+                },
+                {
+                    "atomType": "Molecule",
                     "name": "Plates",
-                    "x": 250,
-                    "y": 57,
+                    "x": 251,
+                    "y": 45,
                     "uniqueID": 363878,
                     "ioValues": [
                         {
@@ -943,53 +943,10 @@
                     ]
                 },
                 {
-                    "atomType": "Equation",
-                    "name": "Equation",
-                    "x": 230,
-                    "y": 129,
-                    "uniqueID": 241868,
-                    "ioValues": [
-                        {
-                            "name": "x",
-                            "ioValue": 0
-                        }
-                    ],
-                    "currentEquation": "80+x"
-                },
-                {
-                    "atomType": "Molecule",
-                    "name": "Latch",
-                    "x": 57,
-                    "y": 287,
-                    "uniqueID": 800391,
-                    "ioValues": []
-                },
-                {
                     "atomType": "Translate",
                     "name": "Translate",
-                    "x": 416,
-                    "y": 82,
-                    "uniqueID": 316437,
-                    "ioValues": [
-                        {
-                            "name": "xDist",
-                            "ioValue": 0
-                        },
-                        {
-                            "name": "yDist",
-                            "ioValue": 0
-                        },
-                        {
-                            "name": "zDist",
-                            "ioValue": 80
-                        }
-                    ]
-                },
-                {
-                    "atomType": "Translate",
-                    "name": "Translate",
-                    "x": 620,
-                    "y": 45,
+                    "x": 616,
+                    "y": 49,
                     "uniqueID": 888917,
                     "ioValues": [
                         {
@@ -1009,8 +966,8 @@
                 {
                     "atomType": "Assembly",
                     "name": "Assembly",
-                    "x": 771,
-                    "y": 169,
+                    "x": 768,
+                    "y": 171,
                     "uniqueID": 423382,
                     "ioValues": [
                         {
@@ -1018,14 +975,61 @@
                             "ioValue": 10
                         },
                         {
-                            "name": "3D shape 644389",
+                            "name": "3D shape 915314",
                             "ioValue": 10
                         },
                         {
-                            "name": "3D shape 915314",
+                            "name": "3D shape 793428",
+                            "ioValue": 10
+                        },
+                        {
+                            "name": "3D shape 404937",
                             "ioValue": 10
                         }
                     ]
+                },
+                {
+                    "atomType": "Input",
+                    "name": "Bit Depth",
+                    "x": 924,
+                    "y": 49,
+                    "uniqueID": 761745,
+                    "ioValues": []
+                },
+                {
+                    "atomType": "Translate",
+                    "name": "Translate",
+                    "x": 1060,
+                    "y": 184,
+                    "uniqueID": 316437,
+                    "ioValues": [
+                        {
+                            "name": "xDist",
+                            "ioValue": 0
+                        },
+                        {
+                            "name": "yDist",
+                            "ioValue": 0
+                        },
+                        {
+                            "name": "zDist",
+                            "ioValue": 80
+                        }
+                    ]
+                },
+                {
+                    "atomType": "Equation",
+                    "name": "Equation",
+                    "x": 1080,
+                    "y": 64,
+                    "uniqueID": 241868,
+                    "ioValues": [
+                        {
+                            "name": "x",
+                            "ioValue": 0
+                        }
+                    ],
+                    "currentEquation": "80+x"
                 },
                 {
                     "atomType": "Output",
@@ -1043,33 +1047,21 @@
                     "ap2ID": 363878
                 },
                 {
-                    "ap1Name": "number or geometry",
-                    "ap2Name": "x",
-                    "ap1ID": 761745,
-                    "ap2ID": 241868
+                    "ap1Name": "Geometry",
+                    "ap2Name": "3D shape 915314",
+                    "ap1ID": 387913,
+                    "ap2ID": 423382
                 },
                 {
                     "ap1Name": "Geometry",
                     "ap2Name": "geometry",
                     "ap1ID": 363878,
-                    "ap2ID": 316437
-                },
-                {
-                    "ap1Name": "result",
-                    "ap2Name": "zDist",
-                    "ap1ID": 241868,
-                    "ap2ID": 316437
-                },
-                {
-                    "ap1Name": "geometry",
-                    "ap2Name": "geometry",
-                    "ap1ID": 316437,
                     "ap2ID": 888917
                 },
                 {
-                    "ap1Name": "geometry",
-                    "ap2Name": "3D shape 644389",
-                    "ap1ID": 316437,
+                    "ap1Name": "Geometry",
+                    "ap2Name": "3D shape 793428",
+                    "ap1ID": 363878,
                     "ap2ID": 423382
                 },
                 {
@@ -1080,8 +1072,26 @@
                 },
                 {
                     "ap1Name": "geometry",
+                    "ap2Name": "geometry",
+                    "ap1ID": 423382,
+                    "ap2ID": 316437
+                },
+                {
+                    "ap1Name": "number or geometry",
+                    "ap2Name": "x",
+                    "ap1ID": 761745,
+                    "ap2ID": 241868
+                },
+                {
+                    "ap1Name": "geometry",
                     "ap2Name": "number or geometry",
-                    "ap1ID": 423382
+                    "ap1ID": 316437
+                },
+                {
+                    "ap1Name": "result",
+                    "ap2Name": "zDist",
+                    "ap1ID": 241868,
+                    "ap2ID": 316437
                 }
             ],
             "fileTypeVersion": 1
@@ -2077,8 +2087,8 @@
         {
             "atomType": "Molecule",
             "name": "Risers",
-            "x": 234,
-            "y": 107,
+            "x": 229,
+            "y": 104,
             "uniqueID": 826098,
             "ioValues": [],
             "topLevel": false,
@@ -3852,8 +3862,8 @@
                 {
                     "atomType": "Molecule",
                     "name": "Risers",
-                    "x": 234,
-                    "y": 107,
+                    "x": 229,
+                    "y": 104,
                     "uniqueID": 826098,
                     "ioValues": []
                 },
