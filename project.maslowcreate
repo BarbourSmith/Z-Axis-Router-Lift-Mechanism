@@ -1527,9 +1527,33 @@
                     "ioValues": [
                         {
                             "name": "height",
-                            "ioValue": 10
+                            "ioValue": 3.3
                         }
                     ]
+                },
+                {
+                    "atomType": "Color",
+                    "name": "Color",
+                    "x": 609,
+                    "y": 126,
+                    "uniqueID": 960922,
+                    "ioValues": [],
+                    "selectedColorIndex": "5"
+                },
+                {
+                    "atomType": "Add BOM Tag",
+                    "name": "Add BOM Tag",
+                    "x": 860,
+                    "y": 105,
+                    "uniqueID": 968433,
+                    "ioValues": [],
+                    "BOMitem": {
+                        "BOMitemName": "Square M4 Nut",
+                        "numberNeeded": 1,
+                        "costUSD": 0.1,
+                        "source": "https://www.mcmaster.com/96887a329",
+                        "totalNeeded": 0
+                    }
                 },
                 {
                     "atomType": "Output",
@@ -1557,7 +1581,20 @@
                     "ap2Name": "geometry",
                     "ap1ID": 601037,
                     "ap2ID": 477380
-                }
+                },
+                {
+                    "ap1Name": "geometry",
+                    "ap2Name": "geometry",
+                    "ap1ID": 477380,
+                    "ap2ID": 960922
+                },
+                {
+                    "ap1Name": "geometry",
+                    "ap2Name": "geometry",
+                    "ap1ID": 960922,
+                    "ap2ID": 968433
+                },
+                null
             ],
             "fileTypeVersion": 1
         },
