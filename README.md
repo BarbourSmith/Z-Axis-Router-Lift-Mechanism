@@ -43,25 +43,7 @@ undefined
 ## Short Nut Bolt Assembly For Sliders
 
 
-## M4 Bolt
-
-
-## Head
-
-
-## Shaft
-
-
-undefined
-
-
-## M4 Bolt
-
-
-## Head
-
-
-## Shaft
+## M4x20 Bolt
 
 
 undefined

@@ -394,27 +394,18 @@
             "allAtoms": [
                 {
                     "atomType": "GitHubMolecule",
-                    "name": "M4 Bolt",
-                    "x": 41,
+                    "name": "M4x20 Bolt",
+                    "x": 43,
                     "y": 47,
-                    "uniqueID": 786495,
-                    "projectID": "197564175",
-                    "ioValues": []
-                },
-                {
-                    "atomType": "GitHubMolecule",
-                    "name": "M4 Bolt",
-                    "x": 41,
-                    "y": 47,
-                    "uniqueID": 614516,
-                    "projectID": "197564175",
+                    "uniqueID": 238769,
+                    "projectID": "198850770",
                     "ioValues": []
                 },
                 {
                     "atomType": "GitHubMolecule",
                     "name": "M4 Locknut",
-                    "x": 40,
-                    "y": 116,
+                    "x": 33,
+                    "y": 120,
                     "uniqueID": 927082,
                     "projectID": "201057537",
                     "ioValues": []
@@ -603,7 +594,7 @@
                 {
                     "ap1Name": "Geometry",
                     "ap2Name": "geometry",
-                    "ap1ID": 786495,
+                    "ap1ID": 238769,
                     "ap2ID": 661777
                 },
                 {
@@ -779,8 +770,8 @@
                 {
                     "atomType": "Translate",
                     "name": "Translate",
-                    "x": 540,
-                    "y": 107,
+                    "x": 531,
+                    "y": 116,
                     "uniqueID": 457849,
                     "ioValues": [
                         {
@@ -800,8 +791,8 @@
                 {
                     "atomType": "Translate",
                     "name": "Translate",
-                    "x": 635,
-                    "y": 32,
+                    "x": 632,
+                    "y": 29,
                     "uniqueID": 308525,
                     "ioValues": [
                         {
@@ -842,8 +833,8 @@
                 {
                     "atomType": "Translate",
                     "name": "Translate",
-                    "x": 759,
-                    "y": 148,
+                    "x": 782,
+                    "y": 157,
                     "uniqueID": 656364,
                     "ioValues": [
                         {
@@ -864,7 +855,7 @@
                     "atomType": "Assembly",
                     "name": "Assembly",
                     "x": 999,
-                    "y": 137,
+                    "y": 126,
                     "uniqueID": 754621,
                     "ioValues": [
                         {
@@ -880,11 +871,11 @@
                             "ioValue": 10
                         },
                         {
-                            "name": "3D shape 654349",
+                            "name": "3D shape 377927",
                             "ioValue": 10
                         },
                         {
-                            "name": "3D shape 377927",
+                            "name": "3D shape 915247",
                             "ioValue": 10
                         }
                     ]
@@ -948,7 +939,7 @@
                 },
                 {
                     "ap1Name": "geometry",
-                    "ap2Name": "3D shape 654349",
+                    "ap2Name": "3D shape 377927",
                     "ap1ID": 656364,
                     "ap2ID": 754621
                 },
