@@ -212,8 +212,8 @@
         {
             "atomType": "Molecule",
             "name": "Long Bolt Nut Spacer Assembly For Sliders",
-            "x": 58,
-            "y": 69,
+            "x": 55,
+            "y": 71,
             "uniqueID": 601479,
             "ioValues": [],
             "topLevel": false,
@@ -718,7 +718,7 @@
                         },
                         {
                             "name": "zDist",
-                            "ioValue": 45
+                            "ioValue": 46
                         }
                     ]
                 },
@@ -901,8 +901,8 @@
                 {
                     "atomType": "Molecule",
                     "name": "Long Bolt Nut Spacer Assembly For Sliders",
-                    "x": 58,
-                    "y": 69,
+                    "x": 55,
+                    "y": 71,
                     "uniqueID": 601479,
                     "ioValues": []
                 },
@@ -975,8 +975,8 @@
                 {
                     "atomType": "Translate",
                     "name": "Translate",
-                    "x": 632,
-                    "y": 29,
+                    "x": 625,
+                    "y": 21,
                     "uniqueID": 308525,
                     "ioValues": [
                         {
@@ -1007,6 +1007,27 @@
                         {
                             "name": "yDist",
                             "ioValue": 0
+                        },
+                        {
+                            "name": "zDist",
+                            "ioValue": 0
+                        }
+                    ]
+                },
+                {
+                    "atomType": "Translate",
+                    "name": "Translate",
+                    "x": 715,
+                    "y": 220,
+                    "uniqueID": 285916,
+                    "ioValues": [
+                        {
+                            "name": "xDist",
+                            "ioValue": 0
+                        },
+                        {
+                            "name": "yDist",
+                            "ioValue": 90
                         },
                         {
                             "name": "zDist",
@@ -1061,6 +1082,10 @@
                         {
                             "name": "3D shape 915247",
                             "ioValue": 10
+                        },
+                        {
+                            "name": "3D shape 142346",
+                            "ioValue": 10
                         }
                     ]
                 },
@@ -1098,6 +1123,12 @@
                     "ap2ID": 539921
                 },
                 {
+                    "ap1Name": "Geometry",
+                    "ap2Name": "geometry",
+                    "ap1ID": 817870,
+                    "ap2ID": 285916
+                },
+                {
                     "ap1Name": "geometry",
                     "ap2Name": "geometry",
                     "ap1ID": 539921,
@@ -1119,6 +1150,12 @@
                     "ap1Name": "geometry",
                     "ap2Name": "3D shape 951088",
                     "ap1ID": 525045,
+                    "ap2ID": 754621
+                },
+                {
+                    "ap1Name": "geometry",
+                    "ap2Name": "3D shape 915247",
+                    "ap1ID": 285916,
                     "ap2ID": 754621
                 },
                 {
@@ -2425,8 +2462,8 @@
         {
             "atomType": "Molecule",
             "name": "Slides",
-            "x": 122,
-            "y": 239,
+            "x": 119,
+            "y": 240,
             "uniqueID": 424897,
             "ioValues": [],
             "topLevel": false,
@@ -2805,8 +2842,8 @@
         {
             "atomType": "Molecule",
             "name": "Risers",
-            "x": 227,
-            "y": 106,
+            "x": 226,
+            "y": 108,
             "uniqueID": 826098,
             "ioValues": [],
             "topLevel": false,
@@ -2830,8 +2867,8 @@
                 {
                     "atomType": "Molecule",
                     "name": "Slides",
-                    "x": 122,
-                    "y": 239,
+                    "x": 119,
+                    "y": 240,
                     "uniqueID": 424897,
                     "ioValues": []
                 },
@@ -4580,8 +4617,8 @@
                 {
                     "atomType": "Molecule",
                     "name": "Risers",
-                    "x": 227,
-                    "y": 106,
+                    "x": 226,
+                    "y": 108,
                     "uniqueID": 826098,
                     "ioValues": []
                 },
