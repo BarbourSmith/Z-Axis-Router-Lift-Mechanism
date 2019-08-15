@@ -1321,8 +1321,8 @@
                 {
                     "atomType": "Translate",
                     "name": "Translate",
-                    "x": 770,
-                    "y": 272,
+                    "x": 773,
+                    "y": 275,
                     "uniqueID": 848398,
                     "ioValues": [
                         {
@@ -1335,7 +1335,7 @@
                         },
                         {
                             "name": "zDist",
-                            "ioValue": 40
+                            "ioValue": 30
                         }
                     ]
                 },
@@ -2020,16 +2020,12 @@
                 {
                     "atomType": "Assembly",
                     "name": "Assembly",
-                    "x": 760,
-                    "y": 181,
+                    "x": 759,
+                    "y": 183,
                     "uniqueID": 423382,
                     "ioValues": [
                         {
                             "name": "3D shape 606503",
-                            "ioValue": 10
-                        },
-                        {
-                            "name": "3D shape 915314",
                             "ioValue": 10
                         },
                         {
@@ -2038,6 +2034,10 @@
                         },
                         {
                             "name": "3D shape 404937",
+                            "ioValue": 10
+                        },
+                        {
+                            "name": "3D shape 839393",
                             "ioValue": 10
                         }
                     ]
@@ -2102,7 +2102,7 @@
                 },
                 {
                     "ap1Name": "Geometry",
-                    "ap2Name": "3D shape 915314",
+                    "ap2Name": "3D shape 404937",
                     "ap1ID": 387913,
                     "ap2ID": 423382
                 },
