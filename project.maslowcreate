@@ -1502,7 +1502,7 @@
                     "ioValues": [
                         {
                             "name": "diameter",
-                            "ioValue": 10
+                            "ioValue": 4
                         }
                     ]
                 },
@@ -1520,6 +1520,61 @@
                     ]
                 },
                 {
+                    "atomType": "Extrude",
+                    "name": "Extrude",
+                    "x": 308,
+                    "y": 189,
+                    "uniqueID": 495280,
+                    "ioValues": [
+                        {
+                            "name": "height",
+                            "ioValue": 30
+                        }
+                    ]
+                },
+                {
+                    "atomType": "Rotate",
+                    "name": "Rotate",
+                    "x": 444,
+                    "y": 161,
+                    "uniqueID": 847583,
+                    "ioValues": [
+                        {
+                            "name": "x-axis degrees",
+                            "ioValue": 90
+                        },
+                        {
+                            "name": "y-axis degrees",
+                            "ioValue": 0
+                        },
+                        {
+                            "name": "z-axis degrees",
+                            "ioValue": 0
+                        }
+                    ]
+                },
+                {
+                    "atomType": "Translate",
+                    "name": "Translate",
+                    "x": 570,
+                    "y": 149,
+                    "uniqueID": 321618,
+                    "ioValues": [
+                        {
+                            "name": "xDist",
+                            "ioValue": 0
+                        },
+                        {
+                            "name": "yDist",
+                            "ioValue": 15
+                        },
+                        {
+                            "name": "zDist",
+                            "ioValue": 0
+                        }
+                    ]
+                },
+                {
                     "atomType": "Output",
                     "name": "Output",
                     "x": 1316,
@@ -1533,6 +1588,24 @@
                     "ap2Name": "geometry",
                     "ap1ID": 708227,
                     "ap2ID": 396647
+                },
+                {
+                    "ap1Name": "geometry",
+                    "ap2Name": "geometry",
+                    "ap1ID": 172548,
+                    "ap2ID": 495280
+                },
+                {
+                    "ap1Name": "geometry",
+                    "ap2Name": "geometry",
+                    "ap1ID": 495280,
+                    "ap2ID": 847583
+                },
+                {
+                    "ap1Name": "geometry",
+                    "ap2Name": "geometry",
+                    "ap1ID": 847583,
+                    "ap2ID": 321618
                 }
             ],
             "fileTypeVersion": 1
