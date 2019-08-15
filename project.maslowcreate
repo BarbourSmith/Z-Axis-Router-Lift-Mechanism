@@ -1258,8 +1258,8 @@
                 {
                     "atomType": "Translate",
                     "name": "Translate",
-                    "x": 649,
-                    "y": 203,
+                    "x": 641,
+                    "y": 193,
                     "uniqueID": 285916,
                     "ioValues": [
                         {
@@ -1268,7 +1268,7 @@
                         },
                         {
                             "name": "yDist",
-                            "ioValue": 90
+                            "ioValue": 84.2875
                         },
                         {
                             "name": "zDist",
@@ -3676,8 +3676,8 @@
         {
             "atomType": "Molecule",
             "name": "Threaded Nut",
-            "x": 122,
-            "y": 255,
+            "x": 121,
+            "y": 258,
             "uniqueID": 574138,
             "ioValues": [],
             "topLevel": false,
@@ -3711,8 +3711,8 @@
                 {
                     "atomType": "Extrude",
                     "name": "Extrude",
-                    "x": 299,
-                    "y": 56,
+                    "x": 298,
+                    "y": 61,
                     "uniqueID": 738608,
                     "ioValues": [
                         {
@@ -4056,8 +4056,8 @@
         {
             "atomType": "Molecule",
             "name": "Ball Screw Assembly",
-            "x": 226,
-            "y": 169,
+            "x": 228,
+            "y": 171,
             "uniqueID": 315914,
             "ioValues": [],
             "topLevel": false,
@@ -4089,8 +4089,8 @@
                 {
                     "atomType": "Molecule",
                     "name": "Threaded Nut",
-                    "x": 122,
-                    "y": 255,
+                    "x": 121,
+                    "y": 258,
                     "uniqueID": 574138,
                     "ioValues": []
                 },
@@ -4924,8 +4924,8 @@
                 {
                     "atomType": "Molecule",
                     "name": "Ball Screw Assembly",
-                    "x": 226,
-                    "y": 169,
+                    "x": 228,
+                    "y": 171,
                     "uniqueID": 315914,
                     "ioValues": []
                 },
