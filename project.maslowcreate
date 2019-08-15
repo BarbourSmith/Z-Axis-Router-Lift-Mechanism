@@ -1779,8 +1779,8 @@
         {
             "atomType": "Molecule",
             "name": "T-nut",
-            "x": 54,
-            "y": 217,
+            "x": 50,
+            "y": 216,
             "uniqueID": 800391,
             "ioValues": [],
             "topLevel": false,
@@ -2486,8 +2486,8 @@
         {
             "atomType": "Molecule",
             "name": "T-nut Cutaway",
-            "x": 59,
-            "y": 292,
+            "x": 50,
+            "y": 289,
             "uniqueID": 408482,
             "ioValues": [],
             "topLevel": false,
@@ -2797,8 +2797,8 @@
                 {
                     "atomType": "Molecule",
                     "name": "T-nut",
-                    "x": 54,
-                    "y": 217,
+                    "x": 50,
+                    "y": 216,
                     "uniqueID": 800391,
                     "ioValues": []
                 },
@@ -2818,21 +2818,21 @@
                 {
                     "atomType": "Molecule",
                     "name": "T-nut Cutaway",
-                    "x": 59,
-                    "y": 292,
+                    "x": 50,
+                    "y": 289,
                     "uniqueID": 408482,
                     "ioValues": []
                 },
                 {
                     "atomType": "Translate",
                     "name": "Translate",
-                    "x": 410,
-                    "y": 208,
+                    "x": 393,
+                    "y": 201,
                     "uniqueID": 213669,
                     "ioValues": [
                         {
                             "name": "xDist",
-                            "ioValue": 70
+                            "ioValue": 56
                         },
                         {
                             "name": "yDist",
@@ -2841,6 +2841,27 @@
                         {
                             "name": "zDist",
                             "ioValue": 5
+                        }
+                    ]
+                },
+                {
+                    "atomType": "Translate",
+                    "name": "Translate",
+                    "x": 354,
+                    "y": 287,
+                    "uniqueID": 986548,
+                    "ioValues": [
+                        {
+                            "name": "xDist",
+                            "ioValue": 56
+                        },
+                        {
+                            "name": "yDist",
+                            "ioValue": -45
+                        },
+                        {
+                            "name": "zDist",
+                            "ioValue": 0
                         }
                     ]
                 },
@@ -2868,7 +2889,7 @@
                 {
                     "atomType": "Assembly",
                     "name": "Assembly",
-                    "x": 739,
+                    "x": 733,
                     "y": 155,
                     "uniqueID": 423382,
                     "ioValues": [
@@ -2882,10 +2903,6 @@
                         },
                         {
                             "name": "3D shape 404937",
-                            "ioValue": 10
-                        },
-                        {
-                            "name": "3D shape 839393",
                             "ioValue": 10
                         },
                         {
@@ -2977,11 +2994,12 @@
                     "ap2ID": 423382
                 },
                 {
-                    "ap1Name": "geometry",
-                    "ap2Name": "3D shape 839393",
-                    "ap1ID": 213669,
-                    "ap2ID": 423382
+                    "ap1Name": "Geometry",
+                    "ap2Name": "geometry",
+                    "ap1ID": 408482,
+                    "ap2ID": 986548
                 },
+                null,
                 {
                     "ap1Name": "geometry",
                     "ap2Name": "3D shape 606503",
