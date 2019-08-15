@@ -3,7 +3,7 @@
         {
             "atomType": "Molecule",
             "name": "Bolt",
-            "x": 64,
+            "x": 59,
             "y": 46,
             "uniqueID": 982563,
             "ioValues": [],
@@ -101,8 +101,8 @@
                     "BOMitem": {
                         "BOMitemName": "20mm Spacer",
                         "numberNeeded": 1,
-                        "costUSD": 1.57,
-                        "source": "https://www.mcmaster.com/94669a149",
+                        "costUSD": 1.86,
+                        "source": "https://www.mcmaster.com/94669a090",
                         "totalNeeded": 0
                     }
                 },
@@ -221,7 +221,7 @@
                 {
                     "atomType": "Molecule",
                     "name": "Bolt",
-                    "x": 64,
+                    "x": 59,
                     "y": 46,
                     "uniqueID": 982563,
                     "ioValues": []
@@ -237,8 +237,8 @@
                 {
                     "atomType": "Translate",
                     "name": "Translate",
-                    "x": 233,
-                    "y": 59,
+                    "x": 232,
+                    "y": 65,
                     "uniqueID": 601867,
                     "ioValues": [
                         {
@@ -251,7 +251,7 @@
                         },
                         {
                             "name": "zDist",
-                            "ioValue": 60
+                            "ioValue": 40
                         }
                     ]
                 },
