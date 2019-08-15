@@ -899,8 +899,8 @@
                 {
                     "atomType": "Translate",
                     "name": "Translate",
-                    "x": 268,
-                    "y": 90,
+                    "x": 261,
+                    "y": 96,
                     "uniqueID": 646030,
                     "ioValues": [
                         {
@@ -983,8 +983,8 @@
                 {
                     "atomType": "Translate",
                     "name": "Translate",
-                    "x": 707,
-                    "y": 175,
+                    "x": 699,
+                    "y": 168,
                     "uniqueID": 592634,
                     "ioValues": [
                         {
@@ -1004,13 +1004,13 @@
                 {
                     "atomType": "Translate",
                     "name": "Translate",
-                    "x": 685,
-                    "y": 252,
+                    "x": 682,
+                    "y": 251,
                     "uniqueID": 257268,
                     "ioValues": [
                         {
                             "name": "xDist",
-                            "ioValue": 0
+                            "ioValue": 14.2875
                         },
                         {
                             "name": "yDist",
@@ -1026,7 +1026,7 @@
                     "atomType": "Translate",
                     "name": "Translate",
                     "x": 750,
-                    "y": 83,
+                    "y": 87,
                     "uniqueID": 262580,
                     "ioValues": [
                         {
@@ -1047,7 +1047,7 @@
                     "atomType": "Assembly",
                     "name": "Assembly",
                     "x": 984,
-                    "y": 188,
+                    "y": 192,
                     "uniqueID": 111087,
                     "ioValues": [
                         {
