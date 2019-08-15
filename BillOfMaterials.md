@@ -2,14 +2,6 @@
 # Bill Of Materials 
  |Part|Number Needed|Price|Source| 
  |----|----------|-----|-----|
-|Linear Motion Shaft|2|$23.82|https://www.mcmaster.com/6112k109|
-|Linear Slide|4|$7.20|https://tocomotion.en.made-in-china.com/product/dNKmHZRYAIWa/China-Lme20uu-Linear-Slide-Bearing-20mm-Linear-Bushing.html|
-|Shaft Support|8|$175.44|https://www.mcmaster.com/62645k42|
-|ET-WGM58AE|13|$143.00|http://www.etonm.com/|
-|10mm Lead Screw|1|$11.83|https://www.mcmaster.com/7549k71|
-|Lead Screw Nut|2|$152.72|https://www.mcmaster.com/7549k16|
-|Shaft Coupler|1|$1.87|https://www.banggood.com/8mm-x-10mm-Aluminum-Flexible-Shaft-Coupling-OD19mm-x-L25mm-CNC-Stepper-Motor-Coupler-Connector-p-993595.html|
-|Bosch 1617EVS|3|$507.00|https://www.amazon.com/dp/B00004TKHV|
-|Total: |34|$1022.88| |
+|Total: |0|$0.00| |
 
- 3xCOG MSRP: $3068.64
+ 3xCOG MSRP: $0.00
