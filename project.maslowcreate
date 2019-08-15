@@ -24,7 +24,7 @@
             "atomType": "Molecule",
             "name": "Spacer",
             "x": 56,
-            "y": 136,
+            "y": 131,
             "uniqueID": 813124,
             "ioValues": [],
             "topLevel": false,
@@ -79,8 +79,8 @@
                 {
                     "atomType": "Add BOM Tag",
                     "name": "Add BOM Tag",
-                    "x": 706,
-                    "y": 80,
+                    "x": 709,
+                    "y": 85,
                     "uniqueID": 250525,
                     "ioValues": [],
                     "BOMitem": {
@@ -173,7 +173,7 @@
                     "atomType": "Molecule",
                     "name": "Spacer",
                     "x": 56,
-                    "y": 136,
+                    "y": 131,
                     "uniqueID": 813124,
                     "ioValues": []
                 },
@@ -186,6 +186,23 @@
                     "ioValues": []
                 },
                 {
+                    "atomType": "Assembly",
+                    "name": "Assembly",
+                    "x": 394,
+                    "y": 134,
+                    "uniqueID": 901767,
+                    "ioValues": [
+                        {
+                            "name": "3D shape 453118",
+                            "ioValue": 10
+                        },
+                        {
+                            "name": "3D shape 651463",
+                            "ioValue": 10
+                        }
+                    ]
+                },
+                {
                     "atomType": "Output",
                     "name": "Output",
                     "x": 1316,
@@ -193,7 +210,19 @@
                     "ioValues": []
                 }
             ],
-            "allConnectors": [],
+            "allConnectors": [
+                {
+                    "ap1Name": "Geometry",
+                    "ap2Name": "3D shape 453118",
+                    "ap1ID": 813124,
+                    "ap2ID": 901767
+                },
+                {
+                    "ap1Name": "geometry",
+                    "ap2Name": "number or geometry",
+                    "ap1ID": 901767
+                }
+            ],
             "fileTypeVersion": 1
         },
         {
