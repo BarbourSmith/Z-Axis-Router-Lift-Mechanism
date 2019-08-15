@@ -37,8 +37,8 @@
         },
         {
             "atomType": "Molecule",
-            "name": "Spacer",
-            "x": 47,
+            "name": "M4 20MM Spacer",
+            "x": 45,
             "y": 129,
             "uniqueID": 813124,
             "ioValues": [],
@@ -73,8 +73,8 @@
                 {
                     "atomType": "Difference",
                     "name": "Difference",
-                    "x": 288,
-                    "y": 144,
+                    "x": 291,
+                    "y": 141,
                     "uniqueID": 918907,
                     "ioValues": []
                 },
@@ -94,8 +94,8 @@
                 {
                     "atomType": "Add BOM Tag",
                     "name": "Add BOM Tag",
-                    "x": 699,
-                    "y": 86,
+                    "x": 705,
+                    "y": 77,
                     "uniqueID": 250525,
                     "ioValues": [],
                     "BOMitem": {
@@ -212,8 +212,8 @@
         {
             "atomType": "Molecule",
             "name": "Long Bolt Nut Spacer Assembly For Sliders",
-            "x": 56,
-            "y": 64,
+            "x": 60,
+            "y": 68,
             "uniqueID": 601479,
             "ioValues": [],
             "topLevel": false,
@@ -228,8 +228,8 @@
                 },
                 {
                     "atomType": "Molecule",
-                    "name": "Spacer",
-                    "x": 47,
+                    "name": "M4 20MM Spacer",
+                    "x": 45,
                     "y": 129,
                     "uniqueID": 813124,
                     "ioValues": []
@@ -668,8 +668,8 @@
         {
             "atomType": "Molecule",
             "name": "Long Bolt Nut Spacer Assembly for Ball Nut",
-            "x": 53,
-            "y": 207,
+            "x": 49,
+            "y": 210,
             "uniqueID": 817870,
             "ioValues": [],
             "topLevel": false,
@@ -717,8 +717,8 @@
                 {
                     "atomType": "Molecule",
                     "name": "Long Bolt Nut Spacer Assembly For Sliders",
-                    "x": 56,
-                    "y": 64,
+                    "x": 60,
+                    "y": 68,
                     "uniqueID": 601479,
                     "ioValues": []
                 },
@@ -733,8 +733,8 @@
                 {
                     "atomType": "Molecule",
                     "name": "Long Bolt Nut Spacer Assembly for Ball Nut",
-                    "x": 53,
-                    "y": 207,
+                    "x": 49,
+                    "y": 210,
                     "uniqueID": 817870,
                     "ioValues": []
                 },
@@ -749,8 +749,8 @@
                 {
                     "atomType": "Rotate",
                     "name": "Rotate",
-                    "x": 400,
-                    "y": 140,
+                    "x": 414,
+                    "y": 155,
                     "uniqueID": 539921,
                     "ioValues": [
                         {
