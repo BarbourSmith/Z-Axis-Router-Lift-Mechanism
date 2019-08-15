@@ -385,9 +385,9 @@
         },
         {
             "atomType": "Molecule",
-            "name": "Short Nut Bolt Assembly",
-            "x": 95,
-            "y": 144,
+            "name": "Short Nut Bolt Assembly For Sliders",
+            "x": 91,
+            "y": 150,
             "uniqueID": 711005,
             "ioValues": [],
             "topLevel": false,
@@ -395,8 +395,8 @@
                 {
                     "atomType": "GitHubMolecule",
                     "name": "M4 Bolt",
-                    "x": 121,
-                    "y": 98,
+                    "x": 41,
+                    "y": 47,
                     "uniqueID": 786495,
                     "projectID": "197564175",
                     "ioValues": []
@@ -404,8 +404,8 @@
                 {
                     "atomType": "GitHubMolecule",
                     "name": "M4 Bolt",
-                    "x": 121,
-                    "y": 98,
+                    "x": 41,
+                    "y": 47,
                     "uniqueID": 614516,
                     "projectID": "197564175",
                     "ioValues": []
@@ -413,8 +413,8 @@
                 {
                     "atomType": "GitHubMolecule",
                     "name": "M4 Locknut",
-                    "x": 103,
-                    "y": 214,
+                    "x": 40,
+                    "y": 116,
                     "uniqueID": 927082,
                     "projectID": "201057537",
                     "ioValues": []
@@ -422,8 +422,8 @@
                 {
                     "atomType": "Translate",
                     "name": "Translate",
-                    "x": 276,
-                    "y": 107,
+                    "x": 190,
+                    "y": 39,
                     "uniqueID": 661777,
                     "ioValues": [
                         {
@@ -443,8 +443,8 @@
                 {
                     "atomType": "Rotate",
                     "name": "Rotate",
-                    "x": 310,
-                    "y": 235,
+                    "x": 201,
+                    "y": 116,
                     "uniqueID": 369103,
                     "ioValues": [
                         {
@@ -464,8 +464,8 @@
                 {
                     "atomType": "Translate",
                     "name": "Translate",
-                    "x": 518,
-                    "y": 197,
+                    "x": 346,
+                    "y": 129,
                     "uniqueID": 804312,
                     "ioValues": [
                         {
@@ -485,8 +485,8 @@
                 {
                     "atomType": "Assembly",
                     "name": "Assembly",
-                    "x": 677,
-                    "y": 124,
+                    "x": 405,
+                    "y": 55,
                     "uniqueID": 890626,
                     "ioValues": [
                         {
@@ -500,6 +500,48 @@
                         {
                             "name": "3D shape 334352",
                             "ioValue": 10
+                        }
+                    ]
+                },
+                {
+                    "atomType": "Translate",
+                    "name": "Translate",
+                    "x": 605,
+                    "y": 126,
+                    "uniqueID": 526033,
+                    "ioValues": [
+                        {
+                            "name": "xDist",
+                            "ioValue": 0
+                        },
+                        {
+                            "name": "yDist",
+                            "ioValue": 0
+                        },
+                        {
+                            "name": "zDist",
+                            "ioValue": 0
+                        }
+                    ]
+                },
+                {
+                    "atomType": "Translate",
+                    "name": "Translate",
+                    "x": 695,
+                    "y": 196,
+                    "uniqueID": 359786,
+                    "ioValues": [
+                        {
+                            "name": "xDist",
+                            "ioValue": 0
+                        },
+                        {
+                            "name": "yDist",
+                            "ioValue": 0
+                        },
+                        {
+                            "name": "zDist",
+                            "ioValue": 0
                         }
                     ]
                 },
@@ -569,32 +611,11 @@
                 },
                 {
                     "atomType": "Molecule",
-                    "name": "Short Nut Bolt Assembly",
-                    "x": 95,
-                    "y": 144,
+                    "name": "Short Nut Bolt Assembly For Sliders",
+                    "x": 91,
+                    "y": 150,
                     "uniqueID": 711005,
                     "ioValues": []
-                },
-                {
-                    "atomType": "Translate",
-                    "name": "Translate",
-                    "x": 322,
-                    "y": 158,
-                    "uniqueID": 947865,
-                    "ioValues": [
-                        {
-                            "name": "xDist",
-                            "ioValue": 0
-                        },
-                        {
-                            "name": "yDist",
-                            "ioValue": 0
-                        },
-                        {
-                            "name": "zDist",
-                            "ioValue": 0
-                        }
-                    ]
                 },
                 {
                     "atomType": "Translate",
