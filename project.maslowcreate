@@ -1638,8 +1638,8 @@
         {
             "atomType": "Molecule",
             "name": "Washer",
-            "x": 24,
-            "y": 152,
+            "x": 35,
+            "y": 155,
             "uniqueID": 992463,
             "ioValues": [],
             "topLevel": false,
@@ -1671,11 +1671,19 @@
                     ]
                 },
                 {
+                    "atomType": "Difference",
+                    "name": "Difference",
+                    "x": 396,
+                    "y": 100,
+                    "uniqueID": 207342,
+                    "ioValues": []
+                },
+                {
                     "atomType": "Extrude",
                     "name": "Extrude",
-                    "x": 284,
-                    "y": 69,
-                    "uniqueID": 938796,
+                    "x": 620,
+                    "y": 132,
+                    "uniqueID": 993358,
                     "ioValues": [
                         {
                             "name": "height",
@@ -1684,33 +1692,19 @@
                     ]
                 },
                 {
-                    "atomType": "Extrude",
-                    "name": "Extrude",
-                    "x": 370,
-                    "y": 149,
-                    "uniqueID": 993358,
-                    "ioValues": [
-                        {
-                            "name": "height",
-                            "ioValue": 30
-                        }
-                    ]
-                },
-                {
-                    "atomType": "Difference",
-                    "name": "Difference",
-                    "x": 398,
-                    "y": 220,
-                    "uniqueID": 207342,
-                    "ioValues": []
-                },
-                {
-                    "atomType": "Difference",
-                    "name": "Difference",
-                    "x": 626,
-                    "y": 92,
-                    "uniqueID": 703587,
-                    "ioValues": []
+                    "atomType": "Add BOM Tag",
+                    "name": "Add BOM Tag",
+                    "x": 900,
+                    "y": 138,
+                    "uniqueID": 945361,
+                    "ioValues": [],
+                    "BOMitem": {
+                        "BOMitemName": "Oversize M4 Washer",
+                        "numberNeeded": 1,
+                        "costUSD": 0.472,
+                        "source": "https://www.mcmaster.com/98035a102",
+                        "totalNeeded": 0
+                    }
                 },
                 {
                     "atomType": "Output",
@@ -1723,44 +1717,32 @@
             "allConnectors": [
                 {
                     "ap1Name": "geometry",
-                    "ap2Name": "geometry",
-                    "ap1ID": 190578,
-                    "ap2ID": 938796
-                },
-                {
-                    "ap1Name": "geometry",
                     "ap2Name": "geometry1",
                     "ap1ID": 190578,
                     "ap2ID": 207342
                 },
                 {
                     "ap1Name": "geometry",
-                    "ap2Name": "geometry",
+                    "ap2Name": "geometry2",
                     "ap1ID": 803729,
+                    "ap2ID": 207342
+                },
+                {
+                    "ap1Name": "geometry",
+                    "ap2Name": "geometry",
+                    "ap1ID": 207342,
                     "ap2ID": 993358
                 },
                 {
                     "ap1Name": "geometry",
-                    "ap2Name": "geometry2",
-                    "ap1ID": 803729,
-                    "ap2ID": 207342
-                },
-                {
-                    "ap1Name": "geometry",
-                    "ap2Name": "geometry1",
-                    "ap1ID": 938796,
-                    "ap2ID": 703587
-                },
-                {
-                    "ap1Name": "geometry",
-                    "ap2Name": "geometry2",
+                    "ap2Name": "geometry",
                     "ap1ID": 993358,
-                    "ap2ID": 703587
+                    "ap2ID": 945361
                 },
                 {
                     "ap1Name": "geometry",
                     "ap2Name": "number or geometry",
-                    "ap1ID": 703587
+                    "ap1ID": 945361
                 }
             ],
             "fileTypeVersion": 1
@@ -1847,10 +1829,31 @@
                 {
                     "atomType": "Molecule",
                     "name": "Washer",
-                    "x": 24,
-                    "y": 152,
+                    "x": 35,
+                    "y": 155,
                     "uniqueID": 992463,
                     "ioValues": []
+                },
+                {
+                    "atomType": "Rotate",
+                    "name": "Rotate",
+                    "x": 165,
+                    "y": 173,
+                    "uniqueID": 463679,
+                    "ioValues": [
+                        {
+                            "name": "x-axis degrees",
+                            "ioValue": 0
+                        },
+                        {
+                            "name": "y-axis degrees",
+                            "ioValue": 0
+                        },
+                        {
+                            "name": "z-axis degrees",
+                            "ioValue": 0
+                        }
+                    ]
                 },
                 {
                     "atomType": "Translate",
@@ -1884,27 +1887,6 @@
                 {
                     "atomType": "Translate",
                     "name": "Translate",
-                    "x": 239,
-                    "y": 144,
-                    "uniqueID": 126629,
-                    "ioValues": [
-                        {
-                            "name": "xDist",
-                            "ioValue": 0
-                        },
-                        {
-                            "name": "yDist",
-                            "ioValue": -10
-                        },
-                        {
-                            "name": "zDist",
-                            "ioValue": 0
-                        }
-                    ]
-                },
-                {
-                    "atomType": "Translate",
-                    "name": "Translate",
                     "x": 234,
                     "y": 216,
                     "uniqueID": 953244,
@@ -1924,10 +1906,31 @@
                     ]
                 },
                 {
+                    "atomType": "Translate",
+                    "name": "Translate",
+                    "x": 341,
+                    "y": 123,
+                    "uniqueID": 126629,
+                    "ioValues": [
+                        {
+                            "name": "xDist",
+                            "ioValue": 0
+                        },
+                        {
+                            "name": "yDist",
+                            "ioValue": -10
+                        },
+                        {
+                            "name": "zDist",
+                            "ioValue": 0
+                        }
+                    ]
+                },
+                {
                     "atomType": "Assembly",
                     "name": "Assembly",
-                    "x": 481,
-                    "y": 139,
+                    "x": 798,
+                    "y": 115,
                     "uniqueID": 413289,
                     "ioValues": [
                         {
@@ -1967,7 +1970,7 @@
                     "ap1Name": "Geometry",
                     "ap2Name": "geometry",
                     "ap1ID": 992463,
-                    "ap2ID": 126629
+                    "ap2ID": 463679
                 },
                 {
                     "ap1Name": "geometry",
@@ -1983,14 +1986,14 @@
                 },
                 {
                     "ap1Name": "geometry",
-                    "ap2Name": "3D shape 198412",
-                    "ap1ID": 126629,
+                    "ap2Name": "3D shape 671895",
+                    "ap1ID": 953244,
                     "ap2ID": 413289
                 },
                 {
                     "ap1Name": "geometry",
-                    "ap2Name": "3D shape 671895",
-                    "ap1ID": 953244,
+                    "ap2Name": "3D shape 198412",
+                    "ap1ID": 126629,
                     "ap2ID": 413289
                 },
                 {
