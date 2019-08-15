@@ -668,8 +668,8 @@
         {
             "atomType": "Molecule",
             "name": "Long Bolt Nut Spacer Assembly for Ball Nut",
-            "x": 47,
-            "y": 214,
+            "x": 44,
+            "y": 225,
             "uniqueID": 817870,
             "ioValues": [],
             "topLevel": false,
@@ -872,8 +872,8 @@
         {
             "atomType": "Molecule",
             "name": "Short Bolt Nut Assembly for Ball Nut",
-            "x": 48,
-            "y": 283,
+            "x": 38,
+            "y": 276,
             "uniqueID": 936369,
             "ioValues": [],
             "topLevel": false,
@@ -962,8 +962,8 @@
                 {
                     "atomType": "Assembly",
                     "name": "Assembly",
-                    "x": 673,
-                    "y": 116,
+                    "x": 567,
+                    "y": 130,
                     "uniqueID": 740096,
                     "ioValues": [
                         {
@@ -976,6 +976,82 @@
                         },
                         {
                             "name": "3D shape 190358",
+                            "ioValue": 10
+                        }
+                    ]
+                },
+                {
+                    "atomType": "Translate",
+                    "name": "Translate",
+                    "x": 707,
+                    "y": 175,
+                    "uniqueID": 592634,
+                    "ioValues": [
+                        {
+                            "name": "xDist",
+                            "ioValue": 0
+                        },
+                        {
+                            "name": "yDist",
+                            "ioValue": 0
+                        },
+                        {
+                            "name": "zDist",
+                            "ioValue": 0
+                        }
+                    ]
+                },
+                {
+                    "atomType": "Translate",
+                    "name": "Translate",
+                    "x": 685,
+                    "y": 252,
+                    "uniqueID": 257268,
+                    "ioValues": [
+                        {
+                            "name": "xDist",
+                            "ioValue": 0
+                        },
+                        {
+                            "name": "yDist",
+                            "ioValue": 0
+                        },
+                        {
+                            "name": "zDist",
+                            "ioValue": 0
+                        }
+                    ]
+                },
+                {
+                    "atomType": "Translate",
+                    "name": "Translate",
+                    "x": 750,
+                    "y": 83,
+                    "uniqueID": 262580,
+                    "ioValues": [
+                        {
+                            "name": "xDist",
+                            "ioValue": 0
+                        },
+                        {
+                            "name": "yDist",
+                            "ioValue": 0
+                        },
+                        {
+                            "name": "zDist",
+                            "ioValue": 0
+                        }
+                    ]
+                },
+                {
+                    "atomType": "Assembly",
+                    "name": "Assembly",
+                    "x": 984,
+                    "y": 188,
+                    "uniqueID": 111087,
+                    "ioValues": [
+                        {
+                            "name": "3D shape 635579",
                             "ioValue": 10
                         }
                     ]
@@ -1018,6 +1094,29 @@
                     "ap2Name": "3D shape 551002",
                     "ap1ID": 238601,
                     "ap2ID": 740096
+                },
+                {
+                    "ap1Name": "geometry",
+                    "ap2Name": "number or geometry",
+                    "ap1ID": 740096
+                },
+                {
+                    "ap1Name": "geometry",
+                    "ap2Name": "geometry",
+                    "ap1ID": 740096,
+                    "ap2ID": 262580
+                },
+                {
+                    "ap1Name": "geometry",
+                    "ap2Name": "geometry",
+                    "ap1ID": 740096,
+                    "ap2ID": 592634
+                },
+                {
+                    "ap1Name": "geometry",
+                    "ap2Name": "geometry",
+                    "ap1ID": 740096,
+                    "ap2ID": 257268
                 }
             ],
             "fileTypeVersion": 1
@@ -1050,16 +1149,16 @@
                 {
                     "atomType": "Molecule",
                     "name": "Long Bolt Nut Spacer Assembly for Ball Nut",
-                    "x": 47,
-                    "y": 214,
+                    "x": 44,
+                    "y": 225,
                     "uniqueID": 817870,
                     "ioValues": []
                 },
                 {
                     "atomType": "Molecule",
                     "name": "Short Bolt Nut Assembly for Ball Nut",
-                    "x": 48,
-                    "y": 283,
+                    "x": 38,
+                    "y": 276,
                     "uniqueID": 936369,
                     "ioValues": []
                 },
@@ -1150,7 +1249,7 @@
                 {
                     "atomType": "Translate",
                     "name": "Translate",
-                    "x": 715,
+                    "x": 721,
                     "y": 223,
                     "uniqueID": 285916,
                     "ioValues": [
