@@ -1473,13 +1473,69 @@
         },
         {
             "atomType": "Molecule",
+            "name": "Molecule",
+            "x": 111,
+            "y": 108,
+            "uniqueID": 612894,
+            "ioValues": [],
+            "topLevel": false,
+            "allAtoms": [
+                {
+                    "atomType": "Output",
+                    "name": "Output",
+                    "x": 1316,
+                    "y": 164,
+                    "ioValues": []
+                }
+            ],
+            "allConnectors": [],
+            "fileTypeVersion": 1
+        },
+        {
+            "atomType": "Molecule",
+            "name": "Molecule",
+            "x": 105,
+            "y": 174,
+            "uniqueID": 992463,
+            "ioValues": [],
+            "topLevel": false,
+            "allAtoms": [
+                {
+                    "atomType": "Output",
+                    "name": "Output",
+                    "x": 1316,
+                    "y": 164,
+                    "ioValues": []
+                }
+            ],
+            "allConnectors": [],
+            "fileTypeVersion": 1
+        },
+        {
+            "atomType": "Molecule",
             "name": "Latch",
-            "x": 49,
-            "y": 219,
+            "x": 45,
+            "y": 221,
             "uniqueID": 800391,
             "ioValues": [],
             "topLevel": false,
             "allAtoms": [
+                {
+                    "atomType": "Molecule",
+                    "name": "Molecule",
+                    "x": 111,
+                    "y": 108,
+                    "uniqueID": 612894,
+                    "ioValues": []
+                },
+                {
+                    "atomType": "Molecule",
+                    "name": "Molecule",
+                    "x": 105,
+                    "y": 174,
+                    "uniqueID": 992463,
+                    "ioValues": []
+                },
                 {
                     "atomType": "Output",
                     "name": "Output",
@@ -1943,8 +1999,8 @@
         {
             "atomType": "Molecule",
             "name": "Plates",
-            "x": 216,
-            "y": 52,
+            "x": 215,
+            "y": 49,
             "uniqueID": 517888,
             "ioValues": [
                 {
@@ -1978,8 +2034,8 @@
                 {
                     "atomType": "Molecule",
                     "name": "Latch",
-                    "x": 49,
-                    "y": 219,
+                    "x": 45,
+                    "y": 221,
                     "uniqueID": 800391,
                     "ioValues": []
                 },
@@ -4903,8 +4959,8 @@
                 {
                     "atomType": "Molecule",
                     "name": "Plates",
-                    "x": 216,
-                    "y": 52,
+                    "x": 215,
+                    "y": 49,
                     "uniqueID": 517888,
                     "ioValues": [
                         {
