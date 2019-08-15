@@ -668,8 +668,8 @@
         {
             "atomType": "Molecule",
             "name": "Long Bolt Nut Spacer Assembly for Ball Nut",
-            "x": 44,
-            "y": 225,
+            "x": 54,
+            "y": 215,
             "uniqueID": 817870,
             "ioValues": [],
             "topLevel": false,
@@ -1154,8 +1154,8 @@
         {
             "atomType": "Molecule",
             "name": "Spacers and Bolts",
-            "x": 45,
-            "y": 120,
+            "x": 50,
+            "y": 124,
             "uniqueID": 387913,
             "ioValues": [],
             "topLevel": false,
@@ -1179,8 +1179,8 @@
                 {
                     "atomType": "Molecule",
                     "name": "Long Bolt Nut Spacer Assembly for Ball Nut",
-                    "x": 44,
-                    "y": 225,
+                    "x": 54,
+                    "y": 215,
                     "uniqueID": 817870,
                     "ioValues": []
                 },
@@ -1258,6 +1258,27 @@
                 {
                     "atomType": "Translate",
                     "name": "Translate",
+                    "x": 649,
+                    "y": 203,
+                    "uniqueID": 285916,
+                    "ioValues": [
+                        {
+                            "name": "xDist",
+                            "ioValue": 0
+                        },
+                        {
+                            "name": "yDist",
+                            "ioValue": 90
+                        },
+                        {
+                            "name": "zDist",
+                            "ioValue": 0
+                        }
+                    ]
+                },
+                {
+                    "atomType": "Translate",
+                    "name": "Translate",
                     "x": 680,
                     "y": 79,
                     "uniqueID": 525045,
@@ -1269,27 +1290,6 @@
                         {
                             "name": "yDist",
                             "ioValue": 0
-                        },
-                        {
-                            "name": "zDist",
-                            "ioValue": 0
-                        }
-                    ]
-                },
-                {
-                    "atomType": "Translate",
-                    "name": "Translate",
-                    "x": 723,
-                    "y": 228,
-                    "uniqueID": 285916,
-                    "ioValues": [
-                        {
-                            "name": "xDist",
-                            "ioValue": 0
-                        },
-                        {
-                            "name": "yDist",
-                            "ioValue": 90
                         },
                         {
                             "name": "zDist",
@@ -1441,14 +1441,14 @@
                 },
                 {
                     "ap1Name": "geometry",
-                    "ap2Name": "3D shape 951088",
-                    "ap1ID": 525045,
+                    "ap2Name": "3D shape 915247",
+                    "ap1ID": 285916,
                     "ap2ID": 754621
                 },
                 {
                     "ap1Name": "geometry",
-                    "ap2Name": "3D shape 915247",
-                    "ap1ID": 285916,
+                    "ap2Name": "3D shape 951088",
+                    "ap1ID": 525045,
                     "ap2ID": 754621
                 },
                 {
@@ -1970,8 +1970,8 @@
                 {
                     "atomType": "Molecule",
                     "name": "Spacers and Bolts",
-                    "x": 45,
-                    "y": 120,
+                    "x": 50,
+                    "y": 124,
                     "uniqueID": 387913,
                     "ioValues": []
                 },
