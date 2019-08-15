@@ -386,8 +386,8 @@
         {
             "atomType": "Molecule",
             "name": "Short Nut Bolt Assembly",
-            "x": 116,
-            "y": 175,
+            "x": 95,
+            "y": 144,
             "uniqueID": 711005,
             "ioValues": [],
             "topLevel": false,
@@ -422,8 +422,8 @@
                 {
                     "atomType": "Translate",
                     "name": "Translate",
-                    "x": 283,
-                    "y": 106,
+                    "x": 276,
+                    "y": 107,
                     "uniqueID": 661777,
                     "ioValues": [
                         {
@@ -464,8 +464,8 @@
                 {
                     "atomType": "Translate",
                     "name": "Translate",
-                    "x": 486,
-                    "y": 147,
+                    "x": 518,
+                    "y": 197,
                     "uniqueID": 804312,
                     "ioValues": [
                         {
@@ -478,7 +478,28 @@
                         },
                         {
                             "name": "zDist",
-                            "ioValue": 0
+                            "ioValue": -10
+                        }
+                    ]
+                },
+                {
+                    "atomType": "Assembly",
+                    "name": "Assembly",
+                    "x": 677,
+                    "y": 124,
+                    "uniqueID": 890626,
+                    "ioValues": [
+                        {
+                            "name": "3D shape 844006",
+                            "ioValue": 10
+                        },
+                        {
+                            "name": "3D shape 636743",
+                            "ioValue": 10
+                        },
+                        {
+                            "name": "3D shape 334352",
+                            "ioValue": 10
                         }
                     ]
                 },
@@ -505,9 +526,26 @@
                 },
                 {
                     "ap1Name": "geometry",
+                    "ap2Name": "3D shape 636743",
+                    "ap1ID": 661777,
+                    "ap2ID": 890626
+                },
+                {
+                    "ap1Name": "geometry",
                     "ap2Name": "geometry",
                     "ap1ID": 369103,
                     "ap2ID": 804312
+                },
+                {
+                    "ap1Name": "geometry",
+                    "ap2Name": "3D shape 844006",
+                    "ap1ID": 804312,
+                    "ap2ID": 890626
+                },
+                {
+                    "ap1Name": "geometry",
+                    "ap2Name": "number or geometry",
+                    "ap1ID": 890626
                 }
             ],
             "fileTypeVersion": 1
@@ -532,10 +570,31 @@
                 {
                     "atomType": "Molecule",
                     "name": "Short Nut Bolt Assembly",
-                    "x": 116,
-                    "y": 175,
+                    "x": 95,
+                    "y": 144,
                     "uniqueID": 711005,
                     "ioValues": []
+                },
+                {
+                    "atomType": "Translate",
+                    "name": "Translate",
+                    "x": 322,
+                    "y": 158,
+                    "uniqueID": 947865,
+                    "ioValues": [
+                        {
+                            "name": "xDist",
+                            "ioValue": 0
+                        },
+                        {
+                            "name": "yDist",
+                            "ioValue": 0
+                        },
+                        {
+                            "name": "zDist",
+                            "ioValue": 0
+                        }
+                    ]
                 },
                 {
                     "atomType": "Translate",
