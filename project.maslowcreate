@@ -2632,11 +2632,11 @@
                         },
                         {
                             "name": "yDist",
-                            "ioValue": 0
+                            "ioValue": -25
                         },
                         {
                             "name": "zDist",
-                            "ioValue": 0
+                            "ioValue": 3
                         }
                     ]
                 },
@@ -2666,6 +2666,10 @@
                         },
                         {
                             "name": "3D shape 422360",
+                            "ioValue": 10
+                        },
+                        {
+                            "name": "3D shape 685041",
                             "ioValue": 10
                         }
                     ]
@@ -2728,6 +2732,12 @@
                     "ap2Name": "geometry",
                     "ap1ID": 247055,
                     "ap2ID": 972339
+                },
+                {
+                    "ap1Name": "geometry",
+                    "ap2Name": "3D shape 422360",
+                    "ap1ID": 897079,
+                    "ap2ID": 373235
                 },
                 {
                     "ap1Name": "geometry",
@@ -2817,12 +2827,12 @@
                     "atomType": "Translate",
                     "name": "Translate",
                     "x": 410,
-                    "y": 207,
+                    "y": 208,
                     "uniqueID": 213669,
                     "ioValues": [
                         {
                             "name": "xDist",
-                            "ioValue": 50
+                            "ioValue": 70
                         },
                         {
                             "name": "yDist",
@@ -2858,8 +2868,8 @@
                 {
                     "atomType": "Assembly",
                     "name": "Assembly",
-                    "x": 775,
-                    "y": 176,
+                    "x": 739,
+                    "y": 155,
                     "uniqueID": 423382,
                     "ioValues": [
                         {
