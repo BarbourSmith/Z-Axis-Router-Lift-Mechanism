@@ -2557,15 +2557,15 @@
                         },
                         {
                             "name": "z-axis degrees",
-                            "ioValue": 60
+                            "ioValue": -70
                         }
                     ]
                 },
                 {
                     "atomType": "Translate",
                     "name": "Translate",
-                    "x": 493,
-                    "y": 252,
+                    "x": 490,
+                    "y": 250,
                     "uniqueID": 213669,
                     "ioValues": [
                         {
@@ -2606,8 +2606,8 @@
                 {
                     "atomType": "Assembly",
                     "name": "Assembly",
-                    "x": 762,
-                    "y": 176,
+                    "x": 773,
+                    "y": 180,
                     "uniqueID": 423382,
                     "ioValues": [
                         {
