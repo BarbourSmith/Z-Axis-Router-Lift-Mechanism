@@ -2113,11 +2113,11 @@
                     "ioValues": [
                         {
                             "name": "x length",
-                            "ioValue": 4
+                            "ioValue": 9
                         },
                         {
                             "name": "y length",
-                            "ioValue": 8
+                            "ioValue": 5
                         }
                     ]
                 },
@@ -2163,17 +2163,17 @@
                 {
                     "atomType": "Translate",
                     "name": "Translate",
-                    "x": 294,
-                    "y": 254,
+                    "x": 298,
+                    "y": 259,
                     "uniqueID": 703123,
                     "ioValues": [
                         {
                             "name": "xDist",
-                            "ioValue": 0
+                            "ioValue": -7
                         },
                         {
                             "name": "yDist",
-                            "ioValue": -6
+                            "ioValue": 0
                         },
                         {
                             "name": "zDist",
@@ -2205,8 +2205,8 @@
                 {
                     "atomType": "Assembly",
                     "name": "Assembly",
-                    "x": 510,
-                    "y": 152,
+                    "x": 509,
+                    "y": 158,
                     "uniqueID": 539900,
                     "ioValues": [
                         {
