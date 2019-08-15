@@ -1889,8 +1889,8 @@
                 {
                     "atomType": "Translate",
                     "name": "Translate",
-                    "x": 233,
-                    "y": 57,
+                    "x": 237,
+                    "y": 69,
                     "uniqueID": 637153,
                     "ioValues": [
                         {
@@ -1899,7 +1899,7 @@
                         },
                         {
                             "name": "yDist",
-                            "ioValue": 0
+                            "ioValue": 10
                         },
                         {
                             "name": "zDist",
@@ -1918,8 +1918,8 @@
                 {
                     "atomType": "Translate",
                     "name": "Translate",
-                    "x": 235,
-                    "y": 137,
+                    "x": 239,
+                    "y": 144,
                     "uniqueID": 126629,
                     "ioValues": [
                         {
@@ -1928,7 +1928,7 @@
                         },
                         {
                             "name": "yDist",
-                            "ioValue": 0
+                            "ioValue": -10
                         },
                         {
                             "name": "zDist",
@@ -1939,8 +1939,8 @@
                 {
                     "atomType": "Translate",
                     "name": "Translate",
-                    "x": 237,
-                    "y": 222,
+                    "x": 234,
+                    "y": 216,
                     "uniqueID": 953244,
                     "ioValues": [
                         {
@@ -1949,7 +1949,7 @@
                         },
                         {
                             "name": "yDist",
-                            "ioValue": -10
+                            "ioValue": -20
                         },
                         {
                             "name": "zDist",
