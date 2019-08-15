@@ -3,8 +3,8 @@
         {
             "atomType": "Molecule",
             "name": "Bolt",
-            "x": 52,
-            "y": 56,
+            "x": 81,
+            "y": 58,
             "uniqueID": 982563,
             "ioValues": [],
             "topLevel": false,
@@ -135,12 +135,21 @@
         {
             "atomType": "Molecule",
             "name": "Nut",
-            "x": 55,
-            "y": 234,
+            "x": 65,
+            "y": 246,
             "uniqueID": 324232,
             "ioValues": [],
             "topLevel": false,
             "allAtoms": [
+                {
+                    "atomType": "GitHubMolecule",
+                    "name": "M4 Locknut",
+                    "x": 109,
+                    "y": 160,
+                    "uniqueID": 992832,
+                    "projectID": "201057537",
+                    "ioValues": []
+                },
                 {
                     "atomType": "Output",
                     "name": "Output",
@@ -149,14 +158,20 @@
                     "ioValues": []
                 }
             ],
-            "allConnectors": [],
+            "allConnectors": [
+                {
+                    "ap1Name": "Geometry",
+                    "ap2Name": "number or geometry",
+                    "ap1ID": 992832
+                }
+            ],
             "fileTypeVersion": 1
         },
         {
             "atomType": "Molecule",
             "name": "Bolt Nut Spacer Assembly",
-            "x": 97,
-            "y": 71,
+            "x": 100,
+            "y": 66,
             "uniqueID": 601479,
             "ioValues": [],
             "topLevel": false,
@@ -164,8 +179,8 @@
                 {
                     "atomType": "Molecule",
                     "name": "Bolt",
-                    "x": 52,
-                    "y": 56,
+                    "x": 81,
+                    "y": 58,
                     "uniqueID": 982563,
                     "ioValues": []
                 },
@@ -180,16 +195,58 @@
                 {
                     "atomType": "Molecule",
                     "name": "Nut",
-                    "x": 55,
-                    "y": 234,
+                    "x": 65,
+                    "y": 246,
                     "uniqueID": 324232,
                     "ioValues": []
                 },
                 {
+                    "atomType": "Translate",
+                    "name": "Translate",
+                    "x": 214,
+                    "y": 233,
+                    "uniqueID": 552033,
+                    "ioValues": [
+                        {
+                            "name": "xDist",
+                            "ioValue": 0
+                        },
+                        {
+                            "name": "yDist",
+                            "ioValue": 0
+                        },
+                        {
+                            "name": "zDist",
+                            "ioValue": 40
+                        }
+                    ]
+                },
+                {
+                    "atomType": "Translate",
+                    "name": "Translate",
+                    "x": 377,
+                    "y": 169,
+                    "uniqueID": 600947,
+                    "ioValues": [
+                        {
+                            "name": "xDist",
+                            "ioValue": 0
+                        },
+                        {
+                            "name": "yDist",
+                            "ioValue": 0
+                        },
+                        {
+                            "name": "zDist",
+                            "ioValue": 0
+                        }
+                    ]
+                },
+                {
                     "atomType": "Assembly",
                     "name": "Assembly",
-                    "x": 394,
-                    "y": 134,
+                    "x": 424,
+                    "y": 90,
                     "uniqueID": 901767,
                     "ioValues": [
                         {
@@ -218,6 +275,12 @@
                     "ap2ID": 901767
                 },
                 {
+                    "ap1Name": "Geometry",
+                    "ap2Name": "geometry",
+                    "ap1ID": 324232,
+                    "ap2ID": 552033
+                },
+                {
                     "ap1Name": "geometry",
                     "ap2Name": "number or geometry",
                     "ap1ID": 901767
@@ -228,8 +291,8 @@
         {
             "atomType": "Molecule",
             "name": "Spacers and Bolts",
-            "x": 63,
-            "y": 212,
+            "x": 65,
+            "y": 214,
             "uniqueID": 387913,
             "ioValues": [],
             "topLevel": false,
@@ -237,8 +300,8 @@
                 {
                     "atomType": "Molecule",
                     "name": "Bolt Nut Spacer Assembly",
-                    "x": 97,
-                    "y": 71,
+                    "x": 100,
+                    "y": 66,
                     "uniqueID": 601479,
                     "ioValues": []
                 },
@@ -725,8 +788,8 @@
         {
             "atomType": "Molecule",
             "name": "Plates",
-            "x": 235,
-            "y": 44,
+            "x": 234,
+            "y": 41,
             "uniqueID": 517888,
             "ioValues": [
                 {
@@ -760,8 +823,8 @@
                 {
                     "atomType": "Molecule",
                     "name": "Spacers and Bolts",
-                    "x": 63,
-                    "y": 212,
+                    "x": 65,
+                    "y": 214,
                     "uniqueID": 387913,
                     "ioValues": []
                 },
@@ -3675,8 +3738,8 @@
                 {
                     "atomType": "Molecule",
                     "name": "Plates",
-                    "x": 235,
-                    "y": 44,
+                    "x": 234,
+                    "y": 41,
                     "uniqueID": 517888,
                     "ioValues": [
                         {
