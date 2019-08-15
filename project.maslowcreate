@@ -212,8 +212,8 @@
         {
             "atomType": "Molecule",
             "name": "Long Bolt Nut Spacer Assembly For Sliders",
-            "x": 102,
-            "y": 64,
+            "x": 100,
+            "y": 68,
             "uniqueID": 601479,
             "ioValues": [],
             "topLevel": false,
@@ -686,8 +686,8 @@
                 {
                     "atomType": "Molecule",
                     "name": "Long Bolt Nut Spacer Assembly For Sliders",
-                    "x": 102,
-                    "y": 64,
+                    "x": 100,
+                    "y": 68,
                     "uniqueID": 601479,
                     "ioValues": []
                 },
@@ -1413,7 +1413,7 @@
         {
             "atomType": "Molecule",
             "name": "Plates",
-            "x": 222,
+            "x": 221,
             "y": 28,
             "uniqueID": 517888,
             "ioValues": [
@@ -2231,8 +2231,8 @@
         {
             "atomType": "Molecule",
             "name": "Slides",
-            "x": 125,
-            "y": 244,
+            "x": 122,
+            "y": 239,
             "uniqueID": 424897,
             "ioValues": [],
             "topLevel": false,
@@ -2292,8 +2292,8 @@
                 {
                     "atomType": "Extrude",
                     "name": "Extrude",
-                    "x": 305,
-                    "y": 35,
+                    "x": 300,
+                    "y": 39,
                     "uniqueID": 423308,
                     "ioValues": [
                         {
@@ -2305,8 +2305,8 @@
                 {
                     "atomType": "Extrude",
                     "name": "Extrude",
-                    "x": 403,
-                    "y": 82,
+                    "x": 401,
+                    "y": 83,
                     "uniqueID": 223682,
                     "ioValues": [
                         {
@@ -2636,8 +2636,8 @@
                 {
                     "atomType": "Molecule",
                     "name": "Slides",
-                    "x": 125,
-                    "y": 244,
+                    "x": 122,
+                    "y": 239,
                     "uniqueID": 424897,
                     "ioValues": []
                 },
@@ -4373,7 +4373,7 @@
                 {
                     "atomType": "Molecule",
                     "name": "Plates",
-                    "x": 222,
+                    "x": 221,
                     "y": 28,
                     "uniqueID": 517888,
                     "ioValues": [
