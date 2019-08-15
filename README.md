@@ -76,7 +76,7 @@ undefined
 ## Long Bolt Nut Spacer Assembly for Ball Nut
 
 
-## Molecule
+## Short Bolt Nut Assembly for Ball Nut
 
 
 ## Latch
