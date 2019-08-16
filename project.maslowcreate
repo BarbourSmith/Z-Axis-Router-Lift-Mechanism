@@ -2888,8 +2888,8 @@
                 {
                     "atomType": "Assembly",
                     "name": "Assembly",
-                    "x": 740,
-                    "y": 170,
+                    "x": 746,
+                    "y": 174,
                     "uniqueID": 423382,
                     "ioValues": [
                         {
@@ -5870,7 +5870,7 @@
                             "ioValue": 10
                         },
                         {
-                            "name": "3D shape 740895",
+                            "name": "3D shape 408580",
                             "ioValue": 10
                         }
                     ]
