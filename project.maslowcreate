@@ -310,8 +310,8 @@
         {
             "atomType": "Molecule",
             "name": "Short Nut Bolt Assembly For Sliders",
-            "x": 46,
-            "y": 138,
+            "x": 41,
+            "y": 135,
             "uniqueID": 711005,
             "ioValues": [],
             "topLevel": false,
@@ -1083,8 +1083,8 @@
         {
             "atomType": "Molecule",
             "name": "Spacers and Bolts",
-            "x": 46,
-            "y": 124,
+            "x": 42,
+            "y": 125,
             "uniqueID": 387913,
             "ioValues": [],
             "topLevel": false,
@@ -1100,8 +1100,8 @@
                 {
                     "atomType": "Molecule",
                     "name": "Short Nut Bolt Assembly For Sliders",
-                    "x": 46,
-                    "y": 138,
+                    "x": 41,
+                    "y": 135,
                     "uniqueID": 711005,
                     "ioValues": []
                 },
@@ -1932,7 +1932,7 @@
             "ioValues": [
                 {
                     "name": "Router Diameter",
-                    "ioValue": 89
+                    "ioValue": 89.2
                 }
             ],
             "topLevel": false,
@@ -1954,7 +1954,7 @@
                     "ioValues": [
                         {
                             "name": "diameter",
-                            "ioValue": 89
+                            "ioValue": 89.2
                         }
                     ]
                 },
@@ -1984,7 +1984,7 @@
                     "ioValues": [
                         {
                             "name": "x",
-                            "ioValue": 89
+                            "ioValue": 89.2
                         },
                         {
                             "name": "y",
@@ -2152,7 +2152,7 @@
                     "ioValues": [
                         {
                             "name": "diameter",
-                            "ioValue": 129
+                            "ioValue": 129.2
                         }
                     ]
                 },
@@ -2696,8 +2696,8 @@
         {
             "atomType": "Molecule",
             "name": "Plates",
-            "x": 218,
-            "y": 51,
+            "x": 212,
+            "y": 48,
             "uniqueID": 517888,
             "ioValues": [
                 {
@@ -2710,21 +2710,21 @@
                 {
                     "atomType": "Constant",
                     "name": "Router Diamter",
-                    "x": 44,
-                    "y": 51,
+                    "x": 42,
+                    "y": 56,
                     "uniqueID": 964767,
                     "ioValues": [
                         {
                             "name": "number",
-                            "ioValue": 89
+                            "ioValue": 89.2
                         }
                     ]
                 },
                 {
                     "atomType": "Molecule",
                     "name": "Spacers and Bolts",
-                    "x": 46,
-                    "y": 124,
+                    "x": 42,
+                    "y": 125,
                     "uniqueID": 387913,
                     "ioValues": []
                 },
@@ -2745,7 +2745,7 @@
                     "ioValues": [
                         {
                             "name": "Router Diameter",
-                            "ioValue": 89
+                            "ioValue": 89.2
                         }
                     ]
                 },
@@ -3521,8 +3521,8 @@
         {
             "atomType": "Molecule",
             "name": "Post",
-            "x": 108,
-            "y": 110,
+            "x": 96,
+            "y": 114,
             "uniqueID": 817028,
             "ioValues": [],
             "topLevel": false,
@@ -3873,7 +3873,7 @@
             "atomType": "Molecule",
             "name": "Slides",
             "x": 104,
-            "y": 276,
+            "y": 271,
             "uniqueID": 424897,
             "ioValues": [],
             "topLevel": false,
@@ -3894,8 +3894,8 @@
                 {
                     "atomType": "Circle",
                     "name": "Circle",
-                    "x": 149,
-                    "y": 82,
+                    "x": 151,
+                    "y": 81,
                     "uniqueID": 912595,
                     "ioValues": [
                         {
@@ -3907,13 +3907,13 @@
                 {
                     "atomType": "Circle",
                     "name": "Circle",
-                    "x": 160,
-                    "y": 150,
+                    "x": 163,
+                    "y": 155,
                     "uniqueID": 382542,
                     "ioValues": [
                         {
                             "name": "diameter",
-                            "ioValue": 20
+                            "ioValue": 20.5
                         }
                     ]
                 },
@@ -3959,8 +3959,8 @@
                 {
                     "atomType": "Translate",
                     "name": "Translate",
-                    "x": 370,
-                    "y": 189,
+                    "x": 371,
+                    "y": 188,
                     "uniqueID": 984314,
                     "ioValues": [
                         {
@@ -4044,8 +4044,8 @@
                 {
                     "atomType": "Assembly",
                     "name": "Assembly",
-                    "x": 823,
-                    "y": 97,
+                    "x": 826,
+                    "y": 90,
                     "uniqueID": 193422,
                     "ioValues": [
                         {
@@ -4099,8 +4099,8 @@
                 {
                     "atomType": "Extrude",
                     "name": "Extrude",
-                    "x": 966,
-                    "y": 124,
+                    "x": 964,
+                    "y": 131,
                     "uniqueID": 768664,
                     "ioValues": [
                         {
@@ -4112,8 +4112,8 @@
                 {
                     "atomType": "Difference",
                     "name": "Difference",
-                    "x": 1051,
-                    "y": 49,
+                    "x": 1050,
+                    "y": 50,
                     "uniqueID": 858181,
                     "ioValues": []
                 },
@@ -4255,7 +4255,7 @@
             "atomType": "Molecule",
             "name": "Risers",
             "x": 213,
-            "y": 103,
+            "y": 110,
             "uniqueID": 826098,
             "ioValues": [],
             "topLevel": false,
@@ -4271,8 +4271,8 @@
                 {
                     "atomType": "Molecule",
                     "name": "Post",
-                    "x": 108,
-                    "y": 110,
+                    "x": 96,
+                    "y": 114,
                     "uniqueID": 817028,
                     "ioValues": []
                 },
@@ -4288,7 +4288,7 @@
                     "atomType": "Molecule",
                     "name": "Slides",
                     "x": 104,
-                    "y": 276,
+                    "y": 271,
                     "uniqueID": 424897,
                     "ioValues": []
                 },
@@ -6094,8 +6094,8 @@
                 {
                     "atomType": "Molecule",
                     "name": "Plates",
-                    "x": 218,
-                    "y": 51,
+                    "x": 212,
+                    "y": 48,
                     "uniqueID": 517888,
                     "ioValues": [
                         {
@@ -6108,7 +6108,7 @@
                     "atomType": "Molecule",
                     "name": "Risers",
                     "x": 213,
-                    "y": 103,
+                    "y": 110,
                     "uniqueID": 826098,
                     "ioValues": []
                 },
@@ -6136,8 +6136,8 @@
                 {
                     "atomType": "Assembly",
                     "name": "Assembly",
-                    "x": 536,
-                    "y": 127,
+                    "x": 534,
+                    "y": 129,
                     "uniqueID": 851874,
                     "ioValues": [
                         {
