@@ -3997,12 +3997,42 @@
         {
             "atomType": "Molecule",
             "name": "Slide Hardware",
-            "x": 113,
-            "y": 253,
+            "x": 108,
+            "y": 254,
             "uniqueID": 652158,
             "ioValues": [],
             "topLevel": false,
             "allAtoms": [
+                {
+                    "atomType": "GitHubMolecule",
+                    "name": "M4x20 Bolt",
+                    "x": 64,
+                    "y": 47,
+                    "uniqueID": 719741,
+                    "projectID": "198850770",
+                    "ioValues": []
+                },
+                {
+                    "atomType": "Rotate",
+                    "name": "Rotate",
+                    "x": 263,
+                    "y": 44,
+                    "uniqueID": 330911,
+                    "ioValues": [
+                        {
+                            "name": "x-axis degrees",
+                            "ioValue": 0
+                        },
+                        {
+                            "name": "y-axis degrees",
+                            "ioValue": 180
+                        },
+                        {
+                            "name": "z-axis degrees",
+                            "ioValue": 0
+                        }
+                    ]
+                },
                 {
                     "atomType": "Output",
                     "name": "Output",
@@ -4011,7 +4041,14 @@
                     "ioValues": []
                 }
             ],
-            "allConnectors": [],
+            "allConnectors": [
+                {
+                    "ap1Name": "Geometry",
+                    "ap2Name": "geometry",
+                    "ap1ID": 719741,
+                    "ap2ID": 330911
+                }
+            ],
             "fileTypeVersion": 1
         },
         {
@@ -4050,8 +4087,8 @@
                 {
                     "atomType": "Molecule",
                     "name": "Slide Hardware",
-                    "x": 113,
-                    "y": 253,
+                    "x": 108,
+                    "y": 254,
                     "uniqueID": 652158,
                     "ioValues": []
                 },
