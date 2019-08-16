@@ -3231,8 +3231,8 @@
                 {
                     "atomType": "GitHubMolecule",
                     "name": "M4x20 Bolt",
-                    "x": 64,
-                    "y": 47,
+                    "x": 63,
+                    "y": 50,
                     "uniqueID": 719741,
                     "projectID": "198850770",
                     "ioValues": []
@@ -3241,9 +3241,27 @@
                     "atomType": "GitHubMolecule",
                     "name": "M4 Locknut",
                     "x": 68,
-                    "y": 99,
+                    "y": 113,
                     "uniqueID": 524411,
                     "projectID": "201057537",
+                    "ioValues": []
+                },
+                {
+                    "atomType": "GitHubMolecule",
+                    "name": "M4 55mm Bolt",
+                    "x": 73,
+                    "y": 188,
+                    "uniqueID": 825565,
+                    "projectID": "202528433",
+                    "ioValues": []
+                },
+                {
+                    "atomType": "GitHubMolecule",
+                    "name": "M4 20mm Spacer",
+                    "x": 69,
+                    "y": 245,
+                    "uniqueID": 918729,
+                    "projectID": "202529921",
                     "ioValues": []
                 },
                 {
@@ -3270,8 +3288,8 @@
                 {
                     "atomType": "Rotate",
                     "name": "Rotate",
-                    "x": 269,
-                    "y": 90,
+                    "x": 258,
+                    "y": 109,
                     "uniqueID": 781661,
                     "ioValues": [
                         {
@@ -3313,7 +3331,7 @@
                 {
                     "atomType": "Translate",
                     "name": "Translate",
-                    "x": 637,
+                    "x": 638,
                     "y": 71,
                     "uniqueID": 618827,
                     "ioValues": [
