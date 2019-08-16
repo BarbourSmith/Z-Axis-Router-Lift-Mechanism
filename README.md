@@ -142,12 +142,6 @@ undefined
 undefined
 
 
-## Slides
-
-
-undefined
-
-
 ## Slide Hardware
 
 
@@ -158,6 +152,12 @@ undefined
 
 
 ## M4 Locknut
+
+
+undefined
+
+
+## Slides
 
 
 undefined
