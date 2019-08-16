@@ -5741,6 +5741,28 @@
                     ]
                 },
                 {
+                    "atomType": "Assembly",
+                    "name": "Assembly",
+                    "x": 539,
+                    "y": 45,
+                    "uniqueID": 371013,
+                    "ioValues": [
+                        {
+                            "name": "3D shape 666861",
+                            "ioValue": 10
+                        },
+                        {
+                            "name": "3D shape 460080",
+                            "ioValue": 10
+                        },
+                        {
+                            "name": "3D shape 868672",
+                            "ioValue": 10
+                        }
+                    ],
+                    "removeCutawayGeometry": true
+                },
+                {
                     "atomType": "Molecule",
                     "name": "Fake Metal",
                     "x": 488,
@@ -5751,8 +5773,8 @@
                 {
                     "atomType": "Assembly",
                     "name": "Assembly",
-                    "x": 545,
-                    "y": 129,
+                    "x": 549,
+                    "y": 126,
                     "uniqueID": 851874,
                     "ioValues": [
                         {
@@ -5764,15 +5786,11 @@
                             "ioValue": 10
                         },
                         {
-                            "name": "3D shape 465347",
-                            "ioValue": 10
-                        },
-                        {
-                            "name": "3D shape 408580",
-                            "ioValue": 10
-                        },
-                        {
                             "name": "3D shape 936888",
+                            "ioValue": 10
+                        },
+                        {
+                            "name": "3D shape 172989",
                             "ioValue": 10
                         }
                     ],
@@ -5827,9 +5845,9 @@
                 },
                 {
                     "ap1Name": "Geometry",
-                    "ap2Name": "3D shape 408580",
+                    "ap2Name": "3D shape 460080",
                     "ap1ID": 517888,
-                    "ap2ID": 851874
+                    "ap2ID": 371013
                 },
                 {
                     "ap1Name": "Geometry",
@@ -5839,13 +5857,19 @@
                 },
                 {
                     "ap1Name": "Geometry",
+                    "ap2Name": "3D shape 666861",
+                    "ap1ID": 826098,
+                    "ap2ID": 371013
+                },
+                {
+                    "ap1Name": "Geometry",
                     "ap2Name": "3D shape 649486",
                     "ap1ID": 315914,
                     "ap2ID": 851874
                 },
                 {
                     "ap1Name": "Geometry",
-                    "ap2Name": "3D shape 465347",
+                    "ap2Name": "3D shape 936888",
                     "ap1ID": 201738,
                     "ap2ID": 851874
                 },
