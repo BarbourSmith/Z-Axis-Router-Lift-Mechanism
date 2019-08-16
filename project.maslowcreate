@@ -136,7 +136,7 @@
             "atomType": "Molecule",
             "name": "Long Bolt Nut Spacer Assembly For Sliders",
             "x": 45,
-            "y": 76,
+            "y": 63,
             "uniqueID": 601479,
             "ioValues": [],
             "topLevel": false,
@@ -310,8 +310,8 @@
         {
             "atomType": "Molecule",
             "name": "Short Nut Bolt Assembly For Sliders",
-            "x": 51,
-            "y": 127,
+            "x": 47,
+            "y": 136,
             "uniqueID": 711005,
             "ioValues": [],
             "topLevel": false,
@@ -1083,8 +1083,8 @@
         {
             "atomType": "Molecule",
             "name": "Spacers and Bolts",
-            "x": 46,
-            "y": 121,
+            "x": 48,
+            "y": 126,
             "uniqueID": 387913,
             "ioValues": [],
             "topLevel": false,
@@ -1093,15 +1093,15 @@
                     "atomType": "Molecule",
                     "name": "Long Bolt Nut Spacer Assembly For Sliders",
                     "x": 45,
-                    "y": 76,
+                    "y": 63,
                     "uniqueID": 601479,
                     "ioValues": []
                 },
                 {
                     "atomType": "Molecule",
                     "name": "Short Nut Bolt Assembly For Sliders",
-                    "x": 51,
-                    "y": 127,
+                    "x": 47,
+                    "y": 136,
                     "uniqueID": 711005,
                     "ioValues": []
                 },
@@ -1724,8 +1724,8 @@
         {
             "atomType": "Molecule",
             "name": "T-nut",
-            "x": 40,
-            "y": 210,
+            "x": 51,
+            "y": 206,
             "uniqueID": 800391,
             "ioValues": [],
             "topLevel": false,
@@ -2723,16 +2723,16 @@
                 {
                     "atomType": "Molecule",
                     "name": "Spacers and Bolts",
-                    "x": 46,
-                    "y": 121,
+                    "x": 48,
+                    "y": 126,
                     "uniqueID": 387913,
                     "ioValues": []
                 },
                 {
                     "atomType": "Molecule",
                     "name": "T-nut",
-                    "x": 40,
-                    "y": 210,
+                    "x": 51,
+                    "y": 206,
                     "uniqueID": 800391,
                     "ioValues": []
                 },
@@ -3615,8 +3615,8 @@
         {
             "atomType": "Molecule",
             "name": "Slides",
-            "x": 110,
-            "y": 173,
+            "x": 107,
+            "y": 171,
             "uniqueID": 424897,
             "ioValues": [],
             "topLevel": false,
@@ -4017,8 +4017,8 @@
         {
             "atomType": "Molecule",
             "name": "Risers",
-            "x": 224,
-            "y": 111,
+            "x": 226,
+            "y": 107,
             "uniqueID": 826098,
             "ioValues": [],
             "topLevel": false,
@@ -4042,8 +4042,8 @@
                 {
                     "atomType": "Molecule",
                     "name": "Slides",
-                    "x": 110,
-                    "y": 173,
+                    "x": 107,
+                    "y": 171,
                     "uniqueID": 424897,
                     "ioValues": []
                 },
@@ -5809,8 +5809,8 @@
                 {
                     "atomType": "Molecule",
                     "name": "Risers",
-                    "x": 224,
-                    "y": 111,
+                    "x": 226,
+                    "y": 107,
                     "uniqueID": 826098,
                     "ioValues": []
                 },
