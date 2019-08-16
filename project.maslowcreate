@@ -1083,8 +1083,8 @@
         {
             "atomType": "Molecule",
             "name": "Spacers and Bolts",
-            "x": 47,
-            "y": 129,
+            "x": 46,
+            "y": 121,
             "uniqueID": 387913,
             "ioValues": [],
             "topLevel": false,
@@ -1724,8 +1724,8 @@
         {
             "atomType": "Molecule",
             "name": "T-nut",
-            "x": 45,
-            "y": 213,
+            "x": 40,
+            "y": 210,
             "uniqueID": 800391,
             "ioValues": [],
             "topLevel": false,
@@ -2696,8 +2696,8 @@
         {
             "atomType": "Molecule",
             "name": "Plates",
-            "x": 212,
-            "y": 41,
+            "x": 223,
+            "y": 44,
             "uniqueID": 517888,
             "ioValues": [
                 {
@@ -2723,16 +2723,16 @@
                 {
                     "atomType": "Molecule",
                     "name": "Spacers and Bolts",
-                    "x": 47,
-                    "y": 129,
+                    "x": 46,
+                    "y": 121,
                     "uniqueID": 387913,
                     "ioValues": []
                 },
                 {
                     "atomType": "Molecule",
                     "name": "T-nut",
-                    "x": 45,
-                    "y": 213,
+                    "x": 40,
+                    "y": 210,
                     "uniqueID": 800391,
                     "ioValues": []
                 },
@@ -5796,8 +5796,8 @@
                 {
                     "atomType": "Molecule",
                     "name": "Plates",
-                    "x": 212,
-                    "y": 41,
+                    "x": 223,
+                    "y": 44,
                     "uniqueID": 517888,
                     "ioValues": [
                         {
