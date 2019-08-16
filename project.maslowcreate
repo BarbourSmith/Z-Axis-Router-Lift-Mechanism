@@ -3222,8 +3222,8 @@
         {
             "atomType": "Molecule",
             "name": "Slide Hardware",
-            "x": 102,
-            "y": 208,
+            "x": 100,
+            "y": 203,
             "uniqueID": 652158,
             "ioValues": [],
             "topLevel": false,
@@ -3330,8 +3330,8 @@
                 {
                     "atomType": "Translate",
                     "name": "Translate",
-                    "x": 252,
-                    "y": 269,
+                    "x": 247,
+                    "y": 266,
                     "uniqueID": 249551,
                     "ioValues": [
                         {
@@ -3344,7 +3344,7 @@
                         },
                         {
                             "name": "zDist",
-                            "ioValue": 16
+                            "ioValue": 10
                         }
                     ]
                 },
@@ -3371,10 +3371,31 @@
                     "removeCutawayGeometry": true
                 },
                 {
+                    "atomType": "Translate",
+                    "name": "Translate",
+                    "x": 634,
+                    "y": 68,
+                    "uniqueID": 618827,
+                    "ioValues": [
+                        {
+                            "name": "xDist",
+                            "ioValue": 0
+                        },
+                        {
+                            "name": "yDist",
+                            "ioValue": 20
+                        },
+                        {
+                            "name": "zDist",
+                            "ioValue": 0
+                        }
+                    ]
+                },
+                {
                     "atomType": "Assembly",
                     "name": "Assembly",
-                    "x": 486,
-                    "y": 167,
+                    "x": 604,
+                    "y": 212,
                     "uniqueID": 806092,
                     "ioValues": [
                         {
@@ -3399,28 +3420,7 @@
                 {
                     "atomType": "Translate",
                     "name": "Translate",
-                    "x": 638,
-                    "y": 71,
-                    "uniqueID": 618827,
-                    "ioValues": [
-                        {
-                            "name": "xDist",
-                            "ioValue": 0
-                        },
-                        {
-                            "name": "yDist",
-                            "ioValue": 20
-                        },
-                        {
-                            "name": "zDist",
-                            "ioValue": 0
-                        }
-                    ]
-                },
-                {
-                    "atomType": "Translate",
-                    "name": "Translate",
-                    "x": 670,
+                    "x": 668,
                     "y": 32,
                     "uniqueID": 620299,
                     "ioValues": [
@@ -3441,8 +3441,8 @@
                 {
                     "atomType": "Translate",
                     "name": "Translate",
-                    "x": 668,
-                    "y": 108,
+                    "x": 670,
+                    "y": 111,
                     "uniqueID": 564424,
                     "ioValues": [
                         {
@@ -3460,10 +3460,31 @@
                     ]
                 },
                 {
+                    "atomType": "Translate",
+                    "name": "Translate",
+                    "x": 736,
+                    "y": 236,
+                    "uniqueID": 732619,
+                    "ioValues": [
+                        {
+                            "name": "xDist",
+                            "ioValue": -20
+                        },
+                        {
+                            "name": "yDist",
+                            "ioValue": 0
+                        },
+                        {
+                            "name": "zDist",
+                            "ioValue": 0
+                        }
+                    ]
+                },
+                {
                     "atomType": "Assembly",
                     "name": "Assembly",
-                    "x": 864,
-                    "y": 73,
+                    "x": 866,
+                    "y": 76,
                     "uniqueID": 770431,
                     "ioValues": [
                         {
@@ -3479,7 +3500,11 @@
                             "ioValue": 10
                         },
                         {
-                            "name": "3D shape 773093",
+                            "name": "3D shape 759074",
+                            "ioValue": 10
+                        },
+                        {
+                            "name": "3D shape 370388",
                             "ioValue": 10
                         }
                     ],
@@ -3574,6 +3599,12 @@
                 },
                 {
                     "ap1Name": "geometry",
+                    "ap2Name": "geometry",
+                    "ap1ID": 806092,
+                    "ap2ID": 732619
+                },
+                {
+                    "ap1Name": "geometry",
                     "ap2Name": "3D shape 411880",
                     "ap1ID": 620299,
                     "ap2ID": 770431
@@ -3582,6 +3613,12 @@
                     "ap1Name": "geometry",
                     "ap2Name": "3D shape 800778",
                     "ap1ID": 564424,
+                    "ap2ID": 770431
+                },
+                {
+                    "ap1Name": "geometry",
+                    "ap2Name": "3D shape 759074",
+                    "ap1ID": 732619,
                     "ap2ID": 770431
                 },
                 {
@@ -4002,8 +4039,8 @@
                 {
                     "atomType": "Molecule",
                     "name": "Slide Hardware",
-                    "x": 102,
-                    "y": 208,
+                    "x": 100,
+                    "y": 203,
                     "uniqueID": 652158,
                     "ioValues": []
                 },
@@ -4018,8 +4055,8 @@
                 {
                     "atomType": "Assembly",
                     "name": "Assembly",
-                    "x": 330,
-                    "y": 229,
+                    "x": 332,
+                    "y": 227,
                     "uniqueID": 327144,
                     "ioValues": [
                         {
