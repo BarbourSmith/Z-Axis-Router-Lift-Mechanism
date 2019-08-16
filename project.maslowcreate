@@ -3633,8 +3633,8 @@
                 {
                     "atomType": "GitHubMolecule",
                     "name": "M4 Locknut",
-                    "x": 61,
-                    "y": 92,
+                    "x": 58,
+                    "y": 116,
                     "uniqueID": 524411,
                     "projectID": "201057537",
                     "ioValues": []
@@ -3642,8 +3642,8 @@
                 {
                     "atomType": "Translate",
                     "name": "Translate",
-                    "x": 266,
-                    "y": 35,
+                    "x": 267,
+                    "y": 43,
                     "uniqueID": 421392,
                     "ioValues": [
                         {
@@ -3656,48 +3656,48 @@
                         },
                         {
                             "name": "zDist",
-                            "ioValue": 0
+                            "ioValue": 16
                         }
                     ]
                 },
                 {
-                    "atomType": "Translate",
-                    "name": "Translate",
-                    "x": 348,
-                    "y": 64,
-                    "uniqueID": 696646,
+                    "atomType": "Rotate",
+                    "name": "Rotate",
+                    "x": 293,
+                    "y": 141,
+                    "uniqueID": 781661,
                     "ioValues": [
                         {
-                            "name": "xDist",
+                            "name": "x-axis degrees",
                             "ioValue": 0
                         },
                         {
-                            "name": "yDist",
-                            "ioValue": 0
+                            "name": "y-axis degrees",
+                            "ioValue": -180
                         },
                         {
-                            "name": "zDist",
-                            "ioValue": 6
+                            "name": "z-axis degrees",
+                            "ioValue": 0
                         }
                     ]
                 },
                 {
                     "atomType": "Assembly",
                     "name": "Assembly",
-                    "x": 468,
-                    "y": 37,
+                    "x": 467,
+                    "y": 40,
                     "uniqueID": 433612,
                     "ioValues": [
-                        {
-                            "name": "3D shape 365666",
-                            "ioValue": 10
-                        },
                         {
                             "name": "3D shape 375165",
                             "ioValue": 10
                         },
                         {
                             "name": "3D shape 123512",
+                            "ioValue": 10
+                        },
+                        {
+                            "name": "3D shape 152771",
                             "ioValue": 10
                         }
                     ],
@@ -3811,7 +3811,7 @@
                     "ap1Name": "Geometry",
                     "ap2Name": "geometry",
                     "ap1ID": 524411,
-                    "ap2ID": 696646
+                    "ap2ID": 781661
                 },
                 {
                     "ap1Name": "geometry",
@@ -3821,8 +3821,8 @@
                 },
                 {
                     "ap1Name": "geometry",
-                    "ap2Name": "3D shape 365666",
-                    "ap1ID": 696646,
+                    "ap2Name": "3D shape 123512",
+                    "ap1ID": 781661,
                     "ap2ID": 433612
                 },
                 {
