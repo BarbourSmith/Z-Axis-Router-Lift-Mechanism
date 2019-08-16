@@ -328,7 +328,8 @@
                             "name": "3D shape 813707",
                             "ioValue": 10
                         }
-                    ]
+                    ],
+                    "removeCutawayGeometry": true
                 },
                 {
                     "atomType": "Output",
@@ -492,7 +493,8 @@
                             "name": "3D shape 334352",
                             "ioValue": 10
                         }
-                    ]
+                    ],
+                    "removeCutawayGeometry": true
                 },
                 {
                     "atomType": "Translate",
@@ -580,7 +582,8 @@
                             "name": "3D shape 111775",
                             "ioValue": 10
                         }
-                    ]
+                    ],
+                    "removeCutawayGeometry": true
                 },
                 {
                     "atomType": "Output",
@@ -808,7 +811,8 @@
                             "name": "3D shape 724312",
                             "ioValue": 10
                         }
-                    ]
+                    ],
+                    "removeCutawayGeometry": true
                 },
                 {
                     "atomType": "Output",
@@ -978,7 +982,8 @@
                             "name": "3D shape 190358",
                             "ioValue": 10
                         }
-                    ]
+                    ],
+                    "removeCutawayGeometry": true
                 },
                 {
                     "atomType": "Translate",
@@ -1066,7 +1071,8 @@
                             "name": "3D shape 976810",
                             "ioValue": 10
                         }
-                    ]
+                    ],
+                    "removeCutawayGeometry": true
                 },
                 {
                     "atomType": "Output",
@@ -1374,7 +1380,8 @@
                             "name": "3D shape 410465",
                             "ioValue": 10
                         }
-                    ]
+                    ],
+                    "removeCutawayGeometry": true
                 },
                 {
                     "atomType": "Output",
@@ -1931,7 +1938,8 @@
                             "name": "3D shape 989667",
                             "ioValue": 10
                         }
-                    ]
+                    ],
+                    "removeCutawayGeometry": true
                 },
                 {
                     "atomType": "Output",
@@ -2146,7 +2154,8 @@
                             "name": "3D shape 905953",
                             "ioValue": 10
                         }
-                    ]
+                    ],
+                    "removeCutawayGeometry": true
                 },
                 {
                     "atomType": "Translate",
@@ -2316,7 +2325,8 @@
                             "name": "3D shape 214763",
                             "ioValue": 10
                         }
-                    ]
+                    ],
+                    "removeCutawayGeometry": true
                 },
                 {
                     "atomType": "Difference",
@@ -2616,7 +2626,8 @@
                             "name": "3D shape 357897",
                             "ioValue": 10
                         }
-                    ]
+                    ],
+                    "removeCutawayGeometry": true
                 },
                 {
                     "atomType": "Translate",
@@ -2671,7 +2682,8 @@
                             "name": "3D shape 685041",
                             "ioValue": 10
                         }
-                    ]
+                    ],
+                    "removeCutawayGeometry": true
                 },
                 {
                     "atomType": "CutAway",
@@ -2761,8 +2773,8 @@
         {
             "atomType": "Molecule",
             "name": "Plates",
-            "x": 225,
-            "y": 46,
+            "x": 220,
+            "y": 49,
             "uniqueID": 517888,
             "ioValues": [
                 {
@@ -2916,7 +2928,8 @@
                             "name": "3D shape 377221",
                             "ioValue": 10
                         }
-                    ]
+                    ],
+                    "removeCutawayGeometry": true
                 },
                 {
                     "atomType": "Input",
@@ -3257,7 +3270,8 @@
                             "name": "3D shape 183657",
                             "ioValue": 10
                         }
-                    ]
+                    ],
+                    "removeCutawayGeometry": true
                 },
                 {
                     "atomType": "Circle",
@@ -3295,7 +3309,8 @@
                             "name": "3D shape 302646",
                             "ioValue": 10
                         }
-                    ]
+                    ],
+                    "removeCutawayGeometry": true
                 },
                 {
                     "atomType": "Difference",
@@ -3536,7 +3551,8 @@
                             "name": "3D shape 478199",
                             "ioValue": 10
                         }
-                    ]
+                    ],
+                    "removeCutawayGeometry": true
                 },
                 {
                     "atomType": "Output",
@@ -3827,7 +3843,8 @@
                             "name": "3D shape 244616",
                             "ioValue": 10
                         }
-                    ]
+                    ],
+                    "removeCutawayGeometry": true
                 },
                 {
                     "atomType": "Assembly",
@@ -3860,7 +3877,8 @@
                             "name": "3D shape 583582",
                             "ioValue": 10
                         }
-                    ]
+                    ],
+                    "removeCutawayGeometry": true
                 },
                 {
                     "atomType": "Rotate",
@@ -4136,7 +4154,8 @@
                             "name": "3D shape 567181",
                             "ioValue": 10
                         }
-                    ]
+                    ],
+                    "removeCutawayGeometry": true
                 },
                 {
                     "atomType": "Translate",
@@ -4199,7 +4218,8 @@
                             "name": "3D shape 968410",
                             "ioValue": 10
                         }
-                    ]
+                    ],
+                    "removeCutawayGeometry": true
                 },
                 {
                     "atomType": "Output",
@@ -4687,7 +4707,8 @@
                             "name": "3D shape 656749",
                             "ioValue": 10
                         }
-                    ]
+                    ],
+                    "removeCutawayGeometry": true
                 },
                 {
                     "atomType": "Rotate",
@@ -4796,7 +4817,8 @@
                             "name": "3D shape 411044",
                             "ioValue": 10
                         }
-                    ]
+                    ],
+                    "removeCutawayGeometry": true
                 },
                 {
                     "atomType": "Extrude",
@@ -5042,7 +5064,8 @@
                             "name": "3D shape 111772",
                             "ioValue": 10
                         }
-                    ]
+                    ],
+                    "removeCutawayGeometry": true
                 },
                 {
                     "atomType": "Translate",
@@ -5347,7 +5370,8 @@
                             "name": "3D shape 985917",
                             "ioValue": 10
                         }
-                    ]
+                    ],
+                    "removeCutawayGeometry": true
                 },
                 {
                     "atomType": "Extrude",
@@ -5554,7 +5578,8 @@
                             "name": "3D shape 149137",
                             "ioValue": 10
                         }
-                    ]
+                    ],
+                    "removeCutawayGeometry": true
                 },
                 {
                     "atomType": "Translate",
@@ -5609,7 +5634,8 @@
                             "name": "3D shape 730872",
                             "ioValue": 10
                         }
-                    ]
+                    ],
+                    "removeCutawayGeometry": true
                 },
                 {
                     "atomType": "Output",
@@ -5741,7 +5767,8 @@
                             "name": "3D shape 668435",
                             "ioValue": 10
                         }
-                    ]
+                    ],
+                    "removeCutawayGeometry": true
                 },
                 {
                     "atomType": "Output",
@@ -5803,8 +5830,8 @@
                 {
                     "atomType": "Molecule",
                     "name": "Plates",
-                    "x": 225,
-                    "y": 46,
+                    "x": 220,
+                    "y": 49,
                     "uniqueID": 517888,
                     "ioValues": [
                         {
@@ -5845,8 +5872,8 @@
                 {
                     "atomType": "Assembly",
                     "name": "Assembly",
-                    "x": 542,
-                    "y": 128,
+                    "x": 540,
+                    "y": 124,
                     "uniqueID": 851874,
                     "ioValues": [
                         {
@@ -5865,7 +5892,8 @@
                             "name": "3D shape 408580",
                             "ioValue": 10
                         }
-                    ]
+                    ],
+                    "removeCutawayGeometry": true
                 },
                 {
                     "atomType": "Molecule",
