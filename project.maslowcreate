@@ -3222,8 +3222,8 @@
         {
             "atomType": "Molecule",
             "name": "Slide Hardware",
-            "x": 100,
-            "y": 203,
+            "x": 103,
+            "y": 195,
             "uniqueID": 652158,
             "ioValues": [],
             "topLevel": false,
@@ -3249,8 +3249,8 @@
                 {
                     "atomType": "GitHubMolecule",
                     "name": "M4 55mm Bolt",
-                    "x": 71,
-                    "y": 189,
+                    "x": 68,
+                    "y": 195,
                     "uniqueID": 825565,
                     "projectID": "202528433",
                     "ioValues": []
@@ -3309,8 +3309,8 @@
                 {
                     "atomType": "Translate",
                     "name": "Translate",
-                    "x": 248,
-                    "y": 188,
+                    "x": 240,
+                    "y": 204,
                     "uniqueID": 750686,
                     "ioValues": [
                         {
@@ -3323,15 +3323,15 @@
                         },
                         {
                             "name": "zDist",
-                            "ioValue": 30
+                            "ioValue": 46
                         }
                     ]
                 },
                 {
                     "atomType": "Translate",
                     "name": "Translate",
-                    "x": 247,
-                    "y": 266,
+                    "x": 242,
+                    "y": 281,
                     "uniqueID": 249551,
                     "ioValues": [
                         {
@@ -3344,7 +3344,7 @@
                         },
                         {
                             "name": "zDist",
-                            "ioValue": 10
+                            "ioValue": 16
                         }
                     ]
                 },
@@ -3620,11 +3620,6 @@
                     "ap2Name": "3D shape 759074",
                     "ap1ID": 732619,
                     "ap2ID": 770431
-                },
-                {
-                    "ap1Name": "geometry",
-                    "ap2Name": "number or geometry",
-                    "ap1ID": 770431
                 }
             ],
             "fileTypeVersion": 1
@@ -4014,8 +4009,8 @@
         {
             "atomType": "Molecule",
             "name": "Risers",
-            "x": 209,
-            "y": 118,
+            "x": 211,
+            "y": 117,
             "uniqueID": 826098,
             "ioValues": [],
             "topLevel": false,
@@ -4039,8 +4034,8 @@
                 {
                     "atomType": "Molecule",
                     "name": "Slide Hardware",
-                    "x": 100,
-                    "y": 203,
+                    "x": 103,
+                    "y": 195,
                     "uniqueID": 652158,
                     "ioValues": []
                 },
@@ -4055,8 +4050,8 @@
                 {
                     "atomType": "Assembly",
                     "name": "Assembly",
-                    "x": 332,
-                    "y": 227,
+                    "x": 333,
+                    "y": 223,
                     "uniqueID": 327144,
                     "ioValues": [
                         {
@@ -4119,8 +4114,8 @@
                 {
                     "atomType": "Assembly",
                     "name": "Assembly",
-                    "x": 731,
-                    "y": 113,
+                    "x": 728,
+                    "y": 112,
                     "uniqueID": 363734,
                     "ioValues": [
                         {
@@ -5867,8 +5862,8 @@
                 {
                     "atomType": "Molecule",
                     "name": "Risers",
-                    "x": 209,
-                    "y": 118,
+                    "x": 211,
+                    "y": 117,
                     "uniqueID": 826098,
                     "ioValues": []
                 },
