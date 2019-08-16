@@ -47,8 +47,8 @@
                 {
                     "atomType": "Circle",
                     "name": "Circle",
-                    "x": 116,
-                    "y": 74,
+                    "x": 112,
+                    "y": 77,
                     "uniqueID": 899981,
                     "ioValues": [
                         {
@@ -81,8 +81,8 @@
                 {
                     "atomType": "Extrude",
                     "name": "Extrude",
-                    "x": 488,
-                    "y": 105,
+                    "x": 484,
+                    "y": 107,
                     "uniqueID": 418072,
                     "ioValues": [
                         {
@@ -92,10 +92,19 @@
                     ]
                 },
                 {
+                    "atomType": "GitHubMolecule",
+                    "name": "M4 20mm Spacer",
+                    "x": 625,
+                    "y": 198,
+                    "uniqueID": 290211,
+                    "projectID": "202529921",
+                    "ioValues": []
+                },
+                {
                     "atomType": "Add BOM Tag",
                     "name": "Add BOM Tag",
-                    "x": 706,
-                    "y": 72,
+                    "x": 700,
+                    "y": 65,
                     "uniqueID": 250525,
                     "ioValues": [],
                     "BOMitem": {
