@@ -3006,8 +3006,8 @@
         {
             "atomType": "Molecule",
             "name": "Base",
-            "x": 102,
-            "y": 45,
+            "x": 103,
+            "y": 50,
             "uniqueID": 895349,
             "ioValues": [],
             "topLevel": false,
@@ -3128,8 +3128,8 @@
         {
             "atomType": "Molecule",
             "name": "Post",
-            "x": 96,
-            "y": 114,
+            "x": 103,
+            "y": 121,
             "uniqueID": 817028,
             "ioValues": [],
             "topLevel": false,
@@ -3222,8 +3222,8 @@
         {
             "atomType": "Molecule",
             "name": "Slide Hardware",
-            "x": 103,
-            "y": 198,
+            "x": 107,
+            "y": 203,
             "uniqueID": 652158,
             "ioValues": [],
             "topLevel": false,
@@ -3479,7 +3479,7 @@
         {
             "atomType": "Molecule",
             "name": "Slides",
-            "x": 104,
+            "x": 105,
             "y": 271,
             "uniqueID": 424897,
             "ioValues": [],
@@ -3861,8 +3861,8 @@
         {
             "atomType": "Molecule",
             "name": "Risers",
-            "x": 213,
-            "y": 110,
+            "x": 209,
+            "y": 118,
             "uniqueID": 826098,
             "ioValues": [],
             "topLevel": false,
@@ -3870,31 +3870,31 @@
                 {
                     "atomType": "Molecule",
                     "name": "Base",
-                    "x": 102,
-                    "y": 45,
+                    "x": 103,
+                    "y": 50,
                     "uniqueID": 895349,
                     "ioValues": []
                 },
                 {
                     "atomType": "Molecule",
                     "name": "Post",
-                    "x": 96,
-                    "y": 114,
+                    "x": 103,
+                    "y": 121,
                     "uniqueID": 817028,
                     "ioValues": []
                 },
                 {
                     "atomType": "Molecule",
                     "name": "Slide Hardware",
-                    "x": 103,
-                    "y": 198,
+                    "x": 107,
+                    "y": 203,
                     "uniqueID": 652158,
                     "ioValues": []
                 },
                 {
                     "atomType": "Molecule",
                     "name": "Slides",
-                    "x": 104,
+                    "x": 105,
                     "y": 271,
                     "uniqueID": 424897,
                     "ioValues": []
@@ -3902,7 +3902,7 @@
                 {
                     "atomType": "Assembly",
                     "name": "Assembly",
-                    "x": 330,
+                    "x": 332,
                     "y": 221,
                     "uniqueID": 327144,
                     "ioValues": [
@@ -5714,8 +5714,8 @@
                 {
                     "atomType": "Molecule",
                     "name": "Risers",
-                    "x": 213,
-                    "y": 110,
+                    "x": 209,
+                    "y": 118,
                     "uniqueID": 826098,
                     "ioValues": []
                 },
