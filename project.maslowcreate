@@ -3222,8 +3222,8 @@
         {
             "atomType": "Molecule",
             "name": "Slide Hardware",
-            "x": 103,
-            "y": 195,
+            "x": 101,
+            "y": 190,
             "uniqueID": 652158,
             "ioValues": [],
             "topLevel": false,
@@ -3483,8 +3483,8 @@
                 {
                     "atomType": "Assembly",
                     "name": "Assembly",
-                    "x": 866,
-                    "y": 76,
+                    "x": 859,
+                    "y": 71,
                     "uniqueID": 770431,
                     "ioValues": [
                         {
@@ -3620,6 +3620,11 @@
                     "ap2Name": "3D shape 759074",
                     "ap1ID": 732619,
                     "ap2ID": 770431
+                },
+                {
+                    "ap1Name": "geometry",
+                    "ap2Name": "number or geometry",
+                    "ap1ID": 770431
                 }
             ],
             "fileTypeVersion": 1
@@ -4034,8 +4039,8 @@
                 {
                     "atomType": "Molecule",
                     "name": "Slide Hardware",
-                    "x": 103,
-                    "y": 195,
+                    "x": 101,
+                    "y": 190,
                     "uniqueID": 652158,
                     "ioValues": []
                 },
@@ -6036,5 +6041,5 @@
             "fileTypeVersion": 1
         }
     ],
-    "circleSegmentSize": 2
+    "circleSegmentSize": 5
 }
