@@ -2761,8 +2761,8 @@
         {
             "atomType": "Molecule",
             "name": "Plates",
-            "x": 213,
-            "y": 30,
+            "x": 225,
+            "y": 46,
             "uniqueID": 517888,
             "ioValues": [
                 {
@@ -5803,8 +5803,8 @@
                 {
                     "atomType": "Molecule",
                     "name": "Plates",
-                    "x": 213,
-                    "y": 30,
+                    "x": 225,
+                    "y": 46,
                     "uniqueID": 517888,
                     "ioValues": [
                         {
@@ -5843,18 +5843,10 @@
                     ]
                 },
                 {
-                    "atomType": "Molecule",
-                    "name": "Fake Metal",
-                    "x": 488,
-                    "y": 270,
-                    "uniqueID": 186758,
-                    "ioValues": []
-                },
-                {
                     "atomType": "Assembly",
                     "name": "Assembly",
-                    "x": 611,
-                    "y": 137,
+                    "x": 542,
+                    "y": 128,
                     "uniqueID": 851874,
                     "ioValues": [
                         {
@@ -5874,6 +5866,14 @@
                             "ioValue": 10
                         }
                     ]
+                },
+                {
+                    "atomType": "Molecule",
+                    "name": "Fake Metal",
+                    "x": 488,
+                    "y": 270,
+                    "uniqueID": 186758,
+                    "ioValues": []
                 },
                 {
                     "atomType": "Circle",
