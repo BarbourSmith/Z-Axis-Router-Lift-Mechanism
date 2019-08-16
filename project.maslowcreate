@@ -2761,8 +2761,8 @@
         {
             "atomType": "Molecule",
             "name": "Plates",
-            "x": 212,
-            "y": 29,
+            "x": 213,
+            "y": 30,
             "uniqueID": 517888,
             "ioValues": [
                 {
@@ -3041,6 +3041,11 @@
                     "ap2Name": "zDist",
                     "ap1ID": 241868,
                     "ap2ID": 316437
+                },
+                {
+                    "ap1Name": "geometry",
+                    "ap2Name": "number or geometry",
+                    "ap1ID": 316437
                 }
             ],
             "fileTypeVersion": 1
@@ -5798,8 +5803,8 @@
                 {
                     "atomType": "Molecule",
                     "name": "Plates",
-                    "x": 212,
-                    "y": 29,
+                    "x": 213,
+                    "y": 30,
                     "uniqueID": 517888,
                     "ioValues": [
                         {
