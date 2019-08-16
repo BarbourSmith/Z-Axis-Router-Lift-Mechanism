@@ -1605,8 +1605,8 @@
         {
             "atomType": "Molecule",
             "name": "Washer",
-            "x": 35,
-            "y": 155,
+            "x": 38,
+            "y": 158,
             "uniqueID": 992463,
             "ioValues": [],
             "topLevel": false,
@@ -1674,6 +1674,15 @@
                     }
                 },
                 {
+                    "atomType": "Color",
+                    "name": "Color",
+                    "x": 1109,
+                    "y": 148,
+                    "uniqueID": 835017,
+                    "ioValues": [],
+                    "selectedColorIndex": "3"
+                },
+                {
                     "atomType": "Output",
                     "name": "Output",
                     "x": 1316,
@@ -1708,8 +1717,14 @@
                 },
                 {
                     "ap1Name": "geometry",
+                    "ap2Name": "geometry",
+                    "ap1ID": 945361,
+                    "ap2ID": 835017
+                },
+                {
+                    "ap1Name": "geometry",
                     "ap2Name": "number or geometry",
-                    "ap1ID": 945361
+                    "ap1ID": 835017
                 }
             ],
             "fileTypeVersion": 1
@@ -1796,8 +1811,8 @@
                 {
                     "atomType": "Molecule",
                     "name": "Washer",
-                    "x": 35,
-                    "y": 155,
+                    "x": 38,
+                    "y": 158,
                     "uniqueID": 992463,
                     "ioValues": []
                 },
