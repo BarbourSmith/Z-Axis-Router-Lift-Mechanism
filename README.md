@@ -43,21 +43,6 @@ undefined
 undefined
 
 
-## Short Nut Bolt Assembly For Sliders
-
-
-## M4x20 Bolt
-
-
-undefined
-
-
-## M4 Locknut
-
-
-undefined
-
-
 ## Long Bolt Nut Spacer Assembly for Ball Nut
 
 
