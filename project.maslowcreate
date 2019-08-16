@@ -2773,8 +2773,8 @@
         {
             "atomType": "Molecule",
             "name": "Plates",
-            "x": 216,
-            "y": 43,
+            "x": 215,
+            "y": 42,
             "uniqueID": 517888,
             "ioValues": [
                 {
@@ -5845,8 +5845,8 @@
                 {
                     "atomType": "Molecule",
                     "name": "Plates",
-                    "x": 216,
-                    "y": 43,
+                    "x": 215,
+                    "y": 42,
                     "uniqueID": 517888,
                     "ioValues": [
                         {
