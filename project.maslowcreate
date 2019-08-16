@@ -4015,8 +4015,8 @@
                 {
                     "atomType": "Rotate",
                     "name": "Rotate",
-                    "x": 263,
-                    "y": 44,
+                    "x": 197,
+                    "y": 37,
                     "uniqueID": 330911,
                     "ioValues": [
                         {
@@ -4034,6 +4034,79 @@
                     ]
                 },
                 {
+                    "atomType": "GitHubMolecule",
+                    "name": "M4 Locknut",
+                    "x": 75,
+                    "y": 198,
+                    "uniqueID": 524411,
+                    "projectID": "201057537",
+                    "ioValues": []
+                },
+                {
+                    "atomType": "Translate",
+                    "name": "Translate",
+                    "x": 211,
+                    "y": 179,
+                    "uniqueID": 696646,
+                    "ioValues": [
+                        {
+                            "name": "xDist",
+                            "ioValue": 0
+                        },
+                        {
+                            "name": "yDist",
+                            "ioValue": 0
+                        },
+                        {
+                            "name": "zDist",
+                            "ioValue": 0
+                        }
+                    ]
+                },
+                {
+                    "atomType": "Translate",
+                    "name": "Translate",
+                    "x": 301,
+                    "y": 41,
+                    "uniqueID": 421392,
+                    "ioValues": [
+                        {
+                            "name": "xDist",
+                            "ioValue": 0
+                        },
+                        {
+                            "name": "yDist",
+                            "ioValue": 0
+                        },
+                        {
+                            "name": "zDist",
+                            "ioValue": 0
+                        }
+                    ]
+                },
+                {
+                    "atomType": "Assembly",
+                    "name": "Assembly",
+                    "x": 544,
+                    "y": 118,
+                    "uniqueID": 433612,
+                    "ioValues": [
+                        {
+                            "name": "3D shape 365666",
+                            "ioValue": 10
+                        },
+                        {
+                            "name": "3D shape 375165",
+                            "ioValue": 10
+                        },
+                        {
+                            "name": "3D shape 123512",
+                            "ioValue": 10
+                        }
+                    ],
+                    "removeCutawayGeometry": true
+                },
+                {
                     "atomType": "Output",
                     "name": "Output",
                     "x": 1316,
@@ -4047,6 +4120,30 @@
                     "ap2Name": "geometry",
                     "ap1ID": 719741,
                     "ap2ID": 330911
+                },
+                {
+                    "ap1Name": "geometry",
+                    "ap2Name": "geometry",
+                    "ap1ID": 330911,
+                    "ap2ID": 421392
+                },
+                {
+                    "ap1Name": "Geometry",
+                    "ap2Name": "geometry",
+                    "ap1ID": 524411,
+                    "ap2ID": 696646
+                },
+                {
+                    "ap1Name": "geometry",
+                    "ap2Name": "3D shape 365666",
+                    "ap1ID": 696646,
+                    "ap2ID": 433612
+                },
+                {
+                    "ap1Name": "geometry",
+                    "ap2Name": "3D shape 375165",
+                    "ap1ID": 421392,
+                    "ap2ID": 433612
                 }
             ],
             "fileTypeVersion": 1
