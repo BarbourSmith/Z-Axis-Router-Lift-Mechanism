@@ -3222,8 +3222,8 @@
         {
             "atomType": "Molecule",
             "name": "Slide Hardware",
-            "x": 107,
-            "y": 203,
+            "x": 102,
+            "y": 208,
             "uniqueID": 652158,
             "ioValues": [],
             "topLevel": false,
@@ -3240,8 +3240,8 @@
                 {
                     "atomType": "GitHubMolecule",
                     "name": "M4 Locknut",
-                    "x": 58,
-                    "y": 116,
+                    "x": 68,
+                    "y": 99,
                     "uniqueID": 524411,
                     "projectID": "201057537",
                     "ioValues": []
@@ -3270,8 +3270,8 @@
                 {
                     "atomType": "Rotate",
                     "name": "Rotate",
-                    "x": 293,
-                    "y": 141,
+                    "x": 269,
+                    "y": 90,
                     "uniqueID": 781661,
                     "ioValues": [
                         {
@@ -3313,8 +3313,8 @@
                 {
                     "atomType": "Translate",
                     "name": "Translate",
-                    "x": 629,
-                    "y": 75,
+                    "x": 637,
+                    "y": 71,
                     "uniqueID": 618827,
                     "ioValues": [
                         {
@@ -3355,8 +3355,8 @@
                 {
                     "atomType": "Translate",
                     "name": "Translate",
-                    "x": 710,
-                    "y": 95,
+                    "x": 668,
+                    "y": 108,
                     "uniqueID": 564424,
                     "ioValues": [
                         {
@@ -3479,8 +3479,8 @@
         {
             "atomType": "Molecule",
             "name": "Slides",
-            "x": 105,
-            "y": 271,
+            "x": 102,
+            "y": 277,
             "uniqueID": 424897,
             "ioValues": [],
             "topLevel": false,
@@ -3886,24 +3886,24 @@
                 {
                     "atomType": "Molecule",
                     "name": "Slide Hardware",
-                    "x": 107,
-                    "y": 203,
+                    "x": 102,
+                    "y": 208,
                     "uniqueID": 652158,
                     "ioValues": []
                 },
                 {
                     "atomType": "Molecule",
                     "name": "Slides",
-                    "x": 105,
-                    "y": 271,
+                    "x": 102,
+                    "y": 277,
                     "uniqueID": 424897,
                     "ioValues": []
                 },
                 {
                     "atomType": "Assembly",
                     "name": "Assembly",
-                    "x": 332,
-                    "y": 221,
+                    "x": 330,
+                    "y": 229,
                     "uniqueID": 327144,
                     "ioValues": [
                         {
