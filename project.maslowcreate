@@ -3,8 +3,8 @@
         {
             "atomType": "Molecule",
             "name": "Bolt",
-            "x": 52,
-            "y": 34,
+            "x": 44,
+            "y": 47,
             "uniqueID": 982563,
             "ioValues": [],
             "topLevel": false,
@@ -38,8 +38,8 @@
         {
             "atomType": "Molecule",
             "name": "M4 20MM Spacer",
-            "x": 48,
-            "y": 142,
+            "x": 44,
+            "y": 146,
             "uniqueID": 813124,
             "ioValues": [],
             "topLevel": false,
@@ -135,8 +135,8 @@
         {
             "atomType": "Molecule",
             "name": "Long Bolt Nut Spacer Assembly For Sliders",
-            "x": 45,
-            "y": 63,
+            "x": 39,
+            "y": 67,
             "uniqueID": 601479,
             "ioValues": [],
             "topLevel": false,
@@ -144,16 +144,16 @@
                 {
                     "atomType": "Molecule",
                     "name": "Bolt",
-                    "x": 52,
-                    "y": 34,
+                    "x": 44,
+                    "y": 47,
                     "uniqueID": 982563,
                     "ioValues": []
                 },
                 {
                     "atomType": "Molecule",
                     "name": "M4 20MM Spacer",
-                    "x": 48,
-                    "y": 142,
+                    "x": 44,
+                    "y": 146,
                     "uniqueID": 813124,
                     "ioValues": []
                 },
@@ -1083,8 +1083,8 @@
         {
             "atomType": "Molecule",
             "name": "Spacers and Bolts",
-            "x": 39,
-            "y": 125,
+            "x": 46,
+            "y": 124,
             "uniqueID": 387913,
             "ioValues": [],
             "topLevel": false,
@@ -1092,8 +1092,8 @@
                 {
                     "atomType": "Molecule",
                     "name": "Long Bolt Nut Spacer Assembly For Sliders",
-                    "x": 45,
-                    "y": 63,
+                    "x": 39,
+                    "y": 67,
                     "uniqueID": 601479,
                     "ioValues": []
                 },
@@ -2696,8 +2696,8 @@
         {
             "atomType": "Molecule",
             "name": "Plates",
-            "x": 221,
-            "y": 43,
+            "x": 222,
+            "y": 48,
             "uniqueID": 517888,
             "ioValues": [
                 {
@@ -2723,8 +2723,8 @@
                 {
                     "atomType": "Molecule",
                     "name": "Spacers and Bolts",
-                    "x": 39,
-                    "y": 125,
+                    "x": 46,
+                    "y": 124,
                     "uniqueID": 387913,
                     "ioValues": []
                 },
@@ -4281,8 +4281,8 @@
         {
             "atomType": "Molecule",
             "name": "Risers",
-            "x": 227,
-            "y": 122,
+            "x": 218,
+            "y": 107,
             "uniqueID": 826098,
             "ioValues": [],
             "topLevel": false,
@@ -5236,8 +5236,8 @@
         {
             "atomType": "Molecule",
             "name": "Ball Screw Assembly",
-            "x": 224,
-            "y": 166,
+            "x": 222,
+            "y": 164,
             "uniqueID": 315914,
             "ioValues": [],
             "topLevel": false,
@@ -5402,8 +5402,8 @@
         {
             "atomType": "Molecule",
             "name": "Router",
-            "x": 230,
-            "y": 232,
+            "x": 226,
+            "y": 234,
             "uniqueID": 201738,
             "ioValues": [
                 {
@@ -6088,8 +6088,8 @@
                 {
                     "atomType": "Molecule",
                     "name": "Plates",
-                    "x": 221,
-                    "y": 43,
+                    "x": 222,
+                    "y": 48,
                     "uniqueID": 517888,
                     "ioValues": [
                         {
@@ -6101,24 +6101,24 @@
                 {
                     "atomType": "Molecule",
                     "name": "Risers",
-                    "x": 227,
-                    "y": 122,
+                    "x": 218,
+                    "y": 107,
                     "uniqueID": 826098,
                     "ioValues": []
                 },
                 {
                     "atomType": "Molecule",
                     "name": "Ball Screw Assembly",
-                    "x": 224,
-                    "y": 166,
+                    "x": 222,
+                    "y": 164,
                     "uniqueID": 315914,
                     "ioValues": []
                 },
                 {
                     "atomType": "Molecule",
                     "name": "Router",
-                    "x": 230,
-                    "y": 232,
+                    "x": 226,
+                    "y": 234,
                     "uniqueID": 201738,
                     "ioValues": [
                         {
