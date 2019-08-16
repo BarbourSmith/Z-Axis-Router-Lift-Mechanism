@@ -38,7 +38,7 @@
         {
             "atomType": "Molecule",
             "name": "M4 20MM Spacer",
-            "x": 55,
+            "x": 48,
             "y": 142,
             "uniqueID": 813124,
             "ioValues": [],
@@ -47,8 +47,8 @@
                 {
                     "atomType": "Circle",
                     "name": "Circle",
-                    "x": 117,
-                    "y": 66,
+                    "x": 116,
+                    "y": 74,
                     "uniqueID": 899981,
                     "ioValues": [
                         {
@@ -229,7 +229,7 @@
                 {
                     "atomType": "Molecule",
                     "name": "M4 20MM Spacer",
-                    "x": 55,
+                    "x": 48,
                     "y": 142,
                     "uniqueID": 813124,
                     "ioValues": []
