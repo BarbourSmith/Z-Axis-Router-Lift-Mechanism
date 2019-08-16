@@ -4166,7 +4166,7 @@
         {
             "atomType": "Molecule",
             "name": "Threaded Rod",
-            "x": 127,
+            "x": 125,
             "y": 56,
             "uniqueID": 783887,
             "ioValues": [],
@@ -4176,7 +4176,7 @@
                     "atomType": "Circle",
                     "name": "Circle",
                     "x": 93,
-                    "y": 143,
+                    "y": 146,
                     "uniqueID": 477866,
                     "ioValues": [
                         {
@@ -4361,8 +4361,8 @@
         {
             "atomType": "Molecule",
             "name": "Shaft Coupler",
-            "x": 126,
-            "y": 199,
+            "x": 127,
+            "y": 194,
             "uniqueID": 495279,
             "ioValues": [],
             "topLevel": false,
@@ -4370,8 +4370,8 @@
                 {
                     "atomType": "Circle",
                     "name": "Circle",
-                    "x": 97,
-                    "y": 113,
+                    "x": 95,
+                    "y": 117,
                     "uniqueID": 572160,
                     "ioValues": [
                         {
@@ -4383,8 +4383,8 @@
                 {
                     "atomType": "Extrude",
                     "name": "Extrude",
-                    "x": 267,
-                    "y": 75,
+                    "x": 272,
+                    "y": 77,
                     "uniqueID": 732224,
                     "ioValues": [
                         {
@@ -4396,8 +4396,8 @@
                 {
                     "atomType": "Translate",
                     "name": "Translate",
-                    "x": 464,
-                    "y": 133,
+                    "x": 471,
+                    "y": 136,
                     "uniqueID": 361898,
                     "ioValues": [
                         {
@@ -4849,8 +4849,8 @@
         {
             "atomType": "Molecule",
             "name": "Ball Screw Assembly",
-            "x": 216,
-            "y": 165,
+            "x": 214,
+            "y": 177,
             "uniqueID": 315914,
             "ioValues": [],
             "topLevel": false,
@@ -4858,7 +4858,7 @@
                 {
                     "atomType": "Molecule",
                     "name": "Threaded Rod",
-                    "x": 127,
+                    "x": 125,
                     "y": 56,
                     "uniqueID": 783887,
                     "ioValues": []
@@ -4874,8 +4874,8 @@
                 {
                     "atomType": "Molecule",
                     "name": "Shaft Coupler",
-                    "x": 126,
-                    "y": 199,
+                    "x": 127,
+                    "y": 194,
                     "uniqueID": 495279,
                     "ioValues": []
                 },
@@ -5015,8 +5015,8 @@
         {
             "atomType": "Molecule",
             "name": "Router",
-            "x": 226,
-            "y": 234,
+            "x": 215,
+            "y": 235,
             "uniqueID": 201738,
             "ioValues": [
                 {
@@ -5722,16 +5722,16 @@
                 {
                     "atomType": "Molecule",
                     "name": "Ball Screw Assembly",
-                    "x": 216,
-                    "y": 165,
+                    "x": 214,
+                    "y": 177,
                     "uniqueID": 315914,
                     "ioValues": []
                 },
                 {
                     "atomType": "Molecule",
                     "name": "Router",
-                    "x": 226,
-                    "y": 234,
+                    "x": 215,
+                    "y": 235,
                     "uniqueID": 201738,
                     "ioValues": [
                         {
