@@ -310,8 +310,8 @@
         {
             "atomType": "Molecule",
             "name": "Short Nut Bolt Assembly For Sliders",
-            "x": 47,
-            "y": 136,
+            "x": 46,
+            "y": 138,
             "uniqueID": 711005,
             "ioValues": [],
             "topLevel": false,
@@ -422,8 +422,8 @@
                 {
                     "atomType": "Translate",
                     "name": "Translate",
-                    "x": 711,
-                    "y": 35,
+                    "x": 705,
+                    "y": 43,
                     "uniqueID": 526033,
                     "ioValues": [
                         {
@@ -443,8 +443,8 @@
                 {
                     "atomType": "Translate",
                     "name": "Translate",
-                    "x": 718,
-                    "y": 111,
+                    "x": 717,
+                    "y": 109,
                     "uniqueID": 359786,
                     "ioValues": [
                         {
@@ -464,8 +464,8 @@
                 {
                     "atomType": "Translate",
                     "name": "Translate",
-                    "x": 743,
-                    "y": 190,
+                    "x": 742,
+                    "y": 187,
                     "uniqueID": 305185,
                     "ioValues": [
                         {
@@ -1083,8 +1083,8 @@
         {
             "atomType": "Molecule",
             "name": "Spacers and Bolts",
-            "x": 48,
-            "y": 126,
+            "x": 39,
+            "y": 125,
             "uniqueID": 387913,
             "ioValues": [],
             "topLevel": false,
@@ -1100,8 +1100,8 @@
                 {
                     "atomType": "Molecule",
                     "name": "Short Nut Bolt Assembly For Sliders",
-                    "x": 47,
-                    "y": 136,
+                    "x": 46,
+                    "y": 138,
                     "uniqueID": 711005,
                     "ioValues": []
                 },
@@ -2696,8 +2696,8 @@
         {
             "atomType": "Molecule",
             "name": "Plates",
-            "x": 223,
-            "y": 44,
+            "x": 221,
+            "y": 43,
             "uniqueID": 517888,
             "ioValues": [
                 {
@@ -2723,8 +2723,8 @@
                 {
                     "atomType": "Molecule",
                     "name": "Spacers and Bolts",
-                    "x": 48,
-                    "y": 126,
+                    "x": 39,
+                    "y": 125,
                     "uniqueID": 387913,
                     "ioValues": []
                 },
@@ -3615,8 +3615,8 @@
         {
             "atomType": "Molecule",
             "name": "Slides",
-            "x": 107,
-            "y": 171,
+            "x": 104,
+            "y": 177,
             "uniqueID": 424897,
             "ioValues": [],
             "topLevel": false,
@@ -3997,8 +3997,8 @@
         {
             "atomType": "Molecule",
             "name": "Slide Hardware",
-            "x": 108,
-            "y": 254,
+            "x": 109,
+            "y": 261,
             "uniqueID": 652158,
             "ioValues": [],
             "topLevel": false,
@@ -4045,7 +4045,7 @@
                 {
                     "atomType": "Translate",
                     "name": "Translate",
-                    "x": 280,
+                    "x": 278,
                     "y": 39,
                     "uniqueID": 421392,
                     "ioValues": [
@@ -4066,8 +4066,8 @@
                 {
                     "atomType": "Translate",
                     "name": "Translate",
-                    "x": 243,
-                    "y": 210,
+                    "x": 241,
+                    "y": 219,
                     "uniqueID": 696646,
                     "ioValues": [
                         {
@@ -4080,7 +4080,7 @@
                         },
                         {
                             "name": "zDist",
-                            "ioValue": 0
+                            "ioValue": 20
                         }
                     ]
                 },
@@ -4109,13 +4109,13 @@
                 {
                     "atomType": "Translate",
                     "name": "Translate",
-                    "x": 526,
-                    "y": 74,
+                    "x": 527,
+                    "y": 66,
                     "uniqueID": 620299,
                     "ioValues": [
                         {
                             "name": "xDist",
-                            "ioValue": 0
+                            "ioValue": 20
                         },
                         {
                             "name": "yDist",
@@ -4130,8 +4130,8 @@
                 {
                     "atomType": "Translate",
                     "name": "Translate",
-                    "x": 524,
-                    "y": 162,
+                    "x": 522,
+                    "y": 160,
                     "uniqueID": 618827,
                     "ioValues": [
                         {
@@ -4140,7 +4140,7 @@
                         },
                         {
                             "name": "yDist",
-                            "ioValue": 0
+                            "ioValue": 20
                         },
                         {
                             "name": "zDist",
@@ -4151,8 +4151,8 @@
                 {
                     "atomType": "Translate",
                     "name": "Translate",
-                    "x": 529,
-                    "y": 253,
+                    "x": 530,
+                    "y": 247,
                     "uniqueID": 564424,
                     "ioValues": [
                         {
@@ -4161,7 +4161,7 @@
                         },
                         {
                             "name": "yDist",
-                            "ioValue": 0
+                            "ioValue": -20
                         },
                         {
                             "name": "zDist",
@@ -4172,12 +4172,24 @@
                 {
                     "atomType": "Assembly",
                     "name": "Assembly",
-                    "x": 699,
-                    "y": 163,
+                    "x": 695,
+                    "y": 160,
                     "uniqueID": 770431,
                     "ioValues": [
                         {
                             "name": "3D shape 800778",
+                            "ioValue": 10
+                        },
+                        {
+                            "name": "3D shape 730938",
+                            "ioValue": 10
+                        },
+                        {
+                            "name": "3D shape 411880",
+                            "ioValue": 10
+                        },
+                        {
+                            "name": "3D shape 773093",
                             "ioValue": 10
                         }
                     ],
@@ -4242,6 +4254,24 @@
                 },
                 {
                     "ap1Name": "geometry",
+                    "ap2Name": "3D shape 411880",
+                    "ap1ID": 620299,
+                    "ap2ID": 770431
+                },
+                {
+                    "ap1Name": "geometry",
+                    "ap2Name": "3D shape 730938",
+                    "ap1ID": 618827,
+                    "ap2ID": 770431
+                },
+                {
+                    "ap1Name": "geometry",
+                    "ap2Name": "3D shape 800778",
+                    "ap1ID": 564424,
+                    "ap2ID": 770431
+                },
+                {
+                    "ap1Name": "geometry",
                     "ap2Name": "number or geometry",
                     "ap1ID": 770431
                 }
@@ -4251,8 +4281,8 @@
         {
             "atomType": "Molecule",
             "name": "Risers",
-            "x": 226,
-            "y": 107,
+            "x": 225,
+            "y": 117,
             "uniqueID": 826098,
             "ioValues": [],
             "topLevel": false,
@@ -4276,16 +4306,16 @@
                 {
                     "atomType": "Molecule",
                     "name": "Slides",
-                    "x": 107,
-                    "y": 171,
+                    "x": 104,
+                    "y": 177,
                     "uniqueID": 424897,
                     "ioValues": []
                 },
                 {
                     "atomType": "Molecule",
                     "name": "Slide Hardware",
-                    "x": 108,
-                    "y": 254,
+                    "x": 109,
+                    "y": 261,
                     "uniqueID": 652158,
                     "ioValues": []
                 },
@@ -4314,7 +4344,7 @@
                     "atomType": "Translate",
                     "name": "Translate",
                     "x": 625,
-                    "y": 171,
+                    "y": 169,
                     "uniqueID": 249923,
                     "ioValues": [
                         {
@@ -4448,6 +4478,7 @@
                     "ap1ID": 424897,
                     "ap2ID": 249923
                 },
+                null,
                 {
                     "ap1Name": "geometry",
                     "ap2Name": "3D shape 510443",
@@ -6030,8 +6061,8 @@
                 {
                     "atomType": "Molecule",
                     "name": "Plates",
-                    "x": 223,
-                    "y": 44,
+                    "x": 221,
+                    "y": 43,
                     "uniqueID": 517888,
                     "ioValues": [
                         {
@@ -6043,8 +6074,8 @@
                 {
                     "atomType": "Molecule",
                     "name": "Risers",
-                    "x": 226,
-                    "y": 107,
+                    "x": 225,
+                    "y": 117,
                     "uniqueID": 826098,
                     "ioValues": []
                 },
