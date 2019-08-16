@@ -4359,8 +4359,8 @@
                 {
                     "atomType": "Assembly",
                     "name": "Assembly",
-                    "x": 737,
-                    "y": 111,
+                    "x": 731,
+                    "y": 113,
                     "uniqueID": 363734,
                     "ioValues": [
                         {
@@ -4383,31 +4383,31 @@
                     "removeCutawayGeometry": true
                 },
                 {
-                    "atomType": "Translate",
-                    "name": "Translate",
+                    "atomType": "Rotate",
+                    "name": "Rotate",
                     "x": 876,
-                    "y": 80,
-                    "uniqueID": 803872,
+                    "y": 71,
+                    "uniqueID": 395182,
                     "ioValues": [
                         {
-                            "name": "xDist",
-                            "ioValue": 70
-                        },
-                        {
-                            "name": "yDist",
+                            "name": "x-axis degrees",
                             "ioValue": 0
                         },
                         {
-                            "name": "zDist",
+                            "name": "y-axis degrees",
                             "ioValue": 0
+                        },
+                        {
+                            "name": "z-axis degrees",
+                            "ioValue": 180
                         }
                     ]
                 },
                 {
                     "atomType": "Translate",
                     "name": "Translate",
-                    "x": 880,
-                    "y": 168,
+                    "x": 953,
+                    "y": 175,
                     "uniqueID": 520408,
                     "ioValues": [
                         {
@@ -4425,23 +4425,23 @@
                     ]
                 },
                 {
-                    "atomType": "Rotate",
-                    "name": "Rotate",
-                    "x": 1024,
-                    "y": 87,
-                    "uniqueID": 613512,
+                    "atomType": "Translate",
+                    "name": "Translate",
+                    "x": 1029,
+                    "y": 69,
+                    "uniqueID": 803872,
                     "ioValues": [
                         {
-                            "name": "x-axis degrees",
+                            "name": "xDist",
+                            "ioValue": 70
+                        },
+                        {
+                            "name": "yDist",
                             "ioValue": 0
                         },
                         {
-                            "name": "y-axis degrees",
+                            "name": "zDist",
                             "ioValue": 0
-                        },
-                        {
-                            "name": "z-axis degrees",
-                            "ioValue": -180
                         }
                     ]
                 },
@@ -4457,11 +4457,11 @@
                             "ioValue": 10
                         },
                         {
-                            "name": "3D shape 968410",
+                            "name": "3D shape 183549",
                             "ioValue": 10
                         },
                         {
-                            "name": "3D shape 183549",
+                            "name": "3D shape 858941",
                             "ioValue": 10
                         }
                     ],
@@ -4522,19 +4522,19 @@
                     "ap1Name": "geometry",
                     "ap2Name": "geometry",
                     "ap1ID": 363734,
-                    "ap2ID": 803872
-                },
-                {
-                    "ap1Name": "geometry",
-                    "ap2Name": "geometry",
-                    "ap1ID": 363734,
                     "ap2ID": 520408
                 },
                 {
                     "ap1Name": "geometry",
                     "ap2Name": "geometry",
-                    "ap1ID": 803872,
-                    "ap2ID": 613512
+                    "ap1ID": 363734,
+                    "ap2ID": 395182
+                },
+                {
+                    "ap1Name": "geometry",
+                    "ap2Name": "geometry",
+                    "ap1ID": 395182,
+                    "ap2ID": 803872
                 },
                 {
                     "ap1Name": "geometry",
@@ -4544,8 +4544,8 @@
                 },
                 {
                     "ap1Name": "geometry",
-                    "ap2Name": "3D shape 968410",
-                    "ap1ID": 613512,
+                    "ap2Name": "3D shape 183549",
+                    "ap1ID": 803872,
                     "ap2ID": 870325
                 },
                 {
