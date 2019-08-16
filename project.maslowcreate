@@ -3615,8 +3615,8 @@
         {
             "atomType": "Molecule",
             "name": "Slide Hardware",
-            "x": 106,
-            "y": 201,
+            "x": 103,
+            "y": 198,
             "uniqueID": 652158,
             "ioValues": [],
             "topLevel": false,
@@ -3640,31 +3640,10 @@
                     "ioValues": []
                 },
                 {
-                    "atomType": "Rotate",
-                    "name": "Rotate",
-                    "x": 175,
-                    "y": 28,
-                    "uniqueID": 330911,
-                    "ioValues": [
-                        {
-                            "name": "x-axis degrees",
-                            "ioValue": 0
-                        },
-                        {
-                            "name": "y-axis degrees",
-                            "ioValue": 180
-                        },
-                        {
-                            "name": "z-axis degrees",
-                            "ioValue": 0
-                        }
-                    ]
-                },
-                {
                     "atomType": "Translate",
                     "name": "Translate",
-                    "x": 272,
-                    "y": 31,
+                    "x": 266,
+                    "y": 35,
                     "uniqueID": 421392,
                     "ioValues": [
                         {
@@ -3677,7 +3656,7 @@
                         },
                         {
                             "name": "zDist",
-                            "ioValue": -8
+                            "ioValue": 0
                         }
                     ]
                 },
@@ -3826,19 +3805,13 @@
                     "ap1Name": "Geometry",
                     "ap2Name": "geometry",
                     "ap1ID": 719741,
-                    "ap2ID": 330911
+                    "ap2ID": 421392
                 },
                 {
                     "ap1Name": "Geometry",
                     "ap2Name": "geometry",
                     "ap1ID": 524411,
                     "ap2ID": 696646
-                },
-                {
-                    "ap1Name": "geometry",
-                    "ap2Name": "geometry",
-                    "ap1ID": 330911,
-                    "ap2ID": 421392
                 },
                 {
                     "ap1Name": "geometry",
@@ -4281,8 +4254,8 @@
         {
             "atomType": "Molecule",
             "name": "Risers",
-            "x": 216,
-            "y": 110,
+            "x": 215,
+            "y": 107,
             "uniqueID": 826098,
             "ioValues": [],
             "topLevel": false,
@@ -4306,8 +4279,8 @@
                 {
                     "atomType": "Molecule",
                     "name": "Slide Hardware",
-                    "x": 106,
-                    "y": 201,
+                    "x": 103,
+                    "y": 198,
                     "uniqueID": 652158,
                     "ioValues": []
                 },
@@ -6101,8 +6074,8 @@
                 {
                     "atomType": "Molecule",
                     "name": "Risers",
-                    "x": 216,
-                    "y": 110,
+                    "x": 215,
+                    "y": 107,
                     "uniqueID": 826098,
                     "ioValues": []
                 },
