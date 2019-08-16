@@ -5743,8 +5743,8 @@
                 {
                     "atomType": "Assembly",
                     "name": "Assembly",
-                    "x": 539,
-                    "y": 45,
+                    "x": 533,
+                    "y": 47,
                     "uniqueID": 371013,
                     "ioValues": [
                         {
@@ -5763,18 +5763,10 @@
                     "removeCutawayGeometry": true
                 },
                 {
-                    "atomType": "Molecule",
-                    "name": "Fake Metal",
-                    "x": 488,
-                    "y": 270,
-                    "uniqueID": 186758,
-                    "ioValues": []
-                },
-                {
                     "atomType": "Assembly",
                     "name": "Assembly",
-                    "x": 549,
-                    "y": 126,
+                    "x": 529,
+                    "y": 139,
                     "uniqueID": 851874,
                     "ioValues": [
                         {
@@ -5795,6 +5787,14 @@
                         }
                     ],
                     "removeCutawayGeometry": true
+                },
+                {
+                    "atomType": "Molecule",
+                    "name": "Fake Metal",
+                    "x": 488,
+                    "y": 270,
+                    "uniqueID": 186758,
+                    "ioValues": []
                 },
                 {
                     "atomType": "Circle",
