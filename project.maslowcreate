@@ -3399,8 +3399,8 @@
         {
             "atomType": "Molecule",
             "name": "Base",
-            "x": 135,
-            "y": 72,
+            "x": 104,
+            "y": 51,
             "uniqueID": 895349,
             "ioValues": [],
             "topLevel": false,
@@ -3521,8 +3521,8 @@
         {
             "atomType": "Molecule",
             "name": "Post",
-            "x": 141,
-            "y": 148,
+            "x": 104,
+            "y": 146,
             "uniqueID": 817028,
             "ioValues": [],
             "topLevel": false,
@@ -3615,8 +3615,8 @@
         {
             "atomType": "Molecule",
             "name": "Slides",
-            "x": 119,
-            "y": 240,
+            "x": 103,
+            "y": 241,
             "uniqueID": 424897,
             "ioValues": [],
             "topLevel": false,
@@ -3997,8 +3997,8 @@
         {
             "atomType": "Molecule",
             "name": "Risers",
-            "x": 226,
-            "y": 113,
+            "x": 224,
+            "y": 111,
             "uniqueID": 826098,
             "ioValues": [],
             "topLevel": false,
@@ -4006,24 +4006,24 @@
                 {
                     "atomType": "Molecule",
                     "name": "Base",
-                    "x": 135,
-                    "y": 72,
+                    "x": 104,
+                    "y": 51,
                     "uniqueID": 895349,
                     "ioValues": []
                 },
                 {
                     "atomType": "Molecule",
                     "name": "Post",
-                    "x": 141,
-                    "y": 148,
+                    "x": 104,
+                    "y": 146,
                     "uniqueID": 817028,
                     "ioValues": []
                 },
                 {
                     "atomType": "Molecule",
                     "name": "Slides",
-                    "x": 119,
-                    "y": 240,
+                    "x": 103,
+                    "y": 241,
                     "uniqueID": 424897,
                     "ioValues": []
                 },
@@ -5781,8 +5781,8 @@
                 {
                     "atomType": "Molecule",
                     "name": "Risers",
-                    "x": 226,
-                    "y": 113,
+                    "x": 224,
+                    "y": 111,
                     "uniqueID": 826098,
                     "ioValues": []
                 },
