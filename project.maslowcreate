@@ -2304,7 +2304,7 @@
             "atomType": "Molecule",
             "name": "Plates",
             "x": 210,
-            "y": 46,
+            "y": 42,
             "uniqueID": 517888,
             "ioValues": [
                 {
@@ -4467,8 +4467,8 @@
         {
             "atomType": "Molecule",
             "name": "Threaded Nut",
-            "x": 121,
-            "y": 258,
+            "x": 113,
+            "y": 251,
             "uniqueID": 574138,
             "ioValues": [],
             "topLevel": false,
@@ -4528,8 +4528,8 @@
                 {
                     "atomType": "Circle",
                     "name": "Circle",
-                    "x": 189,
-                    "y": 261,
+                    "x": 183,
+                    "y": 264,
                     "uniqueID": 609891,
                     "ioValues": [
                         {
@@ -4605,13 +4605,13 @@
                 {
                     "atomType": "Circle",
                     "name": "Circle",
-                    "x": 570,
-                    "y": 118,
+                    "x": 566,
+                    "y": 121,
                     "uniqueID": 791836,
                     "ioValues": [
                         {
                             "name": "diameter",
-                            "ioValue": 10
+                            "ioValue": 10.5
                         }
                     ]
                 },
@@ -4660,8 +4660,8 @@
                 {
                     "atomType": "Assembly",
                     "name": "Assembly",
-                    "x": 752,
-                    "y": 165,
+                    "x": 746,
+                    "y": 169,
                     "uniqueID": 368017,
                     "ioValues": [
                         {
@@ -4882,8 +4882,8 @@
                 {
                     "atomType": "Molecule",
                     "name": "Threaded Nut",
-                    "x": 121,
-                    "y": 258,
+                    "x": 113,
+                    "y": 251,
                     "uniqueID": 574138,
                     "ioValues": []
                 },
@@ -5702,7 +5702,7 @@
                     "atomType": "Molecule",
                     "name": "Plates",
                     "x": 210,
-                    "y": 46,
+                    "y": 42,
                     "uniqueID": 517888,
                     "ioValues": [
                         {
@@ -5741,10 +5741,18 @@
                     ]
                 },
                 {
+                    "atomType": "Molecule",
+                    "name": "Fake Metal",
+                    "x": 488,
+                    "y": 270,
+                    "uniqueID": 186758,
+                    "ioValues": []
+                },
+                {
                     "atomType": "Assembly",
                     "name": "Assembly",
-                    "x": 539,
-                    "y": 127,
+                    "x": 545,
+                    "y": 129,
                     "uniqueID": 851874,
                     "ioValues": [
                         {
@@ -5762,17 +5770,13 @@
                         {
                             "name": "3D shape 408580",
                             "ioValue": 10
+                        },
+                        {
+                            "name": "3D shape 936888",
+                            "ioValue": 10
                         }
                     ],
                     "removeCutawayGeometry": true
-                },
-                {
-                    "atomType": "Molecule",
-                    "name": "Fake Metal",
-                    "x": 488,
-                    "y": 270,
-                    "uniqueID": 186758,
-                    "ioValues": []
                 },
                 {
                     "atomType": "Circle",
@@ -5820,6 +5824,12 @@
                     "ap2Name": "Bit Depth",
                     "ap1ID": 649665,
                     "ap2ID": 517888
+                },
+                {
+                    "ap1Name": "Geometry",
+                    "ap2Name": "3D shape 408580",
+                    "ap1ID": 517888,
+                    "ap2ID": 851874
                 },
                 {
                     "ap1Name": "Geometry",
