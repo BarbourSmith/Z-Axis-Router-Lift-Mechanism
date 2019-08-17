@@ -4613,8 +4613,8 @@
         {
             "atomType": "Molecule",
             "name": "Short bolts",
-            "x": 45,
-            "y": 62,
+            "x": 51,
+            "y": 67,
             "uniqueID": 907645,
             "ioValues": [],
             "topLevel": false,
@@ -4661,8 +4661,29 @@
                 {
                     "atomType": "Translate",
                     "name": "Translate",
-                    "x": 462,
-                    "y": 149,
+                    "x": 323,
+                    "y": 229,
+                    "uniqueID": 725161,
+                    "ioValues": [
+                        {
+                            "name": "xDist",
+                            "ioValue": 0
+                        },
+                        {
+                            "name": "yDist",
+                            "ioValue": 0
+                        },
+                        {
+                            "name": "zDist",
+                            "ioValue": 6
+                        }
+                    ]
+                },
+                {
+                    "atomType": "Translate",
+                    "name": "Translate",
+                    "x": 515,
+                    "y": 76,
                     "uniqueID": 727249,
                     "ioValues": [
                         {
@@ -4680,6 +4701,28 @@
                     ]
                 },
                 {
+                    "atomType": "Assembly",
+                    "name": "Assembly",
+                    "x": 708,
+                    "y": 175,
+                    "uniqueID": 258839,
+                    "ioValues": [
+                        {
+                            "name": "3D shape 821603",
+                            "ioValue": 10
+                        },
+                        {
+                            "name": "3D shape 632519",
+                            "ioValue": 10
+                        },
+                        {
+                            "name": "3D shape 593144",
+                            "ioValue": 10
+                        }
+                    ],
+                    "removeCutawayGeometry": true
+                },
+                {
                     "atomType": "Output",
                     "name": "Output",
                     "x": 1316,
@@ -4695,10 +4738,33 @@
                     "ap2ID": 985516
                 },
                 {
+                    "ap1Name": "Geometry",
+                    "ap2Name": "geometry",
+                    "ap1ID": 542865,
+                    "ap2ID": 725161
+                },
+                {
                     "ap1Name": "geometry",
                     "ap2Name": "geometry",
                     "ap1ID": 985516,
                     "ap2ID": 727249
+                },
+                {
+                    "ap1Name": "geometry",
+                    "ap2Name": "3D shape 821603",
+                    "ap1ID": 725161,
+                    "ap2ID": 258839
+                },
+                {
+                    "ap1Name": "geometry",
+                    "ap2Name": "3D shape 632519",
+                    "ap1ID": 727249,
+                    "ap2ID": 258839
+                },
+                {
+                    "ap1Name": "geometry",
+                    "ap2Name": "number or geometry",
+                    "ap1ID": 258839
                 }
             ],
             "fileTypeVersion": 1
@@ -4735,8 +4801,8 @@
                 {
                     "atomType": "Molecule",
                     "name": "Short bolts",
-                    "x": 45,
-                    "y": 62,
+                    "x": 51,
+                    "y": 67,
                     "uniqueID": 907645,
                     "ioValues": []
                 },
