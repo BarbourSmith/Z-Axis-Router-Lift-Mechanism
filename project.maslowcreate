@@ -676,7 +676,7 @@
                         },
                         {
                             "name": "zDist",
-                            "ioValue": 3
+                            "ioValue": 5.5
                         }
                     ]
                 },
@@ -1351,8 +1351,8 @@
                 {
                     "atomType": "Translate",
                     "name": "Translate",
-                    "x": 301,
-                    "y": 148,
+                    "x": 285,
+                    "y": 129,
                     "uniqueID": 213669,
                     "ioValues": [
                         {
@@ -1365,15 +1365,15 @@
                         },
                         {
                             "name": "zDist",
-                            "ioValue": 5
+                            "ioValue": 7.5
                         }
                     ]
                 },
                 {
                     "atomType": "Translate",
                     "name": "Translate",
-                    "x": 309,
-                    "y": 211,
+                    "x": 286,
+                    "y": 209,
                     "uniqueID": 986548,
                     "ioValues": [
                         {
