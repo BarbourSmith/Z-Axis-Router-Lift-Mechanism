@@ -633,7 +633,7 @@
                     "ioValues": [
                         {
                             "name": "height",
-                            "ioValue": 12
+                            "ioValue": 9.5
                         }
                     ]
                 },
@@ -662,8 +662,8 @@
                 {
                     "atomType": "Translate",
                     "name": "Translate",
-                    "x": 508,
-                    "y": 179,
+                    "x": 506,
+                    "y": 181,
                     "uniqueID": 897079,
                     "ioValues": [
                         {
@@ -696,8 +696,8 @@
                 {
                     "atomType": "Assembly",
                     "name": "Assembly",
-                    "x": 881,
-                    "y": 86,
+                    "x": 877,
+                    "y": 83,
                     "uniqueID": 373235,
                     "ioValues": [
                         {
