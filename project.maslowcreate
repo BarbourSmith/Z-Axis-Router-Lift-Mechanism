@@ -4450,6 +4450,54 @@
             "topLevel": false,
             "allAtoms": [
                 {
+                    "atomType": "GitHubMolecule",
+                    "name": "M4 Locknut",
+                    "x": 63,
+                    "y": 88,
+                    "uniqueID": 214297,
+                    "projectID": "201057537",
+                    "ioValues": []
+                },
+                {
+                    "atomType": "GitHubMolecule",
+                    "name": "M4 20mm Spacer",
+                    "x": 65,
+                    "y": 174,
+                    "uniqueID": 805099,
+                    "projectID": "202529921",
+                    "ioValues": []
+                },
+                {
+                    "atomType": "GitHubMolecule",
+                    "name": "M4 55mm Bolt",
+                    "x": 59,
+                    "y": 257,
+                    "uniqueID": 424475,
+                    "projectID": "202528433",
+                    "ioValues": []
+                },
+                {
+                    "atomType": "Rotate",
+                    "name": "Rotate",
+                    "x": 284,
+                    "y": 184,
+                    "uniqueID": 999545,
+                    "ioValues": [
+                        {
+                            "name": "x-axis degrees",
+                            "ioValue": 0
+                        },
+                        {
+                            "name": "y-axis degrees",
+                            "ioValue": 0
+                        },
+                        {
+                            "name": "z-axis degrees",
+                            "ioValue": 0
+                        }
+                    ]
+                },
+                {
                     "atomType": "Output",
                     "name": "Output",
                     "x": 1316,
@@ -4457,13 +4505,20 @@
                     "ioValues": []
                 }
             ],
-            "allConnectors": [],
+            "allConnectors": [
+                {
+                    "ap1Name": "Geometry",
+                    "ap2Name": "geometry",
+                    "ap1ID": 424475,
+                    "ap2ID": 999545
+                }
+            ],
             "fileTypeVersion": 1
         },
         {
             "atomType": "Molecule",
             "name": "Threaded Nut Hardware",
-            "x": 78,
+            "x": 77,
             "y": 260,
             "uniqueID": 335229,
             "ioValues": [],
@@ -4499,8 +4554,8 @@
         {
             "atomType": "Molecule",
             "name": "Ball Screw Assembly",
-            "x": 213,
-            "y": 162,
+            "x": 212,
+            "y": 173,
             "uniqueID": 315914,
             "ioValues": [],
             "topLevel": false,
@@ -4540,7 +4595,7 @@
                 {
                     "atomType": "Molecule",
                     "name": "Threaded Nut Hardware",
-                    "x": 78,
+                    "x": 77,
                     "y": 260,
                     "uniqueID": 335229,
                     "ioValues": []
@@ -5380,8 +5435,8 @@
                 {
                     "atomType": "Molecule",
                     "name": "Ball Screw Assembly",
-                    "x": 213,
-                    "y": 162,
+                    "x": 212,
+                    "y": 173,
                     "uniqueID": 315914,
                     "ioValues": []
                 },
