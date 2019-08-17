@@ -4612,13 +4612,69 @@
         },
         {
             "atomType": "Molecule",
-            "name": "Molecule",
-            "x": 64,
-            "y": 256,
+            "name": "Short bolts",
+            "x": 43,
+            "y": 64,
+            "uniqueID": 907645,
+            "ioValues": [],
+            "topLevel": false,
+            "allAtoms": [
+                {
+                    "atomType": "Output",
+                    "name": "Output",
+                    "x": 1316,
+                    "y": 164,
+                    "ioValues": []
+                }
+            ],
+            "allConnectors": [],
+            "fileTypeVersion": 1
+        },
+        {
+            "atomType": "Molecule",
+            "name": "Long bolt with spacer",
+            "x": 48,
+            "y": 218,
+            "uniqueID": 632832,
+            "ioValues": [],
+            "topLevel": false,
+            "allAtoms": [
+                {
+                    "atomType": "Output",
+                    "name": "Output",
+                    "x": 1316,
+                    "y": 164,
+                    "ioValues": []
+                }
+            ],
+            "allConnectors": [],
+            "fileTypeVersion": 1
+        },
+        {
+            "atomType": "Molecule",
+            "name": "Threaded Nut Hardware",
+            "x": 78,
+            "y": 260,
             "uniqueID": 335229,
             "ioValues": [],
             "topLevel": false,
             "allAtoms": [
+                {
+                    "atomType": "Molecule",
+                    "name": "Short bolts",
+                    "x": 43,
+                    "y": 64,
+                    "uniqueID": 907645,
+                    "ioValues": []
+                },
+                {
+                    "atomType": "Molecule",
+                    "name": "Long bolt with spacer",
+                    "x": 48,
+                    "y": 218,
+                    "uniqueID": 632832,
+                    "ioValues": []
+                },
                 {
                     "atomType": "Output",
                     "name": "Output",
@@ -4673,9 +4729,9 @@
                 },
                 {
                     "atomType": "Molecule",
-                    "name": "Molecule",
-                    "x": 64,
-                    "y": 256,
+                    "name": "Threaded Nut Hardware",
+                    "x": 78,
+                    "y": 260,
                     "uniqueID": 335229,
                     "ioValues": []
                 },
