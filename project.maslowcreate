@@ -134,8 +134,8 @@
         {
             "atomType": "Molecule",
             "name": "Washer",
-            "x": 38,
-            "y": 158,
+            "x": 36,
+            "y": 164,
             "uniqueID": 992463,
             "ioValues": [],
             "topLevel": false,
@@ -149,7 +149,7 @@
                     "ioValues": [
                         {
                             "name": "diameter",
-                            "ioValue": 10
+                            "ioValue": 14
                         }
                     ]
                 },
@@ -183,7 +183,7 @@
                     "ioValues": [
                         {
                             "name": "height",
-                            "ioValue": 2.5
+                            "ioValue": 3.5
                         }
                     ]
                 },
@@ -197,8 +197,8 @@
                     "BOMitem": {
                         "BOMitemName": "Oversize M4 Washer",
                         "numberNeeded": 1,
-                        "costUSD": 0.472,
-                        "source": "https://www.mcmaster.com/98035a102",
+                        "costUSD": 1.28,
+                        "source": "https://www.mcmaster.com/98040a102",
                         "totalNeeded": 0
                     }
                 },
@@ -323,8 +323,8 @@
         {
             "atomType": "Molecule",
             "name": "T-nut",
-            "x": 46,
-            "y": 133,
+            "x": 44,
+            "y": 130,
             "uniqueID": 800391,
             "ioValues": [],
             "topLevel": false,
@@ -340,8 +340,8 @@
                 {
                     "atomType": "Molecule",
                     "name": "Washer",
-                    "x": 38,
-                    "y": 158,
+                    "x": 36,
+                    "y": 164,
                     "uniqueID": 992463,
                     "ioValues": []
                 },
@@ -398,8 +398,8 @@
                 {
                     "atomType": "Translate",
                     "name": "Translate",
-                    "x": 235,
-                    "y": 204,
+                    "x": 231,
+                    "y": 205,
                     "uniqueID": 953244,
                     "ioValues": [
                         {
@@ -1322,8 +1322,8 @@
                 {
                     "atomType": "Molecule",
                     "name": "T-nut",
-                    "x": 46,
-                    "y": 133,
+                    "x": 44,
+                    "y": 130,
                     "uniqueID": 800391,
                     "ioValues": []
                 },
