@@ -4477,10 +4477,52 @@
                     "ioValues": []
                 },
                 {
+                    "atomType": "Translate",
+                    "name": "Translate",
+                    "x": 271,
+                    "y": 87,
+                    "uniqueID": 253174,
+                    "ioValues": [
+                        {
+                            "name": "xDist",
+                            "ioValue": 0
+                        },
+                        {
+                            "name": "yDist",
+                            "ioValue": 0
+                        },
+                        {
+                            "name": "zDist",
+                            "ioValue": 6
+                        }
+                    ]
+                },
+                {
+                    "atomType": "Translate",
+                    "name": "Translate",
+                    "x": 274,
+                    "y": 170,
+                    "uniqueID": 619532,
+                    "ioValues": [
+                        {
+                            "name": "xDist",
+                            "ioValue": 0
+                        },
+                        {
+                            "name": "yDist",
+                            "ioValue": 0
+                        },
+                        {
+                            "name": "zDist",
+                            "ioValue": -30
+                        }
+                    ]
+                },
+                {
                     "atomType": "Rotate",
                     "name": "Rotate",
-                    "x": 284,
-                    "y": 184,
+                    "x": 282,
+                    "y": 249,
                     "uniqueID": 999545,
                     "ioValues": [
                         {
@@ -4489,10 +4531,31 @@
                         },
                         {
                             "name": "y-axis degrees",
-                            "ioValue": 0
+                            "ioValue": 180
                         },
                         {
                             "name": "z-axis degrees",
+                            "ioValue": 0
+                        }
+                    ]
+                },
+                {
+                    "atomType": "Translate",
+                    "name": "Translate",
+                    "x": 425,
+                    "y": 264,
+                    "uniqueID": 749131,
+                    "ioValues": [
+                        {
+                            "name": "xDist",
+                            "ioValue": 0
+                        },
+                        {
+                            "name": "yDist",
+                            "ioValue": 0
+                        },
+                        {
+                            "name": "zDist",
                             "ioValue": 0
                         }
                     ]
@@ -4509,8 +4572,26 @@
                 {
                     "ap1Name": "Geometry",
                     "ap2Name": "geometry",
+                    "ap1ID": 214297,
+                    "ap2ID": 253174
+                },
+                {
+                    "ap1Name": "Geometry",
+                    "ap2Name": "geometry",
+                    "ap1ID": 805099,
+                    "ap2ID": 619532
+                },
+                {
+                    "ap1Name": "Geometry",
+                    "ap2Name": "geometry",
                     "ap1ID": 424475,
                     "ap2ID": 999545
+                },
+                {
+                    "ap1Name": "geometry",
+                    "ap2Name": "geometry",
+                    "ap1ID": 999545,
+                    "ap2ID": 749131
                 }
             ],
             "fileTypeVersion": 1
