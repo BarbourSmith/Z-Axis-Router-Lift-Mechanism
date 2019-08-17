@@ -525,8 +525,8 @@
         {
             "atomType": "Molecule",
             "name": "T-nut Cutaway",
-            "x": 48,
-            "y": 220,
+            "x": 40,
+            "y": 219,
             "uniqueID": 408482,
             "ioValues": [],
             "topLevel": false,
@@ -627,13 +627,13 @@
                 {
                     "atomType": "Extrude",
                     "name": "Extrude",
-                    "x": 317,
-                    "y": 231,
+                    "x": 311,
+                    "y": 229,
                     "uniqueID": 636589,
                     "ioValues": [
                         {
                             "name": "height",
-                            "ioValue": 7
+                            "ioValue": 12
                         }
                     ]
                 },
@@ -683,21 +683,21 @@
                 {
                     "atomType": "Extrude",
                     "name": "Extrude",
-                    "x": 569,
-                    "y": 82,
+                    "x": 566,
+                    "y": 89,
                     "uniqueID": 972339,
                     "ioValues": [
                         {
                             "name": "height",
-                            "ioValue": 10
+                            "ioValue": 15
                         }
                     ]
                 },
                 {
                     "atomType": "Assembly",
                     "name": "Assembly",
-                    "x": 874,
-                    "y": 89,
+                    "x": 881,
+                    "y": 86,
                     "uniqueID": 373235,
                     "ioValues": [
                         {
@@ -1330,8 +1330,8 @@
                 {
                     "atomType": "Molecule",
                     "name": "T-nut Cutaway",
-                    "x": 48,
-                    "y": 220,
+                    "x": 40,
+                    "y": 219,
                     "uniqueID": 408482,
                     "ioValues": []
                 },
