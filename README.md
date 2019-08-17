@@ -10,30 +10,6 @@
 ## Plates
 
 
-## Spacers and Bolts
-
-
-## Long Bolt Nut Spacer Assembly for Ball Nut
-
-
-## M4 55mm Bolt
-
-
-undefined
-
-
-## M4 20mm Spacer
-
-
-undefined
-
-
-## M4 Locknut
-
-
-undefined
-
-
 ## T-nut
 
 
@@ -58,10 +34,10 @@ undefined
 undefined
 
 
-## Plates
-
-
 ## T-nut Cutaway
+
+
+## Plates
 
 
 ## Risers
