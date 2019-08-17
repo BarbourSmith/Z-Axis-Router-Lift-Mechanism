@@ -408,7 +408,7 @@
                         },
                         {
                             "name": "yDist",
-                            "ioValue": -3
+                            "ioValue": -3.5
                         },
                         {
                             "name": "zDist",
@@ -525,8 +525,8 @@
         {
             "atomType": "Molecule",
             "name": "T-nut Cutaway",
-            "x": 40,
-            "y": 219,
+            "x": 41,
+            "y": 223,
             "uniqueID": 408482,
             "ioValues": [],
             "topLevel": false,
@@ -561,7 +561,7 @@
                         },
                         {
                             "name": "y length",
-                            "ioValue": 10
+                            "ioValue": 14
                         }
                     ]
                 },
@@ -1330,8 +1330,8 @@
                 {
                     "atomType": "Molecule",
                     "name": "T-nut Cutaway",
-                    "x": 40,
-                    "y": 219,
+                    "x": 41,
+                    "y": 223,
                     "uniqueID": 408482,
                     "ioValues": []
                 },
