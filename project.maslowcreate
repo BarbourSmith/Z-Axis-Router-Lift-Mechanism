@@ -1295,8 +1295,8 @@
         {
             "atomType": "Molecule",
             "name": "Plates",
-            "x": 206,
-            "y": 42,
+            "x": 204,
+            "y": 41,
             "uniqueID": 517888,
             "ioValues": [
                 {
@@ -5462,8 +5462,8 @@
                 {
                     "atomType": "Molecule",
                     "name": "Plates",
-                    "x": 206,
-                    "y": 42,
+                    "x": 204,
+                    "y": 41,
                     "uniqueID": 517888,
                     "ioValues": [
                         {
@@ -5504,8 +5504,8 @@
                 {
                     "atomType": "Assembly",
                     "name": "Assembly",
-                    "x": 449,
-                    "y": 59,
+                    "x": 505,
+                    "y": 112,
                     "uniqueID": 567351,
                     "ioValues": [
                         {
@@ -5521,37 +5521,7 @@
                             "ioValue": 10
                         },
                         {
-                            "name": "3D shape 539139",
-                            "ioValue": 10
-                        },
-                        {
                             "name": "3D shape 910433",
-                            "ioValue": 10
-                        }
-                    ],
-                    "removeCutawayGeometry": true
-                },
-                {
-                    "atomType": "Assembly",
-                    "name": "Assembly",
-                    "x": 528,
-                    "y": 138,
-                    "uniqueID": 851874,
-                    "ioValues": [
-                        {
-                            "name": "3D shape 721340",
-                            "ioValue": 10
-                        },
-                        {
-                            "name": "3D shape 649486",
-                            "ioValue": 10
-                        },
-                        {
-                            "name": "3D shape 936888",
-                            "ioValue": 10
-                        },
-                        {
-                            "name": "3D shape 172989",
                             "ioValue": 10
                         }
                     ],
@@ -5620,18 +5590,6 @@
                 },
                 {
                     "ap1Name": "Geometry",
-                    "ap2Name": "3D shape 721340",
-                    "ap1ID": 826098,
-                    "ap2ID": 851874
-                },
-                {
-                    "ap1Name": "Geometry",
-                    "ap2Name": "3D shape 539139",
-                    "ap1ID": 826098,
-                    "ap2ID": 567351
-                },
-                {
-                    "ap1Name": "Geometry",
                     "ap2Name": "3D shape 649486",
                     "ap1ID": 315914,
                     "ap2ID": 851874
@@ -5641,12 +5599,6 @@
                     "ap2Name": "3D shape 730117",
                     "ap1ID": 315914,
                     "ap2ID": 567351
-                },
-                {
-                    "ap1Name": "Geometry",
-                    "ap2Name": "3D shape 936888",
-                    "ap1ID": 201738,
-                    "ap2ID": 851874
                 },
                 {
                     "ap1Name": "Geometry",
