@@ -4613,8 +4613,8 @@
         {
             "atomType": "Molecule",
             "name": "Short bolts",
-            "x": 43,
-            "y": 64,
+            "x": 45,
+            "y": 62,
             "uniqueID": 907645,
             "ioValues": [],
             "topLevel": false,
@@ -4638,6 +4638,48 @@
                     "ioValues": []
                 },
                 {
+                    "atomType": "Rotate",
+                    "name": "Rotate",
+                    "x": 275,
+                    "y": 88,
+                    "uniqueID": 985516,
+                    "ioValues": [
+                        {
+                            "name": "x-axis degrees",
+                            "ioValue": 0
+                        },
+                        {
+                            "name": "y-axis degrees",
+                            "ioValue": 180
+                        },
+                        {
+                            "name": "z-axis degrees",
+                            "ioValue": 0
+                        }
+                    ]
+                },
+                {
+                    "atomType": "Translate",
+                    "name": "Translate",
+                    "x": 462,
+                    "y": 149,
+                    "uniqueID": 727249,
+                    "ioValues": [
+                        {
+                            "name": "xDist",
+                            "ioValue": 0
+                        },
+                        {
+                            "name": "yDist",
+                            "ioValue": 0
+                        },
+                        {
+                            "name": "zDist",
+                            "ioValue": -8
+                        }
+                    ]
+                },
+                {
                     "atomType": "Output",
                     "name": "Output",
                     "x": 1316,
@@ -4645,7 +4687,20 @@
                     "ioValues": []
                 }
             ],
-            "allConnectors": [],
+            "allConnectors": [
+                {
+                    "ap1Name": "Geometry",
+                    "ap2Name": "geometry",
+                    "ap1ID": 731199,
+                    "ap2ID": 985516
+                },
+                {
+                    "ap1Name": "geometry",
+                    "ap2Name": "geometry",
+                    "ap1ID": 985516,
+                    "ap2ID": 727249
+                }
+            ],
             "fileTypeVersion": 1
         },
         {
@@ -4680,8 +4735,8 @@
                 {
                     "atomType": "Molecule",
                     "name": "Short bolts",
-                    "x": 43,
-                    "y": 64,
+                    "x": 45,
+                    "y": 62,
                     "uniqueID": 907645,
                     "ioValues": []
                 },
@@ -4707,8 +4762,8 @@
         {
             "atomType": "Molecule",
             "name": "Ball Screw Assembly",
-            "x": 210,
-            "y": 167,
+            "x": 213,
+            "y": 162,
             "uniqueID": 315914,
             "ioValues": [],
             "topLevel": false,
@@ -5588,8 +5643,8 @@
                 {
                     "atomType": "Molecule",
                     "name": "Ball Screw Assembly",
-                    "x": 210,
-                    "y": 167,
+                    "x": 213,
+                    "y": 162,
                     "uniqueID": 315914,
                     "ioValues": []
                 },
