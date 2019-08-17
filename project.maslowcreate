@@ -4648,8 +4648,8 @@
         {
             "atomType": "Molecule",
             "name": "Threaded Nut Hardware",
-            "x": 77,
-            "y": 260,
+            "x": 75,
+            "y": 262,
             "uniqueID": 335229,
             "ioValues": [],
             "topLevel": false,
@@ -4736,13 +4736,13 @@
                 {
                     "atomType": "Translate",
                     "name": "Translate",
-                    "x": 264,
-                    "y": 235,
+                    "x": 263,
+                    "y": 237,
                     "uniqueID": 709556,
                     "ioValues": [
                         {
                             "name": "xDist",
-                            "ioValue": 20
+                            "ioValue": 0
                         },
                         {
                             "name": "yDist",
@@ -4893,8 +4893,8 @@
                 {
                     "atomType": "Molecule",
                     "name": "Threaded Nut Hardware",
-                    "x": 77,
-                    "y": 260,
+                    "x": 75,
+                    "y": 262,
                     "uniqueID": 335229,
                     "ioValues": []
                 },
@@ -5754,8 +5754,8 @@
                 {
                     "atomType": "Assembly",
                     "name": "Assembly",
-                    "x": 525,
-                    "y": 137,
+                    "x": 528,
+                    "y": 138,
                     "uniqueID": 851874,
                     "ioValues": [
                         {
