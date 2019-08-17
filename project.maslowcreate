@@ -3964,7 +3964,7 @@
                     "atomType": "Extrude",
                     "name": "Extrude",
                     "x": 292,
-                    "y": 130,
+                    "y": 137,
                     "uniqueID": 592868,
                     "ioValues": [
                         {
@@ -4346,7 +4346,7 @@
                         },
                         {
                             "name": "zDist",
-                            "ioValue": 6
+                            "ioValue": 10.414
                         }
                     ]
                 },
@@ -4443,8 +4443,8 @@
         {
             "atomType": "Molecule",
             "name": "Long bolt with spacer",
-            "x": 48,
-            "y": 218,
+            "x": 44,
+            "y": 212,
             "uniqueID": 632832,
             "ioValues": [],
             "topLevel": false,
@@ -4479,8 +4479,8 @@
                 {
                     "atomType": "Translate",
                     "name": "Translate",
-                    "x": 271,
-                    "y": 87,
+                    "x": 273,
+                    "y": 84,
                     "uniqueID": 253174,
                     "ioValues": [
                         {
@@ -4493,7 +4493,7 @@
                         },
                         {
                             "name": "zDist",
-                            "ioValue": 6
+                            "ioValue": 10.414
                         }
                     ]
                 },
@@ -4648,8 +4648,8 @@
         {
             "atomType": "Molecule",
             "name": "Threaded Nut Hardware",
-            "x": 75,
-            "y": 262,
+            "x": 69,
+            "y": 255,
             "uniqueID": 335229,
             "ioValues": [],
             "topLevel": false,
@@ -4665,8 +4665,8 @@
                 {
                     "atomType": "Molecule",
                     "name": "Long bolt with spacer",
-                    "x": 48,
-                    "y": 218,
+                    "x": 44,
+                    "y": 212,
                     "uniqueID": 632832,
                     "ioValues": []
                 },
@@ -4893,8 +4893,8 @@
                 {
                     "atomType": "Molecule",
                     "name": "Threaded Nut Hardware",
-                    "x": 75,
-                    "y": 262,
+                    "x": 69,
+                    "y": 255,
                     "uniqueID": 335229,
                     "ioValues": []
                 },
@@ -5021,12 +5021,6 @@
                 },
                 {
                     "ap1Name": "Geometry",
-                    "ap2Name": "geometry",
-                    "ap1ID": 574138,
-                    "ap2ID": 285083
-                },
-                {
-                    "ap1Name": "Geometry",
                     "ap2Name": "3D shape 863052",
                     "ap1ID": 574138,
                     "ap2ID": 676112
@@ -5036,6 +5030,12 @@
                     "ap2Name": "3D shape 174539",
                     "ap1ID": 335229,
                     "ap2ID": 676112
+                },
+                {
+                    "ap1Name": "geometry",
+                    "ap2Name": "geometry",
+                    "ap1ID": 676112,
+                    "ap2ID": 285083
                 },
                 {
                     "ap1Name": "geometry",
