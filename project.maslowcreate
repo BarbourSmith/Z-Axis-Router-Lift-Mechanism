@@ -4620,6 +4620,24 @@
             "topLevel": false,
             "allAtoms": [
                 {
+                    "atomType": "GitHubMolecule",
+                    "name": "M4x20 Bolt",
+                    "x": 91,
+                    "y": 132,
+                    "uniqueID": 731199,
+                    "projectID": "198850770",
+                    "ioValues": []
+                },
+                {
+                    "atomType": "GitHubMolecule",
+                    "name": "M4 Locknut",
+                    "x": 96,
+                    "y": 250,
+                    "uniqueID": 542865,
+                    "projectID": "201057537",
+                    "ioValues": []
+                },
+                {
                     "atomType": "Output",
                     "name": "Output",
                     "x": 1316,
