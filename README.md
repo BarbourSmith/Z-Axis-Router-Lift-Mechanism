@@ -34,21 +34,6 @@ undefined
 undefined
 
 
-## Short Bolt Nut Assembly for Ball Nut
-
-
-## M4 Locknut
-
-
-undefined
-
-
-## M4x20 Bolt
-
-
-undefined
-
-
 ## T-nut
 
 
