@@ -1295,8 +1295,8 @@
         {
             "atomType": "Molecule",
             "name": "Plates",
-            "x": 200,
-            "y": 40,
+            "x": 207,
+            "y": 35,
             "uniqueID": 517888,
             "ioValues": [
                 {
@@ -3012,8 +3012,8 @@
         {
             "atomType": "Molecule",
             "name": "Risers",
-            "x": 211,
-            "y": 117,
+            "x": 207,
+            "y": 106,
             "uniqueID": 826098,
             "ioValues": [],
             "topLevel": false,
@@ -5462,8 +5462,8 @@
                 {
                     "atomType": "Molecule",
                     "name": "Plates",
-                    "x": 200,
-                    "y": 40,
+                    "x": 207,
+                    "y": 35,
                     "uniqueID": 517888,
                     "ioValues": [
                         {
@@ -5475,8 +5475,8 @@
                 {
                     "atomType": "Molecule",
                     "name": "Risers",
-                    "x": 211,
-                    "y": 117,
+                    "x": 207,
+                    "y": 106,
                     "uniqueID": 826098,
                     "ioValues": []
                 },
