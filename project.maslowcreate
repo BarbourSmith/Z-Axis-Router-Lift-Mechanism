@@ -5509,23 +5509,15 @@
                     "uniqueID": 567351,
                     "ioValues": [
                         {
-                            "name": "3D shape 766317",
-                            "ioValue": 10
-                        },
-                        {
-                            "name": "3D shape 675016",
-                            "ioValue": 10
-                        },
-                        {
-                            "name": "3D shape 730117",
-                            "ioValue": 10
-                        },
-                        {
-                            "name": "3D shape 776814",
-                            "ioValue": 10
-                        },
-                        {
                             "name": "3D shape 120840",
+                            "ioValue": 10
+                        },
+                        {
+                            "name": "3D shape 678586",
+                            "ioValue": 10
+                        },
+                        {
+                            "name": "3D shape 993841",
                             "ioValue": 10
                         }
                     ],
@@ -5562,26 +5554,14 @@
                 },
                 {
                     "ap1Name": "Geometry",
-                    "ap2Name": "3D shape 675016",
+                    "ap2Name": "3D shape 120840",
                     "ap1ID": 517888,
                     "ap2ID": 567351
                 },
                 {
                     "ap1Name": "Geometry",
-                    "ap2Name": "3D shape 776814",
+                    "ap2Name": "3D shape 678586",
                     "ap1ID": 826098,
-                    "ap2ID": 567351
-                },
-                {
-                    "ap1Name": "Geometry",
-                    "ap2Name": "3D shape 730117",
-                    "ap1ID": 315914,
-                    "ap2ID": 567351
-                },
-                {
-                    "ap1Name": "Geometry",
-                    "ap2Name": "3D shape 766317",
-                    "ap1ID": 201738,
                     "ap2ID": 567351
                 },
                 {
