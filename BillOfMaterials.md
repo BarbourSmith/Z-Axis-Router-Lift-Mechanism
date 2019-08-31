@@ -2,6 +2,7 @@
 # Bill Of Materials 
  |Part|Number Needed|Price|Source| 
  |----|----------|-----|-----|
+|Bosch 1617EVS|3|$507.00|https://www.amazon.com/dp/B00004TKHV|
 |Square M4 Nut|2|$0.20|https://www.mcmaster.com/96887a329|
 |45MM M4 Bolt|4|$1.15|https://www.mcmaster.com/91502a134|
 |Oversize M4 Washer|2|$2.56|https://www.mcmaster.com/98040a102|
@@ -16,6 +17,6 @@
 |Linear Motion Shaft|2|$23.82|https://www.mcmaster.com/6112k109|
 |Linear Slide|4|$7.20|https://tocomotion.en.made-in-china.com/product/dNKmHZRYAIWa/China-Lme20uu-Linear-Slide-Bearing-20mm-Linear-Bushing.html|
 |Shaft Support|8|$175.44|https://www.mcmaster.com/62645k42|
-|Total: |78|$530.90| |
+|Total: |81|$1037.90| |
 
- 3xCOG MSRP: $1592.70
+ 3xCOG MSRP: $3113.70
