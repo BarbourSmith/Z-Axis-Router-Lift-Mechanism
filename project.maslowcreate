@@ -803,8 +803,8 @@
         {
             "atomType": "Molecule",
             "name": "Plates",
-            "x": 239,
-            "y": 35,
+            "x": 240,
+            "y": 41,
             "uniqueID": 363878,
             "ioValues": [
                 {
@@ -1139,8 +1139,8 @@
                 {
                     "atomType": "Extrude",
                     "name": "Extrude",
-                    "x": 1210,
-                    "y": 220,
+                    "x": 1192,
+                    "y": 228,
                     "uniqueID": 100672,
                     "ioValues": [
                         {
@@ -1295,7 +1295,7 @@
         {
             "atomType": "Molecule",
             "name": "Plates",
-            "x": 207,
+            "x": 203,
             "y": 35,
             "uniqueID": 517888,
             "ioValues": [
@@ -1338,8 +1338,8 @@
                 {
                     "atomType": "Molecule",
                     "name": "Plates",
-                    "x": 239,
-                    "y": 35,
+                    "x": 240,
+                    "y": 41,
                     "uniqueID": 363878,
                     "ioValues": [
                         {
@@ -5462,7 +5462,7 @@
                 {
                     "atomType": "Molecule",
                     "name": "Plates",
-                    "x": 207,
+                    "x": 203,
                     "y": 35,
                     "uniqueID": 517888,
                     "ioValues": [
