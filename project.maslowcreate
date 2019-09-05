@@ -2349,11 +2349,11 @@
                 },
                 {
                     "atomType": "GitHubMolecule",
-                    "name": "M4 20mm Spacer",
-                    "x": 70,
-                    "y": 279,
-                    "uniqueID": 918729,
-                    "projectID": "202529921",
+                    "name": "M4 25mm Aluminum Spacer 10mm OD",
+                    "x": 73,
+                    "y": 277,
+                    "uniqueID": 669028,
+                    "projectID": "206557421",
                     "ioValues": []
                 },
                 {
@@ -2620,7 +2620,7 @@
                 {
                     "ap1Name": "Geometry",
                     "ap2Name": "geometry",
-                    "ap1ID": 918729,
+                    "ap1ID": 669028,
                     "ap2ID": 249551
                 },
                 {
@@ -5641,6 +5641,10 @@
                             "ioValue": ""
                         },
                         {
+                            "name": "3D shape 294365",
+                            "ioValue": 10
+                        },
+                        {
                             "name": "3D shape 120840",
                             "ioValue": 10
                         },
@@ -5654,10 +5658,6 @@
                         },
                         {
                             "name": "3D shape 977870",
-                            "ioValue": 10
-                        },
-                        {
-                            "name": "3D shape 294365",
                             "ioValue": 10
                         }
                     ],
