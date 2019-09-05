@@ -2272,8 +2272,8 @@
         {
             "atomType": "Molecule",
             "name": "Slide Hardware",
-            "x": 101,
-            "y": 190,
+            "x": 102,
+            "y": 200,
             "uniqueID": 652158,
             "ioValues": [],
             "topLevel": false,
@@ -2499,8 +2499,8 @@
                 {
                     "atomType": "Translate",
                     "name": "Translate",
-                    "x": 670,
-                    "y": 111,
+                    "x": 668,
+                    "y": 104,
                     "uniqueID": 564424,
                     "ioValues": [
                         {
@@ -3109,8 +3109,8 @@
                 {
                     "atomType": "Molecule",
                     "name": "Slide Hardware",
-                    "x": 101,
-                    "y": 190,
+                    "x": 102,
+                    "y": 200,
                     "uniqueID": 652158,
                     "ioValues": []
                 },
@@ -3125,8 +3125,8 @@
                 {
                     "atomType": "Assembly",
                     "name": "Assembly",
-                    "x": 333,
-                    "y": 223,
+                    "x": 326,
+                    "y": 227,
                     "uniqueID": 327144,
                     "ioValues": [
                         {
@@ -4092,8 +4092,8 @@
         {
             "atomType": "Molecule",
             "name": "Short bolts",
-            "x": 51,
-            "y": 67,
+            "x": 33,
+            "y": 83,
             "uniqueID": 907645,
             "ioValues": [],
             "topLevel": false,
@@ -4272,11 +4272,11 @@
                 },
                 {
                     "atomType": "GitHubMolecule",
-                    "name": "M4 20mm Spacer",
-                    "x": 65,
-                    "y": 174,
-                    "uniqueID": 805099,
-                    "projectID": "202529921",
+                    "name": "M4 25mm Aluminum Spacer 10mm OD",
+                    "x": 193,
+                    "y": 123,
+                    "uniqueID": 318807,
+                    "projectID": "206557421",
                     "ioValues": []
                 },
                 {
@@ -4420,7 +4420,7 @@
                 {
                     "ap1Name": "Geometry",
                     "ap2Name": "geometry",
-                    "ap1ID": 805099,
+                    "ap1ID": 318807,
                     "ap2ID": 619532
                 },
                 {
@@ -4473,8 +4473,8 @@
                 {
                     "atomType": "Molecule",
                     "name": "Short bolts",
-                    "x": 51,
-                    "y": 67,
+                    "x": 33,
+                    "y": 83,
                     "uniqueID": 907645,
                     "ioValues": []
                 },
