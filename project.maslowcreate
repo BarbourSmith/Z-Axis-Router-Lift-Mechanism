@@ -2373,7 +2373,7 @@
                         },
                         {
                             "name": "zDist",
-                            "ioValue": 46
+                            "ioValue": 51
                         }
                     ]
                 },
@@ -3151,8 +3151,8 @@
                 {
                     "atomType": "Rotate",
                     "name": "Rotate",
-                    "x": 601,
-                    "y": 23,
+                    "x": 547,
+                    "y": 47,
                     "uniqueID": 691722,
                     "ioValues": [
                         {
