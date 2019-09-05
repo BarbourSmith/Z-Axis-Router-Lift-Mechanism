@@ -4273,8 +4273,8 @@
                 {
                     "atomType": "GitHubMolecule",
                     "name": "M4 25mm Aluminum Spacer 10mm OD",
-                    "x": 193,
-                    "y": 123,
+                    "x": 76,
+                    "y": 167,
                     "uniqueID": 318807,
                     "projectID": "206557421",
                     "ioValues": []
