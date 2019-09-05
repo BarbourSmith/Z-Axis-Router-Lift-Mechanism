@@ -3702,7 +3702,7 @@
         {
             "atomType": "Molecule",
             "name": "Threaded Nut",
-            "x": 62,
+            "x": 59,
             "y": 186,
             "uniqueID": 574138,
             "ioValues": [],
@@ -4705,7 +4705,7 @@
                 {
                     "atomType": "Molecule",
                     "name": "Threaded Nut",
-                    "x": 62,
+                    "x": 59,
                     "y": 186,
                     "uniqueID": 574138,
                     "ioValues": []
@@ -4761,7 +4761,7 @@
                         },
                         {
                             "name": "zDist",
-                            "ioValue": 120
+                            "ioValue": 125
                         }
                     ]
                 },
@@ -5632,8 +5632,8 @@
                 {
                     "atomType": "Assembly",
                     "name": "Assembly",
-                    "x": 466,
-                    "y": 110,
+                    "x": 461,
+                    "y": 109,
                     "uniqueID": 567351,
                     "ioValues": [
                         {
