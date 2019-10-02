@@ -10,15 +10,15 @@
 |Shaft Support|2|$43.86|https://www.mcmaster.com/62645k42|
 |Lead Screw Nut|1|$76.36|https://www.mcmaster.com/7549k16|
 |10mm Lead Screw|1|$11.83|https://www.mcmaster.com/7549k71|
-|M7 Nut|2|$8.62|https://www.mcmaster.com/90592a018|
+|M7 Nut|4|$17.24|https://www.mcmaster.com/90592a018|
 |M4 x 20mm Bolt|9|$1.07|https://www.mcmaster.com/91239a152|
-|M7x25mm Bolt|2|$10.62|https://www.mcmaster.com/91290a166|
+|M7x25mm Bolt|4|$21.24|https://www.mcmaster.com/91290a166|
 |M4 Bolt 55mm|3|$0.99|https://www.mcmaster.com/91290a187|
 |45MM M4 Bolt|2|$0.58|https://www.mcmaster.com/91502a134|
 |M4 Locknut|12|$1.40|https://www.mcmaster.com/94645a101|
 |25mm M4 Spacer|3|$6.18|https://www.mcmaster.com/94669a092|
 |Square M4 Nut|2|$0.20|https://www.mcmaster.com/96887a329|
 |Oversize M4 Washer|2|$2.56|https://www.mcmaster.com/98040a102|
-|Total: |48|$204.56| |
+|Total: |52|$223.80| |
 
- 3xCOG MSRP: $613.67
+ 3xCOG MSRP: $671.39
