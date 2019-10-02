@@ -2,21 +2,21 @@
 # Bill Of Materials 
  |Part|Number Needed|Price|Source| 
  |----|----------|-----|-----|
-|Square M4 Nut|2|$0.20|https://www.mcmaster.com/96887a329|
-|45MM M4 Bolt|4|$1.15|https://www.mcmaster.com/91502a134|
-|Oversize M4 Washer|2|$2.56|https://www.mcmaster.com/98040a102|
+|ET-WGM58AE|1|$11.00|http://www.etonm.com/|
+|Linear Slide|2|$3.60|https://tocomotion.en.made-in-china.com/product/dNKmHZRYAIWa/China-Lme20uu-Linear-Slide-Bearing-20mm-Linear-Bushing.html|
+|Bosch 1617EVS|1|$0.00|https://www.amazon.com/dp/B00004TKHV|
+|Shaft Coupler|1|$1.87|https://www.banggood.com/8mm-x-10mm-Aluminum-Flexible-Shaft-Coupling-OD19mm-x-L25mm-CNC-Stepper-Motor-Coupler-Connector-p-993595.html|
 |Linear Motion Shaft|2|$23.82|https://www.mcmaster.com/6112k109|
-|Linear Slide|4|$7.20|https://tocomotion.en.made-in-china.com/product/dNKmHZRYAIWa/China-Lme20uu-Linear-Slide-Bearing-20mm-Linear-Bushing.html|
-|M4 x 20mm Bolt|18|$2.14|https://www.mcmaster.com/91239a152|
+|Shaft Support|4|$87.72|https://www.mcmaster.com/62645k42|
+|Lead Screw Nut|1|$76.36|https://www.mcmaster.com/7549k16|
+|10mm Lead Screw|1|$11.83|https://www.mcmaster.com/7549k71|
+|M4 x 20mm Bolt|9|$1.07|https://www.mcmaster.com/91239a152|
+|M4 Bolt 55mm|3|$0.99|https://www.mcmaster.com/91290a187|
+|45MM M4 Bolt|2|$0.58|https://www.mcmaster.com/91502a134|
 |M4 Locknut|12|$1.40|https://www.mcmaster.com/94645a101|
 |25mm M4 Spacer|3|$6.18|https://www.mcmaster.com/94669a092|
-|M4 Bolt 55mm|6|$1.99|https://www.mcmaster.com/91290a187|
-|Shaft Support|8|$175.44|https://www.mcmaster.com/62645k42|
-|ET-WGM58AE|13|$143.00|http://www.etonm.com/|
-|10mm Lead Screw|1|$11.83|https://www.mcmaster.com/7549k71|
-|Lead Screw Nut|2|$152.72|https://www.mcmaster.com/7549k16|
-|Shaft Coupler|1|$1.87|https://www.banggood.com/8mm-x-10mm-Aluminum-Flexible-Shaft-Coupling-OD19mm-x-L25mm-CNC-Stepper-Motor-Coupler-Connector-p-993595.html|
-|Bosch 1617EVS|3|$507.00|https://www.amazon.com/dp/B00004TKHV|
-|Total: |81|$1038.50| |
+|Square M4 Nut|2|$0.20|https://www.mcmaster.com/96887a329|
+|Oversize M4 Washer|2|$2.56|https://www.mcmaster.com/98040a102|
+|Total: |46|$229.18| |
 
- 3xCOG MSRP: $3115.50
+ 3xCOG MSRP: $687.53
