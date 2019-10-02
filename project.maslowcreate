@@ -87,8 +87,8 @@
                 {
                     "atomType": "Output",
                     "name": "Output",
-                    "x": 1316,
-                    "y": 163.5,
+                    "x": 1001,
+                    "y": 164,
                     "ioValues": []
                 }
             ],
@@ -203,6 +203,13 @@
                     }
                 },
                 {
+                    "atomType": "Output",
+                    "name": "Output",
+                    "x": 1001,
+                    "y": 164,
+                    "ioValues": []
+                },
+                {
                     "atomType": "Color",
                     "name": "Color",
                     "x": 1109,
@@ -210,13 +217,6 @@
                     "uniqueID": 835017,
                     "ioValues": [],
                     "selectedColorIndex": "3"
-                },
-                {
-                    "atomType": "Output",
-                    "name": "Output",
-                    "x": 1316,
-                    "y": 163.5,
-                    "ioValues": []
                 }
             ],
             "allConnectors": [
@@ -300,8 +300,8 @@
                 {
                     "atomType": "Output",
                     "name": "Output",
-                    "x": 1316,
-                    "y": 163.5,
+                    "x": 1001,
+                    "y": 164,
                     "ioValues": []
                 }
             ],
@@ -470,8 +470,8 @@
                 {
                     "atomType": "Output",
                     "name": "Output",
-                    "x": 1316,
-                    "y": 163.5,
+                    "x": 1001,
+                    "y": 164,
                     "ioValues": []
                 }
             ],
@@ -728,18 +728,18 @@
                     "removeCutawayGeometry": true
                 },
                 {
+                    "atomType": "Output",
+                    "name": "Output",
+                    "x": 1001,
+                    "y": 164,
+                    "ioValues": []
+                },
+                {
                     "atomType": "CutAway",
                     "name": "Cut Away",
                     "x": 1066,
                     "y": 126,
                     "uniqueID": 452537,
-                    "ioValues": []
-                },
-                {
-                    "atomType": "Output",
-                    "name": "Output",
-                    "x": 1316,
-                    "y": 163.5,
                     "ioValues": []
                 }
             ],
@@ -1111,6 +1111,13 @@
                     "closedSelection": 0
                 },
                 {
+                    "atomType": "Output",
+                    "name": "Output",
+                    "x": 1001,
+                    "y": 164,
+                    "ioValues": []
+                },
+                {
                     "atomType": "Translate",
                     "name": "Translate",
                     "x": 1019,
@@ -1181,13 +1188,6 @@
                             "ioValue": 15
                         }
                     ]
-                },
-                {
-                    "atomType": "Output",
-                    "name": "Output",
-                    "x": 1316,
-                    "y": 163.5,
-                    "ioValues": []
                 }
             ],
             "allConnectors": [
@@ -1528,6 +1528,13 @@
                     "currentEquation": "80+x"
                 },
                 {
+                    "atomType": "Output",
+                    "name": "Output",
+                    "x": 1001,
+                    "y": 164,
+                    "ioValues": []
+                },
+                {
                     "atomType": "Translate",
                     "name": "Translate",
                     "x": 1060,
@@ -1547,13 +1554,6 @@
                             "ioValue": 80
                         }
                     ]
-                },
-                {
-                    "atomType": "Output",
-                    "name": "Output",
-                    "x": 1316,
-                    "y": 163.5,
-                    "ioValues": []
                 }
             ],
             "allConnectors": [
@@ -1920,6 +1920,13 @@
                     ]
                 },
                 {
+                    "atomType": "Output",
+                    "name": "Output",
+                    "x": 1001,
+                    "y": 164,
+                    "ioValues": []
+                },
+                {
                     "atomType": "Add BOM Tag",
                     "name": "Add BOM Tag",
                     "x": 1031,
@@ -1933,13 +1940,6 @@
                         "source": "https://www.mcmaster.com/62645k42",
                         "totalNeeded": 0
                     }
-                },
-                {
-                    "atomType": "Output",
-                    "name": "Output",
-                    "x": 1316,
-                    "y": 163.5,
-                    "ioValues": []
                 }
             ],
             "allConnectors": [
@@ -2246,8 +2246,8 @@
                 {
                     "atomType": "Output",
                     "name": "Output",
-                    "x": 1316,
-                    "y": 163.5,
+                    "x": 1001,
+                    "y": 164,
                     "ioValues": []
                 }
             ],
@@ -2368,8 +2368,8 @@
                 {
                     "atomType": "Output",
                     "name": "Output",
-                    "x": 1316,
-                    "y": 163.5,
+                    "x": 1001,
+                    "y": 164,
                     "ioValues": []
                 }
             ],
@@ -2397,8 +2397,8 @@
         {
             "atomType": "Molecule",
             "name": "Post",
-            "x": 103,
-            "y": 121,
+            "x": 104,
+            "y": 118,
             "uniqueID": 817028,
             "ioValues": [],
             "topLevel": false,
@@ -2447,17 +2447,17 @@
                 {
                     "atomType": "Color",
                     "name": "Color",
-                    "x": 955,
-                    "y": 147,
+                    "x": 834,
+                    "y": 155,
                     "uniqueID": 844712,
                     "ioValues": [],
-                    "selectedColorIndex": "5"
+                    "selectedColorIndex": "10"
                 },
                 {
                     "atomType": "Output",
                     "name": "Output",
-                    "x": 1316,
-                    "y": 163.5,
+                    "x": 1001,
+                    "y": 164,
                     "ioValues": []
                 }
             ],
@@ -2794,8 +2794,8 @@
                 {
                     "atomType": "Output",
                     "name": "Output",
-                    "x": 1316,
-                    "y": 163.5,
+                    "x": 1001,
+                    "y": 164,
                     "ioValues": []
                 }
             ],
@@ -3159,6 +3159,13 @@
                     ]
                 },
                 {
+                    "atomType": "Output",
+                    "name": "Output",
+                    "x": 1001,
+                    "y": 164,
+                    "ioValues": []
+                },
+                {
                     "atomType": "Difference",
                     "name": "Difference",
                     "x": 1050,
@@ -3180,13 +3187,6 @@
                         "source": "https://tocomotion.en.made-in-china.com/product/dNKmHZRYAIWa/China-Lme20uu-Linear-Slide-Bearing-20mm-Linear-Bushing.html",
                         "totalNeeded": 0
                     }
-                },
-                {
-                    "atomType": "Output",
-                    "name": "Output",
-                    "x": 1316,
-                    "y": 163.5,
-                    "ioValues": []
                 }
             ],
             "allConnectors": [
@@ -3303,7 +3303,7 @@
         {
             "atomType": "Molecule",
             "name": "Risers",
-            "x": 216,
+            "x": 217,
             "y": 143,
             "uniqueID": 826098,
             "ioValues": [],
@@ -3320,8 +3320,8 @@
                 {
                     "atomType": "Molecule",
                     "name": "Post",
-                    "x": 103,
-                    "y": 121,
+                    "x": 104,
+                    "y": 118,
                     "uniqueID": 817028,
                     "ioValues": []
                 },
@@ -3482,6 +3482,13 @@
                     ]
                 },
                 {
+                    "atomType": "Output",
+                    "name": "Output",
+                    "x": 1001,
+                    "y": 164,
+                    "ioValues": []
+                },
+                {
                     "atomType": "Translate",
                     "name": "Translate",
                     "x": 1029,
@@ -3527,13 +3534,6 @@
                         }
                     ],
                     "removeCutawayGeometry": true
-                },
-                {
-                    "atomType": "Output",
-                    "name": "Output",
-                    "x": 1316,
-                    "y": 163.5,
-                    "ioValues": []
                 }
             ],
             "allConnectors": [
@@ -3691,8 +3691,8 @@
                 {
                     "atomType": "Output",
                     "name": "Output",
-                    "x": 1316,
-                    "y": 163.5,
+                    "x": 1001,
+                    "y": 164,
                     "ioValues": []
                 }
             ],
@@ -3939,8 +3939,8 @@
                 {
                     "atomType": "Output",
                     "name": "Output",
-                    "x": 1316,
-                    "y": 163.5,
+                    "x": 1001,
+                    "y": 164,
                     "ioValues": []
                 }
             ],
@@ -4122,8 +4122,8 @@
                 {
                     "atomType": "Output",
                     "name": "Output",
-                    "x": 1316,
-                    "y": 163.5,
+                    "x": 1001,
+                    "y": 164,
                     "ioValues": []
                 }
             ],
@@ -4234,8 +4234,8 @@
                 {
                     "atomType": "Output",
                     "name": "Output",
-                    "x": 1316,
-                    "y": 163.5,
+                    "x": 1001,
+                    "y": 164,
                     "ioValues": []
                 }
             ],
@@ -4515,6 +4515,13 @@
                     ]
                 },
                 {
+                    "atomType": "Output",
+                    "name": "Output",
+                    "x": 1001,
+                    "y": 164,
+                    "ioValues": []
+                },
+                {
                     "atomType": "Difference",
                     "name": "Difference",
                     "x": 1043,
@@ -4536,13 +4543,6 @@
                         "source": "https://www.mcmaster.com/7549k16",
                         "totalNeeded": 0
                     }
-                },
-                {
-                    "atomType": "Output",
-                    "name": "Output",
-                    "x": 1316,
-                    "y": 163.5,
-                    "ioValues": []
                 }
             ],
             "allConnectors": [
@@ -4775,8 +4775,8 @@
                 {
                     "atomType": "Output",
                     "name": "Output",
-                    "x": 1316,
-                    "y": 163.5,
+                    "x": 1001,
+                    "y": 164,
                     "ioValues": []
                 }
             ],
@@ -4972,8 +4972,8 @@
                 {
                     "atomType": "Output",
                     "name": "Output",
-                    "x": 1316,
-                    "y": 163.5,
+                    "x": 1001,
+                    "y": 164,
                     "ioValues": []
                 }
             ],
@@ -5174,8 +5174,8 @@
                 {
                     "atomType": "Output",
                     "name": "Output",
-                    "x": 1316,
-                    "y": 163.5,
+                    "x": 1001,
+                    "y": 164,
                     "ioValues": []
                 }
             ],
@@ -5239,8 +5239,8 @@
         {
             "atomType": "Molecule",
             "name": "Ball Screw Assembly",
-            "x": 216,
-            "y": 203,
+            "x": 217,
+            "y": 202,
             "uniqueID": 315914,
             "ioValues": [],
             "topLevel": false,
@@ -5369,8 +5369,8 @@
                 {
                     "atomType": "Translate",
                     "name": "Translate",
-                    "x": 1009,
-                    "y": 126,
+                    "x": 829,
+                    "y": 143,
                     "uniqueID": 710983,
                     "ioValues": [
                         {
@@ -5383,15 +5383,15 @@
                         },
                         {
                             "name": "zDist",
-                            "ioValue": 0
+                            "ioValue": 5
                         }
                     ]
                 },
                 {
                     "atomType": "Output",
                     "name": "Output",
-                    "x": 1316,
-                    "y": 163.5,
+                    "x": 1001,
+                    "y": 164,
                     "ioValues": []
                 }
             ],
@@ -5512,8 +5512,8 @@
                 {
                     "atomType": "Output",
                     "name": "Output",
-                    "x": 1316,
-                    "y": 163.5,
+                    "x": 1001,
+                    "y": 164,
                     "ioValues": []
                 }
             ],
@@ -5709,8 +5709,8 @@
                 {
                     "atomType": "Output",
                     "name": "Output",
-                    "x": 1316,
-                    "y": 163.5,
+                    "x": 1001,
+                    "y": 164,
                     "ioValues": []
                 }
             ],
@@ -5968,8 +5968,8 @@
                 {
                     "atomType": "Output",
                     "name": "Output",
-                    "x": 1316,
-                    "y": 163.5,
+                    "x": 1001,
+                    "y": 164,
                     "ioValues": []
                 }
             ],
@@ -6105,8 +6105,8 @@
                 {
                     "atomType": "Output",
                     "name": "Output",
-                    "x": 1316,
-                    "y": 163.5,
+                    "x": 1001,
+                    "y": 164,
                     "ioValues": []
                 }
             ],
@@ -6175,7 +6175,7 @@
                 {
                     "atomType": "Molecule",
                     "name": "Risers",
-                    "x": 216,
+                    "x": 217,
                     "y": 143,
                     "uniqueID": 826098,
                     "ioValues": []
@@ -6183,8 +6183,8 @@
                 {
                     "atomType": "Molecule",
                     "name": "Ball Screw Assembly",
-                    "x": 216,
-                    "y": 203,
+                    "x": 217,
+                    "y": 202,
                     "uniqueID": 315914,
                     "ioValues": []
                 },
@@ -6246,8 +6246,8 @@
                 {
                     "atomType": "Output",
                     "name": "Output",
-                    "x": 1316,
-                    "y": 163.5,
+                    "x": 1001,
+                    "y": 164,
                     "ioValues": []
                 }
             ],
