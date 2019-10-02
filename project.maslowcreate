@@ -1328,8 +1328,8 @@
         {
             "atomType": "Molecule",
             "name": "Plates",
-            "x": 203,
-            "y": 35,
+            "x": 216,
+            "y": 80,
             "uniqueID": 517888,
             "ioValues": [
                 {
@@ -3303,8 +3303,8 @@
         {
             "atomType": "Molecule",
             "name": "Risers",
-            "x": 207,
-            "y": 106,
+            "x": 216,
+            "y": 143,
             "uniqueID": 826098,
             "ioValues": [],
             "topLevel": false,
@@ -3735,26 +3735,17 @@
                 {
                     "atomType": "GitHubMolecule",
                     "name": "M4x20 Bolt",
-                    "x": 113,
-                    "y": 104,
+                    "x": 58,
+                    "y": 79,
                     "uniqueID": 789475,
                     "projectID": "198850770",
                     "ioValues": []
                 },
                 {
-                    "atomType": "GitHubMolecule",
-                    "name": "M4 x 7mm Spacer",
-                    "x": 87,
-                    "y": 262,
-                    "uniqueID": 661481,
-                    "projectID": "212303596",
-                    "ioValues": []
-                },
-                {
                     "atomType": "Rotate",
                     "name": "Rotate",
-                    "x": 262,
-                    "y": 93,
+                    "x": 189,
+                    "y": 82,
                     "uniqueID": 253825,
                     "ioValues": [
                         {
@@ -3772,16 +3763,21 @@
                     ]
                 },
                 {
+                    "atomType": "GitHubMolecule",
+                    "name": "M4 x 7mm Spacer",
+                    "x": 87,
+                    "y": 262,
+                    "uniqueID": 661481,
+                    "projectID": "212303596",
+                    "ioValues": []
+                },
+                {
                     "atomType": "Translate",
                     "name": "Translate",
                     "x": 211,
                     "y": 226,
                     "uniqueID": 917205,
                     "ioValues": [
-                        {
-                            "name": "geometry",
-                            "ioValue": ""
-                        },
                         {
                             "name": "xDist",
                             "ioValue": 0
@@ -3792,7 +3788,7 @@
                         },
                         {
                             "name": "zDist",
-                            "ioValue": 2
+                            "ioValue": 5
                         }
                     ]
                 },
@@ -3808,15 +3804,15 @@
                             "ioValue": ""
                         },
                         {
+                            "name": "3D shape 361284",
+                            "ioValue": 10
+                        },
+                        {
                             "name": "3D shape 726153",
                             "ioValue": 10
                         },
                         {
                             "name": "3D shape 443692",
-                            "ioValue": 10
-                        },
-                        {
-                            "name": "3D shape 361284",
                             "ioValue": 10
                         }
                     ],
@@ -3825,8 +3821,8 @@
                 {
                     "atomType": "Translate",
                     "name": "Translate",
-                    "x": 423,
-                    "y": 109,
+                    "x": 393,
+                    "y": 96,
                     "uniqueID": 666803,
                     "ioValues": [
                         {
@@ -3918,6 +3914,10 @@
                             "ioValue": ""
                         },
                         {
+                            "name": "3D shape 867929",
+                            "ioValue": 10
+                        },
+                        {
                             "name": "3D shape 578781",
                             "ioValue": 10
                         },
@@ -3931,10 +3931,6 @@
                         },
                         {
                             "name": "3D shape 680499",
-                            "ioValue": 10
-                        },
-                        {
-                            "name": "3D shape 867929",
                             "ioValue": 10
                         }
                     ],
@@ -3956,16 +3952,16 @@
                     "ap2ID": 253825
                 },
                 {
-                    "ap1Name": "Geometry",
-                    "ap2Name": "geometry",
-                    "ap1ID": 661481,
-                    "ap2ID": 917205
-                },
-                {
                     "ap1Name": "geometry",
                     "ap2Name": "3D shape 443692",
                     "ap1ID": 253825,
                     "ap2ID": 856405
+                },
+                {
+                    "ap1Name": "Geometry",
+                    "ap2Name": "geometry",
+                    "ap1ID": 661481,
+                    "ap2ID": 917205
                 },
                 {
                     "ap1Name": "geometry",
@@ -4020,11 +4016,6 @@
                     "ap2Name": "3D shape 680499",
                     "ap1ID": 668895,
                     "ap2ID": 695044
-                },
-                {
-                    "ap1Name": "geometry",
-                    "ap2Name": "number or geometry",
-                    "ap1ID": 695044
                 }
             ],
             "fileTypeVersion": 1
@@ -4032,8 +4023,8 @@
         {
             "atomType": "Molecule",
             "name": "Motor",
-            "x": 62,
-            "y": 88,
+            "x": 61,
+            "y": 92,
             "uniqueID": 976267,
             "ioValues": [],
             "topLevel": false,
@@ -4105,7 +4096,7 @@
                     "uniqueID": 494173,
                     "ioValues": [
                         {
-                            "name": "3D shape 786102",
+                            "name": "3D shape 770158",
                             "ioValue": ""
                         },
                         {
@@ -4118,10 +4109,6 @@
                         },
                         {
                             "name": "3D shape 449655",
-                            "ioValue": 10
-                        },
-                        {
-                            "name": "3D shape 786102",
                             "ioValue": 10
                         }
                     ],
@@ -4171,8 +4158,8 @@
         {
             "atomType": "Molecule",
             "name": "Shaft Coupler",
-            "x": 62,
-            "y": 133,
+            "x": 60,
+            "y": 151,
             "uniqueID": 495279,
             "ioValues": [],
             "topLevel": false,
@@ -4277,8 +4264,8 @@
         {
             "atomType": "Molecule",
             "name": "Threaded Nut",
-            "x": 59,
-            "y": 186,
+            "x": 63,
+            "y": 206,
             "uniqueID": 574138,
             "ioValues": [],
             "topLevel": false,
@@ -5039,8 +5026,8 @@
         {
             "atomType": "Molecule",
             "name": "Threaded Nut Hardware",
-            "x": 69,
-            "y": 255,
+            "x": 62,
+            "y": 261,
             "uniqueID": 335229,
             "ioValues": [],
             "topLevel": false,
@@ -5247,8 +5234,8 @@
         {
             "atomType": "Molecule",
             "name": "Ball Screw Assembly",
-            "x": 212,
-            "y": 173,
+            "x": 216,
+            "y": 203,
             "uniqueID": 315914,
             "ioValues": [],
             "topLevel": false,
@@ -5264,32 +5251,32 @@
                 {
                     "atomType": "Molecule",
                     "name": "Motor",
-                    "x": 62,
-                    "y": 88,
+                    "x": 61,
+                    "y": 92,
                     "uniqueID": 976267,
                     "ioValues": []
                 },
                 {
                     "atomType": "Molecule",
                     "name": "Shaft Coupler",
-                    "x": 62,
-                    "y": 133,
+                    "x": 60,
+                    "y": 151,
                     "uniqueID": 495279,
                     "ioValues": []
                 },
                 {
                     "atomType": "Molecule",
                     "name": "Threaded Nut",
-                    "x": 59,
-                    "y": 186,
+                    "x": 63,
+                    "y": 206,
                     "uniqueID": 574138,
                     "ioValues": []
                 },
                 {
                     "atomType": "Molecule",
                     "name": "Threaded Nut Hardware",
-                    "x": 69,
-                    "y": 255,
+                    "x": 62,
+                    "y": 261,
                     "uniqueID": 335229,
                     "ioValues": []
                 },
@@ -5463,8 +5450,8 @@
         {
             "atomType": "Molecule",
             "name": "Router",
-            "x": 215,
-            "y": 235,
+            "x": 219,
+            "y": 257,
             "uniqueID": 201738,
             "ioValues": [
                 {
@@ -6170,8 +6157,8 @@
                 {
                     "atomType": "Molecule",
                     "name": "Plates",
-                    "x": 203,
-                    "y": 35,
+                    "x": 216,
+                    "y": 80,
                     "uniqueID": 517888,
                     "ioValues": [
                         {
@@ -6183,24 +6170,24 @@
                 {
                     "atomType": "Molecule",
                     "name": "Risers",
-                    "x": 207,
-                    "y": 106,
+                    "x": 216,
+                    "y": 143,
                     "uniqueID": 826098,
                     "ioValues": []
                 },
                 {
                     "atomType": "Molecule",
                     "name": "Ball Screw Assembly",
-                    "x": 212,
-                    "y": 173,
+                    "x": 216,
+                    "y": 203,
                     "uniqueID": 315914,
                     "ioValues": []
                 },
                 {
                     "atomType": "Molecule",
                     "name": "Router",
-                    "x": 215,
-                    "y": 235,
+                    "x": 219,
+                    "y": 257,
                     "uniqueID": 201738,
                     "ioValues": [
                         {
@@ -6212,8 +6199,8 @@
                 {
                     "atomType": "Assembly",
                     "name": "Assembly",
-                    "x": 461,
-                    "y": 109,
+                    "x": 451,
+                    "y": 167,
                     "uniqueID": 567351,
                     "ioValues": [
                         {
