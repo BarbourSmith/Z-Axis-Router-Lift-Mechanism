@@ -3788,7 +3788,7 @@
                         },
                         {
                             "name": "zDist",
-                            "ioValue": 5
+                            "ioValue": 10
                         }
                     ]
                 },
@@ -3821,8 +3821,8 @@
                 {
                     "atomType": "Translate",
                     "name": "Translate",
-                    "x": 393,
-                    "y": 96,
+                    "x": 394,
+                    "y": 93,
                     "uniqueID": 666803,
                     "ioValues": [
                         {
@@ -4016,6 +4016,11 @@
                     "ap2Name": "3D shape 680499",
                     "ap1ID": 668895,
                     "ap2ID": 695044
+                },
+                {
+                    "ap1Name": "geometry",
+                    "ap2Name": "number or geometry",
+                    "ap1ID": 695044
                 }
             ],
             "fileTypeVersion": 1
