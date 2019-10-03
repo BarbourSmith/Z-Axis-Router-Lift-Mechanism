@@ -3795,27 +3795,23 @@
                 {
                     "atomType": "Circle",
                     "name": "Circle",
-                    "x": 81,
-                    "y": 287,
+                    "x": 68,
+                    "y": 284,
                     "uniqueID": 186228,
                     "ioValues": [
                         {
                             "name": "diameter",
-                            "ioValue": 10
+                            "ioValue": 9
                         }
                     ]
                 },
                 {
                     "atomType": "Extrude",
                     "name": "Extrude",
-                    "x": 193,
-                    "y": 276,
+                    "x": 199,
+                    "y": 265,
                     "uniqueID": 630262,
                     "ioValues": [
-                        {
-                            "name": "geometry",
-                            "ioValue": ""
-                        },
                         {
                             "name": "height",
                             "ioValue": -30
@@ -3830,7 +3826,7 @@
                     "uniqueID": 856405,
                     "ioValues": [
                         {
-                            "name": "3D shape 361284",
+                            "name": "3D shape 787006",
                             "ioValue": ""
                         },
                         {
@@ -3844,6 +3840,10 @@
                         {
                             "name": "3D shape 443692",
                             "ioValue": 10
+                        },
+                        {
+                            "name": "3D shape 787006",
+                            "ioValue": 10
                         }
                     ],
                     "removeCutawayGeometry": true
@@ -3851,8 +3851,8 @@
                 {
                     "atomType": "Color",
                     "name": "Color",
-                    "x": 322,
-                    "y": 235,
+                    "x": 304,
+                    "y": 244,
                     "uniqueID": 528955,
                     "ioValues": [],
                     "selectedColorIndex": "12"
@@ -4025,6 +4025,12 @@
                     "ap2Name": "geometry",
                     "ap1ID": 856405,
                     "ap2ID": 666803
+                },
+                {
+                    "ap1Name": "geometry",
+                    "ap2Name": "3D shape 361284",
+                    "ap1ID": 528955,
+                    "ap2ID": 856405
                 },
                 {
                     "ap1Name": "geometry",
