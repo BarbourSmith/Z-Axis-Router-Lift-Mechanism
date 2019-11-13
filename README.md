@@ -55,19 +55,13 @@ undefined
 ## Mounting Hardware
 
 
-## M7 x 25mm Bolt
-
-
-undefined
-
-
-## M7 Locknut
-
-
-undefined
-
-
 ## M8x25 Bolt
+
+
+undefined
+
+
+## M8 Locknut
 
 
 undefined
