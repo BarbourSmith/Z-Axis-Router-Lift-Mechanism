@@ -7,7 +7,7 @@
 |Bosch 1617EVS|1|$0.00|https://www.amazon.com/dp/B00004TKHV|
 |Shaft Coupler|1|$1.87|https://www.banggood.com/8mm-x-10mm-Aluminum-Flexible-Shaft-Coupling-OD19mm-x-L25mm-CNC-Stepper-Motor-Coupler-Connector-p-993595.html|
 |Linear Motion Shaft|2|$23.82|https://www.mcmaster.com/6112k109|
-|Shaft Support|2|$43.86|https://www.mcmaster.com/62645k42|
+|Shaft Support|2|$4.00|https://www.mcmaster.com/62645k42|
 |Lead Screw Nut|1|$1.50|https://www.mcmaster.com/7549k16|
 |10mm Lead Screw|1|$11.83|https://www.mcmaster.com/7549k71|
 |M7 Nut|4|$17.24|https://www.mcmaster.com/90592a018|
@@ -20,6 +20,6 @@
 |25mm M4 Spacer|3|$6.18|https://www.mcmaster.com/94669a092|
 |Square M4 Nut|2|$0.20|https://www.mcmaster.com/96887a329|
 |Oversize M4 Washer|2|$2.56|https://www.mcmaster.com/98040a102|
-|Total: |60|$154.97| |
+|Total: |60|$115.11| |
 
- 3xCOG MSRP: $464.92
+ 3xCOG MSRP: $345.34
