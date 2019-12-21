@@ -96,36 +96,42 @@
                 {
                     "ap1Name": "geometry",
                     "ap2Name": "geometry1",
+                    "ap2Primary": false,
                     "ap1ID": 966134,
                     "ap2ID": 601037
                 },
                 {
                     "ap1Name": "geometry",
                     "ap2Name": "geometry2",
+                    "ap2Primary": false,
                     "ap1ID": 172548,
                     "ap2ID": 601037
                 },
                 {
                     "ap1Name": "geometry",
                     "ap2Name": "geometry",
+                    "ap2Primary": true,
                     "ap1ID": 601037,
                     "ap2ID": 477380
                 },
                 {
                     "ap1Name": "geometry",
                     "ap2Name": "geometry",
+                    "ap2Primary": true,
                     "ap1ID": 477380,
                     "ap2ID": 960922
                 },
                 {
                     "ap1Name": "geometry",
                     "ap2Name": "geometry",
+                    "ap2Primary": true,
                     "ap1ID": 960922,
                     "ap2ID": 968433
                 },
                 {
                     "ap1Name": "geometry",
                     "ap2Name": "number or geometry",
+                    "ap2Primary": false,
                     "ap1ID": 968433
                 }
             ],
@@ -223,36 +229,42 @@
                 {
                     "ap1Name": "geometry",
                     "ap2Name": "geometry1",
+                    "ap2Primary": false,
                     "ap1ID": 190578,
                     "ap2ID": 207342
                 },
                 {
                     "ap1Name": "geometry",
                     "ap2Name": "geometry2",
+                    "ap2Primary": false,
                     "ap1ID": 803729,
                     "ap2ID": 207342
                 },
                 {
                     "ap1Name": "geometry",
                     "ap2Name": "geometry",
+                    "ap2Primary": true,
                     "ap1ID": 207342,
                     "ap2ID": 993358
                 },
                 {
                     "ap1Name": "geometry",
                     "ap2Name": "geometry",
+                    "ap2Primary": true,
                     "ap1ID": 993358,
                     "ap2ID": 945361
                 },
                 {
                     "ap1Name": "geometry",
                     "ap2Name": "geometry",
+                    "ap2Primary": true,
                     "ap1ID": 945361,
                     "ap2ID": 835017
                 },
                 {
                     "ap1Name": "geometry",
                     "ap2Name": "number or geometry",
+                    "ap2Primary": false,
                     "ap1ID": 835017
                 }
             ],
@@ -309,12 +321,14 @@
                 {
                     "ap1Name": "Geometry",
                     "ap2Name": "geometry",
+                    "ap2Primary": true,
                     "ap1ID": 918244,
                     "ap2ID": 498284
                 },
                 {
                     "ap1Name": "geometry",
                     "ap2Name": "number or geometry",
+                    "ap2Primary": false,
                     "ap1ID": 498284
                 }
             ],
@@ -471,48 +485,56 @@
                 {
                     "ap1Name": "Geometry",
                     "ap2Name": "geometry",
+                    "ap2Primary": true,
                     "ap1ID": 612894,
                     "ap2ID": 879340
                 },
                 {
                     "ap1Name": "Geometry",
                     "ap2Name": "geometry",
+                    "ap2Primary": true,
                     "ap1ID": 992463,
                     "ap2ID": 463679
                 },
                 {
                     "ap1Name": "geometry",
                     "ap2Name": "geometry",
+                    "ap2Primary": true,
                     "ap1ID": 879340,
                     "ap2ID": 637153
                 },
                 {
                     "ap1Name": "geometry",
                     "ap2Name": "3D shape 138406",
+                    "ap2Primary": false,
                     "ap1ID": 463679,
                     "ap2ID": 413289
                 },
                 {
                     "ap1Name": "Geometry",
                     "ap2Name": "geometry",
+                    "ap2Primary": true,
                     "ap1ID": 878418,
                     "ap2ID": 953244
                 },
                 {
                     "ap1Name": "geometry",
                     "ap2Name": "3D shape 671895",
+                    "ap2Primary": false,
                     "ap1ID": 953244,
                     "ap2ID": 413289
                 },
                 {
                     "ap1Name": "geometry",
                     "ap2Name": "3D shape 633193",
+                    "ap2Primary": false,
                     "ap1ID": 637153,
                     "ap2ID": 413289
                 },
                 {
                     "ap1Name": "geometry",
                     "ap2Name": "number or geometry",
+                    "ap2Primary": false,
                     "ap1ID": 413289
                 }
             ],
@@ -698,14 +720,6 @@
                     ]
                 },
                 {
-                    "atomType": "CutAway",
-                    "name": "Cut Away",
-                    "x": 1066,
-                    "y": 126,
-                    "uniqueID": 452537,
-                    "ioValues": []
-                },
-                {
                     "atomType": "Output",
                     "name": "Output",
                     "x": 1316,
@@ -717,67 +731,65 @@
                 {
                     "ap1Name": "geometry",
                     "ap2Name": "geometry",
+                    "ap2Primary": true,
                     "ap1ID": 461643,
                     "ap2ID": 320977
                 },
                 {
                     "ap1Name": "geometry",
                     "ap2Name": "geometry",
+                    "ap2Primary": true,
                     "ap1ID": 462456,
                     "ap2ID": 870268
                 },
                 {
                     "ap1Name": "geometry",
                     "ap2Name": "3D shape 747749",
+                    "ap2Primary": false,
                     "ap1ID": 320977,
                     "ap2ID": 247055
                 },
                 {
                     "ap1Name": "geometry",
                     "ap2Name": "geometry",
+                    "ap2Primary": true,
                     "ap1ID": 595390,
                     "ap2ID": 616286
                 },
                 {
                     "ap1Name": "geometry",
                     "ap2Name": "geometry",
+                    "ap2Primary": true,
                     "ap1ID": 595390,
                     "ap2ID": 427460
                 },
                 {
                     "ap1Name": "geometry",
                     "ap2Name": "3D shape 553060",
+                    "ap2Primary": false,
                     "ap1ID": 870268,
                     "ap2ID": 247055
                 },
                 {
                     "ap1Name": "geometry",
                     "ap2Name": "3D shape 916154",
+                    "ap2Primary": false,
                     "ap1ID": 616286,
                     "ap2ID": 247055
                 },
                 {
                     "ap1Name": "geometry",
                     "ap2Name": "3D shape 557540",
+                    "ap2Primary": false,
                     "ap1ID": 427460,
                     "ap2ID": 247055
                 },
                 {
                     "ap1Name": "geometry",
                     "ap2Name": "geometry",
+                    "ap2Primary": true,
                     "ap1ID": 247055,
                     "ap2ID": 972339
-                },
-                {
-                    "ap1Name": "geometry",
-                    "ap2Name": "geometry",
-                    "ap1ID": 972339,
-                    "ap2ID": 452537
-                },
-                {
-                    "ap1Name": "geometry",
-                    "ap2Name": "number or geometry",
-                    "ap1ID": 452537
                 }
             ],
             "fileTypeVersion": 1
@@ -799,15 +811,10 @@
                 {
                     "atomType": "Input",
                     "name": "Router Diameter",
-                    "x": 41,
+                    "x": 30,
                     "y": 134,
                     "uniqueID": 216062,
-                    "ioValues": [
-                        {
-                            "name": "default value",
-                            "ioValue": 10
-                        }
-                    ]
+                    "ioValues": []
                 },
                 {
                     "atomType": "Circle",
@@ -1163,138 +1170,161 @@
                 {
                     "ap1Name": "number or geometry",
                     "ap2Name": "x",
+                    "ap2Primary": false,
                     "ap1ID": 216062,
                     "ap2ID": 146671
                 },
                 {
                     "ap1Name": "number or geometry",
                     "ap2Name": "diameter",
+                    "ap2Primary": false,
                     "ap1ID": 216062,
                     "ap2ID": 703404
                 },
                 {
                     "ap1Name": "geometry",
                     "ap2Name": "3D shape 938281",
+                    "ap2Primary": false,
                     "ap1ID": 703404,
                     "ap2ID": 251820
                 },
                 {
                     "ap1Name": "geometry",
                     "ap2Name": "geometry",
+                    "ap2Primary": true,
                     "ap1ID": 386501,
                     "ap2ID": 905496
                 },
                 {
                     "ap1Name": "result",
                     "ap2Name": "diameter",
+                    "ap2Primary": false,
                     "ap1ID": 146671,
                     "ap2ID": 618549
                 },
                 {
                     "ap1Name": "geometry",
                     "ap2Name": "geometry",
+                    "ap2Primary": true,
                     "ap1ID": 953041,
                     "ap2ID": 714375
                 },
                 {
                     "ap1Name": "geometry",
                     "ap2Name": "3D shape 739140",
+                    "ap2Primary": false,
                     "ap1ID": 905496,
                     "ap2ID": 251820
                 },
                 {
                     "ap1Name": "geometry",
                     "ap2Name": "geometry",
+                    "ap2Primary": true,
                     "ap1ID": 732800,
                     "ap2ID": 820187
                 },
                 {
                     "ap1Name": "geometry",
                     "ap2Name": "geometry",
+                    "ap2Primary": true,
                     "ap1ID": 732800,
                     "ap2ID": 936871
                 },
                 {
                     "ap1Name": "geometry",
                     "ap2Name": "geometry",
+                    "ap2Primary": true,
                     "ap1ID": 732800,
                     "ap2ID": 729866
                 },
                 {
                     "ap1Name": "geometry",
                     "ap2Name": "geometry2",
+                    "ap2Primary": false,
                     "ap1ID": 251820,
                     "ap2ID": 354557
                 },
                 {
                     "ap1Name": "geometry",
                     "ap2Name": "3D shape 879663",
+                    "ap2Primary": false,
                     "ap1ID": 820187,
                     "ap2ID": 867131
                 },
                 {
                     "ap1Name": "geometry",
                     "ap2Name": "3D shape 361396",
+                    "ap2Primary": false,
                     "ap1ID": 936871,
                     "ap2ID": 867131
                 },
                 {
                     "ap1Name": "geometry",
                     "ap2Name": "3D shape 324070",
+                    "ap2Primary": false,
                     "ap1ID": 729866,
                     "ap2ID": 166841
                 },
                 {
                     "ap1Name": "geometry",
                     "ap2Name": "3D shape 957375",
+                    "ap2Primary": false,
                     "ap1ID": 618549,
                     "ap2ID": 166841
                 },
                 {
                     "ap1Name": "geometry",
                     "ap2Name": "3D shape 977097",
+                    "ap2Primary": false,
                     "ap1ID": 618549,
                     "ap2ID": 867131
                 },
                 {
                     "ap1Name": "geometry",
                     "ap2Name": "3D shape 240228",
+                    "ap2Primary": false,
                     "ap1ID": 867131,
                     "ap2ID": 265031
                 },
                 {
                     "ap1Name": "geometry",
                     "ap2Name": "3D shape 344044",
+                    "ap2Primary": false,
                     "ap1ID": 166841,
                     "ap2ID": 265031
                 },
                 {
                     "ap1Name": "geometry",
                     "ap2Name": "3D shape 418869",
+                    "ap2Primary": false,
                     "ap1ID": 714375,
                     "ap2ID": 265031
                 },
                 {
                     "ap1Name": "geometry",
                     "ap2Name": "geometry1",
+                    "ap2Primary": false,
                     "ap1ID": 265031,
                     "ap2ID": 354557
                 },
                 {
                     "ap1Name": "geometry",
                     "ap2Name": "geometry",
+                    "ap2Primary": true,
                     "ap1ID": 354557,
                     "ap2ID": 100672
                 },
                 {
                     "ap1Name": "geometry",
                     "ap2Name": "geometry",
+                    "ap2Primary": true,
                     "ap1ID": 100672,
                     "ap2ID": 317954
                 },
                 {
                     "ap1Name": "geometry",
                     "ap2Name": "number or geometry",
+                    "ap2Primary": false,
                     "ap1ID": 317954
                 }
             ],
@@ -1314,6 +1344,14 @@
             ],
             "topLevel": false,
             "allAtoms": [
+                {
+                    "atomType": "Input",
+                    "name": "Bit Depth",
+                    "x": 30,
+                    "y": 40,
+                    "uniqueID": 761745,
+                    "ioValues": []
+                },
                 {
                     "atomType": "Constant",
                     "name": "Router Diamter",
@@ -1428,6 +1466,10 @@
                     "uniqueID": 888917,
                     "ioValues": [
                         {
+                            "name": "geometry",
+                            "ioValue": ""
+                        },
+                        {
                             "name": "xDist",
                             "ioValue": 0
                         },
@@ -1460,19 +1502,6 @@
                     "removeCutawayGeometry": true
                 },
                 {
-                    "atomType": "Input",
-                    "name": "Bit Depth",
-                    "x": 802,
-                    "y": 40,
-                    "uniqueID": 761745,
-                    "ioValues": [
-                        {
-                            "name": "default value",
-                            "ioValue": 10
-                        }
-                    ]
-                },
-                {
                     "atomType": "Equation",
                     "name": "Equation",
                     "x": 929,
@@ -1493,6 +1522,10 @@
                     "y": 184,
                     "uniqueID": 316437,
                     "ioValues": [
+                        {
+                            "name": "geometry",
+                            "ioValue": ""
+                        },
                         {
                             "name": "xDist",
                             "ioValue": 0
@@ -1517,80 +1550,93 @@
             ],
             "allConnectors": [
                 {
+                    "ap1Name": "number or geometry",
+                    "ap2Name": "x",
+                    "ap2Primary": false,
+                    "ap1ID": 761745,
+                    "ap2ID": 241868
+                },
+                {
                     "ap1Name": "number",
                     "ap2Name": "Router Diameter",
+                    "ap2Primary": false,
                     "ap1ID": 964767,
                     "ap2ID": 363878
                 },
                 {
                     "ap1Name": "Geometry",
                     "ap2Name": "geometry",
+                    "ap2Primary": true,
                     "ap1ID": 800391,
                     "ap2ID": 213669
                 },
                 {
                     "ap1Name": "Geometry",
                     "ap2Name": "geometry",
+                    "ap2Primary": true,
                     "ap1ID": 408482,
                     "ap2ID": 986548
                 },
                 {
                     "ap1Name": "Geometry",
                     "ap2Name": "3D shape 521192",
+                    "ap2Primary": false,
                     "ap1ID": 363878,
                     "ap2ID": 947619
                 },
                 {
                     "ap1Name": "geometry",
                     "ap2Name": "3D shape 819296",
+                    "ap2Primary": false,
                     "ap1ID": 213669,
                     "ap2ID": 947619
                 },
                 {
                     "ap1Name": "geometry",
                     "ap2Name": "3D shape 393828",
+                    "ap2Primary": false,
                     "ap1ID": 986548,
                     "ap2ID": 947619
                 },
                 {
                     "ap1Name": "geometry",
                     "ap2Name": "geometry",
+                    "ap2Primary": true,
                     "ap1ID": 947619,
                     "ap2ID": 888917
                 },
                 {
                     "ap1Name": "geometry",
                     "ap2Name": "3D shape 377221",
+                    "ap2Primary": false,
                     "ap1ID": 947619,
                     "ap2ID": 423382
                 },
                 {
                     "ap1Name": "geometry",
                     "ap2Name": "3D shape 606503",
+                    "ap2Primary": false,
                     "ap1ID": 888917,
                     "ap2ID": 423382
                 },
                 {
                     "ap1Name": "geometry",
                     "ap2Name": "geometry",
+                    "ap2Primary": true,
                     "ap1ID": 423382,
                     "ap2ID": 316437
                 },
                 {
-                    "ap1Name": "number or geometry",
-                    "ap2Name": "x",
-                    "ap1ID": 761745,
-                    "ap2ID": 241868
-                },
-                {
                     "ap1Name": "result",
                     "ap2Name": "zDist",
+                    "ap2Primary": false,
                     "ap1ID": 241868,
                     "ap2ID": 316437
                 },
                 {
                     "ap1Name": "geometry",
                     "ap2Name": "number or geometry",
+                    "ap2Primary": false,
                     "ap1ID": 316437
                 }
             ],
@@ -1599,8 +1645,8 @@
         {
             "atomType": "Molecule",
             "name": "Base",
-            "x": 127,
-            "y": 128,
+            "x": 142,
+            "y": 92,
             "uniqueID": 634303,
             "ioValues": [],
             "topLevel": false,
@@ -1625,8 +1671,8 @@
                 {
                     "atomType": "Translate",
                     "name": "Translate",
-                    "x": 233,
-                    "y": 38,
+                    "x": 227,
+                    "y": 50,
                     "uniqueID": 560470,
                     "ioValues": [
                         {
@@ -1646,8 +1692,8 @@
                 {
                     "atomType": "Circle",
                     "name": "Circle",
-                    "x": 238,
-                    "y": 116,
+                    "x": 229,
+                    "y": 109,
                     "uniqueID": 183580,
                     "ioValues": [
                         {
@@ -1889,114 +1935,133 @@
                 {
                     "ap1Name": "geometry",
                     "ap2Name": "geometry",
+                    "ap2Primary": true,
                     "ap1ID": 705517,
                     "ap2ID": 560470
                 },
                 {
                     "ap1Name": "geometry",
                     "ap2Name": "geometry",
+                    "ap2Primary": true,
                     "ap1ID": 705517,
                     "ap2ID": 232110
                 },
                 {
                     "ap1Name": "geometry",
                     "ap2Name": "3D shape 430989",
+                    "ap2Primary": false,
                     "ap1ID": 560470,
                     "ap2ID": 853364
                 },
                 {
                     "ap1Name": "geometry",
                     "ap2Name": "3D shape 468551",
+                    "ap2Primary": false,
                     "ap1ID": 183580,
                     "ap2ID": 853364
                 },
                 {
                     "ap1Name": "geometry",
                     "ap2Name": "geometry",
+                    "ap2Primary": true,
                     "ap1ID": 183580,
                     "ap2ID": 886233
                 },
                 {
                     "ap1Name": "geometry",
                     "ap2Name": "3D shape 915214",
+                    "ap2Primary": false,
                     "ap1ID": 232110,
                     "ap2ID": 853364
                 },
                 {
                     "ap1Name": "geometry",
                     "ap2Name": "geometry",
+                    "ap2Primary": true,
                     "ap1ID": 853364,
                     "ap2ID": 332504
                 },
                 {
                     "ap1Name": "geometry",
                     "ap2Name": "3D shape 788170",
+                    "ap2Primary": false,
                     "ap1ID": 886233,
                     "ap2ID": 952175
                 },
                 {
                     "ap1Name": "geometry",
                     "ap2Name": "geometry",
+                    "ap2Primary": true,
                     "ap1ID": 837866,
                     "ap2ID": 461977
                 },
                 {
                     "ap1Name": "geometry",
                     "ap2Name": "geometry",
+                    "ap2Primary": true,
                     "ap1ID": 837866,
                     "ap2ID": 618066
                 },
                 {
                     "ap1Name": "geometry",
                     "ap2Name": "3D shape 827357",
+                    "ap2Primary": false,
                     "ap1ID": 332504,
                     "ap2ID": 952175
                 },
                 {
                     "ap1Name": "geometry",
                     "ap2Name": "3D shape 669401",
+                    "ap2Primary": false,
                     "ap1ID": 461977,
                     "ap2ID": 377596
                 },
                 {
                     "ap1Name": "geometry",
                     "ap2Name": "3D shape 945775",
+                    "ap2Primary": false,
                     "ap1ID": 618066,
                     "ap2ID": 377596
                 },
                 {
                     "ap1Name": "geometry",
                     "ap2Name": "geometry1",
+                    "ap2Primary": false,
                     "ap1ID": 952175,
                     "ap2ID": 235277
                 },
                 {
                     "ap1Name": "geometry",
                     "ap2Name": "3D shape 267465",
+                    "ap2Primary": false,
                     "ap1ID": 499661,
                     "ap2ID": 377596
                 },
                 {
                     "ap1Name": "geometry",
                     "ap2Name": "geometry",
+                    "ap2Primary": true,
                     "ap1ID": 377596,
                     "ap2ID": 252860
                 },
                 {
                     "ap1Name": "geometry",
                     "ap2Name": "geometry",
+                    "ap2Primary": true,
                     "ap1ID": 235277,
                     "ap2ID": 306284
                 },
                 {
                     "ap1Name": "geometry",
                     "ap2Name": "geometry2",
+                    "ap2Primary": false,
                     "ap1ID": 252860,
                     "ap2ID": 235277
                 },
                 {
                     "ap1Name": "geometry",
                     "ap2Name": "number or geometry",
+                    "ap2Primary": false,
                     "ap1ID": 306284
                 }
             ],
@@ -2235,84 +2300,98 @@
                 {
                     "ap1Name": "Geometry",
                     "ap2Name": "geometry",
+                    "ap2Primary": true,
                     "ap1ID": 964074,
                     "ap2ID": 368818
                 },
                 {
                     "ap1Name": "geometry",
                     "ap2Name": "geometry",
+                    "ap2Primary": true,
                     "ap1ID": 846164,
                     "ap2ID": 786518
                 },
                 {
                     "ap1Name": "Geometry",
                     "ap2Name": "geometry",
+                    "ap2Primary": true,
                     "ap1ID": 913372,
                     "ap2ID": 390408
                 },
                 {
                     "ap1Name": "geometry",
                     "ap2Name": "geometry",
+                    "ap2Primary": true,
                     "ap1ID": 786518,
                     "ap2ID": 267888
                 },
                 {
                     "ap1Name": "geometry",
                     "ap2Name": "3D shape 294920",
+                    "ap2Primary": false,
                     "ap1ID": 368818,
                     "ap2ID": 523466
                 },
                 {
                     "ap1Name": "geometry",
                     "ap2Name": "3D shape 365776",
+                    "ap2Primary": false,
                     "ap1ID": 267888,
                     "ap2ID": 523466
                 },
                 {
                     "ap1Name": "geometry",
                     "ap2Name": "3D shape 124996",
+                    "ap2Primary": false,
                     "ap1ID": 390408,
                     "ap2ID": 741788
                 },
                 {
                     "ap1Name": "geometry",
                     "ap2Name": "geometry",
+                    "ap2Primary": true,
                     "ap1ID": 523466,
                     "ap2ID": 137314
                 },
                 {
                     "ap1Name": "geometry",
                     "ap2Name": "3D shape 943369",
+                    "ap2Primary": false,
                     "ap1ID": 137314,
                     "ap2ID": 741788
                 },
                 {
                     "ap1Name": "geometry",
                     "ap2Name": "geometry",
+                    "ap2Primary": true,
                     "ap1ID": 741788,
                     "ap2ID": 326720
                 },
                 {
                     "ap1Name": "geometry",
                     "ap2Name": "geometry",
+                    "ap2Primary": true,
                     "ap1ID": 741788,
                     "ap2ID": 822508
                 },
                 {
                     "ap1Name": "geometry",
                     "ap2Name": "3D shape 173407",
+                    "ap2Primary": false,
                     "ap1ID": 326720,
                     "ap2ID": 781215
                 },
                 {
                     "ap1Name": "geometry",
                     "ap2Name": "3D shape 586889",
+                    "ap2Primary": false,
                     "ap1ID": 822508,
                     "ap2ID": 781215
                 },
                 {
                     "ap1Name": "geometry",
                     "ap2Name": "number or geometry",
+                    "ap2Primary": false,
                     "ap1ID": 781215
                 }
             ],
@@ -2330,8 +2409,8 @@
                 {
                     "atomType": "Molecule",
                     "name": "Base",
-                    "x": 127,
-                    "y": 128,
+                    "x": 142,
+                    "y": 92,
                     "uniqueID": 634303,
                     "ioValues": []
                 },
@@ -2373,18 +2452,21 @@
                 {
                     "ap1Name": "Geometry",
                     "ap2Name": "3D shape 976017",
+                    "ap2Primary": false,
                     "ap1ID": 634303,
                     "ap2ID": 292672
                 },
                 {
                     "ap1Name": "Geometry",
                     "ap2Name": "3D shape 858543",
+                    "ap2Primary": false,
                     "ap1ID": 109593,
                     "ap2ID": 292672
                 },
                 {
                     "ap1Name": "geometry",
                     "ap2Name": "number or geometry",
+                    "ap2Primary": false,
                     "ap1ID": 292672
                 }
             ],
@@ -2461,24 +2543,28 @@
                 {
                     "ap1Name": "geometry",
                     "ap2Name": "geometry",
+                    "ap2Primary": true,
                     "ap1ID": 412557,
                     "ap2ID": 889053
                 },
                 {
                     "ap1Name": "geometry",
                     "ap2Name": "geometry",
+                    "ap2Primary": true,
                     "ap1ID": 889053,
                     "ap2ID": 624565
                 },
                 {
                     "ap1Name": "geometry",
                     "ap2Name": "geometry",
+                    "ap2Primary": true,
                     "ap1ID": 624565,
                     "ap2ID": 844712
                 },
                 {
                     "ap1Name": "geometry",
                     "ap2Name": "number or geometry",
+                    "ap2Primary": false,
                     "ap1ID": 844712
                 }
             ],
@@ -2775,108 +2861,126 @@
                 {
                     "ap1Name": "Geometry",
                     "ap2Name": "geometry",
+                    "ap2Primary": true,
                     "ap1ID": 719741,
                     "ap2ID": 421392
                 },
                 {
                     "ap1Name": "Geometry",
                     "ap2Name": "geometry",
+                    "ap2Primary": true,
                     "ap1ID": 524411,
                     "ap2ID": 781661
                 },
                 {
                     "ap1Name": "Geometry",
                     "ap2Name": "geometry",
+                    "ap2Primary": true,
                     "ap1ID": 825565,
                     "ap2ID": 750686
                 },
                 {
                     "ap1Name": "geometry",
                     "ap2Name": "3D shape 375165",
+                    "ap2Primary": false,
                     "ap1ID": 421392,
                     "ap2ID": 433612
                 },
                 {
                     "ap1Name": "geometry",
                     "ap2Name": "3D shape 123512",
+                    "ap2Primary": false,
                     "ap1ID": 781661,
                     "ap2ID": 433612
                 },
                 {
                     "ap1Name": "geometry",
                     "ap2Name": "3D shape 856886",
+                    "ap2Primary": false,
                     "ap1ID": 781661,
                     "ap2ID": 806092
                 },
                 {
                     "ap1Name": "Geometry",
                     "ap2Name": "geometry",
+                    "ap2Primary": true,
                     "ap1ID": 669028,
                     "ap2ID": 249551
                 },
                 {
                     "ap1Name": "geometry",
                     "ap2Name": "3D shape 817502",
+                    "ap2Primary": false,
                     "ap1ID": 750686,
                     "ap2ID": 806092
                 },
                 {
                     "ap1Name": "geometry",
                     "ap2Name": "3D shape 739244",
+                    "ap2Primary": false,
                     "ap1ID": 249551,
                     "ap2ID": 806092
                 },
                 {
                     "ap1Name": "geometry",
                     "ap2Name": "geometry",
+                    "ap2Primary": true,
                     "ap1ID": 433612,
                     "ap2ID": 620299
                 },
                 {
                     "ap1Name": "geometry",
                     "ap2Name": "geometry",
+                    "ap2Primary": true,
                     "ap1ID": 433612,
                     "ap2ID": 618827
                 },
                 {
                     "ap1Name": "geometry",
                     "ap2Name": "geometry",
+                    "ap2Primary": true,
                     "ap1ID": 433612,
                     "ap2ID": 564424
                 },
                 {
                     "ap1Name": "geometry",
                     "ap2Name": "3D shape 730938",
+                    "ap2Primary": false,
                     "ap1ID": 618827,
                     "ap2ID": 770431
                 },
                 {
                     "ap1Name": "geometry",
                     "ap2Name": "geometry",
+                    "ap2Primary": true,
                     "ap1ID": 806092,
                     "ap2ID": 732619
                 },
                 {
                     "ap1Name": "geometry",
                     "ap2Name": "3D shape 411880",
+                    "ap2Primary": false,
                     "ap1ID": 620299,
                     "ap2ID": 770431
                 },
                 {
                     "ap1Name": "geometry",
                     "ap2Name": "3D shape 800778",
+                    "ap2Primary": false,
                     "ap1ID": 564424,
                     "ap2ID": 770431
                 },
                 {
                     "ap1Name": "geometry",
                     "ap2Name": "3D shape 759074",
+                    "ap2Primary": false,
                     "ap1ID": 732619,
                     "ap2ID": 770431
                 },
                 {
                     "ap1Name": "geometry",
                     "ap2Name": "number or geometry",
+                    "ap2Primary": false,
                     "ap1ID": 770431
                 }
             ],
@@ -3149,108 +3253,126 @@
                 {
                     "ap1Name": "geometry",
                     "ap2Name": "geometry",
+                    "ap2Primary": true,
                     "ap1ID": 548207,
                     "ap2ID": 423308
                 },
                 {
                     "ap1Name": "geometry",
                     "ap2Name": "geometry",
+                    "ap2Primary": true,
                     "ap1ID": 912595,
                     "ap2ID": 223682
                 },
                 {
                     "ap1Name": "geometry",
                     "ap2Name": "3D shape 856916",
+                    "ap2Primary": false,
                     "ap1ID": 382542,
                     "ap2ID": 193422
                 },
                 {
                     "ap1Name": "geometry",
                     "ap2Name": "geometry",
+                    "ap2Primary": true,
                     "ap1ID": 935745,
                     "ap2ID": 984314
                 },
                 {
                     "ap1Name": "geometry",
                     "ap2Name": "3D shape 611478",
+                    "ap2Primary": false,
                     "ap1ID": 423308,
                     "ap2ID": 806222
                 },
                 {
                     "ap1Name": "geometry",
                     "ap2Name": "3D shape 698509",
+                    "ap2Primary": false,
                     "ap1ID": 223682,
                     "ap2ID": 806222
                 },
                 {
                     "ap1Name": "geometry",
                     "ap2Name": "3D shape 172661",
+                    "ap2Primary": false,
                     "ap1ID": 984314,
                     "ap2ID": 193422
                 },
                 {
                     "ap1Name": "geometry",
                     "ap2Name": "geometry",
+                    "ap2Primary": true,
                     "ap1ID": 984314,
                     "ap2ID": 343533
                 },
                 {
                     "ap1Name": "geometry",
                     "ap2Name": "geometry",
+                    "ap2Primary": true,
                     "ap1ID": 984314,
                     "ap2ID": 744301
                 },
                 {
                     "ap1Name": "geometry",
                     "ap2Name": "geometry",
+                    "ap2Primary": true,
                     "ap1ID": 984314,
                     "ap2ID": 812197
                 },
                 {
                     "ap1Name": "geometry",
                     "ap2Name": "3D shape 112694",
+                    "ap2Primary": false,
                     "ap1ID": 343533,
                     "ap2ID": 193422
                 },
                 {
                     "ap1Name": "geometry",
                     "ap2Name": "3D shape 497639",
+                    "ap2Primary": false,
                     "ap1ID": 744301,
                     "ap2ID": 193422
                 },
                 {
                     "ap1Name": "geometry",
                     "ap2Name": "geometry1",
+                    "ap2Primary": false,
                     "ap1ID": 806222,
                     "ap2ID": 858181
                 },
                 {
                     "ap1Name": "geometry",
                     "ap2Name": "geometry",
+                    "ap2Primary": true,
                     "ap1ID": 193422,
                     "ap2ID": 768664
                 },
                 {
                     "ap1Name": "geometry",
                     "ap2Name": "3D shape 975951",
+                    "ap2Primary": false,
                     "ap1ID": 812197,
                     "ap2ID": 193422
                 },
                 {
                     "ap1Name": "geometry",
                     "ap2Name": "geometry2",
+                    "ap2Primary": false,
                     "ap1ID": 768664,
                     "ap2ID": 858181
                 },
                 {
                     "ap1Name": "geometry",
                     "ap2Name": "geometry",
+                    "ap2Primary": true,
                     "ap1ID": 858181,
                     "ap2ID": 326732
                 },
                 {
                     "ap1Name": "geometry",
                     "ap2Name": "number or geometry",
+                    "ap2Primary": false,
                     "ap1ID": 326732
                 }
             ],
@@ -3472,78 +3594,91 @@
                 {
                     "ap1Name": "Geometry",
                     "ap2Name": "geometry",
+                    "ap2Primary": true,
                     "ap1ID": 895349,
                     "ap2ID": 691722
                 },
                 {
                     "ap1Name": "Geometry",
                     "ap2Name": "3D shape 557681",
+                    "ap2Primary": false,
                     "ap1ID": 817028,
                     "ap2ID": 363734
                 },
                 {
                     "ap1Name": "Geometry",
                     "ap2Name": "3D shape 403842",
+                    "ap2Primary": false,
                     "ap1ID": 652158,
                     "ap2ID": 327144
                 },
                 {
                     "ap1Name": "Geometry",
                     "ap2Name": "3D shape 426337",
+                    "ap2Primary": false,
                     "ap1ID": 424897,
                     "ap2ID": 327144
                 },
                 {
                     "ap1Name": "geometry",
                     "ap2Name": "geometry",
+                    "ap2Primary": true,
                     "ap1ID": 327144,
                     "ap2ID": 249923
                 },
                 {
                     "ap1Name": "geometry",
                     "ap2Name": "3D shape 510443",
+                    "ap2Primary": false,
                     "ap1ID": 691722,
                     "ap2ID": 363734
                 },
                 {
                     "ap1Name": "geometry",
                     "ap2Name": "3D shape 284558",
+                    "ap2Primary": false,
                     "ap1ID": 249923,
                     "ap2ID": 363734
                 },
                 {
                     "ap1Name": "geometry",
                     "ap2Name": "geometry",
+                    "ap2Primary": true,
                     "ap1ID": 363734,
                     "ap2ID": 520408
                 },
                 {
                     "ap1Name": "geometry",
                     "ap2Name": "geometry",
+                    "ap2Primary": true,
                     "ap1ID": 363734,
                     "ap2ID": 395182
                 },
                 {
                     "ap1Name": "geometry",
                     "ap2Name": "geometry",
+                    "ap2Primary": true,
                     "ap1ID": 395182,
                     "ap2ID": 803872
                 },
                 {
                     "ap1Name": "geometry",
                     "ap2Name": "3D shape 743273",
+                    "ap2Primary": false,
                     "ap1ID": 520408,
                     "ap2ID": 870325
                 },
                 {
                     "ap1Name": "geometry",
                     "ap2Name": "3D shape 183549",
+                    "ap2Primary": false,
                     "ap1ID": 803872,
                     "ap2ID": 870325
                 },
                 {
                     "ap1Name": "geometry",
                     "ap2Name": "number or geometry",
+                    "ap2Primary": false,
                     "ap1ID": 870325
                 }
             ],
@@ -3632,24 +3767,28 @@
                 {
                     "ap1Name": "geometry",
                     "ap2Name": "geometry",
+                    "ap2Primary": true,
                     "ap1ID": 477866,
                     "ap2ID": 103625
                 },
                 {
                     "ap1Name": "geometry",
                     "ap2Name": "geometry",
+                    "ap2Primary": true,
                     "ap1ID": 103625,
                     "ap2ID": 927925
                 },
                 {
                     "ap1Name": "geometry",
                     "ap2Name": "geometry",
+                    "ap2Primary": true,
                     "ap1ID": 927925,
                     "ap2ID": 917399
                 },
                 {
                     "ap1Name": "geometry",
                     "ap2Name": "number or geometry",
+                    "ap2Primary": false,
                     "ap1ID": 917399
                 }
             ],
@@ -3924,102 +4063,119 @@
                 {
                     "ap1Name": "Geometry",
                     "ap2Name": "geometry",
+                    "ap2Primary": true,
                     "ap1ID": 789475,
                     "ap2ID": 253825
                 },
                 {
                     "ap1Name": "geometry",
                     "ap2Name": "geometry",
+                    "ap2Primary": true,
                     "ap1ID": 253825,
                     "ap2ID": 121533
                 },
                 {
                     "ap1Name": "Geometry",
                     "ap2Name": "geometry",
+                    "ap2Primary": true,
                     "ap1ID": 661481,
                     "ap2ID": 917205
                 },
                 {
                     "ap1Name": "geometry",
                     "ap2Name": "geometry",
+                    "ap2Primary": true,
                     "ap1ID": 186228,
                     "ap2ID": 630262
                 },
                 {
                     "ap1Name": "geometry",
                     "ap2Name": "3D shape 726153",
+                    "ap2Primary": false,
                     "ap1ID": 917205,
                     "ap2ID": 856405
                 },
                 {
                     "ap1Name": "geometry",
                     "ap2Name": "3D shape 830293",
+                    "ap2Primary": false,
                     "ap1ID": 121533,
                     "ap2ID": 856405
                 },
                 {
                     "ap1Name": "geometry",
                     "ap2Name": "geometry",
+                    "ap2Primary": true,
                     "ap1ID": 630262,
                     "ap2ID": 528955
                 },
                 {
                     "ap1Name": "geometry",
                     "ap2Name": "3D shape 361284",
+                    "ap2Primary": false,
                     "ap1ID": 528955,
                     "ap2ID": 856405
                 },
                 {
                     "ap1Name": "geometry",
                     "ap2Name": "geometry",
+                    "ap2Primary": true,
                     "ap1ID": 856405,
                     "ap2ID": 666803
                 },
                 {
                     "ap1Name": "geometry",
                     "ap2Name": "3D shape 578781",
+                    "ap2Primary": false,
                     "ap1ID": 666803,
                     "ap2ID": 695044
                 },
                 {
                     "ap1Name": "geometry",
                     "ap2Name": "geometry",
+                    "ap2Primary": true,
                     "ap1ID": 666803,
                     "ap2ID": 330597
                 },
                 {
                     "ap1Name": "geometry",
                     "ap2Name": "geometry",
+                    "ap2Primary": true,
                     "ap1ID": 666803,
                     "ap2ID": 529525
                 },
                 {
                     "ap1Name": "geometry",
                     "ap2Name": "3D shape 710552",
+                    "ap2Primary": false,
                     "ap1ID": 330597,
                     "ap2ID": 695044
                 },
                 {
                     "ap1Name": "geometry",
                     "ap2Name": "3D shape 323884",
+                    "ap2Primary": false,
                     "ap1ID": 529525,
                     "ap2ID": 695044
                 },
                 {
                     "ap1Name": "geometry",
                     "ap2Name": "geometry",
+                    "ap2Primary": true,
                     "ap1ID": 529525,
                     "ap2ID": 668895
                 },
                 {
                     "ap1Name": "geometry",
                     "ap2Name": "3D shape 680499",
+                    "ap2Primary": false,
                     "ap1ID": 668895,
                     "ap2ID": 695044
                 },
                 {
                     "ap1Name": "geometry",
                     "ap2Name": "number or geometry",
+                    "ap2Primary": false,
                     "ap1ID": 695044
                 }
             ],
@@ -4123,30 +4279,35 @@
                 {
                     "ap1Name": "Geometry",
                     "ap2Name": "geometry",
+                    "ap2Primary": true,
                     "ap1ID": 864374,
                     "ap2ID": 422916
                 },
                 {
                     "ap1Name": "Geometry",
                     "ap2Name": "3D shape 565864",
+                    "ap2Primary": false,
                     "ap1ID": 664355,
                     "ap2ID": 494173
                 },
                 {
                     "ap1Name": "geometry",
                     "ap2Name": "geometry",
+                    "ap2Primary": true,
                     "ap1ID": 422916,
                     "ap2ID": 925154
                 },
                 {
                     "ap1Name": "geometry",
                     "ap2Name": "3D shape 449655",
+                    "ap2Primary": false,
                     "ap1ID": 925154,
                     "ap2ID": 494173
                 },
                 {
                     "ap1Name": "geometry",
                     "ap2Name": "number or geometry",
+                    "ap2Primary": false,
                     "ap1ID": 494173
                 }
             ],
@@ -4235,24 +4396,28 @@
                 {
                     "ap1Name": "geometry",
                     "ap2Name": "geometry",
+                    "ap2Primary": true,
                     "ap1ID": 572160,
                     "ap2ID": 732224
                 },
                 {
                     "ap1Name": "geometry",
                     "ap2Name": "geometry",
+                    "ap2Primary": true,
                     "ap1ID": 732224,
                     "ap2ID": 361898
                 },
                 {
                     "ap1Name": "geometry",
                     "ap2Name": "geometry",
+                    "ap2Primary": true,
                     "ap1ID": 361898,
                     "ap2ID": 873275
                 },
                 {
                     "ap1Name": "geometry",
                     "ap2Name": "number or geometry",
+                    "ap2Primary": false,
                     "ap1ID": 873275
                 }
             ],
@@ -4525,108 +4690,126 @@
                 {
                     "ap1Name": "geometry",
                     "ap2Name": "geometry",
+                    "ap2Primary": true,
                     "ap1ID": 639404,
                     "ap2ID": 738608
                 },
                 {
                     "ap1Name": "geometry",
                     "ap2Name": "geometry",
+                    "ap2Primary": true,
                     "ap1ID": 157788,
                     "ap2ID": 592868
                 },
                 {
                     "ap1Name": "geometry",
                     "ap2Name": "geometry",
+                    "ap2Primary": true,
                     "ap1ID": 609891,
                     "ap2ID": 467641
                 },
                 {
                     "ap1Name": "geometry",
                     "ap2Name": "3D shape 149164",
+                    "ap2Primary": false,
                     "ap1ID": 738608,
                     "ap2ID": 363636
                 },
                 {
                     "ap1Name": "geometry",
                     "ap2Name": "3D shape 861606",
+                    "ap2Primary": false,
                     "ap1ID": 592868,
                     "ap2ID": 363636
                 },
                 {
                     "ap1Name": "geometry",
                     "ap2Name": "geometry",
+                    "ap2Primary": true,
                     "ap1ID": 467641,
                     "ap2ID": 698973
                 },
                 {
                     "ap1Name": "geometry",
                     "ap2Name": "geometry",
+                    "ap2Primary": true,
                     "ap1ID": 467641,
                     "ap2ID": 109700
                 },
                 {
                     "ap1Name": "geometry",
                     "ap2Name": "geometry",
+                    "ap2Primary": true,
                     "ap1ID": 467641,
                     "ap2ID": 994002
                 },
                 {
                     "ap1Name": "geometry",
                     "ap2Name": "3D shape 790311",
+                    "ap2Primary": false,
                     "ap1ID": 467641,
                     "ap2ID": 368017
                 },
                 {
                     "ap1Name": "geometry",
                     "ap2Name": "geometry1",
+                    "ap2Primary": false,
                     "ap1ID": 363636,
                     "ap2ID": 969627
                 },
                 {
                     "ap1Name": "geometry",
                     "ap2Name": "3D shape 883690",
+                    "ap2Primary": false,
                     "ap1ID": 994002,
                     "ap2ID": 368017
                 },
                 {
                     "ap1Name": "geometry",
                     "ap2Name": "3D shape 847750",
+                    "ap2Primary": false,
                     "ap1ID": 791836,
                     "ap2ID": 368017
                 },
                 {
                     "ap1Name": "geometry",
                     "ap2Name": "3D shape 263975",
+                    "ap2Primary": false,
                     "ap1ID": 109700,
                     "ap2ID": 368017
                 },
                 {
                     "ap1Name": "geometry",
                     "ap2Name": "3D shape 306922",
+                    "ap2Primary": false,
                     "ap1ID": 698973,
                     "ap2ID": 368017
                 },
                 {
                     "ap1Name": "geometry",
                     "ap2Name": "geometry",
+                    "ap2Primary": true,
                     "ap1ID": 368017,
                     "ap2ID": 623837
                 },
                 {
                     "ap1Name": "geometry",
                     "ap2Name": "geometry2",
+                    "ap2Primary": false,
                     "ap1ID": 623837,
                     "ap2ID": 969627
                 },
                 {
                     "ap1Name": "geometry",
                     "ap2Name": "geometry",
+                    "ap2Primary": true,
                     "ap1ID": 969627,
                     "ap2ID": 435654
                 },
                 {
                     "ap1Name": "geometry",
                     "ap2Name": "number or geometry",
+                    "ap2Primary": false,
                     "ap1ID": 435654
                 }
             ],
@@ -4752,36 +4935,42 @@
                 {
                     "ap1Name": "Geometry",
                     "ap2Name": "geometry",
+                    "ap2Primary": true,
                     "ap1ID": 731199,
                     "ap2ID": 985516
                 },
                 {
                     "ap1Name": "Geometry",
                     "ap2Name": "geometry",
+                    "ap2Primary": true,
                     "ap1ID": 542865,
                     "ap2ID": 725161
                 },
                 {
                     "ap1Name": "geometry",
                     "ap2Name": "geometry",
+                    "ap2Primary": true,
                     "ap1ID": 985516,
                     "ap2ID": 727249
                 },
                 {
                     "ap1Name": "geometry",
                     "ap2Name": "3D shape 821603",
+                    "ap2Primary": false,
                     "ap1ID": 725161,
                     "ap2ID": 258839
                 },
                 {
                     "ap1Name": "geometry",
                     "ap2Name": "3D shape 632519",
+                    "ap2Primary": false,
                     "ap1ID": 727249,
                     "ap2ID": 258839
                 },
                 {
                     "ap1Name": "geometry",
                     "ap2Name": "number or geometry",
+                    "ap2Primary": false,
                     "ap1ID": 258839
                 }
             ],
@@ -4941,48 +5130,56 @@
                 {
                     "ap1Name": "Geometry",
                     "ap2Name": "geometry",
+                    "ap2Primary": true,
                     "ap1ID": 214297,
                     "ap2ID": 253174
                 },
                 {
                     "ap1Name": "Geometry",
                     "ap2Name": "geometry",
+                    "ap2Primary": true,
                     "ap1ID": 318807,
                     "ap2ID": 619532
                 },
                 {
                     "ap1Name": "Geometry",
                     "ap2Name": "geometry",
+                    "ap2Primary": true,
                     "ap1ID": 424475,
                     "ap2ID": 999545
                 },
                 {
                     "ap1Name": "geometry",
                     "ap2Name": "3D shape 680518",
+                    "ap2Primary": false,
                     "ap1ID": 253174,
                     "ap2ID": 965848
                 },
                 {
                     "ap1Name": "geometry",
                     "ap2Name": "3D shape 813010",
+                    "ap2Primary": false,
                     "ap1ID": 619532,
                     "ap2ID": 965848
                 },
                 {
                     "ap1Name": "geometry",
                     "ap2Name": "geometry",
+                    "ap2Primary": true,
                     "ap1ID": 999545,
                     "ap2ID": 749131
                 },
                 {
                     "ap1Name": "geometry",
                     "ap2Name": "3D shape 743891",
+                    "ap2Primary": false,
                     "ap1ID": 749131,
                     "ap2ID": 965848
                 },
                 {
                     "ap1Name": "geometry",
                     "ap2Name": "number or geometry",
+                    "ap2Primary": false,
                     "ap1ID": 965848
                 }
             ],
@@ -5135,54 +5332,63 @@
                 {
                     "ap1Name": "Geometry",
                     "ap2Name": "geometry",
+                    "ap2Primary": true,
                     "ap1ID": 907645,
                     "ap2ID": 632770
                 },
                 {
                     "ap1Name": "Geometry",
                     "ap2Name": "geometry",
+                    "ap2Primary": true,
                     "ap1ID": 907645,
                     "ap2ID": 891324
                 },
                 {
                     "ap1Name": "Geometry",
                     "ap2Name": "geometry",
+                    "ap2Primary": true,
                     "ap1ID": 907645,
                     "ap2ID": 339664
                 },
                 {
                     "ap1Name": "Geometry",
                     "ap2Name": "geometry",
+                    "ap2Primary": true,
                     "ap1ID": 632832,
                     "ap2ID": 709556
                 },
                 {
                     "ap1Name": "geometry",
                     "ap2Name": "3D shape 303672",
+                    "ap2Primary": false,
                     "ap1ID": 339664,
                     "ap2ID": 977706
                 },
                 {
                     "ap1Name": "geometry",
                     "ap2Name": "3D shape 797574",
+                    "ap2Primary": false,
                     "ap1ID": 891324,
                     "ap2ID": 977706
                 },
                 {
                     "ap1Name": "geometry",
                     "ap2Name": "3D shape 368210",
+                    "ap2Primary": false,
                     "ap1ID": 632770,
                     "ap2ID": 977706
                 },
                 {
                     "ap1Name": "geometry",
                     "ap2Name": "3D shape 952973",
+                    "ap2Primary": false,
                     "ap1ID": 709556,
                     "ap2ID": 977706
                 },
                 {
                     "ap1Name": "geometry",
                     "ap2Name": "number or geometry",
+                    "ap2Primary": false,
                     "ap1ID": 977706
                 }
             ],
@@ -5335,54 +5541,63 @@
                 {
                     "ap1Name": "Geometry",
                     "ap2Name": "3D shape 423102",
+                    "ap2Primary": false,
                     "ap1ID": 783887,
                     "ap2ID": 624382
                 },
                 {
                     "ap1Name": "Geometry",
                     "ap2Name": "3D shape 381592",
+                    "ap2Primary": false,
                     "ap1ID": 976267,
                     "ap2ID": 624382
                 },
                 {
                     "ap1Name": "Geometry",
                     "ap2Name": "3D shape 187502",
+                    "ap2Primary": false,
                     "ap1ID": 495279,
                     "ap2ID": 624382
                 },
                 {
                     "ap1Name": "Geometry",
                     "ap2Name": "3D shape 863052",
+                    "ap2Primary": false,
                     "ap1ID": 574138,
                     "ap2ID": 676112
                 },
                 {
                     "ap1Name": "Geometry",
                     "ap2Name": "3D shape 174539",
+                    "ap2Primary": false,
                     "ap1ID": 335229,
                     "ap2ID": 676112
                 },
                 {
                     "ap1Name": "geometry",
                     "ap2Name": "geometry",
+                    "ap2Primary": true,
                     "ap1ID": 676112,
                     "ap2ID": 285083
                 },
                 {
                     "ap1Name": "geometry",
                     "ap2Name": "3D shape 866747",
+                    "ap2Primary": false,
                     "ap1ID": 285083,
                     "ap2ID": 624382
                 },
                 {
                     "ap1Name": "geometry",
                     "ap2Name": "geometry",
+                    "ap2Primary": true,
                     "ap1ID": 624382,
                     "ap2ID": 710983
                 },
                 {
                     "ap1Name": "geometry",
                     "ap2Name": "number or geometry",
+                    "ap2Primary": false,
                     "ap1ID": 710983
                 }
             ],
@@ -5414,15 +5629,10 @@
                 {
                     "atomType": "Input",
                     "name": "Bit Depth",
-                    "x": 72,
+                    "x": 30,
                     "y": 208,
                     "uniqueID": 506256,
-                    "ioValues": [
-                        {
-                            "name": "default value",
-                            "ioValue": 10
-                        }
-                    ]
+                    "ioValues": []
                 },
                 {
                     "atomType": "Translate",
@@ -5457,18 +5667,21 @@
                 {
                     "ap1Name": "Geometry",
                     "ap2Name": "geometry",
+                    "ap2Primary": true,
                     "ap1ID": 818423,
                     "ap2ID": 327033
                 },
                 {
                     "ap1Name": "number or geometry",
                     "ap2Name": "zDist",
+                    "ap2Primary": false,
                     "ap1ID": 506256,
                     "ap2ID": 327033
                 },
                 {
                     "ap1Name": "geometry",
                     "ap2Name": "number or geometry",
+                    "ap2Primary": false,
                     "ap1ID": 327033
                 }
             ],
@@ -5576,42 +5789,49 @@
                 {
                     "ap1Name": "number",
                     "ap2Name": "Bit Depth",
+                    "ap2Primary": false,
                     "ap1ID": 649665,
                     "ap2ID": 201738
                 },
                 {
                     "ap1Name": "number",
                     "ap2Name": "Bit Depth",
+                    "ap2Primary": false,
                     "ap1ID": 649665,
                     "ap2ID": 517888
                 },
                 {
                     "ap1Name": "Geometry",
                     "ap2Name": "3D shape 120840",
+                    "ap2Primary": false,
                     "ap1ID": 517888,
                     "ap2ID": 567351
                 },
                 {
                     "ap1Name": "Geometry",
                     "ap2Name": "3D shape 678586",
+                    "ap2Primary": false,
                     "ap1ID": 826098,
                     "ap2ID": 567351
                 },
                 {
                     "ap1Name": "Geometry",
                     "ap2Name": "3D shape 993841",
+                    "ap2Primary": false,
                     "ap1ID": 315914,
                     "ap2ID": 567351
                 },
                 {
                     "ap1Name": "Geometry",
                     "ap2Name": "3D shape 977870",
+                    "ap2Primary": false,
                     "ap1ID": 201738,
                     "ap2ID": 567351
                 },
                 {
                     "ap1Name": "geometry",
                     "ap2Name": "number or geometry",
+                    "ap2Primary": false,
                     "ap1ID": 567351
                 }
             ],
